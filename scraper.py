@@ -37,7 +37,7 @@ except ImportError:
 # ---------------------------------------------------------------------------
 # Config
 # ---------------------------------------------------------------------------
-HEADLESS = False                 # Set False to watch browser while debugging
+HEADLESS = True                 # Set False to watch browser while debugging
 MAX_CAMPAIGNS_PER_SITE = 30      # How many to attempt to pull per site
 PAGE_TIMEOUT_MS = 30_000
 USER_AGENT = (
