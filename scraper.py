@@ -29,7 +29,6 @@ from playwright.async_api import async_playwright, Page, BrowserContext
 from dateutil import parser as dateparser
 
 try:
-    from anthropic import Anthropic
     _ANTHROPIC_AVAILABLE = True
 except ImportError:
     _ANTHROPIC_AVAILABLE = False
@@ -621,7 +620,7 @@ Example: {{"en": "...", "hi": "...", "kn": "..."}}
 No preamble, no code fences, just the JSON object."""
 
 
-def generate_whatsapp_copy(client, campaign: Campaign) -> dict:
+def generate_whatsapp_copy(campaign: Campaign) -> dict:
     try:
         import httpx
         response = httpx.post(
@@ -658,7 +657,7 @@ def enrich_with_copy(campaigns: list[Campaign]) -> None:
     targets = campaigns[:MAX_COPY_GEN]
     print(f"[copy-gen] generating copy for {len(targets)} campaigns", file=sys.stderr)
     for i, c in enumerate(targets, 1):
-        c.messages = generate_whatsapp_copy(None, c)
+        c.messages = generate_whatsapp_copy(c)
         if i % 5 == 0:
             print(f"[copy-gen] {i}/{len(targets)} done", file=sys.stderr)
 
