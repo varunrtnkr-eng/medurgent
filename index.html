@@ -1,0 +1,391 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MedUrgent — Urgent Medical Fundraisers</title>
+<meta name="description" content="Aggregated medical crowdfunding campaigns from Indian platforms, ranked by deadline urgency. Share in your language.">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,700;9..144,900&family=JetBrains+Mono:wght@400;500;700&family=Inter+Tight:wght@400;500;600&family=Noto+Sans+Devanagari:wght@400;500;700&family=Noto+Sans+Kannada:wght@400;500;700&display=swap" rel="stylesheet">
+
+<style>
+  :root {
+    --bg: #f3ede0;
+    --bg-card: #fbf7ec;
+    --ink: #1a1916;
+    --ink-soft: #5a564e;
+    --rule: #cbc2ad;
+    --critical: #a8201a;
+    --urgent: #b85c0c;
+    --soon: #6b6029;
+    --calm: #4a5a3f;
+    --wa: #128c7e;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: 'Inter Tight', system-ui, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    min-height: 100vh;
+  }
+
+  /* Header */
+  header { border-bottom: 1px solid var(--rule); padding: 32px 24px 24px; max-width: 1280px; margin: 0 auto; }
+  .masthead { display: flex; justify-content: space-between; align-items: flex-end; flex-wrap: wrap; gap: 16px; }
+  .title-block h1 { font-family: 'Fraunces', serif; font-weight: 900; font-size: clamp(36px, 6vw, 64px); letter-spacing: -0.03em; line-height: 0.95; margin: 0; }
+  .title-block .tag { font-family: 'JetBrains Mono', monospace; font-size: 11px; text-transform: uppercase; letter-spacing: 0.15em; color: var(--ink-soft); margin-top: 8px; }
+  .meta { text-align: right; font-family: 'JetBrains Mono', monospace; font-size: 12px; color: var(--ink-soft); }
+  .meta .live { display: inline-flex; align-items: center; gap: 6px; color: var(--critical); font-weight: 700; }
+  .meta .live::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: var(--critical); animation: pulse 2s infinite; }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
+  .subtitle { margin-top: 20px; max-width: 720px; font-size: 15px; color: var(--ink-soft); }
+
+  /* Filter chips */
+  .filter-bar { max-width: 1280px; margin: 24px auto 0; padding: 0 24px; display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+  .filter-label { font-family: 'JetBrains Mono', monospace; font-size: 10px; text-transform: uppercase; letter-spacing: 0.15em; color: var(--ink-soft); margin-right: 4px; }
+  .chip { font-family: 'JetBrains Mono', monospace; font-size: 11px; text-transform: uppercase; letter-spacing: 0.08em; padding: 5px 12px; border: 1px solid var(--rule); background: transparent; color: var(--ink); cursor: pointer; transition: all 0.15s; border-radius: 0; }
+  .chip:hover { background: var(--bg-card); }
+  .chip.active { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+  .chip .count { margin-left: 6px; opacity: 0.5; }
+
+  /* Main grid */
+  main { max-width: 1280px; margin: 0 auto; padding: 32px 24px 80px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 1px; background: var(--rule); border: 1px solid var(--rule); }
+
+  /* Card */
+  .card { background: var(--bg-card); padding: 24px; display: flex; flex-direction: column; gap: 16px; position: relative; transition: background 0.15s; }
+  .card:hover { background: #ffffff; }
+  .card-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 16px; }
+  .days-block { text-align: center; flex-shrink: 0; border: 2px solid; padding: 8px 14px; min-width: 76px; }
+  .days-block.critical { border-color: var(--critical); color: var(--critical); }
+  .days-block.urgent { border-color: var(--urgent); color: var(--urgent); }
+  .days-block.soon { border-color: var(--soon); color: var(--soon); }
+  .days-block.calm { border-color: var(--calm); color: var(--calm); }
+  .days-block.unknown { border-color: var(--ink-soft); color: var(--ink-soft); }
+  .days-num { font-family: 'Fraunces', serif; font-weight: 900; font-size: 36px; line-height: 1; letter-spacing: -0.04em; }
+  .days-label { font-family: 'JetBrains Mono', monospace; font-size: 9px; text-transform: uppercase; letter-spacing: 0.15em; margin-top: 2px; }
+  .source-tag { font-family: 'JetBrains Mono', monospace; font-size: 10px; text-transform: uppercase; letter-spacing: 0.12em; color: var(--ink-soft); padding-top: 6px; }
+  .source-tag .verified { margin-left: 6px; color: var(--calm); }
+  .card h3 { font-family: 'Fraunces', serif; font-weight: 500; font-size: 20px; line-height: 1.25; letter-spacing: -0.01em; margin: 0; color: var(--ink); }
+  .card .image-wrap { height: 140px; overflow: hidden; background: #ebe4d3; margin: 0 -24px; }
+  .card .image-wrap img { width: 100%; height: 100%; object-fit: cover; display: block; filter: saturate(0.92); }
+  .progress-block { display: flex; flex-direction: column; gap: 8px; margin-top: auto; }
+  .progress-labels { display: flex; justify-content: space-between; font-family: 'JetBrains Mono', monospace; font-size: 11px; }
+  .progress-labels .raised { font-weight: 700; color: var(--ink); }
+  .progress-labels .goal { color: var(--ink-soft); }
+  .bar { height: 4px; background: var(--rule); position: relative; }
+  .bar-fill { height: 100%; background: var(--ink); transition: width 0.4s; }
+  .pct { font-family: 'JetBrains Mono', monospace; font-size: 10px; color: var(--ink-soft); letter-spacing: 0.05em; }
+
+  /* Buttons */
+  .actions { display: flex; gap: 8px; }
+  .btn { flex: 1; display: flex; align-items: center; justify-content: center; gap: 6px; text-align: center; text-decoration: none; font-family: 'Inter Tight', sans-serif; font-weight: 600; font-size: 12px; text-transform: uppercase; letter-spacing: 0.1em; padding: 12px 8px; border: none; cursor: pointer; transition: background 0.15s, color 0.15s; }
+  .btn-donate { background: var(--ink); color: var(--bg); }
+  .btn-donate:hover { background: var(--critical); }
+  .btn-share { background: var(--bg); color: var(--ink); border: 1px solid var(--ink); }
+  .btn-share:hover { background: var(--wa); color: #fff; border-color: var(--wa); }
+
+  /* States */
+  .empty, .loading { grid-column: 1 / -1; background: var(--bg-card); padding: 80px 24px; text-align: center; }
+  .empty h2, .loading h2 { font-family: 'Fraunces', serif; font-weight: 500; font-size: 24px; margin: 0 0 12px; }
+  .empty p, .loading p { color: var(--ink-soft); margin: 0 auto; max-width: 480px; }
+  .empty code { background: var(--bg); padding: 2px 6px; border-radius: 2px; font-family: 'JetBrains Mono', monospace; font-size: 12px; }
+
+  /* Share modal */
+  .modal-backdrop { position: fixed; inset: 0; background: rgba(26, 25, 22, 0.7); display: none; align-items: flex-end; justify-content: center; z-index: 100; }
+  .modal-backdrop.open { display: flex; }
+  @media (min-width: 600px) { .modal-backdrop { align-items: center; } }
+  .modal { background: var(--bg-card); width: 100%; max-width: 520px; max-height: 90vh; overflow-y: auto; padding: 24px; position: relative; }
+  .modal-close { position: absolute; top: 14px; right: 14px; background: transparent; border: none; cursor: pointer; font-size: 28px; line-height: 1; color: var(--ink-soft); padding: 4px 8px; }
+  .modal-close:hover { color: var(--ink); }
+  .modal h4 { font-family: 'Fraunces', serif; font-weight: 500; font-size: 18px; margin: 0 0 4px; padding-right: 32px; }
+  .modal .modal-sub { font-family: 'JetBrains Mono', monospace; font-size: 10px; text-transform: uppercase; letter-spacing: 0.12em; color: var(--ink-soft); margin-bottom: 20px; }
+  .lang-tabs { display: flex; gap: 6px; margin-bottom: 12px; flex-wrap: wrap; }
+  .lang-tab { flex: 1; min-width: 80px; padding: 8px 12px; border: 1px solid var(--rule); background: transparent; font-size: 13px; cursor: pointer; transition: all 0.15s; }
+  .lang-tab:hover { background: var(--bg); }
+  .lang-tab.active { background: var(--ink); color: var(--bg-card); border-color: var(--ink); }
+  .lang-tab.hi { font-family: 'Noto Sans Devanagari', sans-serif; }
+  .lang-tab.kn { font-family: 'Noto Sans Kannada', sans-serif; }
+  .msg-preview { background: var(--bg); border-left: 3px solid var(--wa); padding: 14px 16px; font-size: 14px; line-height: 1.6; white-space: pre-wrap; margin-bottom: 16px; min-height: 140px; color: var(--ink); }
+  .msg-preview.hi { font-family: 'Noto Sans Devanagari', 'Inter Tight', sans-serif; }
+  .msg-preview.kn { font-family: 'Noto Sans Kannada', 'Inter Tight', sans-serif; }
+  .modal-actions { display: flex; gap: 8px; }
+  .btn-wa { background: var(--wa); color: white; }
+  .btn-wa:hover { background: #0d6e63; }
+  .btn-copy { background: var(--bg); color: var(--ink); border: 1px solid var(--ink); }
+  .btn-copy:hover { background: var(--ink); color: var(--bg); }
+  .btn-copy.copied { background: var(--calm); color: white; border-color: var(--calm); }
+
+  /* Footer */
+  footer { border-top: 1px solid var(--rule); padding: 24px; max-width: 1280px; margin: 0 auto; font-size: 12px; color: var(--ink-soft); line-height: 1.6; }
+  footer strong { color: var(--ink); }
+
+  /* Mobile */
+  @media (max-width: 600px) {
+    header { padding: 20px 16px 16px; }
+    main { padding: 20px 16px 60px; }
+    .filter-bar { padding: 0 16px; }
+    .meta { text-align: left; width: 100%; }
+    .grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="masthead">
+    <div class="title-block">
+      <h1>MedUrgent</h1>
+      <div class="tag">Medical fundraisers · ranked by deadline · share in your language</div>
+    </div>
+    <div class="meta">
+      <div class="live">LIVE</div>
+      <div id="updated-at">Loading…</div>
+      <div id="source-summary"></div>
+    </div>
+  </div>
+  <p class="subtitle">
+    Verified medical crowdfunding campaigns from Ketto, Milaap, ImpactGuru and GiveIndia,
+    sorted by days remaining. Tap <strong>Share</strong> to forward a WhatsApp-ready message
+    in English, Hindi or Kannada.
+  </p>
+</header>
+
+<div class="filter-bar" id="filter-bar">
+  <span class="filter-label">Filter</span>
+</div>
+
+<main>
+  <div class="grid" id="grid">
+    <div class="loading">
+      <h2>Loading campaigns…</h2>
+      <p>Fetching the latest data.</p>
+    </div>
+  </div>
+</main>
+
+<div class="modal-backdrop" id="modal-backdrop">
+  <div class="modal" role="dialog" aria-labelledby="modal-title">
+    <button class="modal-close" id="modal-close" aria-label="Close">×</button>
+    <h4 id="modal-title">Share this campaign</h4>
+    <div class="modal-sub">Pick a language and send via WhatsApp</div>
+    <div class="lang-tabs" id="lang-tabs"></div>
+    <div class="msg-preview" id="msg-preview"></div>
+    <div class="modal-actions">
+      <button class="btn btn-wa" id="btn-wa">Send on WhatsApp</button>
+      <button class="btn btn-copy" id="btn-copy">Copy text</button>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <p><strong>How this works:</strong> A scheduled scraper visits four Indian medical crowdfunding sites every few hours and ranks campaigns by days-to-deadline. Only platform-verified campaigns are shown. Donation buttons open the original campaign on the source platform — money never flows through this page.</p>
+  <p style="margin-top: 12px;"><strong>Caveat:</strong> Platform verification reduces but does not eliminate the risk of fraud. Read each campaign carefully before donating. This dashboard is informational and not affiliated with any of the platforms listed.</p>
+</footer>
+
+<script>
+(function () {
+  const REFRESH_MS = 60_000;
+  const grid = document.getElementById("grid");
+  const updatedAt = document.getElementById("updated-at");
+  const sourceSummary = document.getElementById("source-summary");
+  const filterBar = document.getElementById("filter-bar");
+  const backdrop = document.getElementById("modal-backdrop");
+  const modalTitle = document.getElementById("modal-title");
+  const langTabs = document.getElementById("lang-tabs");
+  const msgPreview = document.getElementById("msg-preview");
+  const btnWa = document.getElementById("btn-wa");
+  const btnCopy = document.getElementById("btn-copy");
+  const btnClose = document.getElementById("modal-close");
+
+  const LANG_LABELS = { en: "English", hi: "हिंदी", kn: "ಕನ್ನಡ", ta: "தமிழ்", te: "తెలుగు", mr: "मराठी", bn: "বাংলা" };
+
+  let lastData = null;
+  let activeFilter = "all";
+  let activeLang = "en";
+  let activeCampaign = null;
+
+  function urgencyClass(days) {
+    if (days === null || days === undefined) return "unknown";
+    if (days <= 3) return "critical";
+    if (days <= 7) return "urgent";
+    if (days <= 14) return "soon";
+    return "calm";
+  }
+  function fmtINR(n) {
+    if (!n) return "₹0";
+    if (n >= 10_000_000) return "₹" + (n / 10_000_000).toFixed(1) + " Cr";
+    if (n >= 100_000) return "₹" + (n / 100_000).toFixed(1) + " L";
+    if (n >= 1_000) return "₹" + Math.round(n / 1_000) + "K";
+    return "₹" + Math.round(n);
+  }
+  function fmtTime(iso) {
+    if (!iso) return "—";
+    const d = new Date(iso);
+    return new Intl.DateTimeFormat("en-IN", {
+      timeZone: "Asia/Kolkata",
+      hour: "2-digit", minute: "2-digit",
+      day: "2-digit", month: "short",
+    }).format(d) + " IST";
+  }
+  function escHtml(s) {
+    if (s == null) return "";
+    return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+  }
+  function escAttr(s) { return escHtml(s).replace(/"/g, "&quot;"); }
+
+  function renderFilters(sources) {
+    const total = Object.values(sources).reduce((a, b) => a + b, 0);
+    const chips = [["all", "All", total]];
+    for (const [k, v] of Object.entries(sources)) chips.push([k, k, v]);
+    filterBar.innerHTML = '<span class="filter-label">Source</span>';
+    chips.forEach(([key, label, count]) => {
+      const btn = document.createElement("button");
+      btn.className = "chip" + (activeFilter === key ? " active" : "");
+      btn.innerHTML = label + ' <span class="count">' + count + "</span>";
+      btn.onclick = () => { activeFilter = key; renderGrid(); renderFilters(sources); };
+      filterBar.appendChild(btn);
+    });
+  }
+
+  function renderCard(c, idx) {
+    const u = urgencyClass(c.days_left);
+    const daysText = (c.days_left === null || c.days_left === undefined)
+      ? "?" : (c.days_left === 0 ? "<24h" : c.days_left);
+    const daysLabel = c.days_left === 0 ? "left"
+      : c.days_left === 1 ? "day left" : "days left";
+    const raised = c.amount_raised_inr || 0;
+    const goal = c.amount_goal_inr || 0;
+    const pct = goal > 0 ? Math.min(100, Math.round((raised / goal) * 100)) : 0;
+    const img = c.image_url
+      ? `<div class="image-wrap"><img src="${escAttr(c.image_url)}" loading="lazy" alt=""></div>` : "";
+    const verifiedMark = c.verified ? '<span class="verified">✓ Verified</span>' : "";
+    const hasMessages = c.messages && Object.keys(c.messages).length > 0;
+
+    return `
+      <article class="card">
+        <div class="card-header">
+          <div class="days-block ${u}">
+            <div class="days-num">${daysText}</div>
+            <div class="days-label">${daysLabel}</div>
+          </div>
+          <div class="source-tag">${escHtml(c.source)}${verifiedMark}</div>
+        </div>
+        <h3>${escHtml(c.title)}</h3>
+        ${img}
+        <div class="progress-block">
+          <div class="progress-labels">
+            <span class="raised">${fmtINR(raised)}</span>
+            <span class="goal">of ${fmtINR(goal)}</span>
+          </div>
+          <div class="bar"><div class="bar-fill" style="width:${pct}%"></div></div>
+          <span class="pct">${pct}% funded</span>
+        </div>
+        <div class="actions">
+          <a class="btn btn-donate" href="${escAttr(c.campaign_url)}" target="_blank" rel="noopener noreferrer">Donate</a>
+          <button class="btn btn-share" data-idx="${idx}" ${hasMessages ? "" : "disabled style='opacity:0.4;cursor:not-allowed'"}>
+            ${hasMessages ? "Share" : "Donate only"}
+          </button>
+        </div>
+      </article>
+    `;
+  }
+
+  function renderGrid() {
+    if (!lastData) return;
+    const items = (lastData.campaigns || []).filter(c =>
+      activeFilter === "all" ? true : c.source === activeFilter
+    );
+    if (items.length === 0) {
+      grid.innerHTML = `<div class="empty"><h2>No campaigns to show</h2><p>No matching verified campaigns in the latest pull.</p></div>`;
+      return;
+    }
+    grid.innerHTML = items.map((c, i) => renderCard(c, i)).join("");
+    grid.querySelectorAll(".btn-share:not([disabled])").forEach(btn => {
+      btn.onclick = () => openShare(items[parseInt(btn.dataset.idx)]);
+    });
+  }
+
+  /* Share modal */
+  function openShare(campaign) {
+    activeCampaign = campaign;
+    const langs = Object.keys(campaign.messages || {});
+    if (langs.length === 0) return;
+    activeLang = langs.includes("en") ? "en" : langs[0];
+    modalTitle.textContent = campaign.title;
+    langTabs.innerHTML = "";
+    langs.forEach(code => {
+      const btn = document.createElement("button");
+      btn.className = "lang-tab " + code + (code === activeLang ? " active" : "");
+      btn.textContent = LANG_LABELS[code] || code;
+      btn.dataset.code = code;
+      btn.onclick = () => { activeLang = code; renderMessage(); };
+      langTabs.appendChild(btn);
+    });
+    renderMessage();
+    backdrop.classList.add("open");
+  }
+  function renderMessage() {
+    if (!activeCampaign) return;
+    msgPreview.className = "msg-preview " + activeLang;
+    msgPreview.textContent = activeCampaign.messages[activeLang] || "";
+    langTabs.querySelectorAll(".lang-tab").forEach(t => {
+      t.classList.toggle("active", t.dataset.code === activeLang);
+    });
+    btnCopy.textContent = "Copy text";
+    btnCopy.classList.remove("copied");
+  }
+  function closeModal() {
+    backdrop.classList.remove("open");
+    activeCampaign = null;
+  }
+  btnClose.onclick = closeModal;
+  backdrop.onclick = e => { if (e.target === backdrop) closeModal(); };
+  document.addEventListener("keydown", e => { if (e.key === "Escape") closeModal(); });
+
+  btnWa.onclick = () => {
+    if (!activeCampaign) return;
+    const text = activeCampaign.messages[activeLang] || "";
+    window.open("https://wa.me/?text=" + encodeURIComponent(text), "_blank", "noopener");
+  };
+  btnCopy.onclick = async () => {
+    if (!activeCampaign) return;
+    const text = activeCampaign.messages[activeLang] || "";
+    try {
+      await navigator.clipboard.writeText(text);
+      btnCopy.textContent = "Copied ✓";
+      btnCopy.classList.add("copied");
+      setTimeout(() => { btnCopy.textContent = "Copy text"; btnCopy.classList.remove("copied"); }, 1500);
+    } catch (e) {
+      btnCopy.textContent = "Press Ctrl+C";
+    }
+  };
+
+  async function fetchData() {
+    try {
+      const res = await fetch("data.json?ts=" + Date.now(), { cache: "no-store" });
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      const data = await res.json();
+      lastData = data;
+      updatedAt.textContent = "Updated " + fmtTime(data.generated_at);
+      sourceSummary.textContent = (data.total || 0) + " campaigns";
+      renderFilters(data.sources || {});
+      renderGrid();
+    } catch (e) {
+      if (!lastData) {
+        grid.innerHTML = `<div class="empty"><h2>No data yet</h2><p>Run <code>python scraper.py</code> to generate <code>data.json</code>, or wait for the scheduled GitHub Action.</p></div>`;
+      }
+      console.warn("fetchData failed:", e);
+    }
+  }
+  fetchData();
+  setInterval(fetchData, REFRESH_MS);
+})();
+</script>
+</body>
+</html>
