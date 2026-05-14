@@ -622,22 +622,26 @@ No preamble, no code fences, just the JSON object."""
 
 
 def generate_whatsapp_copy(client, campaign: Campaign) -> dict:
-    """Call Claude to generate WhatsApp share copy in the configured languages."""
     try:
-        response = client.messages.create(
-            model=COPY_MODEL,
-            max_tokens=4000,
-            messages=[{"role": "user", "content": _build_copy_prompt(campaign)}],
+        import httpx
+        response = httpx.post(
+            "https://api.anthropic.com/v1/messages",
+            headers={
+                "x-api-key": os.environ["ANTHROPIC_API_KEY"],
+                "anthropic-version": "2023-06-01",
+                "content-type": "application/json",
+            },
+            json={
+                "model": COPY_MODEL,
+                "max_tokens": 4000,
+                "messages": [{"role": "user", "content": _build_copy_prompt(campaign)}],
+            },
+            timeout=60,
         )
-        text = response.content[0].text.strip()
-        # Strip code fences if model added them despite instructions
+        text = response.json()["content"][0]["text"].strip()
         text = re.sub(r"^```(?:json)?\s*", "", text)
         text = re.sub(r"\s*```$", "", text)
-        result = json.loads(text)
-        # Sanity check: ensure it's a dict of strings
-        if isinstance(result, dict) and all(isinstance(v, str) for v in result.values()):
-            return result
-        return {}
+        return json.loads(text)
     except Exception as e:
         print(f"[copy-gen] {campaign.id}: {e}", file=sys.stderr)
         return {}
@@ -647,18 +651,14 @@ def enrich_with_copy(campaigns: list[Campaign]) -> None:
     """Generate WhatsApp copy for the top N ranked campaigns. Mutates in place."""
     if not GENERATE_COPY:
         return
-    if not _ANTHROPIC_AVAILABLE:
-        print("[copy-gen] anthropic package not installed; skipping", file=sys.stderr)
-        return
     if not os.getenv("ANTHROPIC_API_KEY"):
         print("[copy-gen] ANTHROPIC_API_KEY not set; skipping", file=sys.stderr)
         return
 
-    client = Anthropic()
     targets = campaigns[:MAX_COPY_GEN]
     print(f"[copy-gen] generating copy for {len(targets)} campaigns", file=sys.stderr)
     for i, c in enumerate(targets, 1):
-        c.messages = generate_whatsapp_copy(client, c)
+        c.messages = generate_whatsapp_copy(None, c)
         if i % 5 == 0:
             print(f"[copy-gen] {i}/{len(targets)} done", file=sys.stderr)
 
