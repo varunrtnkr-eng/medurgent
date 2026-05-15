@@ -632,10 +632,10 @@ def generate_whatsapp_copy(campaign: Campaign) -> dict:
             },
             json={
                 "model": COPY_MODEL,
-                "max_tokens": 4000,
+                "max_tokens": 8000,
                 "messages": [{"role": "user", "content": _build_copy_prompt(campaign)}],
             },
-            timeout=60,
+            timeout=120,
         )
         text = response.json()["content"][0]["text"].strip()
         text = re.sub(r"^```(?:json)?\s*", "", text)
