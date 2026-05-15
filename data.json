@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T07:39:06.958772+00:00",
+  "generated_at": "2026-05-15T08:17:39.471019+00:00",
   "sources": {
     "ketto": 10,
     "milaap": 7,
@@ -21,38 +21,60 @@
   "total": 12,
   "campaigns": [
     {
-      "id": "ketto-6-4256440",
+      "id": "ketto-6-5444449",
       "source": "ketto",
       "title": "Support Baby of Kiran Bhardwaj’s Critical NICU Treatment",
       "description": "Support Baby of Kiran Bhardwaj’s Critical NICU Treatment",
       "patient_name": "Baby of Kiran Bhardwaj",
       "condition": "Prematurity/ Preterm",
       "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/media/campaign/1138000/1138352/image/blurred/69fc654ba60fe.jpg",
-      "amount_raised_inr": 274786.0,
+      "amount_raised_inr": 275086.0,
       "amount_goal_inr": 500000.0,
       "deadline_iso": "2026-05-20",
       "days_left": 5,
       "campaign_url": "https://www.ketto.org/fundraiser/support-baby-of-kiran-bhardwajs-critical-nicu-treatment",
       "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-15T07:37:48.685716+00:00"
+      "messages": {
+        "en": "Kiran Bhardwaj's newborn baby is fighting for life in NICU. This young mother is desperately trying to arrange funds for her baby's critical treatment.\n\nOnly 5 days left to raise ₹2.2 lakh more (₹2.8L already raised of ₹5L goal).\n\nEven ₹100 helps save this precious life.\n\nPlease donate OR share with 5 people.\nhttps://www.ketto.org/fundraiser/support-baby-of-kiran-bhardwajs-critical-nicu-treatment",
+        "hi": "किरण भारद्वाज का नवजात शिशु NICU में जिंदगी की जंग लड़ रहा है। यह युवा माँ अपने बच्चे के इलाज के लिए पैसों की व्यवस्था करने की कोशिश कर रही है।\n\n5 दिन बचे हैं, अभी भी ₹2.2 लाख चाहिए (₹5L का लक्ष्य, ₹2.8L मिल चुके)।\n\n₹100 भी मदद करेगा।\n\nकृपया दान करें या 5 लोगों को शेयर करें।\nhttps://www.ketto.org/fundraiser/support-baby-of-kiran-bhardwajs-critical-nicu-treatment",
+        "kn": "ಕಿರಣ್ ಭಾರದ್ವಾಜ್ ಅವರ ನವಜಾತ ಶಿಶು NICU ನಲ್ಲಿ ಜೀವನ ಹೋರಾಟ ನಡೆಸುತ್ತಿದೆ। ಈ ತಾಯಿ ತನ್ನ ಮಗುವಿನ ಚಿಕಿತ್ಸೆಗಾಗಿ ಹಣ ಸಂಗ್ರಹಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತಿದ್ದಾರೆ।\n\n5 ದಿನಗಳು ಮಾತ್ರ ಉಳಿದಿವೆ, ಇನ್ನೂ ₹2.2 ಲಕ್ಷ ಬೇಕು (₹5L ಗುರಿ, ₹2.8L ಸಿಕ್ಕಿದೆ)।\n\n₹100 ಕೂಡ ಸಹಾಯವಾಗುತ್ತದೆ।\n\nದಯವಿಟ್ಟು ದಾನ ಮಾಡಿ ಅಥವಾ 5 ಜನರಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ।\nhttps://www.ketto.org/fundraiser/support-baby-of-kiran-bhardwajs-critical-nicu-treatment",
+        "ta": "கிரண் பாரத்வாஜின் புதிதாகப் பிறந்த குழந்தை NICU-வில் உயிருக்குப் போராடிக் கொண்டிருக்கிறது। இந்த இளம் தாய் தன் குழந்தையின் சிகிச்சைக்காக பணம் திரட்ட முயற்சிக்கிறார்.\n\n5 நாட்கள் மட்டுமே உள்ளன, இன்னும் ₹2.2 லட்சம் தேவை (₹5L இலக்கு, ₹2.8L கிடைத்துள்ளது)।\n\n₹100 கூட உதவும்.\n\nதயவுசெய்து நன்கொடை அளியுங்கள் அல்லது 5 பேருடன் பகிருங்கள்.\nhttps://www.ketto.org/fundraiser/support-baby-of-kiran-bhardwajs-critical-nicu-treatment",
+        "te": "కిరణ్ భరద్వాజ్ యొక్క నవజాత శిశువు NICU లో జీవితం కోసం పోరాడుతోంది. ఈ యువ తల్లి తన బిడ్డ చికిత్సకు డబ్బు ఏర్పాటు చేయడానికి ప్రయత్నిస్తోంది.\n\n5 రోజులు మాత్రమే మిగిలాయి, ఇంకా ₹2.2 లక్షలు కావాలి (₹5L లక్ష్యం, ₹2.8L వచ్చింది)।\n\n₹100 కూడా సహాయపడుతుంది.\n\nదయచేసి దానం చేయండి లేదా 5 మందితో పంచుకోండి.\nhttps://www.ketto.org/fundraiser/support-baby-of-kiran-bhardwajs-critical-nicu-treatment",
+        "mr": "किरण भारद्वाज यांचे नवजात बाळ NICU मध्ये जीवनाशी झुंज देत आहे। ही तरुण आई तिच्या बाळाच्या उपचारासाठी पैशांची व्यवस्था करण्याचा प्रयत्न करत आहे।\n\nफक्त 5 दिवस उरले आहेत, अजून ₹2.2 लाख लागतील (₹5L ध्येय, ₹2.8L मिळाले)।\n\n₹100 सुद्धा मदत होईल।\n\nकृपया दान करा किंवा 5 लोकांना शेअर करा।\nhttps://www.ketto.org/fundraiser/support-baby-of-kiran-bhardwajs-critical-nicu-treatment",
+        "bn": "কিরণ ভারদ্বাজের নবজাতক শিশুটি NICU-তে জীবনের জন্য লড়াই করছে। এই তরুণ মা তার সন্তানের চিকিৎসার জন্য অর্থের ব্যবস্থা করার চেষ্টা করছেন।\n\nমাত্র ৫ দিন বাকি, আরও ₹২.২ লক্ষ প্রয়োজন (₹৫L লক্ষ্য, ₹২.৮L সংগ্রহ হয়েছে)।\n\n₹১০০ও সাহায্য করবে।\n\nঅনুগ্রহ করে দান করুন অথবা ৫ জনের সাথে শেয়ার করুন।\nhttps://www.ketto.org/fundraiser/support-baby-of-kiran-bhardwajs-critical-nicu-treatment",
+        "gu": "કિરણ ભારદ્વાજનું નવજાત બાળક NICU માં જીવન માટે લડી રહ્યું છે. આ યુવાન માતા તેના બાળકની સારવાર માટે પૈસાની વ્યવસ્થા કરવાનો પ્રયાસ કરી રહી છે।\n\nમાત્ર 5 દિવસ બચ્યા છે, હજુ ₹2.2 લાખ જોઈએ (₹5L લક્ષ્ય, ₹2.8L મળ્યા છે)।\n\n₹100 પણ મદદ કરશે।\n\nકૃપા કરીને દાન કરો અથવા 5 લોકો સાથે શેર કરો।\nhttps://www.ketto.org/fundraiser/support-baby-of-kiran-bhardwajs-critical-nicu-treatment",
+        "pa": "ਕਿਰਣ ਭਾਰਦ੍ਵਾਜ ਦਾ ਨਵਜਾਤ ਬੱਚਾ NICU ਵਿੱਚ ਜ਼ਿੰਦਗੀ ਦੀ ਲੜਾਈ ਲੜ ਰਿਹਾ ਹੈ। ਇਹ ਜਵਾਨ ਮਾਂ ਆਪਣੇ ਬੱਚੇ ਦੇ ਇਲਾਜ ਲਈ ਪੈਸਿਆਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੀ ਹੈ।\n\nਸਿਰਫ਼ 5 ਦਿਨ ਬਾਕੀ ਹਨ, ਅਜੇ ₹2.2 ਲੱਖ ਚਾਹੀਦੇ ਹਨ (₹5L ਟਾਰਗੇਟ, ₹2.8L ਮਿਲੇ ਹਨ)।\n\n₹100 ਵੀ ਮਦਦ ਕਰਨਗੇ।\n\nਕਿਰਪਾ ਕਰਕੇ ਦਾਨ ਕਰੋ ਜਾਂ 5 ਲੋਕਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰੋ।\nhttps://www.ketto.org/fundraiser/support-baby-of-kiran-bhardwajs-critical-nicu-treatment",
+        "ml": "കിരൺ ഭാരദ്വാജിന്റെ നവജാത ശിശു NICU-യിൽ ജീവനുവേണ്ടി പോരാടുകയാണ്. ഈ യുവ അമ്മ തന്റെ കുഞ്ഞിന്റെ ചികിത്സയ്ക്കുള്ള പണം സ്വരൂപിക്കാൻ ശ്രമിക്കുകയാണ്।\n\n5 ദിവസം മാത്രം ശേഷിക്കുന്നു, ഇനിയും ₹2.2 ലക്ഷം വേണം (₹5L ലക്ഷ്യം, ₹2.8L കിട്ടി)।\n\n₹100 പോലും സഹായിക്കും।\n\nദയവായി സംഭാവന നൽകുക അല്ലെങ്കിൽ 5 പേരുമായി പങ്കിടുക।\nhttps://www.ketto.org/fundraiser/support-baby-of-kiran-bhardwajs-critical-nicu-treatment"
+      },
+      "scraped_at_iso": "2026-05-15T08:05:15.741766+00:00"
     },
     {
-      "id": "ketto-3-2939287",
+      "id": "ketto-3-5203743",
       "source": "ketto",
       "title": "My Baby Battles For Her Life And We Need Your Support To Save Her",
       "description": "My Baby Battles For Her Life And We Need Your Support To Save Her",
       "patient_name": "Anika Sharma",
       "condition": "Medical condition not in the list",
       "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/media/campaign/1064000/1064511/image/blurred/68f20089b431b.jpg",
-      "amount_raised_inr": 33157809.79,
+      "amount_raised_inr": 33158009.79,
       "amount_goal_inr": 90000000.0,
       "deadline_iso": "2026-06-02",
       "days_left": 18,
       "campaign_url": "https://www.ketto.org/fundraiser/my-baby-battles-for-her-life-and-we-need-your-support-to-save-her-1064511",
       "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-15T07:37:48.685633+00:00"
+      "messages": {
+        "en": "A baby girl is fighting for her life and her family needs our help urgently. Every day counts as they struggle to afford the critical treatment she needs.\n\nWith only 18 days left, they still need ₹5.7 crore out of ₹9 crore for her medical expenses. Even ₹100 helps save this little one's life.\n\nPlease donate OR share with 5 people. Both make a difference.\nhttps://www.ketto.org/fundraiser/my-baby-battles-for-her-life-and-we-need-your-support-to-save-her-1064511",
+        "hi": "एक नन्ही बच्ची अपनी जिंदगी के लिए लड़ रही है और उसके परिवार को हमारी तुरंत मदद चाहिए। हर दिन कीमती है क्योंकि वे उसके इलाज का खर्च उठाने में संघर्ष कर रहे हैं।\n\nसिर्फ 18 दिन बचे हैं, अभी भी 9 करोड़ में से 5.7 करोड़ रुपये की जरूरत है। सिर्फ ₹100 भी इस बच्ची की जान बचा सकते हैं।\n\nकृपया दान करें या 5 लोगों के साथ शेयर करें। दोनों से फर्क पड़ता है।\nhttps://www.ketto.org/fundraiser/my-baby-battles-for-her-life-and-we-need-your-support-to-save-her-1064511",
+        "kn": "ಒಂದು ಚಿಕ್ಕ ಹುಡುಗಿ ತನ್ನ ಜೀವನಕ್ಕಾಗಿ ಹೋರಾಡುತ್ತಿದ್ದಾಳೆ ಮತ್ತು ಅವಳ ಕುಟುಂಬಕ್ಕೆ ತುರ್ತು ಸಹಾಯ ಬೇಕು। ಅವರು ಅವಳ ಚಿಕಿತ್ಸೆಯ ವೆಚ್ಚ ಭರಿಸಲು ಹೆಣಗಾಡುತ್ತಿರುವಾಗ ಪ್ರತಿ ದಿನವೂ ಮುಖ್ಯವಾಗಿದೆ।\n\nಕೇವಲ 18 ದಿನಗಳು ಉಳಿದಿವೆ, ಇನ್ನೂ 9 ಕೋಟಿಯಲ್ಲಿ 5.7 ಕೋಟಿ ರೂಪಾಯಿಗಳ ಅಗತ್ಯವಿದೆ। ಕೇವಲ ₹100 ಕೂಡ ಈ ಮಗುವಿನ ಜೀವ ಉಳಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ।\n\nದಯವಿಟ್ಟು ದಾನ ಮಾಡಿ ಅಥವಾ 5 ಜನರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ। ಎರಡೂ ವ್ಯತ್ಯಾಸ ಮಾಡುತ್ತವೆ।\nhttps://www.ketto.org/fundraiser/my-baby-battles-for-her-life-and-we-need-your-support-to-save-her-1064511",
+        "ta": "ஒரு சிறு குழந்தை தன் உயிருக்காகப் போராடிக்கொண்டிருக்கிறாள், அவளுடைய குடும்பத்திற்கு உடனடி உதவி தேவை. அவளுக்குத் தேவையான முக்கியமான சிகிச்சைச் செலவை ஏற்க முடியாமல் அவர்கள் போராடிக்கொண்டிருக்கும்போது ஒவ்வொரு நாளும் முக்கியம்.\n\nவெறும் 18 நாட்கள் மட்டுமே உள்ளன, இன்னும் 9 கோடியில் 5.7 கோடி ரூபாய் தேவை. ₹100 கூட இந்தக் குழந்தையின் உயிரைக் காப்பாற்ற உதவும்.\n\nதயவுசெய்து நன்கொடை அளியுங்கள் அல்லது 5 பேரிடம் பகிருங்கள். இரண்டும் மாற்றத்தை ஏற்படுத்தும்.\nhttps://www.ketto.org/fundraiser/my-baby-battles-for-her-life-and-we-need-your-support-to-save-her-1064511",
+        "te": "ఒక చిన్న అమ్మాయి తన ప్రాణాలకు పోరాడుతోంది మరియు ఆమె కుటుంబానికి తక్షణ సహాయం అవసరం. ఆమెకు అవసరమైన క్లిష్టమైన చికిత్స ఖర్చులను భరించలేక వారు కష్టపడుతున్నప్పుడు ప్రతి రోజు ముఖ్యం.\n\nకేవలం 18 రోజులు మిగిలి ఉన్నాయి, ఇంకా 9 కోట్లలో 5.7 కోట్ల రూపాయలు అవసరం. కేవలం ₹100 కూడా ఈ చిన్నారి ప్రాణాలను కాపాడేందుకు సహాయపడుతుంది.\n\nదయచేసి విరాళం ఇవ్వండి లేదా 5 మందితో షేర్ చేయండి. రెండూ మార్పు తెస్తాయి.\nhttps://www.ketto.org/fundraiser/my-baby-battles-for-her-life-and-we-need-your-support-to-save-her-1064511",
+        "mr": "एका नन्ही मुलीने तिच्या जीवनासाठी लढा दिला आहे आणि तिच्या कुटुंबाला आमची तातडीने मदत हवी आहे. तिच्या गंभीर उपचाराचा खर्च सोसणे त्यांना कठीण जात असताना दर दिवस मोलाचा आहे।\n\nफक्त 18 दिवस उरले आहेत, अजून 9 कोटींमध्ये 5.7 कोटी रुपयांची गरज आहे. फक्त ₹100 देखील या लहान मुलीचा जीव वाचवू शकतो.\n\nकृपया दान करा किंवा 5 लोकांसोबत शेअर करा. दोन्ही गोष्टींचा फरक पडतो.\nhttps://www.ketto.org/fundraiser/my-baby-battles-for-her-life-and-we-need-your-support-to-save-her-1064511",
+        "bn": "একটি ছোট্ট মেয়ে তার জীবনের জন্য লড়াই করছে এবং তার পরিবারের জরুরি আমাদের সাহায্যের প্রয়োজন। তার প্রয়োজনীয় জটিল চিকিৎসার খরচ বহন করতে তারা সংগ্রাম করছে, প্রতিটি দিন গুরুত্বপূর্ণ।\n\nমাত্র 18 দিন বাকি আছে, এখনও 9 কোটির মধ্যে 5.7 কোটি টাকার প্রয়োজন। মাত্র ₹100ও এই ছোট্ট শিশুর জীবন বাঁচাতে সাহায্য করবে।\n\nঅনুগ্রহ করে দান করুন অথবা 5 জনের সাথে শেয়ার করুন। দুটোই পার্থক্য তৈরি করে।\nhttps://www.ketto.org/fundraiser/my-baby-battles-for-her-life-and-we-need-your-support-to-save-her-1064511",
+        "gu": "એક નાની બાળકી તેના જીવન માટે સંઘર્ષ કરી રહી છે અને તેના પરિવારને અમારી તાત્કાલિક મદદની જરૂર છે. તેને જરૂરી મહત્વપૂર્ણ સારવારનો ખર્ચ વહન કરવા તેઓ સંઘર્ષ કરતા હોય એ સમયે દર દિવસ મહત્વપૂર્ણ છે।\n\nમાત્ર 18 દિવસ બાકી છે, હજુ પણ 9 કરોડમાંથી 5.7 કરોડ રૂપિયાની જરૂર છે. માત્ર ₹100 પણ આ બાળકીનું જીવન બચાવવામાં મદદ કરશે.\n\nકૃપા કરીને દાન કરો અથવા 5 લોકો સાથે શેર કરો. બંને કંઈક ફરક પાડે છે.\nhttps://www.ketto.org/fundraiser/my-baby-battles-for-her-life-and-we-need-your-support-to-save-her-1064511",
+        "pa": "ਇੱਕ ਨੰਨ੍ਹੀ ਬੱਚੀ ਆਪਣੀ ਜ਼ਿੰਦਗੀ ਲਈ ਲੜ ਰਹੀ ਹੈ ਅਤੇ ਉਸਦੇ ਪਰਿਵਾਰ ਨੂੰ ਸਾਡੀ ਫੌਰੀ ਮਦਦ ਦੀ ਲੋੜ ਹੈ। ਉਸਦੇ ਜਰੂਰੀ ਇਲਾਜ਼ ਦਾ ਖਰਚ ਚੁੱਕਣ ਲਈ ਉਹ ਸੰਘਰਸ਼ ਕਰ ਰਹੇ ਹਨ, ਹਰ ਦਿਨ ਅਹਿਮ ਹੈ।\n\nਸਿਰਫ 18 ਦਿਨ ਬਾਕੀ ਹਨ, ਅਜੇ ਵੀ 9 ਕਰੋੜ ਵਿੱਚੋਂ 5.7 ਕਰੋੜ ਰੁਪਏ ਦੀ ਲੋੜ ਹੈ। ਸਿਰਫ ₹100 ਵੀ ਇਸ ਮਾਸੂਮ ਦੀ ਜਾਨ ਬਚਾਉਣ ਵਿੱਚ ਮਦਦ ਕਰਦੇ ਹਨ।\n\nਕਿਰਪਾ ਕਰਕੇ ਦਾਨ ਕਰੋ ਜਾਂ 5 ਲੋਕਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰੋ। ਦੋਵੇਂ ਫਰਕ ਪਾਉਂਦੇ ਹਨ।\nhttps://www.ketto.org/fundraiser/my-baby-battles-for-her-life-and-we-need-your-support-to-save-her-1064511",
+        "ml": "ഒരു കൊച്ചു കുട്ടി തന്റെ ജീവനുവേണ്ടി പോരാടുകയാണ്, അവളുടെ കുടുംബത്തിന് നമ്മുടെ അടിയന്തര സഹായം ആവശ്യമാണ്. അവൾക്ക് ആവശ്യമായ സുപ്രധാന ചികിത്സയുടെ ചെലവ് വഹിക്കാൻ പറ്റാതെ അവർ പാടുപെടുമ്പോൾ ഓരോ ദിവസവും പ്രധാനമാണ്.\n\nവെറും 18 ദിവസം മാത്രം ബാക്കിയുണ്ട്, 9 കോടിയിൽ ഇനിയും 5.7 കോടി രൂപ ആവശ്യമുണ്ട്. വെറും ₹100 പോലും ഈ കൊച്ചിന്റെ ജീവൻ രക്ഷിക്കാൻ സഹായിക്കും.\n\nദയവായി സംഭാവന നൽകുക അല്ലെങ്കിൽ 5 പേരുമായി പങ്കിടുക. രണ്ടും മാറ്റമുണ്ടാക്കും.\nhttps://www.ketto.org/fundraiser/my-baby-battles-for-her-life-and-we-need-your-support-to-save-her-1064511"
+      },
+      "scraped_at_iso": "2026-05-15T08:05:15.741598+00:00"
     },
     {
       "id": "milaap-1018097",
@@ -68,8 +90,19 @@
       "days_left": 22,
       "campaign_url": "https://milaap.org/fundraisers/support-krishnamoorthy-40",
       "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-15T07:37:54.744595+00:00"
+      "messages": {
+        "en": "R. Krishnamoorthy, a hardworking family man, is fighting a critical brain infection that has left his loved ones desperate for help. His family has exhausted their savings and is struggling to afford his treatment.\n\nWith only 22 days left, they still need ₹19.9 lakh out of ₹30 lakh for his recovery. Even ₹100 helps save a life.\n\nPlease donate OR share with 5 people:\nhttps://milaap.org/fundraisers/support-krishnamoorthy-40",
+        "hi": "आर. कृष्णमूर्ति एक मेहनती पिता हैं जो गंभीर ब्रेन इन्फेक्शन से जूझ रहे हैं। उनका परिवार इलाज के लिए बेहद परेशान है।\n\n22 दिन बचे हैं और अभी भी ₹30 लाख में से ₹19.9 लाख की जरूरत है। ₹100 भी एक जिंदगी बचा सकते हैं।\n\nकृपया दान करें या 5 लोगों को शेयर करें:\nhttps://milaap.org/fundraisers/support-krishnamoorthy-40",
+        "kn": "ಆರ್. ಕೃಷ್ಣಮೂರ್ತಿ ಒಬ್ಬ ಕಷ್ಟಪಟ್ಟು ಕೆಲಸ ಮಾಡುವ ಕುಟುಂಬದ ಮುಖ್ಯಸ್ಥರು, ಅವರು ಗಂಭೀರ ಮೆದುಳಿನ ಸೋಂಕಿನಿಂದ ಬಳಲುತ್ತಿದ್ದಾರೆ। ಅವರ ಕುಟುಂಬ ಚಿಕಿತ್ಸೆಗಾಗಿ ತತ್ತರಿಸುತ್ತಿದೆ।\n\n22 ದಿನಗಳು ಉಳಿದಿವೆ ಮತ್ತು ₹30 ಲಕ್ಷದಲ್ಲಿ ಇನ್ನೂ ₹19.9 ಲಕ್ಷ ಬೇಕಿದೆ। ₹100 ಕೂಡ ಜೀವ ಉಳಿಸಬಹುದು।\n\nದಯವಿಟ್ಟು ದಾನ ಮಾಡಿ ಅಥವಾ 5 ಜನರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ:\nhttps://milaap.org/fundraisers/support-krishnamoorthy-40",
+        "ta": "ஆர். கிருஷ்ணமூர்த்தி ஒரு கடின உழைப்பாளி குடும்ப தலைவர், அவர் கடுமையான மூளை தொற்றுநோயால் போராடிக் கொண்டிருக்கிறார். அவரது குடும்பம் சிகிச்சைக்காக மிகவும் கஷ்டப்பட்டுக் கொண்டிருக்கிறது।\n\n22 நாட்கள் மட்டுமே உள்ளன, ₹30 லட்சத்தில் இன்னும் ₹19.9 லட்சம் தேவை. ₹100 கூட ஒரு உயிரைக் காப்பாற்றும்।\n\nதயவுசெய்து நன்கொடை அளியுங்கள் அல்லது 5 பேரிடம் பகிருங்கள்:\nhttps://milaap.org/fundraisers/support-krishnamoorthy-40",
+        "te": "ఆర్. కృష్ణమూర్తి ఒక కష్టపడి పనిచేసే కుటుంబ పెద్దమనిషి, అతను తీవ్రమైన మెదడు ఇన్ఫెక్షన్‌తో పోరాడుతున్నాడు. అతని కుటుంబం చికిత్స కోసం చాలా ఇబ్బందిపడుతోంది।\n\n22 రోజులు మాత్రమే మిగిలి ఉన్నాయి, ₹30 లక్షల్లో ఇంకా ₹19.9 లక్షలు అవసరం. ₹100 కూడా ఒక ప్రాణాన్ని కాపాడుతుంది।\n\nదయచేసి దానం చేయండి లేదా 5 మందితో పంచుకోండి:\nhttps://milaap.org/fundraisers/support-krishnamoorthy-40",
+        "mr": "आर. कृष्णमूर्ती हे एक मेहनती कुटुंबप्रमुख आहेत जे गंभीर ब्रेन इन्फेक्शनशी लढत आहेत। त्यांचे कुटुंब उपचारासाठी खूप त्रस्त आहे।\n\n22 दिवस उरले आहेत आणि ₹30 लाखांपैकी अजून ₹19.9 लाखांची गरज आहे. ₹100 सुद्धा एक जीव वाचवू शकतो।\n\nकृपया दान करा किंवा 5 जणांना शेअर करा:\nhttps://milaap.org/fundraisers/support-krishnamoorthy-40",
+        "bn": "আর. কৃষ্ণমূর্তি একজন কঠোর পরিশ্রমী পারিবারিক ব্যক্তি যিনি মারাত্মক মস্তিষ্কের সংক্রমণের সাথে লড়াই করছেন। তার পরিবার চিকিৎসার জন্য অত্যন্ত বিপদে রয়েছে।\n\n২২ দিন বাকি আছে এবং ₹৩০ লক্ষের মধ্যে এখনও ₹১৯.৯ লক্ষ প্রয়োজন। এমনকি ₹১০০ও একটি জীবন বাঁচাতে পারে।\n\nঅনুগ্রহ করে দান করুন অথবা ৫ জনের সাথে শেয়ার করুন:\nhttps://milaap.org/fundraisers/support-krishnamoorthy-40",
+        "gu": "આર. કૃષ્ણમૂર્તિ એક મહેનતુ કુટુંબના મુખ્ય છે જે ગંભીર બ્રેઇન ઇન્ફેક્શન સાથે લડી રહ્યા છે. તેમનો કુટુંબ સારવાર માટે ખૂબ પરેશાન છે।\n\n22 દિવસ બચ્યા છે અને ₹30 લાખમાંથી હજી ₹19.9 લાખની જરૂર છે. ₹100 પણ એક જિંદગી બચાવી શકે છે।\n\nકૃપા કરીને દાન કરો અથવા 5 લોકો સાથે શેર કરો:\nhttps://milaap.org/fundraisers/support-krishnamoorthy-40",
+        "pa": "ਆਰ. ਕ੍ਰਿਸ਼ਨਮੂਰਤੀ ਇੱਕ ਮਿਹਨਤੀ ਪਰਿਵਾਰਕ ਵਿਅਕਤੀ ਹੈ ਜੋ ਗੰਭੀਰ ਦਿਮਾਗੀ ਇਨਫੈਕਸ਼ਨ ਨਾਲ ਲੜ ਰਿਹਾ ਹੈ। ਉਸਦਾ ਪਰਿਵਾਰ ਇਲਾਜ ਲਈ ਬਹੁਤ ਪਰੇਸ਼ਾਨ ਹੈ।\n\n22 ਦਿਨ ਬਚੇ ਹਨ ਅਤੇ ₹30 ਲੱਖ ਵਿੱਚੋਂ ਅਜੇ ₹19.9 ਲੱਖ ਦੀ ਲੋੜ ਹੈ। ₹100 ਵੀ ਇੱਕ ਜਾਨ ਬਚਾ ਸਕਦੇ ਹਨ।\n\nਕਿਰਪਾ ਕਰਕੇ ਦਾਨ ਕਰੋ ਜਾਂ 5 ਲੋਕਾਂ ਨਾਲ ਸ਼ੇਅਰ ਕਰੋ:\nhttps://milaap.org/fundraisers/support-krishnamoorthy-40",
+        "ml": "ആർ. കൃഷ്ണമൂർത്തി കഠിനാധ്വാനം ചെയ്യുന്ന ഒരു കുടുംബനാഥനാണ്, അദ്ദേഹം ഗുരുതരമായ മസ്തിഷ്ക അണുബാധയുമായി പോരാടുകയാണ്. അദ്ദേഹത്തിന്റെ കുടുംബം ചികിത്സയ്ക്കായി വളരെ ബുദ്ധിമുട്ടുന്നു।\n\n22 ദിവസം മാത്രം ബാക്കിയുണ്ട്, ₹30 ലക്ഷത്തിൽ ഇനിയും ₹19.9 ലക്ഷം വേണം. ₹100 പോലും ഒരു ജീവനെ രക്ഷിക്കും।\n\nദയവായി സംഭാവന ചെയ്യുക അല്ലെങ്കിൽ 5 പേരുമായി പങ്കിടുക:\nhttps://milaap.org/fundraisers/support-krishnamoorthy-40"
+      },
+      "scraped_at_iso": "2026-05-15T08:05:23.032156+00:00"
     },
     {
       "id": "milaap-1018078",
@@ -85,8 +118,19 @@
       "days_left": 22,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-chitrakala-barry",
       "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-15T07:37:54.744650+00:00"
+      "messages": {
+        "en": "A mother is fighting to save her young son's life after he suffered a critical brain emergency. Little one needs urgent medical care but the family has exhausted all their savings. Only 22 days left and still ₹16.4 lakh needed out of ₹25 lakh total. Even ₹100 helps save this child's future. Please donate OR share with 5 people - every action counts. https://milaap.org/fundraisers/support-child-of-chitrakala-barry",
+        "hi": "एक माँ अपने छोटे बेटे की जान बचाने के लिए संघर्ष कर रही है जिसे गंभीर ब्रेन इमरजेंसी हुई है। बच्चे को तुरंत इलाज चाहिए लेकिन परिवार की सारी जमा पूंजी खत्म हो गई है। केवल 22 दिन बचे हैं और अभी भी ₹25 लाख में से ₹16.4 लाख की जरूरत है। ₹100 भी इस बच्चे का भविष्य बचा सकते हैं। कृपया दान करें या 5 लोगों के साथ शेयर करें - हर मदद मायने रखती है। https://milaap.org/fundraisers/support-child-of-chitrakala-barry",
+        "kn": "ಒಬ್ಬ ತಾಯಿ ತನ್ನ ಚಿಕ್ಕ ಮಗನ ಜೀವ ಉಳಿಸಲು ಹೋರಾಡುತ್ತಿದ್ದಾಳೆ, ಅವನಿಗೆ ಗಂಭೀರ ಮೆದುಳಿನ ತುರ್ತುಸ್ಥಿತಿ ಬಂದಿದೆ। ಮಗುವಿಗೆ ತುರ್ತು ವೈದ್ಯಕೀಯ ಚಿಕಿತ್ಸೆ ಬೇಕು ಆದರೆ ಕುಟುಂಬದ ಎಲ್ಲಾ ಉಳಿತಾಯ ಖಾಲಿಯಾಗಿದೆ। ಕೇವಲ 22 ದಿನಗಳು ಉಳಿದಿವೆ ಮತ್ತು ಇನ್ನೂ ₹25 ಲಕ್ಷದಲ್ಲಿ ₹16.4 ಲಕ್ಷ ಬೇಕಿದೆ। ₹100 ಕೂಡ ಈ ಮಗುವಿನ ಭವಿಷ್ಯ ಉಳಿಸಬಹುದು। ದಯವಿಟ್ಟು ದಾನ ಮಾಡಿ ಅಥವಾ 5 ಜನರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ - ಪ್ರತಿ ಕ್ರಿಯೆ ಮುಖ್ಯ. https://milaap.org/fundraisers/support-child-of-chitrakala-barry",
+        "ta": "ஒரு தாய் தன் சிறு மகனின் உயிரைக் காப்பாற்ற போராடி வருகிறார், அவனுக்கு மூளையில் ஆபத்தான அவசரநிலை ஏற்பட்டுள்ளது। குழந்தைக்கு உடனடி மருத்துவ சிகிச்சை தேவை ஆனால் குடும்பத்தின் எல்லா சேமிப்பும் தீர்ந்துவிட்டது। வெறும் 22 நாட்கள் மட்டுமே உள்ளன, இன்னும் ₹25 லட்சத்தில் ₹16.4 லட்சம் தேவை. ₹100 கூட இந்த குழந்தையின் எதிர்காலத்தை காப்பாற்ற உதவும். தயவுசெய்து நன்கொடை அளியுங்கள் அல்லது 5 பேருடன் பகிருங்கள் - ஒவ்வொரு உதவியும் முக்கியம். https://milaap.org/fundraisers/support-child-of-chitrakala-barry",
+        "te": "ఒక తల్లి తన చిన్న కొడుకు ప్రాణాలను కాపాడటానికి పోరాడుతోంది, అతనికి మెదడులో తీవ్రమైన అత్యవసర పరిస్థితి వచ్చింది। పిల్లాడికి తక్షణ వైద్య చికిత్స అవసరం కానీ కుటుంబం యొక్క అన్ni పొదుపులు అయిపోయాయి। కేవలం 22 రోజులు మిగిలాయి మరియు ఇంకా ₹25 లక్షల్లో ₹16.4 లక్షలు కావాలి। ₹100 కూడా ఈ పిల్లవాడి భవిష్యత్తును కాపాడుతుంది. దయచేసి దానం చేయండి లేదా 5 మందితో షేర్ చేయండి - ప్రతి సహాయం ముఖ్యం. https://milaap.org/fundraisers/support-child-of-chitrakala-barry",
+        "mr": "एक आई आपल्या लहान मुलाचा जीव वाचवण्यासाठी संघर्ष करत आहे, त्याला गंभीर ब्रेन इमर्जन्सी आली आहे। मुलाला तातडीने वैद्यकीय उपचार हवेत पण कुटुंबाची सर्व जमा पूंजी संपली आहे। फक्त 22 दिवस राहिले आहेत आणि अजूनही ₹25 लाखांपैकी ₹16.4 लाख लागतील. ₹100 सुद्धा या मुलाचे भवितव्य वाचवू शकतात. कृपया दान करा किंवा 5 लोकांसोबत शेअर करा - प्रत्येक मदत महत्वाची आहे. https://milaap.org/fundraisers/support-child-of-chitrakala-barry",
+        "bn": "একজন মা তার ছোট ছেলের জীবন বাঁচানোর জন্য লড়াই করছেন, তার গুরুতর ব্রেইন ইমার্জেন্সি হয়েছে। শিশুটির জরুরি চিকিৎসা দরকার কিন্তু পরিবারের সব সঞ্চয় শেষ হয়ে গেছে। মাত্র ২২ দিন বাকি এবং এখনও ₹২৫ লাখের মধ্যে ₹১৬.৪ লাখ দরকার। ₹১০০ও এই শিশুর ভবিষ্যৎ বাঁচাতে সাহায্য করবে। অনুগ্রহ করে দান করুন অথবা ৫ জনের সাথে শেয়ার করুন - প্রতিটি সহায়তাই গুরুত্বপূর্ণ। https://milaap.org/fundraisers/support-child-of-chitrakala-barry",
+        "gu": "એક માતા પોતાના નાના પુત્રનું જીવન બચાવવા માટે સંઘર્ષ કરી રહી છે, તેને ગંભીર બ્રેઈન ઈમર્જન્સી આવી છે. બાળકને તાત્કાલિક તબીબી સારવારની જરૂર છે પરંતુ પરિવારની બધી બચત સમાપ્ત થઈ ગઈ છે. માત્ર ૨૨ દિવસ બાકી છે અને હજુ પણ ₹૨૫ લાખમાંથી ₹૧૬.૪ લાખની જરૂર છે. ₹૧૦૦ પણ આ બાળકનું ભવિષ્ય બચાવી શકે છે. કૃપા કરીને દાન આપો અથવા ૫ લોકો સાથે શેર કરો - દરેક મદદ મહત્વપૂર્ણ છે. https://milaap.org/fundraisers/support-child-of-chitrakala-barry",
+        "pa": "ਇੱਕ ਮਾਂ ਆਪਣੇ ਛੋਟੇ ਬੇਟੇ ਦੀ ਜਾਨ ਬਚਾਉਣ ਲਈ ਜੰਗ ਲੜ ਰਹੀ ਹੈ, ਉਸਨੂੰ ਗੰਭੀਰ ਦਿਮਾਗੀ ਐਮਰਜੈਂਸੀ ਆਈ ਹੈ। ਬੱਚੇ ਨੂੰ ਤੁਰੰਤ ਇਲਾਜ ਦੀ ਲੋੜ ਹੈ ਪਰ ਪਰਿਵਾਰ ਦੀ ਸਾਰੀ ਬਚਤ ਖਤਮ ਹੋ ਗਈ ਹੈ। ਸਿਰਫ਼ ੨੨ ਦਿਨ ਬਾਕੀ ਹਨ ਅਤੇ ਅਜੇ ਵੀ ₹੨੫ ਲੱਖ ਵਿੱਚੋਂ ₹੧੬.੪ ਲੱਖ ਦੀ ਲੋੜ ਹੈ। ₹੧੦੦ ਵੀ ਇਸ ਬੱਚੇ ਦਾ ਭਵਿੱਖ ਬਚਾ ਸਕਦੇ ਹਨ। ਕਿਰਪਾ ਕਰਕੇ ਦਾਨ ਕਰੋ ਜਾਂ ੫ ਲੋਕਾਂ ਨਾਲ ਸ਼ੇਅਰ ਕਰੋ - ਹਰ ਮਦਦ ਮਹੱਤਵਪੂਰਣ ਹੈ। https://milaap.org/fundraisers/support-child-of-chitrakala-barry",
+        "ml": "ഒരു അമ്മ തന്റെ ചെറുമകന്റെ ജീവൻ രക്ഷിക്കാൻ പോരാടുകയാണ്, അവനു ഗുരുതരമായ മസ്തിഷ്ക അടിയന്തിരാവസ്ഥ വന്നിട്ടുണ്ട്. കുഞ്ഞിന് അടിയന്തര വൈദ്യചികിത്സ വേണം പക്ഷേ കുടുംബത്തിന്റെ എല്ലാ സമ്പാദ്യവും തീർന്നുപോയി. വെറും 22 ദിവസം മാത്രം ബാക്കിയുണ്ട്, ഇനിയും ₹25 ലക്ഷത്തിൽ നിന്ന് ₹16.4 ലക്ഷം വേണം. ₹100 പോലും ഈ കുഞ്ഞിന്റെ ഭാവി രക്ഷിക്കാൻ സഹായിക്കും. ദയവായി സംഭാവന നൽകുക അല്ലെങ്കിൽ 5 പേരുമായി പങ്കിടുക - ഓരോ സഹായവും പ്രധാനമാണ്. https://milaap.org/fundraisers/support-child-of-chitrakala-barry"
+      },
+      "scraped_at_iso": "2026-05-15T08:05:23.032190+00:00"
     },
     {
       "id": "milaap-1018569",
@@ -102,8 +146,19 @@
       "days_left": 24,
       "campaign_url": "https://milaap.org/fundraisers/support-subramanian-ganesan-1",
       "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-15T07:37:54.744807+00:00"
+      "messages": {
+        "en": "My friend's son Subramanian Ganesan suffered a brain stroke and is fighting for recovery. The family needs our support for his treatment.\n\nOnly 24 days left to raise ₹14.5 lakh more (₹6 lakh raised so far).\n\nEven ₹100 helps save a life. Please donate OR share with 5 people.\nhttps://milaap.org/fundraisers/support-subramanian-ganesan-1",
+        "hi": "मेरे मित्र के बेटे सुब्रमण्यम गणेशन को ब्रेन स्ट्रोक हुआ है और वे रिकवरी के लिए लड़ रहे हैं। परिवार को इलाज के लिए हमारी मदद चाहिए।\n\nसिर्फ 24 दिन बचे हैं ₹14.5 लाख और जुटाने के लिए (₹6 लाख जुट गए हैं)।\n\nसिर्फ ₹100 भी एक जिंदगी बचा सकते हैं। कृपया दान करें या 5 लोगों के साथ शेयर करें।\nhttps://milaap.org/fundraisers/support-subramanian-ganesan-1",
+        "kn": "ನನ್ನ ಸ್ನೇಹಿತನ ಮಗ ಸುಬ್ರಮಣ್ಯಂ ಗಣೇಶನಿಗೆ ಬ್ರೇನ್ ಸ್ಟ್ರೋಕ್ ಆಗಿದೆ ಮತ್ತು ಅವನು ಚೇತರಿಕೆಗಾಗಿ ಹೋರಾಡುತ್ತಿದ್ದಾನೆ. ಅವನ ಚಿಕಿತ್ಸೆಗೆ ಕುಟುಂಬಕ್ಕೆ ನಮ್ಮ ಸಹಾಯ ಬೇಕು।\n\nಇನ್ನೂ ₹14.5 ಲಕ್ಷ ಸಂಗ್ರಹಿಸಲು ಕೇವಲ 24 ದಿನಗಳು ಬಾಕಿ (₹6 ಲಕ್ಷ ಸಂಗ್ರಹವಾಗಿದೆ)।\n\nಕೇವಲ ₹100 ಕೂಡ ಒಂದು ಜೀವವನ್ನು ಉಳಿಸುತ್ತದೆ. ದಯವಿಟ್ಟು ದಾನ ಮಾಡಿ ಅಥವಾ 5 ಜನರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ।\nhttps://milaap.org/fundraisers/support-subramanian-ganesan-1",
+        "ta": "என் நண்பரின் மகன் சுப்ரமண்யம் கணேசனுக்கு மூளைவாதம் ஏற்பட்டு அவர் குணமாவதற்காக போராடிக்கொண்டிருக்கிறார். சிகிச்சைக்காக குடும்பத்திற்கு நமது உதவி தேவை।\n\nஇன்னும் ₹14.5 லட்சம் சேகரிக்க வெறும் 24 நாட்கள் மட்டுமே (₹6 லட்சம் சேகரிக்கப்பட்டுள்ளது)।\n\n₹100 கூட ஒரு உயிரைக் காப்பாற்றும். தயவுசெய்து நன்கொடை அளியுங்கள் அல்லது 5 பேருடன் பகிருங்கள்।\nhttps://milaap.org/fundraisers/support-subramanian-ganesan-1",
+        "te": "నా స్నేహితుని కొడుకు సుబ్రమణ్యం గణేశన్‌కు బ్రెయిన్ స్ట్రోక్ వచ్చింది మరియు అతను కోలుకోవడానికి పోరాడుతున్నాడు. చికిత్స కోసం కుటుంబానికి మా సహాయం అవసరం।\n\nఇంకా ₹14.5 లక్షలు సేకరించడానికి కేవలం 24 రోజులు మాత్రమే (₹6 లక్షలు సేకరించబడింది)।\n\n₹100 కూడా ఒక ప్రాణాన్ని రక్షించగలదు. దయచేసి విరాళం ఇవ్వండి లేదా 5 మందితో పంచుకోండి।\nhttps://milaap.org/fundraisers/support-subramanian-ganesan-1",
+        "mr": "माझ्या मित्राचा मुलगा सुब्रमण्यम गणेशन याला ब्रेन स्ट्रोक झाला आहे आणि तो बरे होण्यासाठी लढत आहे. उपचारासाठी कुटुंबाला आमच्या मदतीची गरज आहे।\n\nआणखी ₹14.5 लाख गोळा करण्यासाठी फक्त 24 दिवस शिल्लक (₹6 लाख गोळा झाले आहे)।\n\nफक्त ₹100 देखील एक जीव वाचवू शकतात. कृपया दान करा किंवा 5 लोकांसोबत शेअर करा।\nhttps://milaap.org/fundraisers/support-subramanian-ganesan-1",
+        "bn": "আমার বন্ধুর ছেলে সুব্রমণ্যম গণেশনের ব্রেন স্ট্রোক হয়েছে এবং তিনি সুস্থতার জন্য লড়াই করছেন। চিকিৎসার জন্য পরিবারের আমাদের সাহায্য প্রয়োজন।\n\nআরো ₹১৪.৫ লাখ তোলার জন্য মাত্র ২৪ দিন বাকি (₹৬ লাখ তোলা হয়েছে)।\n\nমাত্র ₹১০০ও একটি জীবন বাঁচাতে পারে। দয়া করে দান করুন অথবা ৫ জনের সাথে শেয়ার করুন।\nhttps://milaap.org/fundraisers/support-subramanian-ganesan-1",
+        "gu": "મારા મિત્રના પુત્ર સુબ્રમણ્યમ ગણેશનને બ્રેન સ્ટ્રોક આવ્યો છે અને તે સ્વસ્થ થવા માટે લડી રહ્યો છે. સારવાર માટે પરિવારને આપણી મદદની જરૂર છે।\n\nવધુ ₹14.5 લાખ એકત્ર કરવા માટે માત્ર 24 દિવસ બચ્યા (₹6 લાખ એકત્ર થયા)।\n\nમાત્ર ₹100 પણ એક જીવન બચાવી શકે છે. કૃપા કરીને દાન કરો અથવા 5 લોકો સાથે શેર કરો।\nhttps://milaap.org/fundraisers/support-subramanian-ganesan-1",
+        "pa": "ਮੇਰੇ ਦੋਸਤ ਦੇ ਪੁੱਤਰ ਸੁਬ੍ਰਮਣ੍ਯਮ ਗਣੇਸ਼ਨ ਨੂੰ ਬ੍ਰੇਨ ਸਟ੍ਰੋਕ ਆਇਆ ਹੈ ਅਤੇ ਉਹ ਠੀਕ ਹੋਣ ਲਈ ਲੜ ਰਿਹਾ ਹੈ। ਇਲਾਜ ਲਈ ਪਰਿਵਾਰ ਨੂੰ ਸਾਡੀ ਮਦਦ ਚਾਹੀਦੀ ਹੈ।\n\nਹੋਰ ₹14.5 ਲੱਖ ਇਕੱਠੇ ਕਰਨ ਲਈ ਸਿਰਫ਼ 24 ਦਿਨ ਬਾਕੀ (₹6 ਲੱਖ ਇਕੱਠੇ ਹੋ ਗਏ)।\n\nਸਿਰਫ਼ ₹100 ਵੀ ਇੱਕ ਜ਼ਿੰਦਗੀ ਬਚਾ ਸਕਦੇ ਹਨ। ਕਿਰਪਾ ਕਰਕੇ ਦਾਨ ਕਰੋ ਜਾਂ 5 ਲੋਕਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰੋ।\nhttps://milaap.org/fundraisers/support-subramanian-ganesan-1",
+        "ml": "എന്റെ സുഹൃത്തിന്റെ മകൻ സുബ്രമണ്യം ഗണേശനു ബ്രെയിൻ സ്ട്രോക്ക് വന്നിട്ടുണ്ട്, അദ്ദേഹം സുഖപ്പെടാൻ പോരാടുകയാണ്. ചികിത്സയ്ക്കായി കുടുംബത്തിന് നമ്മുടെ സഹായം ആവശ്യമാണ്।\n\nഇനിയും ₹14.5 ലക്ഷം സ്വരൂപിക്കാൻ 24 ദിവസം മാത്രം ബാക്കി (₹6 ലക്ഷം സ്വരൂപിച്ചു)।\n\n₹100 പോലും ഒരു ജീവൻ രക്ഷിക്കാം. ദയവായി സംഭാവന നൽകുക അല്ലെങ്കിൽ 5 പേരുമായി പങ്കിടുക।\nhttps://milaap.org/fundraisers/support-subramanian-ganesan-1"
+      },
+      "scraped_at_iso": "2026-05-15T08:05:23.032282+00:00"
     },
     {
       "id": "milaap-1019272",
@@ -113,17 +168,28 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1778666964/production/images/campaign/1019272/medical_1553587798_1778666963.jpg",
-      "amount_raised_inr": 1083278.0,
+      "amount_raised_inr": 1085728.0,
       "amount_goal_inr": 1300000.0,
       "deadline_iso": "2026-06-12",
       "days_left": 28,
       "campaign_url": "https://milaap.org/fundraisers/support-karpagavalli-6",
       "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-15T07:37:54.744511+00:00"
+      "messages": {
+        "en": "My friend's mother Karpagavalli needs our help urgently. She's fighting a serious health battle and her family is struggling with medical expenses.\n\nOnly 28 days left and ₹2.1 lakh still needed out of ₹13 lakh goal. Already raised ₹10.9 lakh on verified Milaap platform.\n\nEven ₹100 helps. Please donate OR share with 5 people.\nhttps://milaap.org/fundraisers/support-karpagavalli-6",
+        "hi": "मेरी दोस्त की मां कार्पगावल्ली को हमारी तत्काल मदद चाहिए। वे एक गंभीर बीमारी से लड़ रही हैं और उनका परिवार इलाज के खर्च से परेशान है।\n\nसिर्फ 28 दिन बचे हैं और ₹13 लाख के लक्ष्य में से ₹2.1 लाख की अभी भी जरूरत है। वेरिफाइड मिलाप पर ₹10.9 लाख जमा हो चुके हैं।\n\n₹100 भी मदद करता है। कृपया दान करें या 5 लोगों के साथ शेयर करें।\nhttps://milaap.org/fundraisers/support-karpagavalli-6",
+        "kn": "ನನ್ನ ಗೆಳೆಯನ ತಾಯಿ ಕರ್ಪಗಾವಳ್ಳಿ ಅವರಿಗೆ ನಮ್ಮ ತುರ್ತು ಸಹಾಯ ಬೇಕಿದೆ. ಅವರು ಗಂಭೀರ ಆರೋಗ್ಯ ಸಮಸ್ಯೆಯೊಂದಿಗೆ ಹೋರಾಡುತ್ತಿದ್ದಾರೆ ಮತ್ತು ಅವರ ಕುಟುಂಬ ವೈದ್ಯಕೀಯ ವೆಚ್ಚಗಳಿಂದ ತತ್ತರಿಸುತ್ತಿದೆ.\n\nಕೇವಲ 28 ದಿನಗಳು ಉಳಿದಿವೆ ಮತ್ತು ₹13 ಲಕ್ಷ ಗುರಿಯಲ್ಲಿ ₹2.1 ಲಕ್ಷ ಇನ್ನೂ ಬೇಕಿದೆ. ಪರಿಶೀಲಿತ ಮಿಲಾಪ್‌ನಲ್ಲಿ ₹10.9 ಲಕ್ಷ ಸಂಗ್ರಹವಾಗಿದೆ.\n\n₹100 ಕೂಡ ಸಹಾಯ ಮಾಡುತ್ತದೆ. ದಯವಿಟ್ಟು ದಾನ ಮಾಡಿ ಅಥವಾ 5 ಜನರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ.\nhttps://milaap.org/fundraisers/support-karpagavalli-6",
+        "ta": "என் நண்பனின் அம்மா கார்ப்பகாவள்ளிக்கு நம் உடனடி உதவி தேவை. அவர் கடுமையான உடல்நலப் பிரச்சினையுடன் போராடி வருகிறார், அவர் குடும்பம் மருத்துவ செலவுகளால் தவிக்கிறது.\n\nவெறும் 28 நாட்கள் மட்டுமே உள்ளன, ₹13 லட்சம் இலக்கில் ₹2.1 லட்சம் இன்னும் தேவை. சரிபார்க்கப்பட்ட மிலாப்பில் ₹10.9 லட்சம் திரட்டப்பட்டுள்ளது.\n\n₹100 கூட உதவும். தயவுசெய்து நன்கொடை அளியுங்கள் அல்லது 5 பேருடன் பகிருங்கள்.\nhttps://milaap.org/fundraisers/support-karpagavalli-6",
+        "te": "నా స్నేహితుని తల్లి కర్పగావల్లికి మన తక్షణ సహాయం కావాలి. ఆమె తీవ్రమైన ఆరోగ్య సమస్యతో పోరాడుతోంది మరియు ఆమె కుటుంబం వైద్య ఖర్చులతో కష్టపడుతోంది.\n\nకేవలం 28 రోజులు మాత్రమే మిగిలాయి మరియు ₹13 లక్షల లక్ష్యంలో ₹2.1 లక్షలు ఇంకా అవసరం. ధృవీకరించబడిన మిలాప్‌లో ₹10.9 లక్షలు సేకరించారు.\n\n₹100 కూడా సహాయపడుతుంది. దయచేసి దానం చేయండి లేదా 5 మందితో షేర్ చేయండి.\nhttps://milaap.org/fundraisers/support-karpagavalli-6",
+        "mr": "माझ्या मित्राची आई कार्पगावल्ली यांना आमच्या तातडीच्या मदतीची गरज आहे. त्या गंभीर आजारानं लढत आहेत आणि त्यांचं कुटुंब वैद्यकीय खर्चानं हैराण झालं आहे.\n\nफक्त 28 दिवस उरले आहेत आणि ₹13 लाखांच्या लक्ष्यातून ₹2.1 लाख अजून गरज आहे. तपासलेल्या मिलाप प्लॅटफॉर्मवर ₹10.9 लाख गोळा झाले आहेत.\n\n₹100 सुद्धा मदत करते. कृपया दान करा किंवा 5 लोकांसोबत शेअर करा.\nhttps://milaap.org/fundraisers/support-karpagavalli-6",
+        "bn": "আমার বন্ধুর মা কর্পগাবল্লীর জরুরি আমাদের সাহায্য দরকার। তিনি গুরুতর স্বাস্থ্য সমস্যার সাথে লড়াই করছেন এবং তার পরিবার চিকিৎসা খরচে বিপাকে পড়েছে।\n\nমাত্র 28 দিন বাকি এবং ₹13 লাখ লক্ষ্যের মধ্যে ₹2.1 লাখ এখনও প্রয়োজন। যাচাইকৃত মিলাপে ₹10.9 লাখ সংগ্রহ হয়েছে।\n\n₹100ও সাহায্য করে। অনুগ্রহ করে দান করুন অথবা 5 জনের সাথে শেয়ার করুন।\nhttps://milaap.org/fundraisers/support-karpagavalli-6",
+        "gu": "મારા મિત્રની માતા કર્પગાવલ્લીને અમારી તાત્કાલિક મદદ જોઈએ છે. તેમણે ગંભીર સ્વાસ્થ્ય સમસ્યા સાથે લડત આપી રહી છે અને તેમનો પરિવાર તબીબી ખર્ચથી પરેશાન છે.\n\nફક્ત 28 દિવસ બાકી છે અને ₹13 લાખના ધ્યેયમાંથી ₹2.1 લાખ હજી જરૂરી છે. ચકાસાયેલા મિલાપ પ્લેટફોર્મ પર ₹10.9 લાખ એકત્ર થયા છે.\n\n₹100 પણ મદદ કરે છે. કૃપા કરીને દાન આપો અથવા 5 લોકો સાથે શેર કરો.\nhttps://milaap.org/fundraisers/support-karpagavalli-6",
+        "pa": "ਮੇਰੇ ਦੋਸਤ ਦੀ ਮਾਂ ਕਰਪਗਾਵਲੀ ਨੂੰ ਸਾਡੀ ਫੌਰੀ ਮਦਦ ਦੀ ਲੋੜ ਹੈ। ਉਹ ਗੰਭੀਰ ਸਿਹਤ ਸਮੱਸਿਆ ਨਾਲ ਲੜ ਰਹੀ ਹੈ ਅਤੇ ਉਸਦਾ ਪਰਿਵਾਰ ਮੈਡੀਕਲ ਖਰਚਿਆਂ ਨਾਲ ਪਰੇਸ਼ਾਨ ਹੈ।\n\nਸਿਰਫ 28 ਦਿਨ ਬਾਕੀ ਹਨ ਅਤੇ ₹13 ਲੱਖ ਦੇ ਟੀਚੇ ਵਿੱਚੋਂ ₹2.1 ਲੱਖ ਅਜੇ ਵੀ ਲੋੜ ਹੈ। ਤਸਦੀਕ ਸ਼ੁਦਾ ਮਿਲਾਪ 'ਤੇ ₹10.9 ਲੱਖ ਇਕੱਠੇ ਹੋਏ ਹਨ।\n\n₹100 ਵੀ ਮਦਦ ਕਰਦਾ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਦਾਨ ਕਰੋ ਜਾਂ 5 ਲੋਕਾਂ ਨਾਲ ਸ਼ੇਅਰ ਕਰੋ।\nhttps://milaap.org/fundraisers/support-karpagavalli-6",
+        "ml": "എന്റെ സുഹൃത്തിന്റെ അമ്മ കർപ്പഗാവള്ളിക്ക് നമ്മുടെ അടിയന്തിര സഹായം ആവശ്യമാണ്. അവർ ഗുരുതരമായ ആരോഗ്യപ്രശ്നവുമായി പോരാടുകയാണ്, അവരുടെ കുടുംബം വൈദ്യചികിത്സാ ചെലവുകളാൽ വലഞ്ഞിരിക്കുന്നു.\n\nകേവലം 28 ദിവസം മാത്രം ശേഷിക്കുന്നു, ₹13 ലക്ഷത്തിന്റെ ലക്ഷ്യത്തിൽ ₹2.1 ലക്ഷം ഇനിയും വേണം. പരിശോധിച്ച മിലാപ്പിൽ ₹10.9 ലക്ഷം ശേഖരിച്ചു.\n\n₹100 പോലും സഹായിക്കും. ദയവായി സംഭാവന നൽകുക അല്ലെങ്കിൽ 5 പേരുമായി പങ്കിടുക.\nhttps://milaap.org/fundraisers/support-karpagavalli-6"
+      },
+      "scraped_at_iso": "2026-05-15T08:05:23.032116+00:00"
     },
     {
-      "id": "ketto-9-7654085",
+      "id": "ketto-9-4034846",
       "source": "ketto",
       "title": "Save My Father’s Heart! Please Donate To His Heart Block Treatment!",
       "description": "Save My Father’s Heart! Please Donate To His Heart Block Treatment!",
@@ -136,42 +202,75 @@
       "days_left": 29,
       "campaign_url": "https://www.ketto.org/fundraiser/my-father-is-suffering-from-complete-heart-block-we-need-your-help-to-provide-for-his-treatment-1139877",
       "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-15T07:37:48.685789+00:00"
+      "messages": {
+        "en": "My friend's father needs our help urgently! He's suffering from complete heart block and needs immediate treatment to save his life.\n\nOnly 29 days left to raise ₹3.7 lakh more (₹77K raised so far).\n\nEven ₹100 helps save a precious life.\n\nPlease donate OR share with 5 people who might help.\nhttps://www.ketto.org/fundraiser/my-father-is-suffering-from-complete-heart-block-we-need-your-help-to-provide-for-his-treatment-1139877",
+        "hi": "मेरे दोस्त के पिता जी को हमारी मदद की सख्त जरूरत है! उनका हार्ट ब्लॉक हो गया है और जान बचाने के लिए तुरंत इलाज चाहिए।\n\nसिर्फ 29 दिन बचे हैं, अभी भी ₹3.7 लाख चाहिए (₹77 हजार जमा हुए)।\n\n₹100 भी एक जिंदगी बचाने में मदद करेगा।\n\nकृपया दान करें या 5 लोगों के साथ शेयर करें।\nhttps://www.ketto.org/fundraiser/my-father-is-suffering-from-complete-heart-block-we-need-your-help-to-provide-for-his-treatment-1139877",
+        "kn": "ನನ್ನ ಸ್ನೇಹಿತನ ತಂದೆಗೆ ನಮ್ಮ ಸಹಾಯ ತುರ್ತಾಗಿ ಬೇಕಿದೆ! ಅವರಿಗೆ ಪೂರ್ಣ ಹೃದಯ ಬ್ಲಾಕ್ ಆಗಿದ್ದು, ಜೀವ ಉಳಿಸಲು ತಕ್ಷಣ ಚಿಕಿತ್ಸೆ ಬೇಕು।\n\n29 ದಿನಗಳು ಮಾತ್ರ ಉಳಿದಿವೆ, ಇನ್ನೂ ₹3.7 ಲಕ್ಷ ಬೇಕು (₹77 ಸಾವಿರ ಸಂಗ್ರಹವಾಗಿದೆ)।\n\n₹100 ಕೂಡ ಒಂದು ಜೀವ ಉಳಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ।\n\nದಯವಿಟ್ಟು ದಾನ ಮಾಡಿ ಅಥವಾ 5 ಜನರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ।\nhttps://www.ketto.org/fundraiser/my-father-is-suffering-from-complete-heart-block-we-need-your-help-to-provide-for-his-treatment-1139877",
+        "ta": "என் நண்பனின் அப்பாவுக்கு நமது உதவி அவசரமாக தேவை! அவருக்கு முழு இதய அடைப்பு ஏற்பட்டு, உயிரைக் காப்பாற்ற உடனடி சிகிச்சை தேவை।\n\n29 நாட்கள் மட்டுமே உள்ளன, இன்னும் ₹3.7 லட்சம் தேவை (₹77 ஆயிரம் சேகரிக்கப்பட்டுள்ளது)।\n\n₹100 கூட ஒரு உயிரை காப்பாற்ற உதவும்।\n\nதயவுசெய்து நன்கொடை அளியுங்கள் அல்லது 5 பேருடன் பகிருங்கள்।\nhttps://www.ketto.org/fundraiser/my-father-is-suffering-from-complete-heart-block-we-need-your-help-to-provide-for-his-treatment-1139877",
+        "te": "నా స్నేహితుడి తండ్రికి మా సహాయం అత్యవసరంగా కావాలి! అతనికి పూర్తి గుండె బ్లాక్ వచ్చింది, ప్రాణాలను కాపాడేందుకు తక్షణం చికిత్స అవసరం।\n\n29 రోజులు మాత్రమే మిగిలి ఉన్నాయి, ఇంకా ₹3.7 లక్షలు కావాలి (₹77 వేలు వచ్చాయి)।\n\n₹100 కూడా ఒక ప్రాణాన్ని కాపాడేందుకు సహాయపడుతుంది।\n\nదయచేసి దానం చేయండి లేదా 5 మందితో పంచుకోండి।\nhttps://www.ketto.org/fundraiser/my-father-is-suffering-from-complete-heart-block-we-need-your-help-to-provide-for-his-treatment-1139877",
+        "mr": "माझ्या मित्राच्या वडिलांना आमच्या मदतीची तातडीची गरज आहे! त्यांना पूर्ण हृदय ब्लॉक झाला आहे आणि जीव वाचवण्यासाठी तत्काळ उपचार हवेत।\n\nफक्त 29 दिवस उरले आहेत, अजून ₹3.7 लाख हवेत (₹77 हजार जमा झाले)।\n\n₹100 देखील एक जीव वाचवण्यास मदत करेल।\n\nकृपया दान करा किंवा 5 लोकांसह शेअर करा।\nhttps://www.ketto.org/fundraiser/my-father-is-suffering-from-complete-heart-block-we-need-your-help-to-provide-for-his-treatment-1139877",
+        "bn": "আমার বন্ধুর বাবার জরুরি আমাদের সাহায্য দরকার! তার সম্পূর্ণ হার্ট ব্লক হয়েছে এবং জীবন বাঁচাতে তাৎক্ষণিক চিকিৎসা প্রয়োজন।\n\nমাত্র ২৯ দিন বাকি, আরও ₹৩.৭ লক্ষ লাগবে (₹৭৭ হাজার জমা হয়েছে)।\n\n₹১০০ও একটি জীবন বাঁচাতে সাহায্য করবে।\n\nঅনুগ্রহ করে দান করুন অথবা ৫ জনের সাথে শেয়ার করুন।\nhttps://www.ketto.org/fundraiser/my-father-is-suffering-from-complete-heart-block-we-need-your-help-to-provide-for-his-treatment-1139877",
+        "gu": "મારા મિત્રના પિતાને આપણી મદદની તાત્કાલિક જરૂર છે! તેમને સંપૂર્ણ હાર્ટ બ્લોક થયો છે અને જીવન બચાવવા માટે તુરંત સારવાર જરૂરી છે।\n\nફક્ત 29 દિવસ બાકી છે, હજુ પણ ₹3.7 લાખ જોઈએ (₹77 હજાર ભેગા થયા છે)।\n\n₹100 પણ એક જીવન બચાવવામાં મદદ કરશે।\n\nકૃપા કરીને દાન કરો કે પછી 5 લોકો સાથે શેયર કરો।\nhttps://www.ketto.org/fundraiser/my-father-is-suffering-from-complete-heart-block-we-need-your-help-to-provide-for-his-treatment-1139877",
+        "pa": "ਮੇਰੇ ਦੋਸਤ ਦੇ ਪਿਤਾ ਜੀ ਨੂੰ ਸਾਡੀ ਮਦਦ ਦੀ ਤੁਰੰਤ ਲੋੜ ਹੈ! ਉਨ੍ਹਾਂ ਨੂੰ ਪੂਰਾ ਹਾਰਟ ਬਲਾਕ ਹੋਇਆ ਹੈ ਅਤੇ ਜਾਨ ਬਚਾਉਣ ਲਈ ਤੁਰੰਤ ਇਲਾਜ ਚਾਹੀਦਾ ਹੈ।\n\nਸਿਰਫ 29 ਦਿਨ ਬਾਕੀ ਹਨ, ਹਾਲੇ ਵੀ ₹3.7 ਲੱਖ ਚਾਹੀਦੇ ਹਨ (₹77 ਹਜ਼ਾਰ ਇਕੱਠੇ ਹੋਏ ਹਨ)।\n\n₹100 ਵੀ ਇੱਕ ਜਾਨ ਬਚਾਉਣ ਵਿੱਚ ਮਦਦ ਕਰੇਗਾ।\n\nਕਿਰਪਾ ਕਰਕੇ ਦਾਨ ਕਰੋ ਜਾਂ 5 ਲੋਕਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰੋ।\nhttps://www.ketto.org/fundraiser/my-father-is-suffering-from-complete-heart-block-we-need-your-help-to-provide-for-his-treatment-1139877",
+        "ml": "എന്റെ സുഹൃത്തിന്റെ അച്ഛന് നമ്മുടെ സഹായം അടിയന്തിരമായി വേണം! അദ്ദേഹത്തിന് പൂർണ്ണ ഹൃദയ തടസ്സം ഉണ്ടായിട്ടുണ്ട്, ജീവൻ രക്ഷിക്കാൻ ഉടനടി ചികിത്സ വേണം।\n\n29 ദിവസം മാത്രം ബാക്കി, ഇനിയും ₹3.7 ലക്ഷം വേണം (₹77 ആയിരം ശേഖരിച്ചു)।\n\n₹100 പോലും ഒരു ജീവൻ രക്ഷിക്കാൻ സഹായിക്കും।\n\nദയവായി സംഭാവന നൽകുക അല്ലെങ്കിൽ 5 പേരുമായി പങ്കിടുക।\nhttps://www.ketto.org/fundraiser/my-father-is-suffering-from-complete-heart-block-we-need-your-help-to-provide-for-his-treatment-1139877"
+      },
+      "scraped_at_iso": "2026-05-15T08:05:15.741881+00:00"
     },
     {
-      "id": "ketto-5-8043071",
+      "id": "ketto-5-3237345",
       "source": "ketto",
       "title": "My Father Is Suffering From Chronic Liver Disease. We Need Your Help To Provide For His Treatment",
       "description": "My Father Is Suffering From Chronic Liver Disease. We Need Your Help To Provide For His Treatment",
       "patient_name": "V Selvan",
       "condition": "Chronic Liver Disease",
       "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/images/fundraiser-default-image.jpg",
-      "amount_raised_inr": 90575.0,
+      "amount_raised_inr": 94575.0,
       "amount_goal_inr": 3000000.0,
       "deadline_iso": "2026-06-14",
       "days_left": 30,
       "campaign_url": "https://www.ketto.org/fundraiser/my-father-is-suffering-from-chronic-liver-disease-we-need-your-help-to-provide-for-his-treatment-1140218",
       "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-15T07:37:48.685690+00:00"
+      "messages": {
+        "en": "🙏 My friend's father is fighting chronic liver disease and they're running out of time. This loving family man needs urgent treatment but they can't afford it alone.\n\nOnly 30 days left to raise ₹29.1 lakh more (₹95K raised so far).\n\nEven ₹100 helps save a life. Please donate OR share with 5 people.\n\nhttps://www.ketto.org/fundraiser/my-father-is-suffering-from-chronic-liver-disease-we-need-your-help-to-provide-for-his-treatment-1140218",
+        "hi": "🙏 मेरे दोस्त के पिताजी क्रोनिक लिवर की बीमारी से जूझ रहे हैं और समय कम है। इस प्यारे पिता को तुरंत इलाज चाहिए लेकिन परिवार अकेले खर्च नहीं उठा सकता।\n\nसिर्फ 30 दिन बचे हैं, ₹29.1 लाख और चाहिए (₹95 हजार मिले हैं)।\n\nसिर्फ ₹100 भी एक जिंदगी बचा सकते हैं। कृपया दान करें या 5 लोगों को शेयर करें।\n\nhttps://www.ketto.org/fundraiser/my-father-is-suffering-from-chronic-liver-disease-we-need-your-help-to-provide-for-his-treatment-1140218",
+        "kn": "🙏 ನನ್ನ ಸ್ನೇಹಿತನ ತಂದೆಯವರು ದೀರ್ಘಕಾಲೀನ ಯಕೃತ್ತಿನ ಕಾಯಿಲೆಯಿಂದ ಬಳಲುತ್ತಿದ್ದಾರೆ ಮತ್ತು ಸಮಯ ಕಡಿಮೆ ಇದೆ. ಈ ಪ್ರೀತಿಯ ತಂದೆಗೆ ತುರ್ತು ಚಿಕಿತ್ಸೆ ಬೇಕು ಆದರೆ ಕುಟುಂಬಕ್ಕೆ ಒಬ್ಬರೇ ಖರ್ಚು ಹೊರಲು ಸಾಧ್ಯವಿಲ್ಲ।\n\nಕೇವಲ 30 ದಿನಗಳು ಬಾಕಿ, ಇನ್ನೂ ₹29.1 ಲಕ್ಷ ಬೇಕು (₹95 ಸಾವಿರ ಸಂಗ್ರಹವಾಗಿದೆ)।\n\nಕೇವಲ ₹100 ಕೂಡ ಒಂದು ಜೀವ ಉಳಿಸಬಲ್ಲದು. ದಯವಿಟ್ಟು ದಾನ ಮಾಡಿ ಅಥವಾ 5 ಜನರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ।\n\nhttps://www.ketto.org/fundraiser/my-father-is-suffering-from-chronic-liver-disease-we-need-your-help-to-provide-for-his-treatment-1140218",
+        "ta": "🙏 என் நண்பரின் தந்தை நீண்டகால கல்லீரல் நோயால் அவதிப்படுகிறார், நேரம் குறைவாக உள்ளது. இந்த அன்பான தந்தைக்கு அவசர சிகிச்சை தேவை ஆனால் குடும்பத்தினரால் மட்டுமே செலவை தாங்க முடியவில்லை।\n\nவெறும் 30 நாட்கள் மட்டுமே உள்ளன, இன்னும் ₹29.1 லட்சம் தேவை (₹95 ஆயிரம் சேர்ந்துள்ளது)।\n\nவெறும் ₹100 கூட ஒரு உயிரை காப்பாற்றும். தயவுசெய்து நன்கொடை அளியுங்கள் அல்லது 5 பேருடன் பகிருங்கள்।\n\nhttps://www.ketto.org/fundraiser/my-father-is-suffering-from-chronic-liver-disease-we-need-your-help-to-provide-for-his-treatment-1140218",
+        "te": "🙏 నా స్నేహితుడి తండ్రి దీర్ఘకాలిక కాలేయ వ్యాధితో బాధపడుతున్నారు, సమయం తక్కువగా ఉంది. ఈ ప్రేమగల తండ్రికి అత్యవసర చికిత్స అవసరం కానీ కుటుంబంవారు ఒంటరిగా ఖర్చు భరించలేరు।\n\nకేవలం 30 రోజులు మిగిలాయి, ఇంకా ₹29.1 లక్షలు కావాలి (₹95 వేలు వచ్చాయి)।\n\nకేవలం ₹100 కూడా ఒక ప్రాణాన్ని కాపాడుతుంది. దయచేసి దానం చేయండి లేదా 5 మందితో షేర్ చేయండి।\n\nhttps://www.ketto.org/fundraiser/my-father-is-suffering-from-chronic-liver-disease-we-need-your-help-to-provide-for-his-treatment-1140218",
+        "mr": "🙏 माझ्या मित्राचे वडील तीव्र यकृत रोगाने ग्रस्त आहेत आणि वेळ कमी आहे. या प्रेमळ वडिलांना तातडीने उपचारांची गरज आहे पण कुटुंब एकट्याने खर्च उचलू शकत नाही।\n\nफक्त 30 दिवस उरले आहेत, आणखी ₹29.1 लाख हवे (₹95 हजार मिळाले आहेत)।\n\nफक्त ₹100 देखील एक जीव वाचवू शकतात. कृपया दान करा किंवा 5 जणांना शेअर करा।\n\nhttps://www.ketto.org/fundraiser/my-father-is-suffering-from-chronic-liver-disease-we-need-your-help-to-provide-for-his-treatment-1140218",
+        "bn": "🙏 আমার বন্ধুর বাবা দীর্ঘস্থায়ী লিভারের রোগে ভুগছেন এবং সময় কম। এই ভালোবাসার বাবার জরুরি চিকিৎসা দরকার কিন্তু পরিবার একা খরচ বহন করতে পারছে না।\n\nমাত্র ৩০ দিন বাকি, আরো ₹২৯.১ লাখ দরকার (₹৯৫ হাজার পাওয়া গেছে)।\n\nমাত্র ₹১০০ও একটা জীবন বাঁচাতে পারে। অনুগ্রহ করে দান করুন বা ৫ জনের সাথে শেয়ার করুন।\n\nhttps://www.ketto.org/fundraiser/my-father-is-suffering-from-chronic-liver-disease-we-need-your-help-to-provide-for-his-treatment-1140218",
+        "gu": "🙏 મારા મિત્રના પિતાજી લીવરની લાંબી બીમારીથી પીડાય છે અને સમય ઓછો છે. આ પ્રેમાળ પિતાને તાત્કાલિક સારવારની જરૂર છે પણ કુટુંબ એકલું ખર્ચ ઊંચકી શકતું નથી।\n\nફક્ત 30 દિવસ બાકી છે, વધુ ₹29.1 લાખ જોઈએ (₹95 હજાર મળ્યા છે)।\n\nફક્ત ₹100 પણ એક જિંદગી બચાવી શકે છે. કૃપા કરીને દાન કરો કે 5 લોકો સાથે શેર કરો।\n\nhttps://www.ketto.org/fundraiser/my-father-is-suffering-from-chronic-liver-disease-we-need-your-help-to-provide-for-his-treatment-1140218",
+        "pa": "🙏 ਮੇਰੇ ਦੋਸਤ ਦੇ ਪਿਤਾ ਜੀ ਪੁਰਾਣੀ ਲਿਵਰ ਦੀ ਬਿਮਾਰੀ ਨਾਲ ਲੜ ਰਹੇ ਹਨ ਅਤੇ ਸਮਾਂ ਘੱਟ ਹੈ। ਇਸ ਪਿਆਰੇ ਪਿਤਾ ਨੂੰ ਤੁਰੰਤ ਇਲਾਜ ਚਾਹੀਦਾ ਹੈ ਪਰ ਪਰਿਵਾਰ ਇਕੱਲਾ ਖਰਚਾ ਨਹੀਂ ਚੁੱਕ ਸਕਦਾ।\n\nਸਿਰਫ 30 ਦਿਨ ਬਾਕੀ ਹਨ, ਹੋਰ ₹29.1 ਲੱਖ ਚਾਹੀਦੇ ਹਨ (₹95 ਹਜ਼ਾਰ ਮਿਲੇ ਹਨ)।\n\nਸਿਰਫ ₹100 ਵੀ ਇੱਕ ਜਿੰਦਗੀ ਬਚਾ ਸਕਦੇ ਹਨ। ਕਿਰਪਾ ਕਰਕੇ ਦਾਨ ਕਰੋ ਜਾਂ 5 ਲੋਕਾਂ ਨਾਲ ਸ਼ੇਅਰ ਕਰੋ।\n\nhttps://www.ketto.org/fundraiser/my-father-is-suffering-from-chronic-liver-disease-we-need-your-help-to-provide-for-his-treatment-1140218",
+        "ml": "🙏 എന്റെ സുഹൃത്തിന്റെ പിതാവ് ദീർഘകാല കരൾ രോഗത്താൽ കഷ്ടപ്പെടുകയാണ്, സമയം കുറവാണ്. ഈ സ്നേഹമുള്ള പിതാവിന് അടിയന്തര ചികിത്സ ആവശ്യമാണ് എന്നാൽ കുടുംബത്തിന് ഒറ്റയ്ക്ക് ചെലവ് താങ്ങാൻ കഴിയുന്നില്ല।\n\nവെറും 30 ദിവസം മാത്രം അവശേഷിക്കുന്നു, ഇനിയും ₹29.1 ലക്ഷം വേണം (₹95 ആയിരം കിട്ടിയിട്ടുണ്ട്)।\n\nവെറും ₹100 പോലും ഒരു ജീവൻ രക്ഷിക്കാം. ദയവായി സംഭാവന നൽകുക അല്ലെങ്കിൽ 5 പേരുമായി പങ്കിടുക।\n\nhttps://www.ketto.org/fundraiser/my-father-is-suffering-from-chronic-liver-disease-we-need-your-help-to-provide-for-his-treatment-1140218"
+      },
+      "scraped_at_iso": "2026-05-15T08:05:15.741726+00:00"
     },
     {
-      "id": "ketto-8-9955082",
+      "id": "ketto-8-2640819",
       "source": "ketto",
       "title": "URGENT Help Needed : Help My son - DHRISHIV Fight SMA Type 1 - Spinal Mascular Atrophy",
       "description": "URGENT Help Needed : Help My son - DHRISHIV Fight SMA Type 1 - Spinal Mascular Atrophy",
       "patient_name": "DHRISHIV DARSHAN SONI",
       "condition": "Spinal muscular atrophy (SMA)",
       "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/media/campaigns/1127000/1127369/image/Tnmvt8V2iVC1GhZkIW6aRC1BuHNBMPTJZzDlRWP9.png",
-      "amount_raised_inr": 6245763.9,
+      "amount_raised_inr": 6246764.9,
       "amount_goal_inr": 95000000.0,
       "deadline_iso": "2026-06-30",
       "days_left": 46,
       "campaign_url": "https://www.ketto.org/fundraiser/my-son-is-suffering-from-spinal-muscular-atrophy-sma-we-need-your-help-to-provide-for-his-treatment-1127369",
       "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-15T07:37:48.685765+00:00"
+      "messages": {
+        "en": "🙏 A father's desperate plea for his son DHRISHIV who has SMA Type 1 - a rare condition affecting his muscles and breathing. This little warrior needs life-saving treatment urgently.\n\nOnly 46 days left to raise ₹8.9 crore more (₹62.5 lakh already raised of ₹9.5 crore goal).\n\nEven ₹100 helps save this child's life. Please donate OR share with 5 people - every action counts.\n\nhttps://www.ketto.org/fundraiser/my-son-is-suffering-from-spinal-muscular-atrophy-sma-we-need-your-help-to-provide-for-his-treatment-1127369",
+        "hi": "🙏 एक पिता की अपने बेटे धृष्टिव के लिए गुहार जो SMA Type 1 से पीड़ित है - एक दुर्लभ बीमारी जो उसकी मांसपेशियों और सांस को प्रभावित करती है। इस छोटे योद्धा को तुरंत जीवनरक्षक इलाज चाहिए।\n\nकेवल 46 दिन बचे हैं ₹8.9 करोड़ और जुटाने के लिए (₹9.5 करोड़ के लक्ष्य में से ₹62.5 लाख पहले से जुटे हैं)।\n\nसिर्फ ₹100 भी इस बच्चे की जान बचा सकते हैं। कृपया दान करें या 5 लोगों के साथ शेयर करें।\n\nhttps://www.ketto.org/fundraiser/my-son-is-suffering-from-spinal-muscular-atrophy-sma-we-need-your-help-to-provide-for-his-treatment-1127369",
+        "kn": "🙏 ತನ್ನ ಮಗ ಧೃಷ್ಟಿವ್ ಗಾಗಿ ತಂದೆಯ ಮನವಿ - ಅವನಿಗೆ SMA Type 1 ಎಂಬ ಅಪರೂಪದ ಕಾಯಿಲೆ ಇದೆ ಅದು ಅವನ ಸ್ನಾಯುಗಳು ಮತ್ತು ಉಸಿರಾಟದ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುತ್ತಿದೆ। ಈ ಚಿಕ್ಕ ಯೋಧನಿಗೆ ತುರ್ತು ಜೀವರಕ್ಷಕ ಚಿಕಿತ್ಸೆ ಬೇಕು।\n\nಕೇವಲ 46 ದಿನಗಳು ಬಾಕಿ ಇದೆ ₹8.9 ಕೋಟಿ ಇನ್ನೂ ಸಂಗ್ರಹಿಸಲು (₹9.5 ಕೋಟಿ ಗುರಿಯಲ್ಲಿ ₹62.5 ಲಕ್ಷ ಈಗಾಗಲೇ ಸಂಗ್ರಹವಾಗಿದೆ)।\n\nಕೇವಲ ₹100 ಕೂಡ ಈ ಮಗುವಿನ ಜೀವ ಉಳಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ। ದಯವಿಟ್ಟು ದಾನ ಮಾಡಿ ಅಥವಾ 5 ಜನರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ।\n\nhttps://www.ketto.org/fundraiser/my-son-is-suffering-from-spinal-muscular-atrophy-sma-we-need-your-help-to-provide-for-his-treatment-1127369",
+        "ta": "🙏 தனது மகன் தൃഷ്ടിவിற்கு ஒரு தந்தையின் வேண்டுகோள் - அவனுக்கு SMA Type 1 என்ற அரிய நோய் உள்ளது, இது அவனது தசைகள் மற்றும் சுவாசத்தை பாதிக்கிறது. இந்த சிறிய வீரனுக்கு உடனடி உயிர்காக்கும் சிகிச்சை தேவை।\n\nஇன்னும் ₹8.9 கோடி சேகரிக்க 46 நாட்கள் மட்டுமே உள்ளது (₹9.5 கோடி இலக்கில் ₹62.5 லட்சம் ஏற்கனவே சேர்க்கப்பட்டுள்ளது)।\n\nவெறும் ₹100 கூட இந்த குழந்தையின் உயிரைக் காப்பாற்ற உதவும். தயவுசெய்து நன்கொடை அளியுங்கள் அல்லது 5 பேருடன் பகிருங்கள்।\n\nhttps://www.ketto.org/fundraiser/my-son-is-suffering-from-spinal-muscular-atrophy-sma-we-need-your-help-to-provide-for-his-treatment-1127369",
+        "te": "🙏 తన కుమారుడు ధృష్టివ్ కోసం ఒక తండ్రి విజ్ఞప్తి - అతనికి SMA Type 1 అనే అరుదైన వ్యాధి ఉంది, ఇది అతని కండరాలు మరియు శ్వాసను ప్రభావితం చేస్తుంది. ఈ చిన్న యోధుడికి తక్షణ జీవరక్షక చికిత్స అవసరం.\n\nఇంకా ₹8.9 కోట్లు సేకరించడానికి కేవలం 46 రోజులు మాత్రమే మిగిలాయి (₹9.5 కోట్ల లక్ష్యంలో ₹62.5 లక్షలు ఇప్పటికే సేకరించబడ్డాయి).\n\nకేవలం ₹100 కూడా ఈ పిల్లవాడి ప్రాణాలను రక్షించడంలో సహాయపడుతుంది. దయచేసి విరాళం ఇవ్వండి లేదా 5 మందితో పంచుకోండి.\n\nhttps://www.ketto.org/fundraiser/my-son-is-suffering-from-spinal-muscular-atrophy-sma-we-need-your-help-to-provide-for-his-treatment-1127369",
+        "mr": "🙏 आपल्या मुलासाठी धृष्टिवसाठी एका बापाची विनंती - त्याला SMA Type 1 हा दुर्मिळ आजार आहे जो त्याच्या स्नायू आणि श्वासावर परिणाम करतो. या छोट्या योद्ध्याला तातडीने जीवनरक्षक उपचार हवेत.\n\nआणखी ₹8.9 कोटी गोळा करण्यासाठी फक्त 46 दिवस शिल्लक आहेत (₹9.5 कोटी च्या लक्ष्यातून ₹62.5 लाख आधीच गोळा झाले आहेत)।\n\nफक्त ₹100 देखील या मुलाचा जीव वाचवण्यास मदत करू शकतात. कृपया दान करा किंवा 5 लोकांसोबत शेअर करा.\n\nhttps://www.ketto.org/fundraiser/my-son-is-suffering-from-spinal-muscular-atrophy-sma-we-need-your-help-to-provide-for-his-treatment-1127369",
+        "bn": "🙏 তার ছেলে ধৃষ্টিবের জন্য এক বাবার আকুল আবেদন - তার SMA Type 1 নামে এক বিরল রোগ আছে যা তার পেশী ও শ্বাসপ্রশ্বাসকে প্রভাবিত করছে। এই ছোট্ট যোদ্ধার জরুরি জীবনরক্ষাকারী চিকিৎসা দরকার।\n\nআরও ₹৮.৯ কোটি সংগ্রহ করার জন্য মাত্র ৪৬ দিন বাকি (₹৯.৫ কোটি লক্ষ্যের মধ্যে ₹৬২.৫ লাখ ইতিমধ্যে সংগ্রহ হয়েছে)।\n\nমাত্র ₹১০০ও এই শিশুর জীবন বাঁচাতে সাহায্য করবে। দয়া করে দান করুন বা ৫ জনের সাথে শেয়ার করুন।\n\nhttps://www.ketto.org/fundraiser/my-son-is-suffering-from-spinal-muscular-atrophy-sma-we-need-your-help-to-provide-for-his-treatment-1127369",
+        "gu": "🙏 તેના પુત્ર ધૃષ્ટિવ માટે એક પિતાની વિનંતી - તેને SMA Type 1 નામની દુર્લભ બીમારી છે જે તેના સ્નાયુઓ અને શ્વાસ લેવાની ક્રિયાને અસર કરે છે. આ નાના યોદ્ધાને તાત્કાલિક જીવનરક્ષક સારવારની જરૂર છે.\n\nવધુ ₹8.9 કરોડ એકત્ર કરવા માટે માત્ર 46 દિવસ બાકી છે (₹9.5 કરોડના લક્ષ્યમાંથી ₹62.5 લાખ પહેલાથી એકત્ર થયા છે).\n\nફક્ત ₹100 પણ આ બાળકનો જીવ બચાવવામાં મદદ કરશે. કૃપા કરીને દાન કરો કે 5 લોકો સાથે શેર કરો.\n\nhttps://www.ketto.org/fundraiser/my-son-is-suffering-from-spinal-muscular-atrophy-sma-we-need-your-help-to-provide-for-his-treatment-1127369",
+        "pa": "🙏 ਆਪਣੇ ਬੇਟੇ ਧ੍ਰਿਸ਼ਟਿਵ ਲਈ ਇੱਕ ਪਿਤਾ ਦੀ ਅਰਦਾਸ - ਉਸਨੂੰ SMA Type 1 ਨਾਂ ਦੀ ਦੁਰਲੱਭ ਬਿਮਾਰੀ ਹੈ ਜੋ ਉਸਦੇ ਮਾਸਪੇਸ਼ੀਆਂ ਅਤੇ ਸਾਹ ਲੈਣ ਨੂੰ ਪ੍ਰਭਾਵਿਤ ਕਰਦੀ ਹੈ। ਇਸ ਛੋਟੇ ਯੋਧੇ ਨੂੰ ਫੌਰੀ ਜਾਨ ਬਚਾਊ ਇਲਾਜ ਦੀ ਲੋੜ ਹੈ।\n\nਹੋਰ ₹8.9 ਕਰੋੜ ਇਕੱਠੇ ਕਰਨ ਲਈ ਸਿਰਫ਼ 46 ਦਿਨ ਬਾਕੀ ਹਨ (₹9.5 ਕਰੋੜ ਦੇ ਟੀਚੇ ਵਿੱਚੋਂ ₹62.5 ਲੱਖ ਪਹਿਲਾਂ ਹੀ ਇਕੱਠੇ ਹੋ ਗਏ ਹਨ)।\n\nਸਿਰਫ਼ ₹100 ਵੀ ਇਸ ਬੱਚੇ ਦੀ ਜਾਨ ਬਚਾਉਣ ਵਿੱਚ ਮਦਦ ਕਰ ਸਕਦੇ ਹਨ। ਕਿਰਪਾ ਕਰਕੇ ਦਾਨ ਦਿਓ ਜਾਂ 5 ਲੋਕਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰੋ।\n\nhttps://www.ketto.org/fundraiser/my-son-is-suffering-from-spinal-muscular-atrophy-sma-we-need-your-help-to-provide-for-his-treatment-1127369",
+        "ml": "🙏 തന്റെ മകൻ ധൃഷ്ടിവിനുവേണ്ടി ഒരു പിതാവിന്റെ അപേക്ഷ - അവനു SMA Type 1 എന്ന അപൂർവ രോഗമുണ്ട് അത് അവന്റെ മാംസപേശികളെയും ശ്വസനത്തെയും ബാധിക്കുന്നു. ഈ ചെറിയ യോദ്ധാവിന് അടിയന്തര ജീവരക്ഷാ ചികിത്സ ആവശ്യമാണ്।\n\nഇനിയും ₹8.9 കോടി സമാഹരിക്കാൻ വെറും 46 ദിവസം മാത്രം ബാക്കി (₹9.5 കോടി ലക്ഷ്യത്തിൽ ₹62.5 ലക്ഷം ഇതിനകം സമാഹരിച്ചു)।\n\n₹100 പോലും ഈ കുട്ടിയുടെ ജീവൻ രക്ഷിക്കാൻ സഹായിക്കും. ദയവായി സംഭാവന നൽകുക അല്ലെങ്കിൽ 5 പേരുമായി പങ്കിടുക।\n\nhttps://www.ketto.org/fundraiser/my-son-is-suffering-from-spinal-muscular-atrophy-sma-we-need-your-help-to-provide-for-his-treatment-1127369"
+      },
+      "scraped_at_iso": "2026-05-15T08:05:15.741843+00:00"
     },
     {
       "id": "milaap-1017955",
@@ -181,17 +280,28 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1778133570/production/images/campaign/1017955/WhatsApp_Image_2026-05-07_at_11.28.57_AM_qxm30o_1778133571.jpg",
-      "amount_raised_inr": 5303208.0,
+      "amount_raised_inr": 5354208.0,
       "amount_goal_inr": 5600000.0,
       "deadline_iso": "2026-06-30",
       "days_left": 46,
       "campaign_url": "https://milaap.org/fundraisers/support-ravi-mudumbe",
       "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-15T07:37:54.744373+00:00"
+      "messages": {
+        "en": "🙏 Our friend Ravi Mudumbe is fighting for his life and needs an urgent liver transplant. His family has worked so hard - they've raised ₹53.5 lakh of the ₹56 lakh needed! Just ₹2.5 lakh more in 46 days and Ravi can get his life-saving surgery. Even ₹100 helps save a life. Please donate OR share with 5 people - every action counts! https://milaap.org/fundraisers/support-ravi-mudumbe",
+        "hi": "🙏 हमारे मित्र रवि मुडुम्बे जीवन की लड़ाई लड़ रहे हैं और उन्हें तुरंत लिवर ट्रांसप्लांट की जरूरत है। उनके परिवार ने बहुत मेहनत की है - ५६ लाख में से ५३.५ लाख जुटा लिए हैं! बस ४६ दिन में २.५ लाख और चाहिए तो रवि की जान बच सकती है। ₹१०० भी एक जिंदगी बचाने में मदद करता है। कृपया दान करें या ५ लोगों के साथ शेयर करें - हर मदद मायने रखती है! https://milaap.org/fundraisers/support-ravi-mudumbe",
+        "kn": "🙏 ನಮ್ಮ ಸ್ನೇಹಿತ ರವಿ ಮುಡುಂಬೆ ಅವರು ಜೀವನ ಸಾವಿನ ಹೋರಾಟ ನಡೆಸುತ್ತಿದ್ದಾರೆ ಮತ್ತು ತುರ್ತಾಗಿ ಲಿವರ್ ಟ್ರಾನ್ಸ್‌ಪ್ಲಾಂಟ್ ಅಗತ್ಯವಿದೆ। ಅವರ ಕುಟುಂಬವು ತುಂಬಾ ಪ್ರಯತ್ನಿಸಿದೆ - ೫೬ ಲಕ್ಷದಲ್ಲಿ ೫೩.೫ ಲಕ್ಷ ಸಂಗ್ರಹಿಸಿದ್ದಾರೆ! ೪೬ ದಿನಗಳಲ್ಲಿ ಕೇವಲ ೂ.೫ ಲಕ್ಷ ಬೇಕು, ರವಿಯ ಜೀವರಕ್ಷಕ ಶಸ್ತ್ರಚಿಕಿತ್ಸೆ ಆಗಬಹುದು। ₹೧೦೦ ಕೂಡ ಒಂದು ಜೀವ ಉಳಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ। ದಯವಿಟ್ಟು ದಾನ ಮಾಡಿ ಅಥವಾ ೫ ಜನರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ - ಪ್ರತಿ ಕೃತ್ಯವೂ ಮುಖ್ಯ! https://milaap.org/fundraisers/support-ravi-mudumbe",
+        "ta": "🙏 நமது நண்பர் ரவி முடும்பேக்கு உயிர் காக்கும் போராட்டத்தில் அவசர கல்லீரல் மாற்று அறுவை சிகிச்சை தேவை। அவரது குடும்பம் மிகவும் கடுமையாக உழைத்து ५६ लाखில் ५३.५ लाख சேகரித்துள்ளது! ४६ நாட்களில் வெறும் २.५ लाख மட்டுமே மீதம், ரவியின் உயிர் காக்கும் அறுவை சிகிச்சை நடக்கலாம். ₹१०० கூட ஒரு உயிரை காப்பாற்ற உதவும். தயவுசெய்து நன்கொடை அளியுங்கள் அல்லது ५ பேருடன் பகிருங்கள் - ஒவ்வொரு செயலும் முக்கியம்! https://milaap.org/fundraisers/support-ravi-mudumbe",
+        "te": "🙏 మా స్నేహితుడు రవి ముడుంబే ప్రాణాలకు తెగించి పోరాడుతున్నాడు మరియు అత్యవసరంగా కాలేయ మార్పిడి శస్త్రచికిత్స అవసరం. అతని కుటుంబం చాలా కష్టపడింది - ५६ లక్షల్లో ५३.५ లక్షలు సేకరించారు! ४६ రోజుల్లో కేవలం २.५ లక్షలు మాత్రమే అవసరం, రవి జీవరక్షక శస్త్రచికిత్స జరుగుతుంది. ₹१०० కూడా ఒక ప్రాణాన్ని కాపాడటానికి సహాయపడుతుంది. దయచేసి దానం చేయండి లేదా ५ మందితో పంచుకోండి - ప్రతి చర్య ముఖ్యం! https://milaap.org/fundraisers/support-ravi-mudumbe",
+        "mr": "🙏 आमचा मित्र रवि मुडुंबे जीवनाची लढाई लढत आहे आणि त्याला तातडीने यकृत प्रत्यारोपण आवश्यक आहे. त्यांच्या कुटुंबाने खूप कष्ट केले आहेत - ५६ लाखापैकी ५३.५ लाख गोळा केले आहेत! फक्त ४६ दिवसात २.५ लाख आणखी हवेत आणि रवीचे जीवनरक्षक शस्त्रक्रिया होऊ शकते। ₹१०० देखील एक जीव वाचवण्यास मदत करते. कृपया दान करा किंवा ५ लोकांसोबत सामायिक करा - प्रत्येक कृती महत्त्वाची आहे! https://milaap.org/fundraisers/support-ravi-mudumbe",
+        "bn": "🙏 আমাদের বন্ধু রবি মুডুম্বে জীবনের লড়াই লড়ছেন এবং তার জরুরি লিভার ট্রান্সপ্ল্যান্ট দরকার। তার পরিবার খুব কঠোর পরিশ্রম করেছে - ৫৬ লক্ষের মধ্যে ৫৩.৫ লক্ষ সংগ্রহ করেছে! মাত্র ৪৬ দিনে আর ২.৫ লক্ষ লাগবে এবং রবির জীবন রক্ষাকারী অপারেশন হতে পারে। এমনকি ₹১০০ও একটি জীবন বাঁচাতে সাহায্য করে। অনুগ্রহ করে দান করুন বা ৫ জনের সাথে শেয়ার করুন - প্রতিটি কাজই গুরুত্বপূর্ণ! https://milaap.org/fundraisers/support-ravi-mudumbe",
+        "gu": "🙏 આપણા મિત્ર રવિ મુડુંબે જીવનની લડાઈ લડી રહ્યા છે અને તેમને તાત્કાલિક લીવર ટ્રાન્સપ્લાન્ટની જરૂર છે. તેમના પરિવારે ખૂબ મહેનત કરી છે - ५६ લાખમાંથી ५३.५ લાખ એકત્ર કર્યા છે! માત્ર ४६ દિવસમાં વધુ २.५ લાખ જોઈએ અને રવિની જીવનરક્ષક સર્જરી થઈ શકે. ₹१०० પણ એક જીવન બચાવવામાં મદદ કરે છે. કૃપા કરીને દાન આપો અથવા ५ લોકો સાથે શેર કરો - દરેક ક્રિયા મહત્વપૂર્ણ છે! https://milaap.org/fundraisers/support-ravi-mudumbe",
+        "pa": "🙏 ਸਾਡੇ ਮਿੱਤਰ ਰਵਿ ਮੁਡੁੰਬੇ ਜ਼ਿੰਦਗੀ ਦੀ ਲੜਾਈ ਲੜ ਰਹੇ ਹਨ ਅਤੇ ਉਨ੍ਹਾਂ ਨੂੰ ਤੁਰੰਤ ਜਿਗਰ ਦੀ ਬਦਲੀ ਦੀ ਲੋੜ ਹੈ। ਉਨ੍ਹਾਂ ਦੇ ਪਰਿਵਾਰ ਨੇ ਬਹੁਤ ਮਿਹਨਤ ਕੀਤੀ ਹੈ - ५६ ਲੱਖ ਵਿੱਚੋਂ ५३.५ ਲੱਖ ਇਕੱਠੇ ਕੀਤੇ ਹਨ! ४६ ਦਿਨਾਂ ਵਿੱਚ ਸਿਰਫ ਹੋਰ २.५ ਲੱਖ ਚਾਹੀਦੇ ਹਨ ਅਤੇ ਰਵਿ ਦੀ ਜ਼ਿੰਦਗੀ ਬਚਾਉਣ ਵਾਲੀ ਸਰਜਰੀ ਹੋ ਸਕਦੀ ਹੈ। ₹१०० ਵੀ ਇੱਕ ਜ਼ਿੰਦਗੀ ਬਚਾਉਣ ਵਿੱਚ ਮਦਦ ਕਰਦੇ ਹਨ। ਕਿਰਪਾ ਕਰਕੇ ਦਾਨ ਕਰੋ ਜਾਂ ५ ਲੋਕਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰੋ - ਹਰ ਕੰਮ ਮਹੱਤਵਪੂਰਨ ਹੈ! https://milaap.org/fundraisers/support-ravi-mudumbe",
+        "ml": "🙏 ഞങ്ങളുടെ സുഹൃത്ത് രവി മുഡുംബെ ജീവന്റെ പോരാട്ടത്തിൽ ഏർപ്പെട്ടിരിക്കുകയാണ്, അദ്ദേഹത്തിന് അടിയന്തിര കരൾ മാറ്റിവെയ്ക്കൽ ശസ്ത്രക്രിയ ആവശ്യമാണ്. അദ്ദേഹത്തിന്റെ കുടുംബം വളരെ കഠിനാധ്വാനം ചെയ്തു - ५६ ലക്ഷത്തിൽ നിന്ന് ५३.५ ലക്ഷം ശേഖരിച്ചു! ४६ ദിവസത്തിനുള്ളിൽ കേവലം २.५ ലക്ഷം കൂടി വേണം, രവിയുടെ ജീവൻ രക്ഷിക്കുന്ന ശസ്ത്രക്രിയ നടത്താം. ₹१०० പോലും ഒരു ജീവൻ രക്ഷിക്കാൻ സഹായിക്കുന്നു. ദയവായി സംഭാവന നൽകുക അല്ലെങ്കിൽ ५ പേരുമായി പങ്കുവെയ്ക്കുക - എല്ലാ പ്രവർത്തനവും പ്രധാനമാണ്! https://milaap.org/fundraisers/support-ravi-mudumbe"
+      },
+      "scraped_at_iso": "2026-05-15T08:05:23.032056+00:00"
     },
     {
-      "id": "ketto-7-8202359",
+      "id": "ketto-7-9852620",
       "source": "ketto",
       "title": "Making a Difference, One Meal at a Time",
       "description": "Making a Difference, One Meal at a Time",
@@ -204,11 +314,22 @@
       "days_left": 46,
       "campaign_url": "https://www.ketto.org/fundraiser/making-a-difference-one-meal-at-a-time-1123271",
       "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-15T07:37:48.685740+00:00"
+      "messages": {
+        "en": "A family is working tirelessly to feed those who have nothing - but they need our help to continue this mission. Their 'Making a Difference, One Meal at a Time' campaign has raised ₹90K but still needs ₹60K more with just 46 days left. Even ₹100 helps feed someone hungry today. Please donate OR share with 5 people to spread hope. https://www.ketto.org/fundraiser/making-a-difference-one-meal-at-a-time-1123271",
+        "hi": "एक परिवार उन लोगों को खाना खिलाने की कोशिश कर रहा है जिनके पास कुछ नहीं है - लेकिन इस काम को जारी रखने के लिए हमारी मदद चाहिए। उनके 'Making a Difference, One Meal at a Time' अभियान में ₹90 हजार मिले हैं लेकिन अभी भी 46 दिनों में ₹60 हजार की जरूरत है। सिर्फ ₹100 से भी किसी भूखे को आज खाना मिल सकता है। कृपया दान करें या 5 लोगों के साथ शेयर करें। https://www.ketto.org/fundraiser/making-a-difference-one-meal-at-a-time-1123271",
+        "kn": "ಒಂದು ಕುಟುಂಬವು ಏನೂ ಇಲ್ಲದವರಿಗೆ ಆಹಾರ ನೀಡಲು ಶ್ರಮಿಸುತ್ತಿದೆ - ಆದರೆ ಈ ಸೇವೆಯನ್ನು ಮುಂದುವರಿಸಲು ನಮ್ಮ ಸಹಾಯ ಬೇಕು. ಅವರ 'Making a Difference, One Meal at a Time' ಅಭಿಯಾನಕ್ಕೆ ₹90 ಸಾವಿರ ಸಿಕ್ಕಿದೆ ಆದರೆ ಇನ್ನೂ 46 ದಿನಗಳಲ್ಲಿ ₹60 ಸಾವಿರ ಬೇಕು. ಕೇವಲ ₹100 ರಿಂದಲೂ ಯಾರಾದರೂ ಹಸಿದವರಿಗೆ ಆಹಾರ ನೀಡಬಹುದು. ದಯವಿಟ್ಟು ದಾನ ಮಾಡಿ ಅಥವಾ 5 ಜನರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ. https://www.ketto.org/fundraiser/making-a-difference-one-meal-at-a-time-1123271",
+        "ta": "ஒரு குடும்பம் எதுவும் இல்லாதவர்களுக்கு உணவளிக்க முயற்சி செய்கிறது - ஆனால் இந்த பணியைத் தொடர எங்கள் உதவி தேவை. அவர்களின் 'Making a Difference, One Meal at a Time' பிரச்சாரத்தில் ₹90 ஆயிரம் கிடைத்துள்ளது ஆனால் இன்னும் 46 நாட்களில் ₹60 ஆயிரம் தேவை. வெறும் ₹100 கூட பசித்தவருக்கு இன்று உணவு கொடுக்க உதவும். தயவுசெய்து நன்கொடை அளியுங்கள் அல்லது 5 பேருடன் பகிருங்கள். https://www.ketto.org/fundraiser/making-a-difference-one-meal-at-a-time-1123271",
+        "te": "ఒక కుటుంబం ఏమీ లేనివారికి భోజనం అందించాలని కృషి చేస్తోంది - కానీ ఈ సేవను కొనసాగించడానికి మన సహాయం కావాలి. వారి 'Making a Difference, One Meal at a Time' ప్రచారంలో ₹90 వేలు వచ్చాయి కానీ ఇంకా 46 రోజుల్లో ₹60 వేలు అవసరం. కేవలం ₹100 కూడా ఎవరైనా ఆకలితో ఉన్నవారికి ఈరోజు భోజనం ఇవ్వడానికి సహాయపడుతుంది. దయచేసి విరాళం ఇవ్వండి లేదా 5 మందితో షేర్ చేయండి. https://www.ketto.org/fundraiser/making-a-difference-one-meal-at-a-time-1123271",
+        "mr": "एक कुटुंब ज्यांच्याकडे काहीच नाही त्यांना जेवण देण्यासाठी प्रयत्न करत आहे - पण हे काम चालू ठेवण्यासाठी आमची मदत हवी आहे. त्यांच्या 'Making a Difference, One Meal at a Time' मोहिमेला ₹90 हजार मिळाले आहेत पण अजूनही 46 दिवसांत ₹60 हजार लागतील. फक्त ₹100 मुळेही आज कोणाला तरी भूकेल्याला जेवण मिळू शकते. कृपया देणगी द्या किंवा 5 जणांसोबत शेअर करा. https://www.ketto.org/fundraiser/making-a-difference-one-meal-at-a-time-1123271",
+        "bn": "একটি পরিবার যাদের কিছুই নেই তাদের খাবার দেওয়ার জন্য কঠোর পরিশ্রম করছে - কিন্তু এই কাজ চালিয়ে যেতে আমাদের সাহায্য দরকার। তাদের 'Making a Difference, One Meal at a Time' অভিযানে ৯০ হাজার টাকা উঠেছে কিন্তু এখনও ৪৬ দিনের মধ্যে ৬০ হাজার টাকা লাগবে। মাত্র ১০০ টাকাও আজ কোন ক্ষুধার্ত মানুষকে খাবার দিতে সাহায্য করতে পারে। অনুগ্রহ করে দান করুন অথবা ৫ জনের সাথে শেয়ার করুন। https://www.ketto.org/fundraiser/making-a-difference-one-meal-at-a-time-1123271",
+        "gu": "એક પરિવાર જેમની પાસે કંઈ નથી તેમને ખવડાવવાનો પ્રયાસ કરી રહ્યું છે - પણ આ કામ ચાલુ રાખવા માટે અમારી મદદ જોઈએ છે. તેમના 'Making a Difference, One Meal at a Time' અભિયાનમાં ₹90 હજાર મળ્યા છે પણ હજુ 46 દિવસમાં ₹60 હજારની જરૂર છે. માત્ર ₹100થી પણ આજે કોઈ ભૂખ્યાને ખાવાનું મળી શકે છે. કૃપા કરીને દાન આપો અથવા 5 લોકો સાથે શેર કરો. https://www.ketto.org/fundraiser/making-a-difference-one-meal-at-a-time-1123271",
+        "pa": "ਇੱਕ ਪਰਿਵਾਰ ਉਨ੍ਹਾਂ ਲੋਕਾਂ ਨੂੰ ਖਾਣਾ ਦੇਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੈ ਜਿਨ੍ਹਾਂ ਕੋਲ ਕੁਝ ਨਹੀਂ ਹੈ - ਪਰ ਇਹ ਕੰਮ ਜਾਰੀ ਰੱਖਣ ਲਈ ਸਾਡੀ ਮਦਦ ਚਾਹੀਦੀ ਹੈ। ਉਨ੍ਹਾਂ ਦੀ 'Making a Difference, One Meal at a Time' ਮੁਹਿੰਮ ਵਿੱਚ ₹90 ਹਜ਼ਾਰ ਮਿਲੇ ਹਨ ਪਰ ਅਜੇ 46 ਦਿਨਾਂ ਵਿੱਚ ₹60 ਹਜ਼ਾਰ ਦੀ ਲੋੜ ਹੈ। ਸਿਰਫ਼ ₹100 ਨਾਲ ਵੀ ਅੱਜ ਕਿਸੇ ਭੁੱਖੇ ਨੂੰ ਖਾਣਾ ਮਿਲ ਸਕਦਾ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਦਾਨ ਦਿਓ ਜਾਂ 5 ਲੋਕਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰੋ। https://www.ketto.org/fundraiser/making-a-difference-one-meal-at-a-time-1123271",
+        "ml": "ഒന്നുമില്ലാത്തവർക്ക് ഭക്ഷണം നൽകാൻ ഒരു കുടുംബം അക്ഷീണം പ്രവർത്തിക്കുന്നു - എന്നാൽ ഈ ദൗത്യം തുടരാൻ നമ്മുടെ സഹായം വേണം. അവരുടെ 'Making a Difference, One Meal at a Time' പ്രചാരണത്തിൽ ₹90 ആയിരം കിട്ടി എന്നാൽ ഇനിയും 46 ദിവസത്തിനുള്ളിൽ ₹60 ആയിരം വേണം. വെറും ₹100 പോലും ഇന്ന് വിശക്കുന്ന ആരെയെങ്കിലും പോറ്റാൻ സഹായിക്കും. ദയവായി സംഭാവന നൽകുക അല്ലെങ്കിൽ 5 പേരുമായി പങ്കിടുക. https://www.ketto.org/fundraiser/making-a-difference-one-meal-at-a-time-1123271"
+      },
+      "scraped_at_iso": "2026-05-15T08:05:15.741801+00:00"
     },
     {
-      "id": "ketto-4-6125951",
+      "id": "ketto-4-3818080",
       "source": "ketto",
       "title": "Support Ajay Who’s Spent His Whole Life Helping Special Kids Succeed",
       "description": "Support Ajay Who’s Spent His Whole Life Helping Special Kids Succeed",
@@ -221,8 +342,19 @@
       "days_left": 112,
       "campaign_url": "https://www.ketto.org/fundraiser/KettoKart-andhancheyuvamanch-ngo",
       "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-15T07:37:48.685663+00:00"
+      "messages": {
+        "en": "Ajay has devoted his entire life to helping special needs children learn and grow. This incredible teacher now needs our support for his medical treatment.\n\nWith 112 days left, we still need to raise the full amount for his care. Even ₹100 helps make a difference.\n\nPlease donate OR share this with 5 people who care about children's education.\nhttps://www.ketto.org/fundraiser/KettoKart-andhancheyuvamanch-ngo",
+        "hi": "अजय ने अपनी पूरी जिंदगी विशेष बच्चों की शिक्षा में लगाई है। अब इस महान शिक्षक को अपने इलाज के लिए हमारी मदद चाहिए।\n\n112 दिन बचे हैं और अभी भी पूरी राशि जुटानी है। केवल ₹100 भी बड़ी मदद है।\n\nकृपया दान करें या 5 लोगों के साथ शेयर करें जो बच्चों की परवाह करते हैं।\nhttps://www.ketto.org/fundraiser/KettoKart-andhancheyuvamanch-ngo",
+        "kn": "ಅಜಯ್ ತನ್ನ ಸಂಪೂರ್ಣ ಜೀವನವನ್ನು ವಿಶೇಷ ಅಗತ್ಯವಿರುವ ಮಕ್ಕಳ ಶಿಕ್ಷಣಕ್ಕೆ ಮುಡಿಪಾಗಿದ್ದಾರೆ. ಈ ಮಹಾನ್ ಶಿಕ್ಷಕರಿಗೆ ಈಗ ಚಿಕಿತ್ಸೆಗಾಗಿ ನಮ್ಮ ಸಹಾಯ ಬೇಕು.\n\n112 ದಿನಗಳು ಉಳಿದಿವೆ ಮತ್ತು ಇನ್ನೂ ಸಂಪೂರ್ಣ ಮೊತ್ತ ಸಂಗ್ರಹಿಸಬೇಕಿದೆ. ಕೇವಲ ₹100 ಕೂಡ ದೊಡ್ಡ ಸಹಾಯ.\n\nದಯವಿಟ್ಟು ದಾನ ಮಾಡಿ ಅಥವಾ ಮಕ್ಕಳನ್ನು ಕಾಳಜಿ ವಹಿಸುವ 5 ಜನರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ.\nhttps://www.ketto.org/fundraiser/KettoKart-andhancheyuvamanch-ngo",
+        "ta": "அஜய் தனது வாழ்நாள் முழுவதையும் சிறப்புத் தேவைகள் உள்ள குழந்தைகளின் கல்விக்காக அர்ப்பணித்துள்ளார். இந்த அற்புத ஆசிரியருக்கு இப்போது சிகிச்சைக்காக நமது உதவி தேவை.\n\n112 நாட்கள் இருக்கின்றன, இன்னும் முழு தொகையும் திரட்ட வேண்டும். ₹100 கூட பெரிய உதவி.\n\nதயவுசெய்து நன்கொடை அளியுங்கள் அல்லது குழந்தைகளைக் கவனிக்கும் 5 பேரிடம் பகிருங்கள்.\nhttps://www.ketto.org/fundraiser/KettoKart-andhancheyuvamanch-ngo",
+        "te": "అజయ్ తన జీవితమంతా ప్రత్యేక అవసరాలున్న పిల్లల విద్యకు అంకితం చేశాడు. ఈ గొప్ప గురువుకు ఇప్పుడు చికిత్సకు మన సహాయం కావాలి.\n\n112 రోజులు మిగిలి ఉన్నాయి మరియు ఇంకా పూర్తి మొత్తం సేకరించాలి. కేవలం ₹100 కూడా గొప్ప సహాయం.\n\nదయచేసి దానం చేయండి లేదా పిల్లలను శ్రద్ధించే 5 మందితో షేర్ చేయండి.\nhttps://www.ketto.org/fundraiser/KettoKart-andhancheyuvamanch-ngo",
+        "mr": "अजयने आपले संपूर्ण आयुष्य विशेष गरजू मुलांच्या शिक्षणासाठी वाहून दिले आहे. या महान शिक्षकाला आता त्याच्या उपचारासाठी आमची मदत हवी.\n\n112 दिवस उरले आहेत आणि अजूनही संपूर्ण रक्कम गोळा करावी लागेल. फक्त ₹100 देखील मोठी मदत.\n\nकृपया दान करा किंवा मुलांची काळजी घेणाऱ्या 5 जणांसोबत शेअर करा.\nhttps://www.ketto.org/fundraiser/KettoKart-andhancheyuvamanch-ngo",
+        "bn": "অজয় তার সারাটা জীবন বিশেষ চাহিদাসম্পন্ন শিশুদের শিক্ষার জন্য উৎসর্গ করেছেন। এই মহান শিক্ষকের এখন চিকিৎসার জন্য আমাদের সাহায্য প্রয়োজন।\n\n১১২ দিন বাকি আছে এবং এখনও পুরো অর্থ সংগ্রহ করতে হবে। মাত্র ₹১০০ও বড় সাহায্য।\n\nঅনুগ্রহ করে দান করুন বা শিশুদের যত্ন নেয় এমন ৫ জনের সাথে শেয়ার করুন।\nhttps://www.ketto.org/fundraiser/KettoKart-andhancheyuvamanch-ngo",
+        "gu": "અજયે પોતાનું આખું જીવન વિશેષ જરૂરિયાત ધરાવતા બાળકોના શિક્ષણ માટે સમર્પિત કર્યું છે. આ મહાન શિક્ષકને હવે તેમની સારવાર માટે આપણી મદદની જરૂર છે.\n\n112 દિવસ બાકી છે અને હજી સંપૂર્ણ રકમ એકત્રિત કરવાની છે. માત્ર ₹100 પણ મોટી મદદ.\n\nકૃપા કરીને દાન આપો અથવા બાળકોની કાળજી લેનારા 5 લોકો સાથે શેર કરો.\nhttps://www.ketto.org/fundraiser/KettoKart-andhancheyuvamanch-ngo",
+        "pa": "ਅਜੇ ਨੇ ਆਪਣੀ ਪੂਰੀ ਜਿੰਦਗੀ ਖਾਸ ਲੋੜਾਂ ਵਾਲੇ ਬੱਚਿਆਂ ਦੀ ਪੜ੍ਹਾਈ ਲਈ ਸਮਰਪਿਤ ਕੀਤੀ ਹੈ। ਇਸ ਮਹਾਨ ਅਧਿਆਪਕ ਨੂੰ ਹੁਣ ਆਪਣੇ ਇਲਾਜ ਲਈ ਸਾਡੀ ਮਦਦ ਦੀ ਲੋੜ ਹੈ।\n\n112 ਦਿਨ ਬਾਕੀ ਹਨ ਅਤੇ ਅਜੇ ਵੀ ਪੂਰੀ ਰਕਮ ਇਕੱਠੀ ਕਰਨੀ ਹੈ। ਸਿਰਫ਼ ₹100 ਵੀ ਵੱਡੀ ਮਦਦ।\n\nਕਿਰਪਾ ਕਰਕੇ ਦਾਨ ਕਰੋ ਜਾਂ ਬੱਚਿਆਂ ਦੀ ਦੇਖਭਾਲ ਕਰਨ ਵਾਲੇ 5 ਲੋਕਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰੋ।\nhttps://www.ketto.org/fundraiser/KettoKart-andhancheyuvamanch-ngo",
+        "ml": "അജയ് തന്റെ ജീവിതകാലം മുഴുവൻ പ്രത്യേക ആവശ്യങ്ങളുള്ള കുട്ടികളുടെ വിദ്യാഭ്യാസത്തിനായി സമർപ്പിച്ചിട്ടുണ്ട്. ഈ മഹാനായ അദ്ധ്യാപകന് ഇപ്പോൾ ചികിത്സയ്ക്കായി നമ്മുടെ സഹായം ആവശ്യമാണ്.\n\n112 ദിവസങ്ങൾ ബാക്കിയുണ്ട്, ഇനിയും മുഴുവൻ തുകയും സ്വരൂപിക്കേണ്ടതുണ്ട്. വെറും ₹100 പോലും വലിയ സഹായമാണ്.\n\nദയവായി സംഭാവന നൽകുക അല്ലെങ്കിൽ കുട്ടികളെ കരുതുന്ന 5 പേരുമായി പങ്കിടുക.\nhttps://www.ketto.org/fundraiser/KettoKart-andhancheyuvamanch-ngo"
+      },
+      "scraped_at_iso": "2026-05-15T08:05:15.741647+00:00"
     }
   ]
 }
