@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T19:57:27.595514+00:00",
+  "generated_at": "2026-05-17T23:15:40.540119+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 9,
@@ -20,40 +20,6 @@
   "total": 13,
   "campaigns": [
     {
-      "id": "givedo-66b6315a",
-      "source": "givedo",
-      "title": "Help Gopalan of Akshaya Trust feed and care for rescued abandoned elderly parents",
-      "description": "“Parvathi Amma (name changed) was brought to Akshaya Trust by her son. He brought her here saying she was being taken to the hospital for treatment and he would be back in a while. It's been 8 years since that day. The phone number he gave to us was made up, even his address was false. Imagine the pain of the mother who was abandoned in such a heartless manner. She is not the only one. We have over 260 elderly parents here and most of them have faced abandonment, neglect or even abuse”, says G Gopalan, the founder of Akshaya Trust, the NGO taking care of abandoned seniors who have no one else in the world.Without Gopalan’s Akshaya Trust, countless elderly would still be on the streets or simply deprived of the love and care they deserve. The NGO takes care of every single need of its seniors from Food to medical care and housing. Your donation can enable Akshaya Trust to reach out to many more elderly with food and support. Contribute generously. Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).G Gopalan, a well-to-do businessman preferred to serve the elderly than living a peaceful retired life. He says that he was too shocked to see the state of the elderly, treated shabbily by their own children.A lifeline for hundreds of neglected elderlyToday, Akshaya Trust offers a safe haven to over 260 elderly parents, shielding them from the harsh realities of street life. This organization attends to all their needs, providing comprehensive medical care and ensuring they recover from past traumas. The trust also organises joyful celebrations during festivals and special occasions, bringing happiness into their lives.To date, Akshaya Trust has served over 1,000 elderly parents most of whom were from extremely weak financial backgrounds and had no way to fend for themselves. Akshaya Trust: A silver lining for elderlyAkshaya Trust’s efforts are a lifeline for these seniors, but they rely heavily on public support to continue. You can be the hero these elderly parents deserve. Donate now to help care for them.Your contribution can transform the lives of many homeless seniors. Support Akshaya Trust’s mission today.Donate to this fundraiser on Give.do, India’s largest and most trusted online donation platform, to help elderly parents abandoned by their children get the love and care they deserve.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/58fcaa89-109c-4f22-85ff-50fec98cd0dc.webp",
-      "amount_raised_inr": 11940567.0,
-      "amount_goal_inr": 30000000.0,
-      "deadline_iso": "2026-05-19",
-      "days_left": 2,
-      "campaign_url": "https://give.do/fundraisers/help-gopalan-of-akshaya-trust-feed-and-care-for-rescued-abandoned-elderly-parents",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-17T19:57:25.548796+00:00"
-    },
-    {
-      "id": "givedo-690b1764",
-      "source": "givedo",
-      "title": "Pledge to rebuild Punjab, support the state’s children and their education",
-      "description": "Punjab was once widely recognised as a land of abundance and promise. Unfortunately, the state today is staring at a crisis in the making. And this time, the most vulnerable of all, the children of Punjab, are at the receiving end.Onground reports suggest a large number of children fail to complete schooling, and some others may be completely out of the education system.But our NGO partner, Sanjhi Sikhiya, has been at the forefront, fighting for the children of Punjab and ensuring their right to an education and a future ahead. But sadly, the NGO and its young founders can't do this alone. Your donation can fuel the transformation that Punjab needs. Donate generously!Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).A crisis at the gatesPunjab's children are facing an unprecedented education crisis that threatens their future and the state's prosperity. One in four young people in Punjab feels there's no future for them in their own state. The opportunities they see around them don't match their hopes and aspirations.The impact on the groundStarted by a group of well-educated youths, Sanjhi Sakhiya has already begun to make its presence felt and bring about visible change. In just a few years, Sanjhi Sikhiya has reached 1,200 schools across Punjab, trained and supported 5,000 teachers, impacted 1.22 lakh students, and empowered 94 youth leaders who are driving change in their communities.Real change happens when communities take ownership. The NGO has mobilised over 8,000 community members who refuse to accept mediocre education for their children. They have empowered 516 School Management Committees to move from paperwork to real action, and created 584 Teacher Collectives where educators support and learn from each other.When Punjab faced its toughest test, Sanjhi Sikhiya empowered youth to restore safe and joyful spaces for every child, covering 100 schools, turning flooded classrooms into Schools of Strength.What your support will doYour donations contribute to expanding this movement. Your donation has the power to reignite the spark of learning. It will provide materials that make abstract concepts concrete for children struggling with the basics. It will support teachers who want to do better but need resources and training to make it happen.This isn't charity. This is an investment in Punjab's future. Join Punjab's Transformation. Donate nowYour support will help the NGO reach more districts, more schools, more children who are currently sitting in classrooms where hope is in short supply.Donate to this fundraiser by Give, India’s most trusted online donation platform, to support Sanjhi Sikhiya, in its mission to give children of Punjab the future they deserve.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/ed5511d8-0981-4bf4-aff1-65cf7cff074f.webp",
-      "amount_raised_inr": 921324.0,
-      "amount_goal_inr": 5000000.0,
-      "deadline_iso": "2026-05-19",
-      "days_left": 2,
-      "campaign_url": "https://give.do/fundraisers/pledge-to-rebuild-punjab-support-the-states-children-and-their-education",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-17T19:57:25.548885+00:00"
-    },
-    {
       "id": "givedo-645e1d5b",
       "source": "givedo",
       "title": "Help abandoned grandparents fight hunger and receive medical care. Donate now",
@@ -61,14 +27,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/ab425988-f410-4f07-a7ef-855bc2554fb3.webp",
-      "amount_raised_inr": 30062542.54,
+      "amount_raised_inr": 30063042.54,
       "amount_goal_inr": 60000000.0,
       "deadline_iso": "2026-05-20",
       "days_left": 3,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-grandparents-fight-hunger-and-receive-medical-care-donate-now",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-17T19:57:25.548819+00:00"
+      "scraped_at_iso": "2026-05-17T23:15:38.655306+00:00"
     },
     {
       "id": "givedo-691aeef5",
@@ -85,7 +51,41 @@
       "campaign_url": "https://give.do/fundraisers/help-prasad-provide-shelter-and-care-to-orphaned-kids-and-abandoned-elderly-parents",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-17T19:57:25.548919+00:00"
+      "scraped_at_iso": "2026-05-17T23:15:38.655390+00:00"
+    },
+    {
+      "id": "givedo-66b6315a",
+      "source": "givedo",
+      "title": "Help Gopalan of Akshaya Trust feed and care for rescued abandoned elderly parents",
+      "description": "“Parvathi Amma (name changed) was brought to Akshaya Trust by her son. He brought her here saying she was being taken to the hospital for treatment and he would be back in a while. It's been 8 years since that day. The phone number he gave to us was made up, even his address was false. Imagine the pain of the mother who was abandoned in such a heartless manner. She is not the only one. We have over 260 elderly parents here and most of them have faced abandonment, neglect or even abuse”, says G Gopalan, the founder of Akshaya Trust, the NGO taking care of abandoned seniors who have no one else in the world.Without Gopalan’s Akshaya Trust, countless elderly would still be on the streets or simply deprived of the love and care they deserve. The NGO takes care of every single need of its seniors from Food to medical care and housing. Your donation can enable Akshaya Trust to reach out to many more elderly with food and support. Contribute generously. Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).G Gopalan, a well-to-do businessman preferred to serve the elderly than living a peaceful retired life. He says that he was too shocked to see the state of the elderly, treated shabbily by their own children.A lifeline for hundreds of neglected elderlyToday, Akshaya Trust offers a safe haven to over 260 elderly parents, shielding them from the harsh realities of street life. This organization attends to all their needs, providing comprehensive medical care and ensuring they recover from past traumas. The trust also organises joyful celebrations during festivals and special occasions, bringing happiness into their lives.To date, Akshaya Trust has served over 1,000 elderly parents most of whom were from extremely weak financial backgrounds and had no way to fend for themselves. Akshaya Trust: A silver lining for elderlyAkshaya Trust’s efforts are a lifeline for these seniors, but they rely heavily on public support to continue. You can be the hero these elderly parents deserve. Donate now to help care for them.Your contribution can transform the lives of many homeless seniors. Support Akshaya Trust’s mission today.Donate to this fundraiser on Give.do, India’s largest and most trusted online donation platform, to help elderly parents abandoned by their children get the love and care they deserve.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/58fcaa89-109c-4f22-85ff-50fec98cd0dc.webp",
+      "amount_raised_inr": 11940567.0,
+      "amount_goal_inr": 30000000.0,
+      "deadline_iso": "2026-05-21",
+      "days_left": 4,
+      "campaign_url": "https://give.do/fundraisers/help-gopalan-of-akshaya-trust-feed-and-care-for-rescued-abandoned-elderly-parents",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-05-17T23:15:38.655261+00:00"
+    },
+    {
+      "id": "givedo-690b1764",
+      "source": "givedo",
+      "title": "Pledge to rebuild Punjab, support the state’s children and their education",
+      "description": "Punjab was once widely recognised as a land of abundance and promise. Unfortunately, the state today is staring at a crisis in the making. And this time, the most vulnerable of all, the children of Punjab, are at the receiving end.Onground reports suggest a large number of children fail to complete schooling, and some others may be completely out of the education system.But our NGO partner, Sanjhi Sikhiya, has been at the forefront, fighting for the children of Punjab and ensuring their right to an education and a future ahead. But sadly, the NGO and its young founders can't do this alone. Your donation can fuel the transformation that Punjab needs. Donate generously!Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).A crisis at the gatesPunjab's children are facing an unprecedented education crisis that threatens their future and the state's prosperity. One in four young people in Punjab feels there's no future for them in their own state. The opportunities they see around them don't match their hopes and aspirations.The impact on the groundStarted by a group of well-educated youths, Sanjhi Sakhiya has already begun to make its presence felt and bring about visible change. In just a few years, Sanjhi Sikhiya has reached 1,200 schools across Punjab, trained and supported 5,000 teachers, impacted 1.22 lakh students, and empowered 94 youth leaders who are driving change in their communities.Real change happens when communities take ownership. The NGO has mobilised over 8,000 community members who refuse to accept mediocre education for their children. They have empowered 516 School Management Committees to move from paperwork to real action, and created 584 Teacher Collectives where educators support and learn from each other.When Punjab faced its toughest test, Sanjhi Sikhiya empowered youth to restore safe and joyful spaces for every child, covering 100 schools, turning flooded classrooms into Schools of Strength.What your support will doYour donations contribute to expanding this movement. Your donation has the power to reignite the spark of learning. It will provide materials that make abstract concepts concrete for children struggling with the basics. It will support teachers who want to do better but need resources and training to make it happen.This isn't charity. This is an investment in Punjab's future. Join Punjab's Transformation. Donate nowYour support will help the NGO reach more districts, more schools, more children who are currently sitting in classrooms where hope is in short supply.Donate to this fundraiser by Give, India’s most trusted online donation platform, to support Sanjhi Sikhiya, in its mission to give children of Punjab the future they deserve.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/ed5511d8-0981-4bf4-aff1-65cf7cff074f.webp",
+      "amount_raised_inr": 921324.0,
+      "amount_goal_inr": 5000000.0,
+      "deadline_iso": "2026-05-23",
+      "days_left": 6,
+      "campaign_url": "https://give.do/fundraisers/pledge-to-rebuild-punjab-support-the-states-children-and-their-education",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-05-17T23:15:38.655342+00:00"
     },
     {
       "id": "milaap-1018078",
@@ -95,14 +95,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/e_blur_faces:1100/c_fill,h_198,w_264/v1778233096/production/images/campaign/1018078/Patient_photo_k99gfl_1778233098.jpg",
-      "amount_raised_inr": 10347.0,
+      "amount_raised_inr": 10401.0,
       "amount_goal_inr": 2500000.0,
       "deadline_iso": "2026-06-06",
       "days_left": 20,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-chitrakala-barry",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-17T19:57:22.681561+00:00"
+      "scraped_at_iso": "2026-05-17T23:15:35.504768+00:00"
     },
     {
       "id": "milaap-1018569",
@@ -119,7 +119,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-subramanian-ganesan-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-17T19:57:22.681385+00:00"
+      "scraped_at_iso": "2026-05-17T23:15:35.504600+00:00"
     },
     {
       "id": "milaap-1018991",
@@ -136,7 +136,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-darshini-n",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-17T19:57:22.681529+00:00"
+      "scraped_at_iso": "2026-05-17T23:15:35.504808+00:00"
     },
     {
       "id": "milaap-1019272",
@@ -153,7 +153,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-karpagavalli-6",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-17T19:57:22.681317+00:00"
+      "scraped_at_iso": "2026-05-17T23:15:35.504532+00:00"
     },
     {
       "id": "milaap-1019871",
@@ -170,7 +170,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-ms-imagineia-ryngkhlem",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-17T19:57:22.681485+00:00"
+      "scraped_at_iso": "2026-05-17T23:15:35.504659+00:00"
     },
     {
       "id": "milaap-1017955",
@@ -187,7 +187,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-ravi-mudumbe",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-17T19:57:22.681169+00:00"
+      "scraped_at_iso": "2026-05-17T23:15:35.504458+00:00"
     },
     {
       "id": "milaap-1010201",
@@ -204,7 +204,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-astha-jadoun-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-17T19:57:22.681582+00:00"
+      "scraped_at_iso": "2026-05-17T23:15:35.504838+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -214,14 +214,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 136707536.03,
+      "amount_raised_inr": 136711996.3,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2030-03-31",
       "days_left": 1414,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-17T19:57:25.548731+00:00"
+      "scraped_at_iso": "2026-05-17T23:15:38.655193+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -238,7 +238,7 @@
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-17T19:57:25.548753+00:00"
+      "scraped_at_iso": "2026-05-17T23:15:38.655219+00:00"
     }
   ]
 }
