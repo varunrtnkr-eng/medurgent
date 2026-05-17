@@ -295,7 +295,7 @@
           <span class="pct">${pct}% funded</span>
         </div>
         <div class="actions">
-          <a class="btn btn-donate" href="${escAttr(c.campaign_url)}" target="_blank" rel="noopener noreferrer">Donate</a>
+          <a class="btn btn-donate" href="${escAttr(c.campaign_url)}" target="_blank" rel="noopener noreferrer" onclick="gtag('event','donate_click',{campaign_title:${JSON.stringify(c.title)},source:${JSON.stringify(c.source)}})">Donate</a>
           <button class="btn btn-share" data-idx="${idx}" ${hasMessages ? "" : "disabled style='opacity:0.4;cursor:not-allowed'"}>
             ${hasMessages ? "Share" : "Donate only"}
           </button>
@@ -315,7 +315,11 @@
     }
     grid.innerHTML = items.map((c, i) => renderCard(c, i)).join("");
     grid.querySelectorAll(".btn-share:not([disabled])").forEach(btn => {
-      btn.onclick = () => openShare(items[parseInt(btn.dataset.idx)]);
+      btn.onclick = () => {
+        const c = items[parseInt(btn.dataset.idx)];
+        gtag('event', 'share_open', {campaign_title: c.title, source: c.source});
+        openShare(c);
+      };
     });
   }
 
@@ -358,11 +362,13 @@
 
   btnWa.onclick = () => {
     if (!activeCampaign) return;
+    gtag('event', 'whatsapp_share', {language: activeLang, campaign_title: activeCampaign.title});
     const text = activeCampaign.messages[activeLang] || "";
     window.open("https://wa.me/?text=" + encodeURIComponent(text), "_blank", "noopener");
   };
   btnCopy.onclick = async () => {
     if (!activeCampaign) return;
+    gtag('event', 'copy_text', {language: activeLang});
     const text = activeCampaign.messages[activeLang] || "";
     try {
       await navigator.clipboard.writeText(text);
