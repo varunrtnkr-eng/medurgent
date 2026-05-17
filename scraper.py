@@ -341,7 +341,7 @@ class KettoScraper(BaseScraper):
 # ---------------------------------------------------------------------------
 class MilaapScraper(BaseScraper):
     source_name = "milaap"
-    listing_url = "https://milaap.org/fundraisers/medical"
+    listing_url = "https://milaap.org/crowdfunding/fundraisers"
 
     CARD_SELECTOR = ".fundraiser-card, .campaign-tile, article"
     TITLE_SELECTOR = ".fundraiser-title, h3, h2"
@@ -351,6 +351,79 @@ class MilaapScraper(BaseScraper):
     GOAL_SELECTOR = ".goal, .amount-goal"
     DAYS_LEFT_SELECTOR = ".days-left, .time-remaining"
     VERIFIED_SELECTOR = ".verified, .trust-badge"
+
+    async def _try_api_scrape(self, context: BrowserContext) -> list[Campaign]:
+        page = await context.new_page()
+        page.set_default_timeout(PAGE_TIMEOUT_MS)
+        data = None
+        try:
+            async with page.expect_response(
+                lambda r: "milaap.org/campaigns" in r.url and r.status == 200,
+                timeout=30000,
+            ) as response_info:
+                await page.goto(self.listing_url, wait_until="domcontentloaded", timeout=60000)
+            response = await response_info.value
+            data = await response.json()
+        except Exception as e:
+            print(f"[milaap] expect_response failed: {e}", file=sys.stderr)
+        finally:
+            await page.close()
+
+        if data is None:
+            return []
+
+        items = data.get("campaigns", [])
+        today = datetime.now(timezone.utc).date()
+        out: list[Campaign] = []
+        for item in items[:MAX_CAMPAIGNS_PER_SITE]:
+            try:
+                if (item.get("status") or "").lower() != "running":
+                    continue
+
+                category = (item.get("category") or "").strip()
+                if category and not re.search(r"medical|health", category, re.IGNORECASE):
+                    continue
+
+                title = (item.get("motivation") or "").strip()
+                if not title:
+                    continue
+
+                campaign_url = item.get("url") or self.listing_url
+                image_url = item.get("cover_image_url") or None
+                amount_goal_inr = float(item.get("target_amount") or 0)
+                amount_raised_inr = parse_inr(str(item.get("consolidated_amount_raised") or 0))
+                description = (item.get("story_preview") or title).strip()
+
+                days_left: Optional[int] = None
+                deadline_iso: Optional[str] = None
+                ends_on = (item.get("ends_on") or "").strip()
+                if ends_on:
+                    try:
+                        end_date = datetime.strptime(ends_on, "%d-%m-%Y").date()
+                        days_left = (end_date - today).days
+                        deadline_iso = end_date.isoformat()
+                    except ValueError:
+                        pass
+
+                out.append(Campaign(
+                    id=f"milaap-{item['id']}",
+                    source=self.source_name,
+                    title=title,
+                    description=description,
+                    patient_name=None,
+                    condition=None,
+                    image_url=image_url,
+                    amount_raised_inr=amount_raised_inr,
+                    amount_goal_inr=amount_goal_inr,
+                    deadline_iso=deadline_iso,
+                    days_left=days_left,
+                    campaign_url=campaign_url,
+                    verified=True,
+                ))
+            except Exception as e:
+                print(f"[milaap] item error: {e}", file=sys.stderr)
+                continue
+        return out
 
     async def _wait_for_cards(self, page: Page) -> None:
         await page.wait_for_selector(self.CARD_SELECTOR, timeout=PAGE_TIMEOUT_MS)
@@ -408,74 +481,11 @@ class _NullEl:
 
 
 # ---------------------------------------------------------------------------
-# ImpactGuru
-# ---------------------------------------------------------------------------
-class ImpactGuruScraper(BaseScraper):
-    source_name = "impactguru"
-    listing_url = "https://www.impactguru.com/medical-crowdfunding"
-
-    CARD_SELECTOR = ".campaign-card, .fundraiser-item, article"
-    TITLE_SELECTOR = "h3, h2, .campaign-title"
-    URL_SELECTOR = "a"
-    IMAGE_SELECTOR = "img"
-    RAISED_SELECTOR = ".raised-amount"
-    GOAL_SELECTOR = ".goal-amount"
-    DAYS_LEFT_SELECTOR = ".days-left"
-    VERIFIED_SELECTOR = ".verified-badge"
-
-    async def _wait_for_cards(self, page: Page) -> None:
-        await page.wait_for_selector(self.CARD_SELECTOR, timeout=PAGE_TIMEOUT_MS)
-        for _ in range(3):
-            await page.mouse.wheel(0, 2000)
-            await page.wait_for_timeout(500)
-
-    async def _scrape_dom(self, page: Page) -> list[Campaign]:
-        cards = await page.query_selector_all(self.CARD_SELECTOR)
-        out: list[Campaign] = []
-        for i, card in enumerate(cards[:MAX_CAMPAIGNS_PER_SITE]):
-            try:
-                title_el = await card.query_selector(self.TITLE_SELECTOR)
-                title = (await title_el.inner_text()).strip() if title_el else ""
-                if not title:
-                    continue
-                link_el = await card.query_selector(self.URL_SELECTOR)
-                href = await link_el.get_attribute("href") if link_el else None
-                url = urljoin(self.listing_url, href) if href else self.listing_url
-                img_el = await card.query_selector(self.IMAGE_SELECTOR)
-                img = await img_el.get_attribute("src") if img_el else None
-                raised_el = await card.query_selector(self.RAISED_SELECTOR)
-                goal_el = await card.query_selector(self.GOAL_SELECTOR)
-                days_el = await card.query_selector(self.DAYS_LEFT_SELECTOR)
-                verified_el = await card.query_selector(self.VERIFIED_SELECTOR)
-                days_left = parse_days_left(await days_el.inner_text()) if days_el else None
-
-                out.append(Campaign(
-                    id=f"impactguru-{i}-{abs(hash(url)) % 10_000_000}",
-                    source=self.source_name,
-                    title=title,
-                    description=title,
-                    patient_name=None,
-                    condition=None,
-                    image_url=img,
-                    amount_raised_inr=parse_inr(await raised_el.inner_text()) if raised_el else 0.0,
-                    amount_goal_inr=parse_inr(await goal_el.inner_text()) if goal_el else 0.0,
-                    deadline_iso=deadline_from_days_left(days_left),
-                    days_left=days_left,
-                    campaign_url=url,
-                    verified=verified_el is not None,
-                ))
-            except Exception as e:
-                print(f"[impactguru] card {i} error: {e}", file=sys.stderr)
-                continue
-        return out
-
-
-# ---------------------------------------------------------------------------
 # GiveIndia (NGO aggregator — limited fit for individual-urgency model)
 # ---------------------------------------------------------------------------
 class GiveIndiaScraper(BaseScraper):
-    source_name = "giveindia"
-    listing_url = "https://www.giveindia.org/fundraisers"
+    source_name = "givedo"
+    listing_url = "https://give.do/fundraisers"
 
     CARD_SELECTOR = ".fundraiser-card, article"
     TITLE_SELECTOR = "h3, h2"
@@ -484,6 +494,87 @@ class GiveIndiaScraper(BaseScraper):
     RAISED_SELECTOR = ".raised"
     GOAL_SELECTOR = ".goal"
     DAYS_LEFT_SELECTOR = ".days-left"
+
+    async def _try_api_scrape(self, context: BrowserContext) -> list[Campaign]:
+        page = await context.new_page()
+        page.set_default_timeout(PAGE_TIMEOUT_MS)
+        data = None
+        try:
+            async with page.expect_response(
+                lambda r: "give.do/search" in r.url and r.status == 200,
+                timeout=30000,
+            ) as response_info:
+                await page.goto("https://give.do/fundraisers?category=health", wait_until="domcontentloaded", timeout=60000)
+            response = await response_info.value
+            data = await response.json()
+        except Exception as e:
+            print(f"[givedo] expect_response failed: {e}", file=sys.stderr)
+        finally:
+            await page.close()
+
+        if data is None:
+            return []
+
+        docs = data.get("response", {}).get("docs", [])
+        print(f"[givedo] found {len(docs)} docs", file=sys.stderr)
+        today = datetime.now(timezone.utc).date()
+        out: list[Campaign] = []
+        for i, item in enumerate(docs[:MAX_CAMPAIGNS_PER_SITE]):
+            try:
+                if i == 0:
+                    print(f"[givedo] first doc keys sample: is_active={item.get('is_active')}, is_medical={item.get('is_medical_fundraiser')}, tags={str(item.get('tags', ''))[:50]}", file=sys.stderr)
+
+                if not item.get("is_active"):
+                    continue
+
+                title = (item.get("name") or "").strip()
+                if not title:
+                    continue
+
+                slug = item.get("slug") or item.get("permalink") or ""
+                campaign_url = f"https://give.do/fundraisers/{slug}" if slug else self.listing_url
+
+                image_url = item.get("image") or None
+                amount_goal_inr = float(item.get("target_amount_in_inr") or 0)
+                amount_raised_inr = float(item.get("raised_amount_in_inr") or 0)
+
+                raw_desc = item.get("description") or title
+                description = re.sub(r"<[^>]+>", "", str(raw_desc)).strip()
+
+                days_left: Optional[int] = None
+                deadline_iso: Optional[str] = None
+                expiry_date = (item.get("expiry_date") or "").strip()
+                if expiry_date:
+                    try:
+                        end_date = datetime.fromisoformat(expiry_date.replace("Z", "+00:00")).date()
+                        days_left = (end_date - today).days
+                        deadline_iso = end_date.isoformat()
+                    except ValueError:
+                        pass
+
+                item_id = str(item.get("id") or "")
+                campaign_id = f"givedo-{item_id[:8]}" if item_id else f"givedo-{abs(hash(campaign_url)) % 10_000_000}"
+
+                out.append(Campaign(
+                    id=campaign_id,
+                    source=self.source_name,
+                    title=title,
+                    description=description,
+                    patient_name=None,
+                    condition=None,
+                    image_url=image_url,
+                    amount_raised_inr=amount_raised_inr,
+                    amount_goal_inr=amount_goal_inr,
+                    deadline_iso=deadline_iso,
+                    days_left=days_left,
+                    campaign_url=campaign_url,
+                    verified=True,
+                ))
+            except Exception as e:
+                print(f"[givedo] item error: {e}", file=sys.stderr)
+                continue
+        print(f"[givedo] parsed {len(out)} campaigns", file=sys.stderr)
+        return out
 
     async def _wait_for_cards(self, page: Page) -> None:
         await page.wait_for_selector(self.CARD_SELECTOR, timeout=PAGE_TIMEOUT_MS)
@@ -668,7 +759,6 @@ def enrich_with_copy(campaigns: list[Campaign]) -> None:
 SCRAPERS: list[type[BaseScraper]] = [
     KettoScraper,
     MilaapScraper,
-    ImpactGuruScraper,
     GiveIndiaScraper,
 ]
 
