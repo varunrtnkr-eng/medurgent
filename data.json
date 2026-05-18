@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T23:15:40.540119+00:00",
+  "generated_at": "2026-05-18T12:53:30.845258+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 9,
@@ -27,31 +27,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/ab425988-f410-4f07-a7ef-855bc2554fb3.webp",
-      "amount_raised_inr": 30063042.54,
+      "amount_raised_inr": 30063842.54,
       "amount_goal_inr": 60000000.0,
       "deadline_iso": "2026-05-20",
-      "days_left": 3,
+      "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-grandparents-fight-hunger-and-receive-medical-care-donate-now",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-17T23:15:38.655306+00:00"
-    },
-    {
-      "id": "givedo-691aeef5",
-      "source": "givedo",
-      "title": "Help Prasad provide shelter and care to orphaned kids and abandoned elderly parents",
-      "description": "Prasad and his wife Anu once had a daughter, little Prarthana , who passed away when she was still a toddler. Heartbroken but determined to honour her memory, they decided to dedicate their lives to those who had no one.  What began as adopting eight distressed children has now grown into a loving community that survives solely because Prasad refuses to give up. “My father, a farmer, ended his life owing to debt and distress. What I have faced as a child, I don't want any other child to face the same, and that is the biggest motivation. At present, we have 45 children and 25 abandoned elderly in our shelter home. We are their family. Anu (my wife) loves them like her own, and I provide for them and protect them like any father would,” says Prasad who stands as the last hope for these young ones and the elderly.  Unfortunately, he has been supporting this home with his meager earnings as an autorickshaw driver. He is in urgent need of help to keep a roof over his large family. You can lend him a hand in his noble work. Donate as much as you can today.Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).When pain became a missionPrasad knows what it means to grow up with hunger, fear, and the constant uncertainty of survival. He remembers the nights his family slept without food, the days his mother struggled alone after his father’s suicide, and the years he worked as a child doing menial jobs just to stay afloat. Today, those memories shape every decision he makes as the founder of Prathana Foundation, a home where abandoned elderly parents and orphaned children live together, as one family.“Our home is very unique. Here, orphans and elderly parents who have been abandoned by their children live together as a family. Here grandparents get the love of grandchildren, and orphaned kids are cared for by the elderly,” he shares with quiet pride.  In this one home, 45 children and 25 abandoned elderly have found love, belonging, and dignity, things life once denied them.But behind this warmth is a daily struggle that Prasad carries alone.  The daily struggle for survival“It’s very difficult for me to earn enough to sustain such a big home as an auto rickshaw driver. I am constantly in fear that if I run out of money, what will happen to the elderly and the orphans,” he says. The rising number of children and elderly people taking shelter here means more mouths to feed, more medicines to buy, more hospital visits, and more responsibilities on a man who already gives everything he has.Even after both he and Anu lost their jobs, he took up auto-rickshaw driving so the home could run. But the expenses of running such a large shelter are overwhelming.  Children need nutritious rations, school supplies, a safe environment, and emotional support. Elderly parents, many frail and chronically ill, need constant medical attention, medicines, and hospital visits. And the need keeps growing.I request you all to see these children and elderly as a member of your family and donate generously for them, so that their lives can be transformed,” Prasad appeals.Your support today can ensure- Daily nutritious meals for children and elderly parents  - Medical care, medicines, and emergency support for the elderly  - Safe shelter, clothing, and hygiene essentials  - Schooling, books, and basic education for every child  In a world where abandonment and loneliness break so many lives, Prathana Foundation stands as a rare home where forgotten grandparents and orphaned children rebuild hope together.  But this home, this family, cannot survive without you.  Your contribution can help Prasad continue saying “yes” to every abandoned child… every lonely elderly parent… every life that deserves love.  Donate today and help ensure that no elderly mother sleeps alone, no child suffers the scars Prasad once carried, and no family built on love collapses because of financial struggle.  Donate to this fundraiser on give.do, India’s most trusted online donation platform, to support Prathana Foundation in its mission to rescue and care for orphans of farmers and abandoned elderly. Your kindness can help keep this beautiful family together.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/9a289a4f-5e1a-426a-88ea-4286691a2170.webp",
-      "amount_raised_inr": 5259001.0,
-      "amount_goal_inr": 10000000.0,
-      "deadline_iso": "2026-05-20",
-      "days_left": 3,
-      "campaign_url": "https://give.do/fundraisers/help-prasad-provide-shelter-and-care-to-orphaned-kids-and-abandoned-elderly-parents",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-17T23:15:38.655390+00:00"
+      "scraped_at_iso": "2026-05-18T12:53:28.165867+00:00"
     },
     {
       "id": "givedo-66b6315a",
@@ -61,14 +44,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58fcaa89-109c-4f22-85ff-50fec98cd0dc.webp",
-      "amount_raised_inr": 11940567.0,
+      "amount_raised_inr": 11942567.0,
       "amount_goal_inr": 30000000.0,
       "deadline_iso": "2026-05-21",
-      "days_left": 4,
+      "days_left": 3,
       "campaign_url": "https://give.do/fundraisers/help-gopalan-of-akshaya-trust-feed-and-care-for-rescued-abandoned-elderly-parents",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-17T23:15:38.655261+00:00"
+      "scraped_at_iso": "2026-05-18T12:53:28.165829+00:00"
     },
     {
       "id": "givedo-690b1764",
@@ -78,31 +61,48 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/ed5511d8-0981-4bf4-aff1-65cf7cff074f.webp",
-      "amount_raised_inr": 921324.0,
+      "amount_raised_inr": 922704.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-05-23",
-      "days_left": 6,
+      "days_left": 5,
       "campaign_url": "https://give.do/fundraisers/pledge-to-rebuild-punjab-support-the-states-children-and-their-education",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-17T23:15:38.655342+00:00"
+      "scraped_at_iso": "2026-05-18T12:53:28.165912+00:00"
     },
     {
-      "id": "milaap-1018078",
-      "source": "milaap",
-      "title": "Help my Son survive a critical brain emergency",
-      "description": "I, Chitra created this fundraiser for my son, a 13-year-old child who was recently diagnosed with bilateral pheochromocy...",
+      "id": "givedo-65b89257",
+      "source": "givedo",
+      "title": "Help Vinay bring children facing abuse in red-light areas to safety and protect them",
+      "description": "“I saw a girl, barely 7 or 8, being pushed into flesh trade. Her cries for help still echo in my ears. There were men as old as 60 r*ping the innocent child. That was the day I knew my mission in life was to get these children out of the hell-like conditions in red-light areas. They are nothing short of hell and no child deserves to grow up in this environment” says Vinay Vasta, founder of Social Activities Integration, an organisation committed to freeing children trapped in red-light areas.Vinay and his NGO have been able to provide education, medical care and nutrition to over 2,500 children. But his dream to provide safe shelter to children remains unrealized. “We do our best to keep these children safe during the day but sadly they are forced to go back to the red light areas at night as we don’t have a home for them. Your donation can help us build a safe home for children of sex workers and prevent them from being pulled into prostitution. Donate to make this dream a realityDonate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).Life in red light areas“S*x workers use their homes which are barely 6 feet by 4 feet for their business. They invite customers in the presence of their children. Their children not only witness abuse but experience it too. Just imagine a child being told that all she can ever become in life is a pr*stitute”, Vinay shares as he explains the extent of abuse children face in red light areas.This is a life that thousands of children are forced to live behind closed doors where they suffer abuse and exploitation morning, noon and night.A ray of hopeVinay has been relentlessly trying to give children the care and education they deserve. He has provided quality English education to thousands of children, enabling them to secure a livelihood out of red-light areas. Several children taught by Vinay are today leading successful lives as professionals and Government employees. However the sad reality is that Vinay and his NGO, in the absence of a permanent shelter home, are unable to provide round the clock safety to these children, which is essential for their well-being.Your donations can enable SAI to build a shelter home for the children of sex workers and usher in a new tomorrow for them, away from the horrors of red-light areas.Donate to this fundraiser on Give.do, India’s largest and most trusted online donation platform, to provide safe shelter for children of sex workers and save them from abuse and second generation pr*stitution.NGO's 80G number: AACTS0408EF20216NGO's 12A number: AACTS0408EE20028",
       "patient_name": null,
       "condition": null,
-      "image_url": "https://cimages.milaap.org/milaap/image/upload/e_blur_faces:1100/c_fill,h_198,w_264/v1778233096/production/images/campaign/1018078/Patient_photo_k99gfl_1778233098.jpg",
-      "amount_raised_inr": 10401.0,
-      "amount_goal_inr": 2500000.0,
-      "deadline_iso": "2026-06-06",
-      "days_left": 20,
-      "campaign_url": "https://milaap.org/fundraisers/support-child-of-chitrakala-barry",
+      "image_url": "https://cfstatic.give.do/8484bab7-7bd7-49dd-8a03-840f14344985.webp",
+      "amount_raised_inr": 9553472.0,
+      "amount_goal_inr": 9000000.0,
+      "deadline_iso": "2026-05-23",
+      "days_left": 5,
+      "campaign_url": "https://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-17T23:15:35.504768+00:00"
+      "scraped_at_iso": "2026-05-18T12:53:28.165948+00:00"
+    },
+    {
+      "id": "milaap-1004938",
+      "source": "milaap",
+      "title": "Help my  baby at NICU",
+      "description": "Our baby was born prematurely during the 7th month of pregnancy through an emergency LSCS, as doctors advised immediate ...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1773540868/production/images/campaign/1004938/medical_1553587798_1773540867.jpg",
+      "amount_raised_inr": 3991.0,
+      "amount_goal_inr": 1600000.0,
+      "deadline_iso": "2026-05-31",
+      "days_left": 13,
+      "campaign_url": "https://milaap.org/fundraisers/support-nirmala-devi-52",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-05-18T12:53:25.171907+00:00"
     },
     {
       "id": "milaap-1018569",
@@ -112,14 +112,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1778571136/production/images/campaign/1018569/sg_ayynrh_1778571138.jpg",
-      "amount_raised_inr": 10216.0,
+      "amount_raised_inr": 10603.0,
       "amount_goal_inr": 2050000.0,
       "deadline_iso": "2026-06-08",
-      "days_left": 22,
+      "days_left": 21,
       "campaign_url": "https://milaap.org/fundraisers/support-subramanian-ganesan-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-17T23:15:35.504600+00:00"
+      "scraped_at_iso": "2026-05-18T12:53:25.171791+00:00"
     },
     {
       "id": "milaap-1018991",
@@ -132,11 +132,11 @@
       "amount_raised_inr": 4100.0,
       "amount_goal_inr": 1000000.0,
       "deadline_iso": "2026-06-10",
-      "days_left": 24,
+      "days_left": 23,
       "campaign_url": "https://milaap.org/fundraisers/support-darshini-n",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-17T23:15:35.504808+00:00"
+      "scraped_at_iso": "2026-05-18T12:53:25.171891+00:00"
     },
     {
       "id": "milaap-1019272",
@@ -146,14 +146,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1778666964/production/images/campaign/1019272/medical_1553587798_1778666963.jpg",
-      "amount_raised_inr": 12857.0,
+      "amount_raised_inr": 12942.0,
       "amount_goal_inr": 1300000.0,
       "deadline_iso": "2026-06-12",
-      "days_left": 26,
+      "days_left": 25,
       "campaign_url": "https://milaap.org/fundraisers/support-karpagavalli-6",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-17T23:15:35.504532+00:00"
+      "scraped_at_iso": "2026-05-18T12:53:25.171761+00:00"
+    },
+    {
+      "id": "milaap-1019510",
+      "source": "milaap",
+      "title": "Help Our Teen Daughter Fight Brain Tumor",
+      "description": "My name is Kabita, I am a house maid, and I am raising funds for my 15-year-old daughter, who lives with us in Hyderabad...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1000,h_0.22,w_0.2,x_0.63,y_0.31/c_fill,h_198,w_264/v1778836696/production/images/campaign/1019510/edjx3fkznjugz64bdf3i_1778836698.jpg",
+      "amount_raised_inr": 4975.0,
+      "amount_goal_inr": 600000.0,
+      "deadline_iso": "2026-06-12",
+      "days_left": 25,
+      "campaign_url": "https://milaap.org/fundraisers/support-child-of-kabita-j",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-05-18T12:53:25.171852+00:00"
     },
     {
       "id": "milaap-1019871",
@@ -163,14 +180,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1778821253/production/images/campaign/1019871/medical_1553587798_1778821241.jpg",
-      "amount_raised_inr": 5085.0,
+      "amount_raised_inr": 5325.0,
       "amount_goal_inr": 2000000.0,
       "deadline_iso": "2026-06-14",
-      "days_left": 28,
+      "days_left": 27,
       "campaign_url": "https://milaap.org/fundraisers/support-ms-imagineia-ryngkhlem",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-17T23:15:35.504659+00:00"
+      "scraped_at_iso": "2026-05-18T12:53:25.171811+00:00"
     },
     {
       "id": "milaap-1017955",
@@ -180,31 +197,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1778133570/production/images/campaign/1017955/WhatsApp_Image_2026-05-07_at_11.28.57_AM_qxm30o_1778133571.jpg",
-      "amount_raised_inr": 60368.0,
+      "amount_raised_inr": 60552.0,
       "amount_goal_inr": 5600000.0,
       "deadline_iso": "2026-06-30",
-      "days_left": 44,
+      "days_left": 43,
       "campaign_url": "https://milaap.org/fundraisers/support-ravi-mudumbe",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-17T23:15:35.504458+00:00"
-    },
-    {
-      "id": "milaap-1010201",
-      "source": "milaap",
-      "title": "My 3 Year Old Son is Fighting Blood Cancer - Help Him Win This Battle",
-      "description": "My name is Devendra Pal Singh, and I am raising funds for my Son, who is just 3 years old. Our family is going through a...",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1000,h_0.14,w_0.1,x_0.24,y_0.6/c_fill,h_198,w_264/v1775315942/production/images/campaign/1010201/Divit_mtalkj_1775315943.jpg",
-      "amount_raised_inr": 27349.0,
-      "amount_goal_inr": 7000000.0,
-      "deadline_iso": "2026-12-25",
-      "days_left": 222,
-      "campaign_url": "https://milaap.org/fundraisers/support-child-of-astha-jadoun-1",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-17T23:15:35.504838+00:00"
+      "scraped_at_iso": "2026-05-18T12:53:25.171707+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -214,14 +214,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 136711996.3,
+      "amount_raised_inr": 136736639.38,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2030-03-31",
-      "days_left": 1414,
+      "days_left": 1413,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-17T23:15:38.655193+00:00"
+      "scraped_at_iso": "2026-05-18T12:53:28.165754+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -231,14 +231,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 61825204.94,
+      "amount_raised_inr": 61842591.31,
       "amount_goal_inr": 35000000.0,
       "deadline_iso": "2030-05-31",
-      "days_left": 1475,
+      "days_left": 1474,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-17T23:15:38.655219+00:00"
+      "scraped_at_iso": "2026-05-18T12:53:28.165782+00:00"
     }
   ]
 }
