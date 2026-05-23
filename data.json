@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T23:49:24.864802+00:00",
+  "generated_at": "2026-05-23T08:01:00.063765+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 8,
@@ -17,8 +17,25 @@
     "pa",
     "ml"
   ],
-  "total": 13,
+  "total": 12,
   "campaigns": [
+    {
+      "id": "givedo-68f25b24",
+      "source": "givedo",
+      "title": "Help Leena in saving girls from being lost forever in red-light areas",
+      "description": "\"Hundreds of young girls are lost forever in the dark lanes of red-light areas,\" says Leena Kejriwal, the founder of Missing Link Trust. These girls endure unimaginable abuse and exploitation, being lured or trafficked into an industry that breaks them physically and emotionally. Missing Link Trust is on a mission to prevent the tragedy before it happens, and also rehabilitate girls and women who are rescued from forced sex work.Leena’s journey began with her powerful street art project in Kolkata, where she painted haunting silhouettes of missing girls to raise awareness against sex trafficking. Now, she leads a larger fight — one that focuses on prevention and rehabilitation. But this mission needs your support.You can save countless girl children from going missing forever. Donate now.Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).Preventing Trafficking Before It Begins“When girls come into a red-light area, the first thing is that they are broken, physically and emotionally,” Leena says. “It’s like they will be caught, hands and legs tied, and all heinous crimes committed on them.” These are the brutal realities that Missing Link Trust fights against every day.Many of these girls are from impoverished regions like the Sundarbans, and traffickers prey on their vulnerability. “It’s shocking that they sell themselves for as low as a hundred rupees,” Leena adds. \"They ready her through violent acts, removing all threads of shame from her.\"But why wait until a girl is trafficked to save her? Missing Link Trust believes in stopping trafficking at its root — through “prevention, prevention, prevention” as Leena puts it. The goal is simple: protect girls from ever being lost to this darkness.A Safe World for Children“Our mission is the prevention of abuse and exploitation of children,” Leena emphasizes. “Our vision is to create a safe world for children, and we want to do this with a preventive methodology.”Every Donation MattersYour support will help Missing Link Trust continue its vital work of rescuing, rehabilitating, and preventing the trafficking of young girls. The funds raised will go directly towards:Prevention programs in vulnerable areas to stop trafficking before it happens.Rehabilitation services for girls rescued from red-light areas, providing them with medical care, emotional support, and education.Awareness campaigns to reach at-risk communities and ensure girls are protected from traffickers.Together, We Can Make a Difference“Why wait for a girl to get trafficked to save her?” asks Leena. With your help, we can stop this horror before it begins. Your donation will help us create a world where no girl is lost to the nightmare of trafficking.Donate to this fundraiser by Give, India’s largest and most trusted online giving platform, to support Missing Link Trust to save young girls from being trafficked and help rehabilitate those rescued.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/3d8552de-9a0a-41b0-878a-470ec88157d8.webp",
+      "amount_raised_inr": 1593236.0,
+      "amount_goal_inr": 5000000.0,
+      "deadline_iso": "2026-05-26",
+      "days_left": 3,
+      "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-05-23T08:00:58.259827+00:00"
+    },
     {
       "id": "givedo-690b1764",
       "source": "givedo",
@@ -27,14 +44,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/ed5511d8-0981-4bf4-aff1-65cf7cff074f.webp",
-      "amount_raised_inr": 936716.0,
+      "amount_raised_inr": 938716.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-05-27",
-      "days_left": 5,
+      "days_left": 4,
       "campaign_url": "https://give.do/fundraisers/pledge-to-rebuild-punjab-support-the-states-children-and-their-education",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-22T23:49:22.286886+00:00"
+      "scraped_at_iso": "2026-05-23T08:00:58.259780+00:00"
     },
     {
       "id": "givedo-645e1d5b",
@@ -47,11 +64,11 @@
       "amount_raised_inr": 30074942.54,
       "amount_goal_inr": 60000000.0,
       "deadline_iso": "2026-05-28",
-      "days_left": 6,
+      "days_left": 5,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-grandparents-fight-hunger-and-receive-medical-care-donate-now",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-22T23:49:22.286847+00:00"
+      "scraped_at_iso": "2026-05-23T08:00:58.259737+00:00"
     },
     {
       "id": "givedo-65b89257",
@@ -61,14 +78,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/8484bab7-7bd7-49dd-8a03-840f14344985.webp",
-      "amount_raised_inr": 9768671.0,
+      "amount_raised_inr": 9793974.0,
       "amount_goal_inr": 9000000.0,
       "deadline_iso": "2026-05-28",
-      "days_left": 6,
+      "days_left": 5,
       "campaign_url": "https://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-22T23:49:22.286801+00:00"
+      "scraped_at_iso": "2026-05-23T08:00:58.259692+00:00"
     },
     {
       "id": "milaap-1018569",
@@ -78,14 +95,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1778571136/production/images/campaign/1018569/sg_ayynrh_1778571138.jpg",
-      "amount_raised_inr": 12076.0,
+      "amount_raised_inr": 12602.0,
       "amount_goal_inr": 2050000.0,
       "deadline_iso": "2026-06-08",
-      "days_left": 17,
+      "days_left": 16,
       "campaign_url": "https://milaap.org/fundraisers/support-subramanian-ganesan-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-22T23:49:19.163480+00:00"
+      "scraped_at_iso": "2026-05-23T08:00:54.762825+00:00"
     },
     {
       "id": "milaap-1019510",
@@ -98,28 +115,11 @@
       "amount_raised_inr": 5710.0,
       "amount_goal_inr": 600000.0,
       "deadline_iso": "2026-06-12",
-      "days_left": 21,
+      "days_left": 20,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-kabita-j",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-22T23:49:19.163631+00:00"
-    },
-    {
-      "id": "milaap-1019871",
-      "source": "milaap",
-      "title": "Help my sister recover from multiple critical fractures",
-      "description": "I am raising funds for my sister, Ms. Imagineia Ryngkhlem, who is 28 years old and currently battling the aftermath of s...",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1778821253/production/images/campaign/1019871/medical_1553587798_1778821241.jpg",
-      "amount_raised_inr": 5982.0,
-      "amount_goal_inr": 2000000.0,
-      "deadline_iso": "2026-06-14",
-      "days_left": 23,
-      "campaign_url": "https://milaap.org/fundraisers/support-ms-imagineia-ryngkhlem",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-22T23:49:19.163594+00:00"
+      "scraped_at_iso": "2026-05-23T08:00:54.762899+00:00"
     },
     {
       "id": "milaap-1020029",
@@ -129,14 +129,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1778846761/production/images/campaign/1020029/medical_1553587798_1778846749.jpg",
-      "amount_raised_inr": 5264.0,
+      "amount_raised_inr": 5415.0,
       "amount_goal_inr": 1400000.0,
       "deadline_iso": "2026-06-14",
-      "days_left": 23,
+      "days_left": 22,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-somasundram",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-22T23:49:19.163365+00:00"
+      "scraped_at_iso": "2026-05-23T08:00:54.762798+00:00"
     },
     {
       "id": "milaap-1020706",
@@ -146,14 +146,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.46,w_0.24,x_0.4,y_0.04/c_fill,h_198,w_264/v1779113130/production/images/campaign/1020706/1000015824_hltwpk_1779113147.jpg",
-      "amount_raised_inr": 5059.0,
+      "amount_raised_inr": 5434.0,
       "amount_goal_inr": 840000.0,
       "deadline_iso": "2026-06-17",
-      "days_left": 26,
+      "days_left": 25,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-sanaz-khozini",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-22T23:49:19.163434+00:00"
+      "scraped_at_iso": "2026-05-23T08:00:54.762763+00:00"
     },
     {
       "id": "milaap-1017955",
@@ -166,11 +166,11 @@
       "amount_raised_inr": 61899.0,
       "amount_goal_inr": 5600000.0,
       "deadline_iso": "2026-06-30",
-      "days_left": 39,
+      "days_left": 38,
       "campaign_url": "https://milaap.org/fundraisers/support-ravi-mudumbe",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-22T23:49:19.163521+00:00"
+      "scraped_at_iso": "2026-05-23T08:00:54.762877+00:00"
     },
     {
       "id": "milaap-1020096",
@@ -180,14 +180,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1778870189/production/images/campaign/1020096/WhatsApp_Image_2026-05-15_at_23.22.38_ybbzt1_1778870189.jpg",
-      "amount_raised_inr": 6297.0,
+      "amount_raised_inr": 6351.0,
       "amount_goal_inr": 690000.0,
       "deadline_iso": "2026-12-31",
-      "days_left": 223,
+      "days_left": 222,
       "campaign_url": "https://milaap.org/fundraisers/support-maruti-nandan-singh",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-22T23:49:19.163559+00:00"
+      "scraped_at_iso": "2026-05-23T08:00:54.762850+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -197,14 +197,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 136974231.61,
+      "amount_raised_inr": 136982599.86,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2030-03-31",
-      "days_left": 1409,
+      "days_left": 1408,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-22T23:49:22.286728+00:00"
+      "scraped_at_iso": "2026-05-23T08:00:58.259614+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -214,31 +214,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 62110446.62,
+      "amount_raised_inr": 62115547.62,
       "amount_goal_inr": 35000000.0,
       "deadline_iso": "2030-05-31",
-      "days_left": 1470,
+      "days_left": 1469,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-22T23:49:22.286751+00:00"
-    },
-    {
-      "id": "givedo-688c4cc5",
-      "source": "givedo",
-      "title": "Help Save Young Girls From Trafficking",
-      "description": "Human trafficking in India is a horrifying crisis. Thousands of victims, primarily women and girl children, are exploited in red-light areas. Over 10,659 cases were reported between 2018-2022, but experts say that these numbers are likely a fraction of the reality due to underreporting, yet they still do expose the magnitude of the crisis. Girls make up 71.4% of missing children in India and a large number of these girls end up at red-light areas. Sex trafficking is particularly gruesome, with girls as young as 12 sold for as little as a few thousand rupees.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/4bc9b10a-7428-494e-9c42-70d43fb3395d.webp",
-      "amount_raised_inr": 7550111.0,
-      "amount_goal_inr": 41000000.0,
-      "deadline_iso": "2030-12-31",
-      "days_left": 1684,
-      "campaign_url": "https://give.do/fundraisers/help-save-young-girls-from-trafficking",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-22T23:49:22.286906+00:00"
+      "scraped_at_iso": "2026-05-23T08:00:58.259641+00:00"
     }
   ]
 }
