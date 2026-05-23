@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-23T19:57:46.201143+00:00",
+  "generated_at": "2026-05-23T23:14:57.771256+00:00",
   "sources": {
-    "ketto": 10,
+    "ketto": 0,
     "milaap": 7,
     "givedo": 6
   },
@@ -17,41 +17,24 @@
     "pa",
     "ml"
   ],
-  "total": 18,
+  "total": 11,
   "campaigns": [
     {
-      "id": "ketto-7-5216478",
-      "source": "ketto",
-      "title": "Offer A Helping Hand To Support Arman's Treatment",
-      "description": "Offer A Helping Hand To Support Arman's Treatment",
-      "patient_name": "Syed Arman Ali Reza",
-      "condition": "Lung cancer",
-      "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/media/campaigns/1132000/1132352/image/AdUwBDx1aPxFzTlIkdib8eW1Dyb3YknOOr5owIyt.jpg",
-      "amount_raised_inr": 2476326.1,
-      "amount_goal_inr": 2500000.0,
-      "deadline_iso": "2026-05-25",
-      "days_left": 2,
-      "campaign_url": "https://www.ketto.org/fundraiser/offer-a-helping-hand-to-support-armans-treatment-1132352",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-23T19:57:37.093114+00:00"
-    },
-    {
-      "id": "givedo-690b1764",
+      "id": "givedo-68f25b24",
       "source": "givedo",
-      "title": "Pledge to rebuild Punjab, support the state’s children and their education",
-      "description": "Punjab was once widely recognised as a land of abundance and promise. Unfortunately, the state today is staring at a crisis in the making. And this time, the most vulnerable of all, the children of Punjab, are at the receiving end.Onground reports suggest a large number of children fail to complete schooling, and some others may be completely out of the education system.But our NGO partner, Sanjhi Sikhiya, has been at the forefront, fighting for the children of Punjab and ensuring their right to an education and a future ahead. But sadly, the NGO and its young founders can't do this alone. Your donation can fuel the transformation that Punjab needs. Donate generously!Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).A crisis at the gatesPunjab's children are facing an unprecedented education crisis that threatens their future and the state's prosperity. One in four young people in Punjab feels there's no future for them in their own state. The opportunities they see around them don't match their hopes and aspirations.The impact on the groundStarted by a group of well-educated youths, Sanjhi Sakhiya has already begun to make its presence felt and bring about visible change. In just a few years, Sanjhi Sikhiya has reached 1,200 schools across Punjab, trained and supported 5,000 teachers, impacted 1.22 lakh students, and empowered 94 youth leaders who are driving change in their communities.Real change happens when communities take ownership. The NGO has mobilised over 8,000 community members who refuse to accept mediocre education for their children. They have empowered 516 School Management Committees to move from paperwork to real action, and created 584 Teacher Collectives where educators support and learn from each other.When Punjab faced its toughest test, Sanjhi Sikhiya empowered youth to restore safe and joyful spaces for every child, covering 100 schools, turning flooded classrooms into Schools of Strength.What your support will doYour donations contribute to expanding this movement. Your donation has the power to reignite the spark of learning. It will provide materials that make abstract concepts concrete for children struggling with the basics. It will support teachers who want to do better but need resources and training to make it happen.This isn't charity. This is an investment in Punjab's future. Join Punjab's Transformation. Donate nowYour support will help the NGO reach more districts, more schools, more children who are currently sitting in classrooms where hope is in short supply.Donate to this fundraiser by Give, India’s most trusted online donation platform, to support Sanjhi Sikhiya, in its mission to give children of Punjab the future they deserve.",
+      "title": "Help Leena in saving girls from being lost forever in red-light areas",
+      "description": "\"Hundreds of young girls are lost forever in the dark lanes of red-light areas,\" says Leena Kejriwal, the founder of Missing Link Trust. These girls endure unimaginable abuse and exploitation, being lured or trafficked into an industry that breaks them physically and emotionally. Missing Link Trust is on a mission to prevent the tragedy before it happens, and also rehabilitate girls and women who are rescued from forced sex work.Leena’s journey began with her powerful street art project in Kolkata, where she painted haunting silhouettes of missing girls to raise awareness against sex trafficking. Now, she leads a larger fight — one that focuses on prevention and rehabilitation. But this mission needs your support.You can save countless girl children from going missing forever. Donate now.Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).Preventing Trafficking Before It Begins“When girls come into a red-light area, the first thing is that they are broken, physically and emotionally,” Leena says. “It’s like they will be caught, hands and legs tied, and all heinous crimes committed on them.” These are the brutal realities that Missing Link Trust fights against every day.Many of these girls are from impoverished regions like the Sundarbans, and traffickers prey on their vulnerability. “It’s shocking that they sell themselves for as low as a hundred rupees,” Leena adds. \"They ready her through violent acts, removing all threads of shame from her.\"But why wait until a girl is trafficked to save her? Missing Link Trust believes in stopping trafficking at its root — through “prevention, prevention, prevention” as Leena puts it. The goal is simple: protect girls from ever being lost to this darkness.A Safe World for Children“Our mission is the prevention of abuse and exploitation of children,” Leena emphasizes. “Our vision is to create a safe world for children, and we want to do this with a preventive methodology.”Every Donation MattersYour support will help Missing Link Trust continue its vital work of rescuing, rehabilitating, and preventing the trafficking of young girls. The funds raised will go directly towards:Prevention programs in vulnerable areas to stop trafficking before it happens.Rehabilitation services for girls rescued from red-light areas, providing them with medical care, emotional support, and education.Awareness campaigns to reach at-risk communities and ensure girls are protected from traffickers.Together, We Can Make a Difference“Why wait for a girl to get trafficked to save her?” asks Leena. With your help, we can stop this horror before it begins. Your donation will help us create a world where no girl is lost to the nightmare of trafficking.Donate to this fundraiser by Give, India’s largest and most trusted online giving platform, to support Missing Link Trust to save young girls from being trafficked and help rehabilitate those rescued.",
       "patient_name": null,
       "condition": null,
-      "image_url": "https://cfstatic.give.do/ed5511d8-0981-4bf4-aff1-65cf7cff074f.webp",
-      "amount_raised_inr": 946216.0,
+      "image_url": "https://cfstatic.give.do/3d8552de-9a0a-41b0-878a-470ec88157d8.webp",
+      "amount_raised_inr": 1598737.0,
       "amount_goal_inr": 5000000.0,
-      "deadline_iso": "2026-05-27",
-      "days_left": 4,
-      "campaign_url": "https://give.do/fundraisers/pledge-to-rebuild-punjab-support-the-states-children-and-their-education",
+      "deadline_iso": "2026-05-26",
+      "days_left": 3,
+      "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-23T19:57:42.654843+00:00"
+      "scraped_at_iso": "2026-05-23T23:14:56.008505+00:00"
     },
     {
       "id": "givedo-645e1d5b",
@@ -68,7 +51,7 @@
       "campaign_url": "https://give.do/fundraisers/help-abandoned-grandparents-fight-hunger-and-receive-medical-care-donate-now",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-23T19:57:42.654807+00:00"
+      "scraped_at_iso": "2026-05-23T23:14:56.008465+00:00"
     },
     {
       "id": "givedo-65b89257",
@@ -85,41 +68,24 @@
       "campaign_url": "https://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-23T19:57:42.654766+00:00"
+      "scraped_at_iso": "2026-05-23T23:14:56.008423+00:00"
     },
     {
-      "id": "ketto-9-7817707",
-      "source": "ketto",
-      "title": "Donate To The Liver Transplant that Can Save My Father Ganeshula’s Life.",
-      "description": "Donate To The Liver Transplant that Can Save My Father Ganeshula’s Life.",
-      "patient_name": "Ganeshula Prabhu Dasu",
-      "condition": "Liver cirrhosis/ hepatic cirrhosis",
-      "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/media/campaigns/1117000/1117174/image/Y1gFbIx1L0NND3LsEoTS52YHb61BdGMRr1nI1smo.jpg",
-      "amount_raised_inr": 193114.42,
-      "amount_goal_inr": 2400000.0,
-      "deadline_iso": "2026-05-31",
-      "days_left": 8,
-      "campaign_url": "https://www.ketto.org/fundraiser/my-father-is-suffering-from-liver-cirrhosis-hepatic-cirrhosis-we-need-your-help-to-provide-for-his-treatment-1117174",
+      "id": "givedo-667e964e",
+      "source": "givedo",
+      "title": "Help 72-year-old Vanitha provide 100+ abandoned mentally ill women with shelter and care",
+      "description": "“The major problem in society today is the stigma against mentally ill or mentally disabled people. Families feed and care for men who are mentally ill and keep them at home. But no one wants to help women with mental illnesses,” says N Vanitha Rengaraj, chairperson of Sharanalayam.Sharanalaym’s ‘Jothi’ is a sanctuary for over 100 women facing mental challenges. Women with mental illness facing various challenges on the streets are brought to Sharanalayam with the help of the authorities and cared for. Donate easily through UPI, all debit/credit cards and net banking. Donations to this fundraiser are tax exempted under 80G of the Income Tax Act (India).The women at Sharanalaym Jothi are provided with necessities like food, clothing and medical care. They also get mental health services, access to psychiatrists and counseling, empowering individuals on their path to recovery.Once lost and vulnerable on unfamiliar streets, the women at Sharanalaym Jothi find solace.By supporting mentally disabled women at Sharanalaym Jothi, you contribute to creating a better world. We can ensure these women receive the care and support they deserve.Over the years, Vanitha has tried her best to run Sharanalayam from her own resources and that of her well-wishers, but the last few years have been harsh. “I normally don’t extend my hand for people to donate. Many have come on their own. But life has become a bit difficult now. I need your support to take care of the women here and also bring more women here in need of help,” says Vanitha. How Sharanalayam came into beingThe NGO started its operations in 2001 from rented premises in Pollachi in the district of Coimbatore. It started with taking care of children in difficult conditions. It slowly started taking care of mentally challenged women. Sharanalayam has come a long way since that time, with hundreds of children and women being taken care of by the NGO in the last two decades. Many women were rehabilitated by the NGO, thanks to its facilities.Sharanalayam needs urgent support to take care of over 100 women. The organisation also aspires to take care of many more mentally ill women in the coming months and years. Vanitha cannot do it without your support. Donate to this fundraiser on Give.do, India’s largest and most trusted online donation platform, to help abandoned mentally ill women get care and shelter. Vanitha, 72, the founder of Sharanalayam cannot do it alone.Donate now.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/e2c65b44-daf2-4379-b205-a7f110543865.webp",
+      "amount_raised_inr": 11517454.0,
+      "amount_goal_inr": 30000000.0,
+      "deadline_iso": "2026-05-30",
+      "days_left": 7,
+      "campaign_url": "https://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-23T19:57:37.093159+00:00"
-    },
-    {
-      "id": "ketto-4-1818500",
-      "source": "ketto",
-      "title": "My Baby Battles For Her Life And We Need Your Support To Save Her",
-      "description": "My Baby Battles For Her Life And We Need Your Support To Save Her",
-      "patient_name": "Anika Sharma",
-      "condition": "Medical condition not in the list",
-      "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/media/campaign/1064000/1064511/image/blurred/68f20089b431b.jpg",
-      "amount_raised_inr": 33494665.27,
-      "amount_goal_inr": 90000000.0,
-      "deadline_iso": "2026-06-02",
-      "days_left": 10,
-      "campaign_url": "https://www.ketto.org/fundraiser/my-baby-battles-for-her-life-and-we-need-your-support-to-save-her-1064511",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-23T19:57:37.093023+00:00"
+      "scraped_at_iso": "2026-05-23T23:14:56.008537+00:00"
     },
     {
       "id": "milaap-1018569",
@@ -136,7 +102,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-subramanian-ganesan-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-23T19:57:39.691967+00:00"
+      "scraped_at_iso": "2026-05-23T23:14:53.280843+00:00"
     },
     {
       "id": "milaap-1019510",
@@ -153,7 +119,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-kabita-j",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-23T19:57:39.691994+00:00"
+      "scraped_at_iso": "2026-05-23T23:14:53.280862+00:00"
     },
     {
       "id": "milaap-1020029",
@@ -170,7 +136,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-somasundram",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-23T19:57:39.691883+00:00"
+      "scraped_at_iso": "2026-05-23T23:14:53.280777+00:00"
     },
     {
       "id": "milaap-1020706",
@@ -180,31 +146,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.46,w_0.24,x_0.4,y_0.04/c_fill,h_198,w_264/v1779113130/production/images/campaign/1020706/1000015824_hltwpk_1779113147.jpg",
-      "amount_raised_inr": 6038.0,
+      "amount_raised_inr": 6058.0,
       "amount_goal_inr": 840000.0,
       "deadline_iso": "2026-06-17",
       "days_left": 25,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-sanaz-khozini",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-23T19:57:39.691782+00:00"
-    },
-    {
-      "id": "ketto-6-5043904",
-      "source": "ketto",
-      "title": "Support 7-Year-Old Ciya’s Fight Against Liver Cancer!",
-      "description": "Support 7-Year-Old Ciya’s Fight Against Liver Cancer!",
-      "patient_name": "Ciya Sajan",
-      "condition": "Medical condition not in the list",
-      "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/media/campaigns/1142000/1142025/image/blurred/y4u0pQGSM5kSuArfyDRMWHz54GfRBP64qwFtw339.jpg",
-      "amount_raised_inr": 347951.96,
-      "amount_goal_inr": 2500000.0,
-      "deadline_iso": "2026-06-20",
-      "days_left": 28,
-      "campaign_url": "https://www.ketto.org/fundraiser/my-daughter-is-fighting-for-her-life-and-we-need-your-support-to-save-her-1142025",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-23T19:57:37.093088+00:00"
+      "scraped_at_iso": "2026-05-23T23:14:53.280683+00:00"
     },
     {
       "id": "milaap-1021540",
@@ -221,58 +170,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-yogendra-kumar-10",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-23T19:57:39.691941+00:00"
-    },
-    {
-      "id": "ketto-8-9935762",
-      "source": "ketto",
-      "title": "Offer A Helping Hand To Support Akshay Bhardwaj's Treatment",
-      "description": "Offer A Helping Hand To Support Akshay Bhardwaj's Treatment",
-      "patient_name": "Akshay Bhardwaj",
-      "condition": "Medical condition not in the list",
-      "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/images/fundraiser-default-image.jpg",
-      "amount_raised_inr": 217992.0,
-      "amount_goal_inr": 800000.0,
-      "deadline_iso": "2026-06-21",
-      "days_left": 29,
-      "campaign_url": "https://www.ketto.org/fundraiser/offer-a-helping-hand-to-support-akshay-bhardwajs-treatment-1142285",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-23T19:57:37.093138+00:00"
-    },
-    {
-      "id": "ketto-3-8096936",
-      "source": "ketto",
-      "title": "Help Support Sagar Barua After a Hit-and-Run Accident as He Battles for His Life",
-      "description": "Help Support Sagar Barua After a Hit-and-Run Accident as He Battles for His Life",
-      "patient_name": "Sagar Barua",
-      "condition": "Accident",
-      "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/media/campaign/1142000/1142531/image/6a1008b6f2506.png",
-      "amount_raised_inr": 2801791.52,
-      "amount_goal_inr": 5000000.0,
-      "deadline_iso": "2026-06-22",
-      "days_left": 30,
-      "campaign_url": "https://www.ketto.org/fundraiser/offer-a-helping-hand-to-support-sagar-baruas-treatment-1142531",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-23T19:57:37.092996+00:00"
-    },
-    {
-      "id": "ketto-5-9446866",
-      "source": "ketto",
-      "title": "Support Ajay Who’s Spent His Whole Life Helping Special Kids Succeed",
-      "description": "Support Ajay Who’s Spent His Whole Life Helping Special Kids Succeed",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/media/campaigns/1130000/1130259/image/phoKfQlI03VpvajskfGokjHDePierSh1GwEWD9cS.jpg",
-      "amount_raised_inr": 0.0,
-      "amount_goal_inr": 0.0,
-      "deadline_iso": "2026-09-04",
-      "days_left": 104,
-      "campaign_url": "https://www.ketto.org/fundraiser/KettoKart-andhancheyuvamanch-ngo",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-23T19:57:37.093057+00:00"
+      "scraped_at_iso": "2026-05-23T23:14:53.280821+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -282,14 +180,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 136985699.86,
+      "amount_raised_inr": 136987252.86,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2030-03-31",
       "days_left": 1408,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-23T19:57:42.654665+00:00"
+      "scraped_at_iso": "2026-05-23T23:14:56.008347+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -306,24 +204,7 @@
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-23T19:57:42.654692+00:00"
-    },
-    {
-      "id": "givedo-688c4cc5",
-      "source": "givedo",
-      "title": "Help Save Young Girls From Trafficking",
-      "description": "Human trafficking in India is a horrifying crisis. Thousands of victims, primarily women and girl children, are exploited in red-light areas. Over 10,659 cases were reported between 2018-2022, but experts say that these numbers are likely a fraction of the reality due to underreporting, yet they still do expose the magnitude of the crisis. Girls make up 71.4% of missing children in India and a large number of these girls end up at red-light areas. Sex trafficking is particularly gruesome, with girls as young as 12 sold for as little as a few thousand rupees.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/4bc9b10a-7428-494e-9c42-70d43fb3395d.webp",
-      "amount_raised_inr": 7554111.0,
-      "amount_goal_inr": 41000000.0,
-      "deadline_iso": "2030-12-31",
-      "days_left": 1683,
-      "campaign_url": "https://give.do/fundraisers/help-save-young-girls-from-trafficking",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-23T19:57:42.654857+00:00"
+      "scraped_at_iso": "2026-05-23T23:14:56.008375+00:00"
     }
   ]
 }
