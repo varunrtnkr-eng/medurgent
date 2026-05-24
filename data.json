@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T23:14:57.771256+00:00",
+  "generated_at": "2026-05-24T09:20:42.560701+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 7,
@@ -27,14 +27,25 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/3d8552de-9a0a-41b0-878a-470ec88157d8.webp",
-      "amount_raised_inr": 1598737.0,
+      "amount_raised_inr": 1606837.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-05-26",
-      "days_left": 3,
+      "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
       "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-23T23:14:56.008505+00:00"
+      "messages": {
+        "en": "Leena has dedicated her life to rescuing young girls from red-light areas, giving them hope for a better future. She's running out of time and resources to save more girls who are at risk of being lost forever.\n\nOnly 2 days left! Still need ₹33.9 lakh of ₹50 lakh goal. Even ₹100 helps.\n\nPlease donate OR share with 5 people:\nhttps://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
+        "hi": "लीना ने अपना जीवन रेड-लाइट एरिया से लड़कियों को बचाने में लगा दिया है, उन्हें बेहतर भविष्य की उम्मीद दे रही है। उसके पास समय और संसाधन खत्म हो रहे हैं।\n\nसिर्फ 2 दिन बचे! ₹50 लाख में से अभी भी ₹33.9 लाख चाहिए। ₹100 भी मदद करेगा।\n\nकृपया दान करें या 5 लोगों के साथ शेयर करें:\nhttps://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
+        "kn": "ಲೀನಾ ತನ್ನ ಜೀವನವನ್ನು ರೆಡ್-ಲೈಟ್ ಪ್ರದೇಶಗಳಿಂದ ಹುಡುಗಿಯರನ್ನು ರಕ್ಷಿಸಲು ಮೀಸಲಿಟ್ಟಿದ್ದಾಳೆ, ಅವರಿಗೆ ಉತ್ತಮ ಭವಿಷ್ಯದ ಭರವಸೆ ನೀಡುತ್ತಿದ್ದಾಳೆ। ಸಮಯ ಮತ್ತು ಸಂಪನ್ಮೂಲಗಳು ಖಾಲಿಯಾಗುತ್ತಿವೆ।\n\nಕೇವಲ 2 ದಿನಗಳು ಬಾಕಿ! ₹50 ಲಕ್ಷದಲ್ಲಿ ಇನ್ನೂ ₹33.9 ಲಕ್ಷ ಬೇಕು। ₹100 ಕೂಡ ಸಹಾಯ ಮಾಡುತ್ತದೆ।\n\nದಯವಿಟ್ಟು ದಾನ ಮಾಡಿ ಅಥವಾ 5 ಜನರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ:\nhttps://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
+        "ta": "லீனா தனது வாழ்க்கையை ரெட்-லைட் பகுதிகளிலிருந்து பெண்களை காப்பாற்றுவதில் அர்ப்பணித்துள்ளார், அவர்களுக்கு சிறந்த எதிர்காலத்திற்கான நம்பிக்கை தருகிறார். அவளுக்கு நேரமும் வளங்களும் தீர்ந்து வருகின்றன.\n\nவெறும் 2 நாட்கள் மட்டுமே! ₹50 லட்சத்தில் இன்னும் ₹33.9 லட்சம் தேவை। ₹100 கூட உதவும்.\n\nதயவுசெய்து நன்கொடை அளியுங்கள் அல்லது 5 பேருடன் பகிருங்கள்:\nhttps://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
+        "te": "లీనా తన జీవితాన్ని రెడ్-లైట్ ప్రాంతాల నుంచి అమ్మాయిలను రక్షించడంలో అంకితం చేసింది, వారికి మంచి భవిష్యత్తుకు ఆశను ఇస్తోంది. ఆమెకు సమయం, వనరులు అయిపోతున్నాయి.\n\nకేవలం 2 రోజులు మాత్రమే! ₹50 లక్షలలో ఇంకా ₹33.9 లక్షలు కావాలి। ₹100 కూడా సహాయపడుతుంది.\n\nదయచేసి దానం చేయండి లేదా 5 మందితో పంచుకోండి:\nhttps://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
+        "mr": "लीनाने तिचे आयुष्य रेड-लाइट एरियातील मुलींना वाचवण्यासाठी वाहून घेतले आहे, त्यांना चांगल्या भविष्याची आशा देत आहे. तिचा वेळ आणि साधने संपत चालली आहेत.\n\nफक्त 2 दिवस शिल्लक! ₹50 लाखांपैकी अजूनही ₹33.9 लाख हवे. ₹100 सुद्धा मदत करेल.\n\nकृपया दान करा किंवा 5 जणांसोबत शेअर करा:\nhttps://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
+        "bn": "লীনা তার জীবন রেড-লাইট এলাকা থেকে মেয়েদের উদ্ধার করতে উৎসর্গ করেছেন, তাদের ভালো ভবিষ্যতের আশা দিচ্ছেন। তার সময় ও সম্পদ শেষ হয়ে আসছে।\n\nমাত্র ২ দিন বাকি! ৫০ লাখের মধ্যে এখনো ৩৩.৯ লাখ প্রয়োজন। ১০০ টাকাও সাহায্য করবে।\n\nঅনুগ্রহ করে দান করুন বা ৫ জনের সাথে শেয়ার করুন:\nhttps://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
+        "gu": "લીનાએ પોતાનું જીવન રેડ-લાઇટ વિસ્તારોમાંથી છોકરીઓને બચાવવામાં સમર્પિત કર્યું છે, તેમને સારા ભવિષ્યની આશા આપી રહી છે. તેનો સમય અને સાધનો સમાપ્ત થઇ રહ્યાં છે.\n\nફક્ત 2 દિવસ બાકી! ₹50 લાખમાંથી હજુ ₹33.9 લાખ જોઈએ. ₹100 પણ મદદ કરશે.\n\nકૃપા કરીને દાન કરો અથવા 5 લોકો સાથે શેર કરો:\nhttps://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
+        "pa": "ਲੀਨਾ ਨੇ ਆਪਣਾ ਜੀਵਨ ਰੈੱਡ-ਲਾਈਟ ਏਰੀਆ ਤੋਂ ਲੜਕੀਆਂ ਨੂੰ ਬਚਾਉਣ ਵਿੱਚ ਸਮਰਪਿਤ ਕੀਤਾ ਹੈ, ਉਹਨਾਂ ਨੂੰ ਬਿਹਤਰ ਭਵਿੱਖ ਦੀ ਉਮੀਦ ਦਿੰਦੀ ਹੈ। ਉਸਦਾ ਸਮਾਂ ਅਤੇ ਸਾਧਨ ਖਤਮ ਹੋ ਰਹੇ ਹਨ।\n\nਕੇਵਲ 2 ਦਿਨ ਬਾਕੀ! ₹50 ਲੱਖ ਵਿੱਚੋਂ ਹਾਲੇ ₹33.9 ਲੱਖ ਚਾਹੀਦੇ ਹਨ। ₹100 ਵੀ ਮਦਦ ਕਰੇਗਾ।\n\nਕਿਰਪਾ ਕਰਕੇ ਦਾਨ ਕਰੋ ਜਾਂ 5 ਲੋਕਾਂ ਨਾਲ ਸ਼ੇਅਰ ਕਰੋ:\nhttps://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
+        "ml": "ലീന തന്റെ ജീവിതം റെഡ്-ലൈറ്റ് ഏരിയകളിൽ നിന്ന് പെൺകുട്ടികളെ രക്ഷിക്കുന്നതിനായി സമർപ്പിച്ചിരിക്കുന്നു, അവർക്ക് മെച്ചപ്പെട്ട ഭാവിയുടെ പ്രതീക്ഷ നൽകുന്നു. അവളുടെ സമയവും വിഭവങ്ങളും തീർന്നുകൊണ്ടിരിക്കുകയാണ്।\n\nവെറും 2 ദിവസം മാത്രം! ₹50 ലക്ഷത്തിൽ ഇനിയും ₹33.9 ലക്ഷം വേണം. ₹100 പോലും സഹായിക്കും।\n\nദയവായി സംഭാവന നൽകുക അല്ലെങ്കിൽ 5 പേരുമായി പങ്കിടുക:\nhttps://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas"
+      },
+      "scraped_at_iso": "2026-05-24T09:10:51.450075+00:00"
     },
     {
       "id": "givedo-645e1d5b",
@@ -44,14 +55,25 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/ab425988-f410-4f07-a7ef-855bc2554fb3.webp",
-      "amount_raised_inr": 30078743.54,
+      "amount_raised_inr": 30083743.54,
       "amount_goal_inr": 60000000.0,
       "deadline_iso": "2026-05-28",
-      "days_left": 5,
+      "days_left": 4,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-grandparents-fight-hunger-and-receive-medical-care-donate-now",
       "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-23T23:14:56.008465+00:00"
+      "messages": {
+        "en": "These elderly grandparents were abandoned by their own family and are now struggling to survive without food or medical care. They need our help desperately.\n\nOnly 4 days left to raise ₹3 crore more out of ₹6 crore goal. Even ₹100 helps save their lives.\n\nPlease donate OR share with 5 people - every action counts.\n\nhttps://give.do/fundraisers/help-abandoned-grandparents-fight-hunger-and-receive-medical-care-donate-now",
+        "hi": "ये बुजुर्ग दादा-दादी को उनके अपने परिवार ने छोड़ दिया है और अब वे भूख और बीमारी से जूझ रहे हैं। उन्हें हमारी मदद की सख्त जरूरत है।\n\n6 करोड़ के लक्ष्य में से अभी भी 3 करोड़ चाहिए, केवल 4 दिन बचे हैं। 100 रुपये भी उनकी जान बचा सकते हैं।\n\nकृपया दान करें या 5 लोगों के साथ शेयर करें - हर कदम मायने रखता है।\n\nhttps://give.do/fundraisers/help-abandoned-grandparents-fight-hunger-and-receive-medical-care-donate-now",
+        "kn": "ಈ ವೃದ್ಧ ಅಜ್ಜಿ-ಅಜ್ಜನನ್ನು ಅವರ ಸ್ವಂತ ಕುಟುಂಬವೇ ಬಿಟ್ಟು ಹೋಗಿದೆ ಮತ್ತು ಅವರು ಹಸಿವು ಮತ್ತು ವೈದ್ಯಕೀಯ ಚಿಕಿತ್ಸೆ ಇಲ್ಲದೆ ಬದುಕಲು ಹೆಣಗಾಡುತ್ತಿದ್ದಾರೆ।\n\n6 ಕೋಟಿ ಗುರಿಯಲ್ಲಿ ಇನ್ನೂ 3 ಕೋಟಿ ಬೇಕು, ಕೇವಲ 4 ದಿನಗಳು ಬಾಕಿ. 100 ರೂಪಾಯಿಗಳು ಸಹ ಅವರ ಜೀವ ಉಳಿಸಬಹುದು।\n\nದಯವಿಟ್ಟು ದಾನ ಮಾಡಿ ಅಥವಾ 5 ಜನರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ - ಪ್ರತಿ ಕ್ರಿಯೆಯೂ ಮುಖ್ಯ।\n\nhttps://give.do/fundraisers/help-abandoned-grandparents-fight-hunger-and-receive-medical-care-donate-now",
+        "ta": "இந்த வயதான தாத்தா பாட்டியை அவர்களின் சொந்த குடும்பமே கைவிட்டுவிட்டது. இப்போது அவர்கள் பசி மற்றும் மருத்துவ சிகிச்சை இல்லாமல் தவிக்கின்றனர்।\n\n6 கோடி இலக்கில் இன்னும் 3 கோடி தேவை, வெறும் 4 நாட்கள் மட்டுமே உள்ளன. 100 ரூபாய் கூட அவர்கள் உயிரை காப்பாற்றும்।\n\nதயவுசெய்து நன்கொடை அளியுங்கள் அல்லது 5 பேருடன் பகிருங்கள் - ஒவ்வொரு செயலும் முக்கியம்.\n\nhttps://give.do/fundraisers/help-abandoned-grandparents-fight-hunger-and-receive-medical-care-donate-now",
+        "te": "ఈ వృద్ధ తాతామామలను వారి సొంత కుటుంబమే వదిలేసింది మరియు వారు ఆహారం లేకుండా, వైద్య సేవలేకుండా బతుకుతున్నారు।\n\n6 కోట్ల లక్ష్యంలో ఇంకా 3 కోట్లు కావాలి, కేవలం 4 రోజులే మిగిలాయి. 100 రూపాయలు కూడా వారి ప్రాణాలను కాపాడగలవు।\n\nదయచేసి దానం చేయండి లేదా 5 మందితో పంచుకోండి - ప్రతి చర్య ముఖ్యం.\n\nhttps://give.do/fundraisers/help-abandoned-grandparents-fight-hunger-and-receive-medical-care-donate-now",
+        "mr": "या वृद्ध आजी-आजोबांना त्यांच्या स्वतःच्या कुटुंबाने सोडून दिले आहे आणि आता ते भूक आणि वैद्यकीय सेवा नसताना जगण्यासाठी धडपडत आहेत।\n\n6 कोटींच्या उद्दिष्टात अजून 3 कोटी हवेत, फक्त 4 दिवस उरले आहेत. 100 रुपयेही त्यांचे प्राण वाचवू शकतात।\n\nकृपया दान करा किंवा 5 जणांसह शेअर करा - प्रत्येक कृती महत्त्वाची.\n\nhttps://give.do/fundraisers/help-abandoned-grandparents-fight-hunger-and-receive-medical-care-donate-now",
+        "bn": "এই বয়স্ক দাদা-দাদিকে তাদের নিজের পরিবারই ছেড়ে দিয়েছে এবং এখন তারা খাবার ও চিকিৎসা ছাড়া বেঁচে থাকার জন্য সংগ্রাম করছেন।\n\n6 কোটি টাকার লক্ষ্যে আরও 3 কোটি টাকা দরকার, মাত্র 4 দিন বাকি। 100 টাকাও তাদের জীবন বাঁচাতে পারে।\n\nঅনুগ্রহ করে দান করুন অথবা 5 জনের সাথে শেয়ার করুন - প্রতিটি পদক্ষেপই গুরুত্বপূর্ণ।\n\nhttps://give.do/fundraisers/help-abandoned-grandparents-fight-hunger-and-receive-medical-care-donate-now",
+        "gu": "આ વૃદ્ધ દાદા-દાદીને તેમના પોતાના પરિવારે જ છોડી દીધા છે અને હવે તેઓ ભૂખ અને તબીબી સેવા વગર જીવવા માટે સંઘર્ષ કરી રહ્યા છે।\n\n6 કરોડના લક્ષ્યમાં હજી 3 કરોડ જોઈએ, ફક્ત 4 દિવસ બાકી. 100 રૂપિયા પણ તેમનો જીવ બચાવી શકે.\n\nકૃપા કરીને દાન કરો કે 5 લોકો સાથે શેર કરો - દરેક પગલું મહત્વનું છે.\n\nhttps://give.do/fundraisers/help-abandoned-grandparents-fight-hunger-and-receive-medical-care-donate-now",
+        "pa": "ਇਨ੍ਹਾਂ ਬਜ਼ੁਰਗ ਦਾਦਾ-ਦਾਦੀ ਨੂੰ ਉਨ੍ਹਾਂ ਦੇ ਆਪਣੇ ਪਰਿਵਾਰ ਨੇ ਹੀ ਛੱਡ ਦਿੱਤਾ ਹੈ ਅਤੇ ਹੁਣ ਉਹ ਭੁੱਖ ਅਤੇ ਡਾਕਟਰੀ ਸੇਵਾ ਤੋਂ ਬਿਨਾਂ ਜੀਉਣ ਲਈ ਸੰਘਰਸ਼ ਕਰ ਰਹੇ ਹਨ।\n\n6 ਕਰੋੜ ਦੇ ਟੀਚੇ ਵਿੱਚ ਅਜੇ 3 ਕਰੋੜ ਚਾਹੀਦੇ ਹਨ, ਸਿਰਫ 4 ਦਿਨ ਬਾਕੀ। 100 ਰੁਪਏ ਵੀ ਉਨ੍ਹਾਂ ਦੀ ਜਾਨ ਬਚਾ ਸਕਦੇ ਹਨ।\n\nਕਿਰਪਾ ਕਰਕੇ ਦਾਨ ਕਰੋ ਜਾਂ 5 ਲੋਕਾਂ ਨਾਲ ਸ਼ੇਅਰ ਕਰੋ - ਹਰ ਕਦਮ ਮਹੱਤਵਪੂਰਨ ਹੈ।\n\nhttps://give.do/fundraisers/help-abandoned-grandparents-fight-hunger-and-receive-medical-care-donate-now",
+        "ml": "ഈ വയോധികരായ മുത്തശ്ശിമാരെ സ്വന്തം കുടുംബം തന്നെ ഉപേക്ഷിച്ചിരിക്കുന്നു, ഇപ്പോൾ അവർ ഭക്ഷണവും വൈദ്യസഹായവും ഇല്ലാതെ ജീവിക്കാൻ സംഘർഷിക്കുകയാണ്।\n\n6 കോടി ലക്ഷ്യത്തിൽ ഇനിയും 3 കോടി വേണം, വെറും 4 ദിവസം മാത്രം ബാക്കി. 100 രൂപ പോലും അവരുടെ ജീവൻ രക്ഷിക്കാം.\n\nദയവായി സംഭാവന നൽകുക അല്ലെങ്കിൽ 5 പേരുമായി പങ്കിടുക - ഓരോ നടപടിയും പ്രധാനം.\n\nhttps://give.do/fundraisers/help-abandoned-grandparents-fight-hunger-and-receive-medical-care-donate-now"
+      },
+      "scraped_at_iso": "2026-05-24T09:10:51.450038+00:00"
     },
     {
       "id": "givedo-65b89257",
@@ -61,14 +83,25 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/8484bab7-7bd7-49dd-8a03-840f14344985.webp",
-      "amount_raised_inr": 9824124.0,
+      "amount_raised_inr": 9844937.0,
       "amount_goal_inr": 9000000.0,
       "deadline_iso": "2026-05-28",
-      "days_left": 5,
+      "days_left": 4,
       "campaign_url": "https://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
       "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-23T23:14:56.008423+00:00"
+      "messages": {
+        "en": "Vinay has dedicated his life to rescuing children trapped in red-light areas, facing unimaginable abuse daily. These innocent kids need immediate protection and safe shelter.\n\nJust 4 days left to complete this mission! Goal already achieved but every rupee helps expand the rescue.\n\nEven ₹100 helps save a child's future. Please donate OR share with 5 people.\n\nhttps://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
+        "hi": "विनय ने अपनी जिंदगी उन बच्चों को बचाने में लगाई है जो रेड-लाइट एरिया में फंसे हुए हैं। रोज अकल्पनीय दुर्व्यवहार झेल रहे हैं।\n\nसिर्फ 4 दिन बचे हैं! लक्ष्य पूरा हो गया लेकिन हर रुपया और बच्चों को बचाने में मदद करेगा।\n\n₹100 भी एक बच्चे का भविष्य बचा सकता है। कृपया दान करें या 5 लोगों को शेयर करें।\n\nhttps://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
+        "kn": "ವಿನಯ್ ತನ್ನ ಜೀವನವನ್ನು ರೆಡ್-ಲೈಟ್ ಪ್ರದೇಶಗಳಲ್ಲಿ ಸಿಕ್ಕಿಬಿದ್ದ ಮಕ್ಕಳನ್ನು ರಕ್ಷಿಸಲು ಮೀಸಲಿಟ್ಟಿದ್ದಾನೆ. ಈ ಮಾಸೂಮ ಮಕ್ಕಳು ದಿನನಿತ್ಯ ದೌರ್ಜನ್ಯ ಎದುರಿಸುತ್ತಿದ್ದಾರೆ.\n\nಕೇವಲ 4 ದಿನಗಳು ಬಾಕಿ! ಗುರಿ ಸಾಧಿಸಲಾಗಿದೆ ಆದರೆ ಪ್ರತಿ ರೂಪಾಯಿ ಇನ್ನಷ್ಟು ಮಕ್ಕಳನ್ನು ರಕ್ಷಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.\n\n₹100 ಕೂಡ ಒಂದು ಮಗುವಿನ ಭವಿಷ್ಯವನ್ನು ಉಳಿಸುತ್ತದೆ. ದಾನ ಮಾಡಿ ಅಥವಾ 5 ಜನರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ.\n\nhttps://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
+        "ta": "வினய் தனது வாழ்க்கையை சிவப்பு விளக்கு பகுதிகளில் சிக்கிய குழந்தைகளை காப்பாற்றுவதற்கு அர்ப்பணித்துள்ளார். இந்த அப்பாவி குழந்தைகள் தினமும் கொடுமையை எதிர்கொள்கின்றனர்.\n\nவெறும் 4 நாட்கள் மட்டுமே உள்ளன! இலக்கு அடையப்பட்டுவிட்டது ஆனால் ஒவ்வொரு ரூபாயும் மேலும் குழந்தைகளை காப்பாற்ற உதவும்.\n\n₹100 கூட ஒரு குழந்தையின் எதிர்காலத்தை காப்பாற்றும். தயவுசெய்து நன்கொடை அளியுங்கள் அல்லது 5 பேருடன் பகிருங்கள்.\n\nhttps://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
+        "te": "వినయ్ తన జీవితాన్ని రెడ్-లైట్ ప్రాంతాలలో చిక్కుకున్న పిల్లలను రక్షించడానికి అంకితం చేశాడు. ఈ అమాయక పిల్లలు రోజూ దారుణమైన వేధింపులను ఎదుర్కొంటున్నారు.\n\nకేవలం 4 రోజులు మాత్రమే మిగిలాయి! లక్ష్యం చేరుకున్నప్పటికీ ప్రతి రూపాయి మరిన్ని పిల్లలను రక్షించడంలో సహాయపడుతుంది.\n\n₹100 కూడా ఒక పిల్లవాడి భవిష్యత్తును రక్షించగలదు. దయచేసి విరాళం ఇవ్వండి లేదా 5 మందితో పంచుకోండి.\n\nhttps://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
+        "mr": "विनयने आपले आयुष्य लाल दिवा भागात अडकलेल्या मुलांना वाचवण्यासाठी वाहून दिले आहे. ही निष्पाप मुले दररोज भयानक अत्याचाराला तोंड देत आहेत.\n\nफक्त 4 दिवस शिल्लक! लक्ष्य गाठले गेले पण प्रत्येक रुपया आणखी मुलांना वाचवण्यास मदत करेल.\n\n₹100 सुद्धा एका मुलाचे भविष्य वाचवू शकतो. कृपया दान करा किंवा 5 लोकांना शेअर करा.\n\nhttps://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
+        "bn": "বিনয় তার জীবন উৎসর্গ করেছেন রেড-লাইট এলাকায় আটকে পড়া শিশুদের উদ্ধার করতে। এই নিষ্পাপ শিশুরা প্রতিদিন অকল্পনীয় নির্যাতনের মুখোমুখি হচ্ছে।\n\nমাত্র ৪ দিন বাকি! লক্ষ্য অর্জিত হলেও প্রতিটি টাকা আরও শিশুদের উদ্ধারে সাহায্য করবে।\n\n₹১০০ও একটি শিশুর ভবিষ্যৎ বাঁচাতে পারে। দয়া করে দান করুন অথবা ৫ জনের সাথে শেয়ার করুন।\n\nhttps://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
+        "gu": "વિનયે પોતાનું જીવન રેડ-લાઇટ વિસ્તારોમાં ફસાયેલા બાળકોને બચાવવા માટે સમર્પિત કર્યું છે. આ નિર્દોષ બાળકો દરરોજ અકલ્પનીય દુર્વ્યવહારનો સામનો કરે છે.\n\nમાત્ર 4 દિવસ બાકી! લક્ષ્ય પૂરું થયું છે પરંતુ દરેક રૂપિયો વધુ બાળકોને બચાવવામાં મદદ કરશે.\n\n₹100 પણ એક બાળકનું ભવિષ્ય બચાવી શકે છે. કૃપા કરીને દાન કરો અથવા 5 લોકો સાથે શેર કરો.\n\nhttps://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
+        "pa": "ਵਿਨੈ ਨੇ ਆਪਣੀ ਜ਼ਿੰਦਗੀ ਰੈੱਡ-ਲਾਈਟ ਇਲਾਕਿਆਂ ਵਿੱਚ ਫਸੇ ਬੱਚਿਆਂ ਨੂੰ ਬਚਾਉਣ ਲਈ ਸਮਰਪਿਤ ਕੀਤੀ ਹੈ। ਇਹ ਮਾਸੂਮ ਬੱਚੇ ਰੋਜ਼ਾਨਾ ਭਿਆਨਕ ਦੁਰਵਿਹਾਰ ਦਾ ਸਾਮਣਾ ਕਰ ਰਹੇ ਹਨ।\n\nਸਿਰਫ਼ 4 ਦਿਨ ਬਾਕੀ! ਟੀਚਾ ਪੂਰਾ ਹੋ ਗਿਆ ਪਰ ਹਰ ਰੁਪਇਆ ਹੋਰ ਬੱਚਿਆਂ ਨੂੰ ਬਚਾਉਣ ਵਿੱਚ ਮਦਦ ਕਰੇਗਾ।\n\n₹100 ਵੀ ਇੱਕ ਬੱਚੇ ਦਾ ਭਵਿੱਖ ਬਚਾ ਸਕਦਾ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਦਾਨ ਕਰੋ ਜਾਂ 5 ਲੋਕਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰੋ।\n\nhttps://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
+        "ml": "വിനയ് തന്റെ ജീവിതം റെഡ്-ലൈറ്റ് പ്രദേശങ്ങളിൽ കുടുങ്ങിയ കുട്ടികളെ രക്ഷിക്കുന്നതിനായി സമർപ്പിച്ചിരിക്കുന്നു. ഈ നിഷ്പാപരായ കുട്ടികൾ എല്ലാ ദിവസവും ഭയാനകമായ ദുരുപയോഗം നേരിടുന്നു.\n\nവെറും 4 ദിവസം മാത്രം ബാക്കി! ലക്ഷ്യം നേടിക്കഴിഞ്ഞെങ്കിലും ഓരോ രൂപയും കൂടുതൽ കുട്ടികളെ രക്ഷിക്കാൻ സഹായിക്കും.\n\n₹100 പോലും ഒരു കുട്ടിയുടെ ഭാവി രക്ഷിക്കാൻ സഹായിക്കും. ദയവായി സംഭാവന നൽകുക അല്ലെങ്കിൽ 5 പേരുമായി പങ്കിടുക.\n\nhttps://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them"
+      },
+      "scraped_at_iso": "2026-05-24T09:10:51.449995+00:00"
     },
     {
       "id": "givedo-667e964e",
@@ -78,14 +111,25 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/e2c65b44-daf2-4379-b205-a7f110543865.webp",
-      "amount_raised_inr": 11517454.0,
+      "amount_raised_inr": 11520454.0,
       "amount_goal_inr": 30000000.0,
       "deadline_iso": "2026-05-30",
-      "days_left": 7,
+      "days_left": 6,
       "campaign_url": "https://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
       "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-23T23:14:56.008537+00:00"
+      "messages": {
+        "en": "Vanitha is 72 and has dedicated her life to caring for 100+ abandoned mentally ill women who have nowhere else to go. She's built them a shelter but needs help to keep it running.\n\nOnly 6 days left to raise ₹1.8 crore more (₹1.2 crore already raised of ₹3 crore goal).\n\nEven ₹100 helps. Please donate OR share with 5 people.\nhttps://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
+        "hi": "७२ वर्षीया वनिता ने अपना जीवन १००+ परित्यक्त मानसिक रूप से बीमार महिलाओं की देखभाल में समर्पित किया है। उन्होंने आश्रय बनाया है लेकिन इसे चलाने के लिए मदद चाहिए।\n\nसिर्फ ६ दिन बचे हैं ₹१.८ करोड़ और जुटाने के लिए (₹३ करोड़ में से ₹१.२ करोड़ मिल गए)।\n\nसिर्फ ₹१०० भी मदद करता है। कृपया दान करें या ५ लोगों के साथ शेयर करें।\nhttps://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
+        "kn": "೭ೂ ವರ್ಷದ ವನಿತಾ ಅವರು ತಮ್ಮ ಜೀವನವನ್ನು ೧೦೦+ ಕೈಬಿಟ್ಟ ಮಾನಸಿಕ ಅಸ್ವಸ್ಥ ಮಹಿಳೆಯರ ಸೇವೆಗೆ ಅರ್ಪಿಸಿದ್ದಾರೆ. ಅವರು ಆಶ್ರಯ ನಿರ್ಮಿಸಿದ್ದಾರೆ ಆದರೆ ನಡೆಸಲು ಸಹಾಯ ಬೇಕು।\n\n೬ ದಿನಗಳು ಮಾತ್ರ ಬಾಕಿ - ₹೧.೮ ಕೋಟಿ ಇನ್ನೂ ಬೇಕು (₹೩ ಕೋಟಿಯಲ್ಲಿ ₹೧.೨ ಕೋಟಿ ಸಿಕ್ಕಿದೆ)।\n\n₹೧೦೦ ಕೂಡ ಸಹಾಯ ಮಾಡುತ್ತದೆ. ದಯವಿಟ್ಟು ದಾನ ಮಾಡಿ ಅಥವಾ ೫ ಜನರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ।\nhttps://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
+        "ta": "72 வயதான வனிதா தன் வாழ்க்கையை 100+ கைவிடப்பட்ட மனநோயாளி பெண்களின் பராமரிப்புக்காக அர்ப்பணித்துள்ளார். அவர் அவர்களுக்காக ஒரு அடைக்கலம் கட்டியுள்ளார் ஆனால் அதை நடத்த உதவி தேவை।\n\n6 நாட்கள் மட்டுமே மீதம் - ₹1.8 கோடி இன்னும் தேவை (₹3 கோடியில் ₹1.2 கோடி சேர்ந்துள்ளது)।\n\n₹100 கூட உதவும். தயவுசெய்து நன்கொடை அளியுங்கள் அல்லது 5 பேருடன் பகிருங்கள்.\nhttps://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
+        "te": "72 ఏళ్ల వనిత తన జీవితాన్ని 100+ వదిలివేయబడిన మానసిక రోగుల సేవకు అర్పించారు. వారు వారికోసం ఆశ్రయం నిర్మించారు కానీ నడుపుటకు సహాయం కావాలి।\n\n6 రోజులు మాత్రమే మిగిలాయి - ₹1.8 కోట్లు ఇంకా కావాలి (₹3 కోట్లలో ₹1.2 కోట్లు వచ్చాయి)।\n\n₹100 కూడా సహాయం చేస్తుంది. దయచేసి దానం చేయండి లేదా 5 మందితో పంచుకోండి।\nhttps://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
+        "mr": "७२ वर्षीय वनिता यांनी आपले आयुष्य १००+ सोडून दिलेल्या मानसिक आजारी स्त्रियांच्या सेवेसाठी वाहिले आहे. त्यांनी आश्रयस्थान बांधले आहे पण ते चालवण्यासाठी मदत हवी।\n\nफक्त ६ दिवस उरले आहेत - ₹१.८ कोटी अजून हवे (₹३ कोटीपैकी ₹१.२ कोटी मिळाले)।\n\nफक्त ₹१०० ही मदत करते. कृपया देणगी द्या किंवा ५ जणांना शेअर करा।\nhttps://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
+        "bn": "৭২ বছর বয়সী বনিতা তার জীবন ১০০+ পরিত্যক্ত মানসিক রোগী নারীদের সেবায় উৎসর্গ করেছেন। তিনি তাদের জন্য আশ্রয় তৈরি করেছেন কিন্তু চালানোর জন্য সাহায্য দরকার।\n\nমাত্র ৬ দিন বাকি - ₹১.৮ কোটি আরো প্রয়োজন (₹৩ কোটির মধ্যে ₹১.২ কোটি জমেছে)।\n\n₹১০০ও সাহায্য করে। দয়া করে দান করুন অথবা ৫ জনের সাথে শেয়ার করুন।\nhttps://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
+        "gu": "72 વર્ષીય વનિતાએ પોતાનું જીવન 100+ ત્યજી દેવાયેલી માનસિક બીમાર મહિલાઓની સેવામાં અર્પણ કર્યું છે. તેમણે આશ્રયસ્થાન બનાવ્યું છે પણ તે ચલાવવા મદદ જોઈએ છે।\n\nમાત્ર 6 દિવસ બાકી - ₹1.8 કરોડ હજુ જોઈએ (₹3 કરોડમાંથી ₹1.2 કરોડ મળ્યા)।\n\n₹100 પણ મદદ કરે છે. કૃપા કરી દાન આપો અથવા 5 લોકો સાથે શેર કરો।\nhttps://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
+        "pa": "72 ਸਾਲਾ ਵਨਿਤਾ ਨੇ ਆਪਣੀ ਜ਼ਿੰਦਗੀ 100+ ਛੱਡੀਆਂ ਗਈਆਂ ਮਾਨਸਿਕ ਮਰੀਜ਼ ਔਰਤਾਂ ਦੀ ਸੇਵਾ ਵਿੱਚ ਸਮਰਪਿਤ ਕੀਤੀ ਹੈ। ਉਸਨੇ ਉਨ੍ਹਾਂ ਲਈ ਆਸਰਾ ਬਣਾਇਆ ਹੈ ਪਰ ਚਲਾਉਣ ਲਈ ਮਦਦ ਚਾਹੀਦੀ ਹੈ।\n\nਸਿਰਫ਼ 6 ਦਿਨ ਬਾਕੀ - ₹1.8 ਕਰੋੜ ਹੋਰ ਚਾਹੀਦੇ (₹3 ਕਰੋੜ ਵਿੱਚੋਂ ₹1.2 ਕਰੋੜ ਮਿਲੇ)।\n\n₹100 ਵੀ ਮਦਦ ਕਰਦਾ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਦਾਨ ਦਿਓ ਜਾਂ 5 ਲੋਕਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰੋ।\nhttps://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
+        "ml": "72 വയസ്സുള്ള വനിത തന്റെ ജീവിതം 100+ ഉപേക്ഷിക്കപ്പെട്ട മാനസിക രോഗികളായ സ്ത്രീകളുടെ സേവനത്തിനായി സമർപ്പിച്ചിരിക്കുന്നു. അവർ അവർക്കായി ഒരു അഭയം നിർമ്മിച്ചിട്ടുണ്ട് പക്ഷേ നടത്താൻ സഹായം വേണം।\n\n6 ദിവസം മാത്രം ബാക്കി - ₹1.8 കോടി കൂടി വേണം (₹3 കോടിയിൽ ₹1.2 കോടി കിട്ടി)।\n\n₹100 പോലും സഹായിക്കും. ദയവായി സംഭാവന നൽകുക അല്ലെങ്കിൽ 5 പേരുമായി പങ്കിടുക।\nhttps://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care"
+      },
+      "scraped_at_iso": "2026-05-24T09:10:51.450102+00:00"
     },
     {
       "id": "milaap-1018569",
@@ -95,31 +139,25 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1778571136/production/images/campaign/1018569/sg_ayynrh_1778571138.jpg",
-      "amount_raised_inr": 12647.0,
+      "amount_raised_inr": 12657.0,
       "amount_goal_inr": 2050000.0,
       "deadline_iso": "2026-06-08",
-      "days_left": 16,
+      "days_left": 15,
       "campaign_url": "https://milaap.org/fundraisers/support-subramanian-ganesan-1",
       "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-23T23:14:53.280843+00:00"
-    },
-    {
-      "id": "milaap-1019510",
-      "source": "milaap",
-      "title": "Help Our Teen Daughter Fight Brain Tumor",
-      "description": "My name is Kabita, I am a house maid, and I am raising funds for my 15-year-old daughter, who lives with us in Hyderabad...",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.22,w_0.2,x_0.63,y_0.31/c_fill,h_198,w_264/v1778836696/production/images/campaign/1019510/edjx3fkznjugz64bdf3i_1778836698.jpg",
-      "amount_raised_inr": 5734.0,
-      "amount_goal_inr": 600000.0,
-      "deadline_iso": "2026-06-12",
-      "days_left": 20,
-      "campaign_url": "https://milaap.org/fundraisers/support-child-of-kabita-j",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-23T23:14:53.280862+00:00"
+      "messages": {
+        "en": "A father's worst nightmare - young Subramanian Ganesan suffered a sudden brain stroke and is fighting for recovery. His family is desperately trying to save him but the medical costs are overwhelming.\n\nOnly 15 days left to raise ₹20.4 lakh still needed for his treatment.\n\nEven ₹100 helps save a life. Please donate OR share with 5 people who care.\n\nhttps://milaap.org/fundraisers/support-subramanian-ganesan-1",
+        "hi": "एक पिता का सबसे बुरा सपना - युवा सुब्रमणियन गणेशन को अचानक ब्रेन स्ट्रोक हुआ और वह रिकवरी के लिए लड़ रहा है। उसका परिवार उसे बचाने की कोशिश कर रहा है लेकिन इलाज का खर्च बहुत ज्यादा है।\n\nसिर्फ 15 दिन बचे हैं और अभी भी ₹20.4 लाख की जरूरत है।\n\nसिर्फ ₹100 भी एक जिंदगी बचा सकते हैं। कृपया दान करें या 5 लोगों के साथ शेयर करें।\n\nhttps://milaap.org/fundraisers/support-subramanian-ganesan-1",
+        "kn": "ಒಬ್ಬ ತಂದೆಯ ಕೆಟ್ಟ ದುಃಸ್ವಪ್ನ - ಯುವ ಸುಬ್ರಹ್ಮಣ್ಯನ್ ಗಣೇಶನ್‌ಗೆ ಹಠಾತ್ ಬ್ರೇನ್ ಸ್ಟ್ರೋಕ್ ಆಗಿ ಗುಣಮುಖನಾಗಲು ಹೋರಾಟ ನಡೆಸುತ್ತಿದ್ದಾನೆ. ಅವನ ಕುಟುಂಬ ಅವನನ್ನು ಉಳಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತಿದೆ ಆದರೆ ವೈದ್ಯಕೀಯ ವೆಚ್ಚ ತುಂಬಾ ಹೆಚ್ಚು.\n\nಕೇವಲ 15 ದಿನಗಳು ಬಾಕಿ ಮತ್ತು ಇನ್ನೂ ₹20.4 ಲಕ್ಷ ಬೇಕು.\n\n₹100 ಕೂಡ ಒಂದು ಜೀವ ಉಳಿಸಬಹುದು. ದಯವಿಟ್ಟು ದಾನ ಮಾಡಿ ಅಥವಾ 5 ಜನರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ.\n\nhttps://milaap.org/fundraisers/support-subramanian-ganesan-1",
+        "ta": "ஒரு தந்தையின் மோசமான கனவு - இளம் சுப்பிரமணியன் கணேசனுக்கு திடீர் பிரேன் ஸ்ட்ரோக் ஏற்பட்டு குணமடைய போராடிக் கொண்டிருக்கிறார். அவரது குடும்பம் அவரைக் காப்பாற்ற முயற்சிக்கிறது ஆனால் மருத்துவ செலவுகள் மிக அதிகம்.\n\nவெறும் 15 நாட்கள் மட்டுமே மீதம் உள்ளது மற்றும் இன்னும் ₹20.4 லட்சம் தேவை.\n\n₹100 கூட ஒரு உயிரைக் காப்பாற்றும். தயவுசெய்து நன்கொடை அளிக்கவும் அல்லது 5 பேருடன் பகிரவும்.\n\nhttps://milaap.org/fundraisers/support-subramanian-ganesan-1",
+        "te": "ఒక తండ్రి యొక్క చెత్త దుఃస్వప్నం - యువ సుబ్రహ్మణ్యన్ గణేశన్‌కు అకస్మాత్ బ్రెయిన్ స్ట్రోక్ వచ్చింది మరియు కోలుకోవడానికి పోరాడుతున్నాడు. అతని కుటుంబం అతనిని రక్షించడానికి ప్రయత్నిస్తోంది కానీ వైద్య ఖర్చులు చాలా ఎక్కువ.\n\nకేవలం 15 రోజులు మాత్రమే మిగిలి ఉన్నాయి మరియు ఇంకా ₹20.4 లక్షలు అవసరం.\n\n₹100 కూడా ఒక ప్రాణాన్ని రక్షిస్తుంది. దయచేసి దానం చేయండి లేదా 5 మందితో పంచుకోండి.\n\nhttps://milaap.org/fundraisers/support-subramanian-ganesan-1",
+        "mr": "एका वडिलांचे सर्वात वाईट स्वप्न - तरुण सुब्रमण्यन गणेशनला अचानक ब्रेन स्ट्रोक झाला आणि तो बरे होण्यासाठी लढत आहे. त्याचे कुटुंब त्याला वाचवण्याचा प्रयत्न करत आहे पण वैद्यकीय खर्च खूप जास्त आहे.\n\nफक्त 15 दिवस शिल्लक आणि अजूनही ₹20.4 लाखांची गरज आहे.\n\nफक्त ₹100 देखील एक जीव वाचवू शकतात. कृपया दान करा किंवा 5 लोकांशी शेअर करा.\n\nhttps://milaap.org/fundraisers/support-subramanian-ganesan-1",
+        "bn": "একজন পিতার সবচেয়ে খারাপ দুঃস্বপ্ন - তরুণ সুব্রমণিয়ান গণেশনের হঠাৎ ব্রেইন স্ট্রোক হয়েছে এবং সুস্থ হওয়ার জন্য লড়াই করছেন। তার পরিবার তাকে বাঁচানোর চেষ্টা করছে কিন্তু চিকিৎসার খরচ অনেক বেশি।\n\nমাত্র ১৫ দিন বাকি এবং এখনও ₹২০.৪ লক্ষ প্রয়োজন।\n\nমাত্র ₹১০০ও একটি জীবন বাঁচাতে পারে। অনুগ্রহ করে দান করুন বা ৫ জনের সাথে শেয়ার করুন।\n\nhttps://milaap.org/fundraisers/support-subramanian-ganesan-1",
+        "gu": "એક પિતાનું સૌથી ખરાબ સ્વપ્ન - યુવાન સુબ્રમણ્યન ગણેશનને અચાનક બ્રેઇન સ્ટ્રોક આવ્યો છે અને તે સુધરવા માટે લડી રહ્યો છે. તેનો પરિવાર તેને બચાવવાની કોશિશ કરી રહ્યો છે પરંતુ દવાના ખર્ચ ખૂબ વધારે છે.\n\nફક્ત 15 દિવસ બાકી છે અને હજુ પણ ₹20.4 લાખની જરૂર છે.\n\nફક્ત ₹100 પણ એક જીવન બચાવી શકે છે. કૃપા કરીને દાન આપો અથવા 5 લોકો સાથે શેર કરો.\n\nhttps://milaap.org/fundraisers/support-subramanian-ganesan-1",
+        "pa": "ਇੱਕ ਪਿਤਾ ਦਾ ਸਭ ਤੋਂ ਭਿਆਨਕ ਸੁਪਨਾ - ਨੌਜਵਾਨ ਸੁਬ੍ਰਮਣਿਯਨ ਗਣੇਸ਼ਨ ਨੂੰ ਅਚਾਨਕ ਬ੍ਰੇਨ ਸਟ੍ਰੋਕ ਆਇਆ ਹੈ ਅਤੇ ਉਹ ਠੀਕ ਹੋਣ ਲਈ ਲੜ ਰਿਹਾ ਹੈ। ਉਸਦਾ ਪਰਿਵਾਰ ਉਸਨੂੰ ਬਚਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੈ ਪਰ ਡਾਕਟਰੀ ਖਰਚ ਬਹੁਤ ਜ਼ਿਆਦਾ ਹੈ।\n\nਸਿਰਫ 15 ਦਿਨ ਬਾਕੀ ਅਤੇ ਅਜੇ ਵੀ ₹20.4 ਲੱਖ ਦੀ ਲੋੜ ਹੈ।\n\nਸਿਰਫ ₹100 ਵੀ ਇੱਕ ਜਾਨ ਬਚਾ ਸਕਦੇ ਹਨ। ਕਿਰਪਾ ਕਰਕੇ ਦਾਨ ਕਰੋ ਜਾਂ 5 ਲੋਕਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰੋ।\n\nhttps://milaap.org/fundraisers/support-subramanian-ganesan-1",
+        "ml": "ഒരു പിതാവിന്റെ ഏറ്റവും മോശം പേടിസ്വപ്നം - യുവാവായ സുബ്രഹ്മണ്യൻ ഗണേശനു് പെട്ടെന്ന് ബ്രെയിൻ സ്ട്രോക്ക് വന്ന് സുഖപ്പെടാൻ പോരാടുകയാണ്. അവന്റെ കുടുംബം അവനെ രക്ഷിക്കാൻ ശ്രമിക്കുന്നുണ്ടെങ്കിലും വൈദ്യചികിത്സാച്ചെലവ് വളരെ കൂടുതലാണ്.\n\nവെറും 15 ദിവസങ്ങൾ മാത്രം ബാക്കി, ഇനിയും ₹20.4 ലക്ഷം വേണം.\n\n₹100 പോലും ഒരു ജീവൻ രക്ഷിക്കും. ദയവായി സംഭാവന നൽകുക അല്ലെങ്കിൽ 5 പേരുമായി പങ്കിടുക.\n\nhttps://milaap.org/fundraisers/support-subramanian-ganesan-1"
+      },
+      "scraped_at_iso": "2026-05-24T09:10:48.498108+00:00"
     },
     {
       "id": "milaap-1020029",
@@ -129,14 +167,25 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1778846761/production/images/campaign/1020029/medical_1553587798_1778846749.jpg",
-      "amount_raised_inr": 5485.0,
+      "amount_raised_inr": 5512.0,
       "amount_goal_inr": 1400000.0,
       "deadline_iso": "2026-06-14",
-      "days_left": 22,
+      "days_left": 21,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-somasundram",
       "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-23T23:14:53.280777+00:00"
+      "messages": {
+        "en": "A child is battling Ewing Sarcoma and needs our help to live again. Their family has only raised ₹6K of the ₹14 lakh needed for treatment. With just 21 days left, they still need ₹13.9 lakh. Even ₹100 helps save this precious life. Please donate OR share with 5 people. https://milaap.org/fundraisers/support-child-of-somasundram",
+        "hi": "एक बच्चा यूइंग सार्कोमा से लड़ रहा है और फिर से जीने के लिए हमारी मदद चाहिए। उनके परिवार ने इलाज के लिए जरूरी 14 लाख में से सिर्फ 6 हजार जुटाए हैं। केवल 21 दिन बचे हैं, अभी भी 13.9 लाख की जरूरत है। 100 रुपए भी इस बच्चे की जान बचा सकते हैं। कृपया दान करें या 5 लोगों के साथ शेयर करें। https://milaap.org/fundraisers/support-child-of-somasundram",
+        "kn": "ಒಂದು ಮಗುವಿನಿಂದ ಯೂಯಿಂಗ್ ಸಾರ್ಕೋಮಾ ವಿರುದ್ಧ ಹೋರಾಟ ನಡೆಯುತ್ತಿದೆ ಮತ್ತು ಮತ್ತೆ ಬದುಕಲು ನಮ್ಮ ಸಹಾಯ ಬೇಕು। ಅವರ ಕುಟುಂಬ 14 ಲಕ್ಷ ಚಿಕಿತ್ಸೆ ಖರ್ಚಿನಲ್ಲಿ ಕೇವಲ 6 ಸಾವಿರ ಸಂಗ್ರಹಿಸಿದೆ। ಕೇವಲ 21 ದಿನಗಳು ಉಳಿದಿವೆ, ಇನ್ನೂ 13.9 ಲಕ್ಷ ಬೇಕು. 100 ರೂಪಾಯಿ ಕೂಡ ಈ ಮಗುವಿನ ಜೀವ ಉಳಿಸಬಹುದು. ದಯವಿಟ್ಟು ದಾನ ಮಾಡಿ ಅಥವಾ 5 ಜನರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ। https://milaap.org/fundraisers/support-child-of-somasundram",
+        "ta": "ஒரு குழந்தை யூயிங் சார்கோமாவுடன் போராடிக்கொண்டிருக்கிறது, மீண்டும் வாழ நமது உதவி தேவை। அவர்கள் குடும்பம் 14 லட்சம் சிகிச்சை செலவில் வெறும் 6 ஆயிரம் மட்டுமே சேகரித்துள்ளது। வெறும் 21 நாட்கள் மட்டுமே உள்ளன, இன்னும் 13.9 லட்சம் தேவை. 100 ரூபாய் கூட இந்த குழந்தையின் உயிரைக் காப்பாற்றலாம். தயவுசெய்து நன்கொடை அளியுங்கள் அல்லது 5 பேருடன் பகிருங்கள். https://milaap.org/fundraisers/support-child-of-somasundram",
+        "te": "ఒక పిల్లవాడు యూయింగ్ సార్కోమాతో పోరాడుతున్నాడు మరియు మళ్ళీ జీవించడానికి మన సహాయం కావాలి. వారి కుటుంబం 14 లక్షల చికిత్స ఖర్చులో కేవలం 6 వేలు మాత్రమే సేకరించింది. కేవలం 21 రోజులు మిగిలి ఉన్నాయి, ఇంకా 13.9 లక్షలు కావాలి. 100 రూపాయలు కూడా ఈ పిల్లవాడి ప్రాణాలను కాపాడగలవు. దయచేసి దానం చేయండి లేదా 5 మందితో పంచుకోండి। https://milaap.org/fundraisers/support-child-of-somasundram",
+        "mr": "एक मूल यूइंग सार्कोमा विरुद्ध लढत आहे आणि पुन्हा जगण्यासाठी आमची मदत हवी आहे. त्यांच्या कुटुंबाने 14 लाख उपचार खर्चातील फक्त 6 हजार गोळा केले आहेत. फक्त 21 दिवस उरले आहेत, अजूनही 13.9 लाख लागतात. 100 रुपये देखील या मुलाचा जीव वाचवू शकतात. कृपया देणगी द्या किंवा 5 लोकांसह शेअर करा। https://milaap.org/fundraisers/support-child-of-somasundram",
+        "bn": "একটি শিশু ইউইং সারকোমার সাথে লড়াই করছে এবং আবার বাঁচার জন্য আমাদের সাহায্য প্রয়োজন। তাদের পরিবার 14 লক্ষ চিকিৎসা খরচের মধ্যে মাত্র 6 হাজার সংগ্রহ করেছে। মাত্র 21 দিন বাকি, এখনও 13.9 লক্ষ প্রয়োজন। 100 টাকাও এই শিশুর জীবন বাঁচাতে পারে। অনুগ্রহ করে দান করুন বা 5 জনের সাথে শেয়ার করুন। https://milaap.org/fundraisers/support-child-of-somasundram",
+        "gu": "એક બાળક યુવિંગ સાર્કોમા સામે લડી રહ્યું છે અને ફરીથી જીવવા માટે અમારી મદદની જરૂર છે. તેમના પરિવારે 14 લાખ સારવાર ખર્ચમાંથી માત્ર 6 હજાર જ એકત્રિત કર્યા છે. માત્ર 21 દિવસ બાકી છે, હજી પણ 13.9 લાખની જરૂર છે. 100 રૂપિયા પણ આ બાળકનો જીવ બચાવી શકે છે. કૃપા કરીને દાન કરો અથવા 5 લોકો સાથે શેર કરો। https://milaap.org/fundraisers/support-child-of-somasundram",
+        "pa": "ਇੱਕ ਬੱਚਾ ਯੂਇੰਗ ਸਾਰਕੋਮਾ ਨਾਲ ਲੜ ਰਿਹਾ ਹੈ ਅਤੇ ਦੁਬਾਰਾ ਜੀਣ ਲਈ ਸਾਡੀ ਮਦਦ ਚਾਹੀਦੀ ਹੈ। ਉਹਨਾਂ ਦੇ ਪਰਿਵਾਰ ਨੇ 14 ਲੱਖ ਇਲਾਜ ਦੇ ਖਰਚੇ ਵਿੱਚੋਂ ਸਿਰਫ 6 ਹਜ਼ਾਰ ਹੀ ਇਕੱਠੇ ਕੀਤੇ ਹਨ। ਸਿਰਫ 21 ਦਿਨ ਬਾਕੀ ਹਨ, ਅਜੇ ਵੀ 13.9 ਲੱਖ ਚਾਹੀਦੇ ਹਨ। 100 ਰੁਪਏ ਵੀ ਇਸ ਬੱਚੇ ਦੀ ਜਾਨ ਬਚਾ ਸਕਦੇ ਹਨ। ਕਿਰਪਾ ਕਰਕੇ ਦਾਨ ਕਰੋ ਜਾਂ 5 ਲੋਕਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰੋ। https://milaap.org/fundraisers/support-child-of-somasundram",
+        "ml": "ഒരു കുട്ടി യൂവിങ് സാർക്കോമയുമായി പോരാടുകയാണ്, വീണ്ടും ജീവിക്കാൻ നമ്മുടെ സഹായം ആവശ്യമാണ്. അവരുടെ കുടുംബം 14 ലക്ഷം ചികിത്സാ ചെലവിൽ നിന്ന് വെറും 6 ആയിരം മാത്രമേ സമാഹരിച്ചിട്ടുള്ളൂ. വെറും 21 ദിവസം മാത്രം ബാക്കി, ഇനിയും 13.9 ലക്ഷം വേണം. 100 രൂപ പോലും ഈ കുട്ടിയുടെ ജീവൻ രക്ഷിക്കാൻ സഹായിക്കും. ദയവായി സംഭാവന നൽകുക അല്ലെങ്കിൽ 5 പേരുമായി പങ്കിടുക। https://milaap.org/fundraisers/support-child-of-somasundram"
+      },
+      "scraped_at_iso": "2026-05-24T09:10:48.498150+00:00"
     },
     {
       "id": "milaap-1020706",
@@ -146,14 +195,25 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.46,w_0.24,x_0.4,y_0.04/c_fill,h_198,w_264/v1779113130/production/images/campaign/1020706/1000015824_hltwpk_1779113147.jpg",
-      "amount_raised_inr": 6058.0,
+      "amount_raised_inr": 6129.0,
       "amount_goal_inr": 840000.0,
       "deadline_iso": "2026-06-17",
-      "days_left": 25,
+      "days_left": 24,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-sanaz-khozini",
       "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-23T23:14:53.280683+00:00"
+      "messages": {
+        "en": "Little Avyaan is just a child who dreams of playing like other kids, but he needs life-changing surgeries to make that possible. His family has been struggling to arrange funds, and time is running out.\n\nOnly 24 days left to raise ₹8.3 lakh more out of ₹8.4 lakh goal. Even ₹100 helps save this brave little boy's future.\n\nPlease donate OR share with 5 people - every action counts.\nhttps://milaap.org/fundraisers/support-child-of-sanaz-khozini",
+        "hi": "छोटा अव्यान सिर्फ एक बच्चा है जो दूसरे बच्चों की तरह खेलने का सपना देखता है, लेकिन उसे जीवन बदलने वाली सर्जरी की जरूरत है। उसका परिवार पैसे जुटाने के लिए संघर्ष कर रहा है।\n\n₹8.4 लाख के लक्ष्य में से अभी भी ₹8.3 लाख चाहिए, केवल 24 दिन बचे हैं। ₹100 भी इस बहादुर बच्चे की मदद कर सकते हैं।\n\nकृपया दान करें या 5 लोगों के साथ शेयर करें।\nhttps://milaap.org/fundraisers/support-child-of-sanaz-khozini",
+        "kn": "ಚಿಕ್ಕ ಅವ್ಯಾನ್ ಇತರ ಮಕ್ಕಳಂತೆ ಆಟವಾಡಲು ಕನಸು ಕಾಣುವ ಮಗುವಾಗಿದ್দಾನೆ, ಆದರೆ ಅದನ್ನು ಸಾಧ್ಯವಾಗಿಸಲು ಜೀವನ ಬದಲಾಯಿಸುವ ಶಸ್ತ್ರಚಿಕಿತ್ಸೆಗಳು ಬೇಕಾಗಿವೆ। ಅವನ ಕುಟುಂಬವು ಹಣ ಸಂಗ್ರಹಿಸಲು ಹೆಣಗಾಡುತ್ತಿದೆ।\n\n₹8.4 ಲಕ್ಷದ ಗುರಿಯಲ್ಲಿ ಇನ್ನೂ ₹8.3 ಲಕ್ಷ ಬೇಕು, ಕೇವಲ 24 ದಿನಗಳು ಉಳಿದಿವೆ। ₹100 ಕೂಡ ಈ ಧೈರ್ಯಶಾಲಿ ಮಗುವಿನ ಸಹಾಯ ಮಾಡುತ್ತದೆ।\n\nದಯವಿಟ್ಟು ದಾನ ಮಾಡಿ ಅಥವಾ 5 ಜನರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ।\nhttps://milaap.org/fundraisers/support-child-of-sanaz-khozini",
+        "ta": "சின்ன அவ்யான் மற்ற குழந்தைகளைப் போல விளையாட கனவு காணும் ஒரு குழந்தை, ஆனால் அதை சாத்தியமாக்க அவனுக்கு வாழ்க்கையை மாற்றும் அறுவை சிகிச்சைகள் தேவை। அவன் குடும்பம் பணம் திரட்ட போராடிக்கொண்டிருக்கிறது।\n\n₹8.4 லட்ச இலக்கில் இன்னும் ₹8.3 லட்சம் தேவை, வெறும் 24 நாட்கள் மட்டுமே உள்ளது। ₹100 கூட இந்த தைரியமான குழந்தையின் எதிர்காலத்தை காப்பாற்ற உதவும்.\n\nதயவுசெய்து நன்கொடை அளிக்கவும் அல்லது 5 பேருடன் பகிர்ந்துகொள்ளவும்.\nhttps://milaap.org/fundraisers/support-child-of-sanaz-khozini",
+        "te": "చిన్న అవ్యాన్ ఇతర పిల్లలలా ఆటలాడాలని కలలు కనే చిన్నపిల్లవాడు, కానీ అది సాధ్యం కావాలంటే అతనికి జీవితాన్ని మార్చే శస్త్రచికిత్సలు అవసరం. అతని కుటుంబం డబ్బు సేకరించడానికి కష్టపడుతోంది।\n\n₹8.4 లక్షల లక్ష్యంలో ఇంకా ₹8.3 లక్షలు కావాలి, కేవలం 24 రోజులు మాత్రమే మిగిలాయి. ₹100 కూడా ఈ ధైర్యవంతుడి భవిష్యత్తును రక్షించడంలో సహాయపడుతుంది।\n\nదయచేసి విరాళం ఇవ్వండి లేదా 5 మందితో పంచుకోండి.\nhttps://milaap.org/fundraisers/support-child-of-sanaz-khozini",
+        "mr": "छोटा अव्यान हा इतर मुलांसारखा खेळण्याची स्वप्ने पाहणारा मुलगा आहे, पण त्याला आयुष्य बदलणाऱ्या शस्त्रक्रिया लागतील. त्याचे कुटुंब पैसे जमवण्यासाठी धडपडत आहे।\n\n₹8.4 लाखाच्या उद्दिष्टापैकी अजूनही ₹8.3 लाख हवे, फक्त 24 दिवस उरले आहेत. ₹100 सुद्धा या धाडसी मुलाचे भविष्य वाचवण्यास मदत करतील।\n\nकृपया दान करा किंवा 5 लोकांसोबत शेअर करा.\nhttps://milaap.org/fundraisers/support-child-of-sanaz-khozini",
+        "bn": "ছোট্ট অভ্যান একটি শিশু যে অন্য বাচ্চাদের মতো খেলার স্বপ্ন দেখে, কিন্তু সেটা সম্ভব করতে তার জীবন পরিবর্তনকারী অপারেশন প্রয়োজন। তার পরিবার টাকার জোগাড় করার জন্য সংগ্রাম করছে।\n\n₹৮.৪ লাখ লক্ষ্যের মধ্যে আরও ₹৮.৩ লাখ দরকার, মাত্র ২৪ দিন বাকি আছে। ₹১০০ও এই সাহসী ছোট্ট ছেলের ভবিষ্যৎ বাঁচাতে সাহায্য করবে।\n\nঅনুগ্রহ করে দান করুন অথবা ৫ জনের সাথে শেয়ার করুন।\nhttps://milaap.org/fundraisers/support-child-of-sanaz-khozini",
+        "gu": "નાનો અવ્યાન એક બાળક છે જે બીજા બાળકોની જેમ રમવાના સપના જુએ છે, પરંતુ તેને જીવન બદલી નાખનારી સર્જરીઓની જરૂર છે. તેનો પરિવાર પૈસા ઉભા કરવા માટે સંઘર્ષ કરી રહ્યો છે।\n\n₹8.4 લાખના લક્ષ્યમાંથી હજુ પણ ₹8.3 લાખ જોઈએ છે, માત્ર 24 દિવસ બાકી છે. ₹100 પણ આ બહાદુર બાળકના ભવિષ્યને બચાવવામાં મદદ કરશે।\n\nકૃપા કરી દાન કરો અથવા 5 લોકો સાથે શેર કરો.\nhttps://milaap.org/fundraisers/support-child-of-sanaz-khozini",
+        "pa": "ਛੋਟਾ ਅਵਿਆਨ ਇੱਕ ਬੱਚਾ ਹੈ ਜੋ ਹੋਰ ਬੱਚਿਆਂ ਵਾਂਗ ਖੇਡਣ ਦੇ ਸਪਨੇ ਵੇਖਦਾ ਹੈ, ਪਰ ਇਸ ਨੂੰ ਸੰਭਵ ਬਣਾਉਣ ਲਈ ਉਸਨੂੰ ਜ਼ਿੰਦਗੀ ਬਦਲ ਦੇਣ ਵਾਲੀਆਂ ਸਰਜਰੀਆਂ ਦੀ ਲੋੜ ਹੈ। ਉਸਦਾ ਪਰਿਵਾਰ ਪੈਸੇ ਇਕੱਠੇ ਕਰਨ ਲਈ ਸੰਘਰਸ਼ ਕਰ ਰਿਹਾ ਹੈ।\n\n₹8.4 ਲੱਖ ਦੇ ਟੀਚੇ ਵਿੱਚੋਂ ਅਜੇ ਵੀ ₹8.3 ਲੱਖ ਚਾਹੀਦੇ ਹਨ, ਸਿਰਫ਼ 24 ਦਿਨ ਬਾਕੀ ਹਨ। ₹100 ਵੀ ਇਸ ਬਹਾਦੁਰ ਬੱਚੇ ਦਾ ਭਵਿੱਖ ਬਚਾਉਣ ਵਿੱਚ ਮਦਦ ਕਰਦੇ ਹਨ।\n\nਕਿਰਪਾ ਕਰਕੇ ਦਾਨ ਕਰੋ ਜਾਂ 5 ਲੋਕਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰੋ।\nhttps://milaap.org/fundraisers/support-child-of-sanaz-khozini",
+        "ml": "കുഞ്ഞ് അവ്യാൻ മറ്റ് കുട്ടികളെപ്പോലെ കളിക്കാൻ സ്വപ്നം കാണുന്ന ഒരു കുട്ടിയാണ്, എന്നാൽ അത് സാധ്യമാക്കാൻ അവന് ജീവിതത്തെ മാറ്റിമറിക്കുന്ന ശസ്ത്രക്രിയകൾ ആവശ്യമാണ്. അവന്റെ കുടുംബം പണം സ്വരൂപിക്കാൻ കഷ്ടപ്പെടുകയാണ്.\n\n₹8.4 ലക്ഷം ലക്ഷ്യത്തിൽ ഇനിയും ₹8.3 ലക്ഷം വേണം, വെറും 24 ദിവസം മാത്രം ബാക്കി. ₹100 പോലും ഈ ധീരനായ കുട്ടിയുടെ ഭാവി രക്ഷിക്കാൻ സഹായിക്കും.\n\nദയവായി സംഭാവന നൽകുക അല്ലെങ്കിൽ 5 പേരുമായി പങ്കിടുക.\nhttps://milaap.org/fundraisers/support-child-of-sanaz-khozini"
+      },
+      "scraped_at_iso": "2026-05-24T09:10:48.497993+00:00"
     },
     {
       "id": "milaap-1021540",
@@ -163,14 +223,53 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1779358884/production/images/campaign/1021540/1001284113_vsjyzp_1779358885.jpg",
-      "amount_raised_inr": 2758.0,
+      "amount_raised_inr": 2804.0,
       "amount_goal_inr": 1500000.0,
       "deadline_iso": "2026-06-20",
-      "days_left": 28,
+      "days_left": 27,
       "campaign_url": "https://milaap.org/fundraisers/support-yogendra-kumar-10",
       "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-23T23:14:53.280821+00:00"
+      "messages": {
+        "en": "Yogendra Kumar, a hardworking man and devoted father, is fighting for his life after a severe head injury. His family is desperately trying to arrange funds for his critical treatment.\n\n27 days left to raise ₹14.97 lakh - only ₹3K collected so far. Even ₹100 helps save a life.\n\nPlease donate OR share with 5 people - every action counts.\nhttps://milaap.org/fundraisers/support-yogendra-kumar-10",
+        "hi": "योगेंद्र कुमार, एक मेहनती इंसान और प्यारे पिता, सिर की गंभीर चोट के बाद जिंदगी की लड़ाई लड़ रहे हैं। उनका परिवार इलाज के लिए पैसों की व्यवस्था करने में परेशान है।\n\n27 दिन बचे हैं ₹14.97 लाख जुटाने के लिए - अभी तक सिर्फ ₹3 हजार मिले हैं। ₹100 भी एक जिंदगी बचा सकते हैं।\n\nकृपया दान करें या 5 लोगों के साथ शेयर करें।\nhttps://milaap.org/fundraisers/support-yogendra-kumar-10",
+        "kn": "ಯೋಗೇಂದ್ರ ಕುಮಾರ್, ಒಬ್ಬ ಪರಿಶ್ರಮಿ ಮನುಷ್ಯ ಮತ್ತು ಪ್ರೀತಿಯ ತಂದೆ, ತೀವ್ರ ತಲೆ ಗಾಯದ ನಂತರ ಜೀವನಕ್ಕಾಗಿ ಹೋರಾಡುತ್ತಿದ್ದಾರೆ. ಅವರ ಕುಟುಂಬ ಚಿಕಿತ್ಸೆಗಾಗಿ ಹಣದ ಏರ್ಪಾಡಿನಲ್ಲಿ ಕಷ್ಟಪಡುತ್ತಿದೆ.\n\n₹14.97 ಲಕ್ಷ ಸಂಗ್ರಹಿಸಲು 27 ದಿನಗಳು ಬಾಕಿ - ಇಲ್ಲಿಯವರೆಗೆ ಕೇವಲ ₹3 ಸಾವಿರ ಸಿಕ್ಕಿದೆ. ₹100 ಕೂಡ ಜೀವ ಉಳಿಸಬಹುದು.\n\nದಯವಿಟ್ಟು ದಾನ ಮಾಡಿ ಅಥವಾ 5 ಜನರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ.\nhttps://milaap.org/fundraisers/support-yogendra-kumar-10",
+        "ta": "யோகேந்திர குமார், ஒரு உழைப்பாளி மனிதரும் அன்பான தந்தையும், கடுமையான தலையில் காயம் அடைந்த பின் உயிருக்காக போராடிக்கொண்டிருக்கிறார். அவரது குடும்பம் சிகிச்சைக்கான பணத்தை ஏற்பாடு செய்ய கஷ்டப்படுகிறது.\n\n₹14.97 லட்சம் சேகரிக்க 27 நாட்கள் மீதம் - இதுவரை வெறும் ₹3 ஆயிரம் மட்டுமே கிடைத்துள்ளது. ₹100 கூட ஒரு உயிரைக் காப்பாற்றும்.\n\nதயவுசெய்து நன்கொடை அளியுங்கள் அல்லது 5 பேருடன் பகிருங்கள்.\nhttps://milaap.org/fundraisers/support-yogendra-kumar-10",
+        "te": "యోగేంద్ర కుమార్, ఒక కష్టపడే వ్యక్తి మరియు ప్రేమగల తండ్రి, తీవ్రమైన తల గాయం తర్వాత ప్రాణాలకు పోరాడుతున్నాడు. అతని కుటుంబం చికిత్సకు అవసరమైన డబ్బుల ఏర్పాటుకు ఇబ్బంది పడుతోంది.\n\n₹14.97 లక్షలు సేకరించడానికి 27 రోజులు మిగిలాయి - ఇప్పటివరకు కేవలం ₹3 వేలు మాత్రమే వచ్చాయి. ₹100 కూడా ఒక ప్రాణాన్ని రక్షించగలదు.\n\nదయచేసి దానం చేయండి లేదా 5 మందితో పంచుకోండి.\nhttps://milaap.org/fundraisers/support-yogendra-kumar-10",
+        "mr": "योगेंद्र कुमार, एक मेहनती माणूस आणि प्रेमळ वडील, डोक्याच्या गंभीर दुखापतीनंतर जीवनासाठी लढत आहे. त्याचे कुटुंब उपचारासाठी पैशांची व्यवस्था करण्यात अडचणीत आहे.\n\n₹14.97 लाख गोळा करण्यासाठी 27 दिवस शिल्लक - आतापर्यंत फक्त ₹3 हजार मिळाले आहेत. ₹100 देखील एक जीव वाचवू शकतो.\n\nकृपया दान करा किंवा 5 लोकांसोबत शेअर करा.\nhttps://milaap.org/fundraisers/support-yogendra-kumar-10",
+        "bn": "যোগেন্দ্র কুমার, একজন পরিশ্রমী মানুষ এবং স্নেহময় বাবা, মাথার গুরুতর আঘাতের পর জীবনের জন্য লড়াই করছেন। তার পরিবার চিকিৎসার জন্য অর্থের ব্যবস্থা করতে সমস্যায় পড়েছে।\n\n₹১৪.৯৭ লক্ষ সংগ্রহের জন্য ২৭ দিন বাকি - এখনো পর্যন্ত মাত্র ₹৩ হাজার পাওয়া গেছে। ₹১০০ও একটি জীবন বাঁচাতে পারে।\n\nঅনুগ্রহ করে দান করুন অথবা ৫ জনের সাথে শেয়ার করুন।\nhttps://milaap.org/fundraisers/support-yogendra-kumar-10",
+        "gu": "યોગેન્દ્ર કુમાર, એક મહેનતુ માણસ અને પ્રેમાળ પિતા, માથાની ગંભીર ઈજા બાદ જીવન માટે લડી રહ્યો છે. તેનો પરિવાર સારવાર માટે પૈસાની વ્યવસ્થા કરવામાં તકલીફમાં છે.\n\n₹14.97 લાખ એકઠા કરવા માટે 27 દિવસ બાકી - અત્યાર સુધી માત્ર ₹3 હજાર જ મળ્યા છે. ₹100 પણ એક જીવન બચાવી શકે છે.\n\nકૃપા કરી દાન આપો અથવા 5 લોકો સાથે શેર કરો.\nhttps://milaap.org/fundraisers/support-yogendra-kumar-10",
+        "pa": "ਯੋਗੇਂਦਰ ਕੁਮਾਰ, ਇੱਕ ਮਿਹਨਤੀ ਵਿਅਕਤੀ ਅਤੇ ਪਿਆਰਾ ਪਿਤਾ, ਸਿਰ ਦੀ ਗੰਭੀਰ ਸੱਟ ਤੋਂ ਬਾਅਦ ਜ਼ਿੰਦਗੀ ਲਈ ਲੜ ਰਿਹਾ ਹੈ। ਉਸਦਾ ਪਰਿਵਾਰ ਇਲਾਜ ਲਈ ਪੈਸਿਆਂ ਦਾ ਪ੍ਰਬੰਧ ਕਰਨ ਵਿੱਚ ਮੁਸ਼ਕਲ ਵਿੱਚ ਹੈ।\n\n₹14.97 ਲੱਖ ਇਕੱਠੇ ਕਰਨ ਲਈ 27 ਦਿਨ ਬਾਕੀ - ਹੁਣ ਤੱਕ ਸਿਰਫ ₹3 ਹਜ਼ਾਰ ਹੀ ਮਿਲੇ ਹਨ। ₹100 ਵੀ ਇੱਕ ਜ਼ਿੰਦਗੀ ਬਚਾ ਸਕਦੇ ਹਨ।\n\nਕਿਰਪਾ ਕਰਕੇ ਦਾਨ ਦਿਓ ਜਾਂ 5 ਲੋਕਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰੋ।\nhttps://milaap.org/fundraisers/support-yogendra-kumar-10",
+        "ml": "യോഗേന്ദ്ര കുമാർ, ഒരു കഠിനാധ്വാനിയും സ്നേഹമുള്ള പിതാവും, തലയ്ക്കുണ്ടായ ഗുരുതരമായ പരിക്കിനു ശേഷം ജീവനുവേണ്ടി പോരാടുകയാണ്. അദ്ദേഹത്തിന്റെ കുടുംബം ചികിത്സയ്ക്കുള്ള പണം കണ്ടെത്താൻ ബുദ്ധിമുട്ടുകയാണ്.\n\n₹14.97 ലക്ഷം സ്വരൂപിക്കാൻ 27 ദിവസം ബാക്കി - ഇതുവരെ ₹3 ആയിരം മാത്രമേ കിട്ടിയിട്ടുള്ളൂ. ₹100 പോലും ഒരു ജീവൻ രക്ഷിക്കാം.\n\nദയവായി സംഭാവന നൽകുക അല്ലെങ്കിൽ 5 പേരുമായി പങ്കിടുക.\nhttps://milaap.org/fundraisers/support-yogendra-kumar-10"
+      },
+      "scraped_at_iso": "2026-05-24T09:10:48.498085+00:00"
+    },
+    {
+      "id": "milaap-1020441",
+      "source": "milaap",
+      "title": "🙏🏼 Please help save my son's crushed leg before it's too late",
+      "description": "\"He finally got a job. We thought our struggles were over.\" My son Mahendravarma is 22. He had just started working in T...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.1,w_0.04,x_0.81,y_0.05/c_fill,h_198,w_264/v1779214559/production/images/campaign/1020441/WhatsApp_Image_2026-05-19_at_11.45.24_PM_dm40c1_1779214560.jpg",
+      "amount_raised_inr": 2170.0,
+      "amount_goal_inr": 1500000.0,
+      "deadline_iso": "2026-06-30",
+      "days_left": 37,
+      "campaign_url": "https://milaap.org/fundraisers/support-mahendravarman-1",
+      "verified": true,
+      "messages": {
+        "en": "A father's worst nightmare - his young son's leg was crushed in an accident and needs urgent surgery to save it. The family has only managed ₹2K so far and desperately needs ₹15 lakh in the next 37 days. Even ₹100 helps save this child's future. Please donate OR share with 5 people - both make a difference. https://milaap.org/fundraisers/support-mahendravarman-1",
+        "hi": "एक पिता का सबसे बुरा सपना - दुर्घटना में उसके छोटे बेटे का पैर कुचल गया है और इसे बचाने के लिए तुरंत सर्जरी चाहिए। परिवार अब तक केवल ₹2 हज़ार जुटा पाया है और 37 दिनों में ₹15 लाख की सख्त ज़रूरत है। ₹100 भी इस बच्चे का भविष्य बचा सकते हैं। कृपया दान करें या 5 लोगों के साथ शेयर करें - दोनों से फर्क पड़ता है। https://milaap.org/fundraisers/support-mahendravarman-1",
+        "kn": "ಒಬ್ಬ ತಂದೆಯ ಕೆಟ್ಟ ಕನಸು - ಅಪಘಾತದಲ್ಲಿ ಅವನ ಚಿಕ್ಕ ಮಗನ ಕಾಲು ಜಜ್ಜಿಹೋಗಿದೆ ಮತ್ತು ಅದನ್ನು ಉಳಿಸಲು ತುರ್ತು ಶಸ್ತ್ರಚಿಕಿತ್ಸೆ ಬೇಕು। ಕುಟುಂಬ ಇಲ್ಲಿಯವರೆಗೆ ಕೇವಲ ₹2 ಸಾವಿರ ಸಂಗ್ರಹಿಸಿದೆ ಮತ್ತು 37 ದಿನಗಳಲ್ಲಿ ₹15 ಲಕ್ಷ ಬೇಕಾಗಿದೆ। ₹100 ಸಹ ಈ ಮಗುವಿನ ಭವಿಷ್ಯವನ್ನು ಉಳಿಸಬಹುದು। ದಯವಿಟ್ಟು ದಾನ ಮಾಡಿ ಅಥವಾ 5 ಜನರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ - ಎರಡೂ ವ್ಯತ್ಯಾಸ ಮಾಡುತ್ತದೆ। https://milaap.org/fundraisers/support-mahendravarman-1",
+        "ta": "ஒரு தந்தையின் மோசமான கனவு - விபத்தில் அவரது சிறு மகனின் கால் நசுக்கப்பட்டு அதை காப்பாற்ற உடனடி அறுவை சிகிச்சை தேவை। குடும்பம் இதுவரை வெறும் ₹2 ஆயிரம் மட்டுமே சேகரித்துள்ளது மற்றும் 37 நாட்களில் ₹15 லட்சம் தேவை. ₹100 கூட இந்த குழந்தையின் எதிர்காலத்தை காப்பாற்ற உதவும். தயவுசெய்து நன்கொடை அளியுங்கள் அல்லது 5 பேருடன் பகிருங்கள் - இரண்டுமே மாற்றத்தை ஏற்படுத்தும். https://milaap.org/fundraisers/support-mahendravarman-1",
+        "te": "ఒక తండ్రికి చెత్త కల - ప్రమాదంలో అతని చిన్న కొడుకు కాలు నలిగిపోయింది మరియు దానిని కాపాడేందుకు వెంటనే సర్జరీ అవసరం. కుటుంబం ఇప్పటివరకు కేవలం ₹2 వేలు మాత్రమే సేకరించింది మరియు 37 రోజుల్లో ₹15 లక్షలు అవసరం. ₹100 కూడా ఈ పిల్లవాడి భవిష్యత్తును కాపాడుతుంది. దయచేసి దానం చేయండి లేదా 5 మందితో షేర్ చేయండి - రెండూ తేడా చేస్తాయి। https://milaap.org/fundraisers/support-mahendravarman-1",
+        "mr": "एका वडिलांचे सर्वात वाईट स्वप्न - अपघातात त्यांच्या लहान मुलाचा पाय चिरडला गेला आहे आणि तो वाचवण्यासाठी तातडीने शस्त्रक्रिया आवश्यक आहे। कुटुंबाने आतापर्यंत फक्त ₹2 हजार गोळा केले आहे आणि 37 दिवसांत ₹15 लाख हवे आहेत। ₹100 सुद्धा या मुलाचं भवितव्य वाचवू शकतं। कृपया दान करा किंवा 5 लोकांसोबत शेअर करा - दोन्ही गोष्टींनी फरक पडतो। https://milaap.org/fundraisers/support-mahendravarman-1",
+        "bn": "একজন বাবার সবচেয়ে খারাপ দুঃস্বপ্ন - দুর্ঘটনায় তার ছোট ছেলের পা চূর্ণ হয়ে গেছে এবং এটি বাঁচাতে জরুরি অস্ত্রোপচার প্রয়োজন। পরিবার এখন পর্যন্ত মাত্র ₹2 হাজার সংগ্রহ করতে পেরেছে এবং 37 দিনে ₹15 লাখ প্রয়োজন। এমনকি ₹100ও এই শিশুর ভবিষ্যৎ বাঁচাতে সাহায্য করতে পারে। অনুগ্রহ করে দান করুন অথবা 5 জনের সাথে শেয়ার করুন - উভয়ই পার্থক্য আনে। https://milaap.org/fundraisers/support-mahendravarman-1",
+        "gu": "એક પિતાનું સૌથી ખરાબ સ્વપ્ન - અકસ્માતમાં તેના નાના દીકરાનો પગ કચડાઈ ગયો છે અને તેને બચાવવા માટે તાત્કાલિક સર્જરીની જરૂર છે. પરિવારે અત્યાર સુધીમાં માત્ર ₹2 હજાર એકત્ર કર્યા છે અને 37 દિવસમાં ₹15 લાખની જરૂર છે. ₹100 પણ આ બાળકનું ભવિષ્ય બચાવી શકે છે. કૃપા કરીને દાન કરો અથવા 5 લોકો સાથે શેર કરો - બંને બાબતોથી ફરક પડે છે। https://milaap.org/fundraisers/support-mahendravarman-1",
+        "pa": "ਇੱਕ ਪਿਉ ਦਾ ਸਭ ਤੋਂ ਭਿਆਨਕ ਸੁਪਨਾ - ਹਾਦਸੇ ਵਿੱਚ ਉਸਦੇ ਛੋਟੇ ਬੇਟੇ ਦੀ ਲੱਤ ਕੁਚਲੀ ਗਈ ਹੈ ਅਤੇ ਇਸਨੂੰ ਬਚਾਉਣ ਲਈ ਤੁਰੰਤ ਸਰਜਰੀ ਦੀ ਲੋੜ ਹੈ। ਪਰਿਵਾਰ ਨੇ ਹੁਣ ਤੱਕ ਸਿਰਫ ₹2 ਹਜ਼ਾਰ ਇਕੱਠੇ ਕੀਤੇ ਹਨ ਅਤੇ 37 ਦਿਨਾਂ ਵਿੱਚ ₹15 ਲੱਖ ਦੀ ਲੋੜ ਹੈ। ₹100 ਵੀ ਇਸ ਬੱਚੇ ਦਾ ਭਵਿੱਖ ਬਚਾ ਸਕਦੇ ਹਨ। ਕਿਰਪਾ ਕਰਕੇ ਦਾਨ ਕਰੋ ਜਾਂ 5 ਲੋਕਾਂ ਨਾਲ ਸ਼ੇਅਰ ਕਰੋ - ਦੋਵੇਂ ਫਰਕ ਪਾਉਂਦੇ ਹਨ। https://milaap.org/fundraisers/support-mahendravarman-1",
+        "ml": "ഒരു പിതാവിന്റെ ഏറ്റവും മോശമായ സ്വപ്നം - അപകടത്തിൽ അവന്റെ ചെറിയ മകന്റെ കാൽ തകർന്നു, അത് രക്ഷിക്കാൻ അടിയന്തിര ശസ്ത്രക്രിയ ആവശ്യമാണ്. കുടുംബം ഇതുവരെ വെറും ₹2 ആയിരം മാത്രമേ ശേഖരിച്ചിട്ടുള്ളൂ, 37 ദിവസത്തിനുള്ളിൽ ₹15 ലക്ഷം ആവശ്യമാണ്. ₹100 പോലും ഈ കുട്ടിയുടെ ഭാവി രക്ഷിക്കാൻ സഹായിക്കും. ദയവായി സംഭാവന നൽകുക അല്ലെങ്കിൽ 5 പേരുമായി പങ്കിടുക - രണ്ടും വ്യത്യാസം ഉണ്ടാക്കുന്നു। https://milaap.org/fundraisers/support-mahendravarman-1"
+      },
+      "scraped_at_iso": "2026-05-24T09:10:48.498169+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -180,14 +279,25 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 136987252.86,
+      "amount_raised_inr": 137016194.87,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2030-03-31",
-      "days_left": 1408,
+      "days_left": 1407,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-23T23:14:56.008347+00:00"
+      "messages": {
+        "en": "Our elderly parents who've been abandoned by their families need urgent shelter and care. These vulnerable seniors have nowhere to go and no one to turn to.\n\nWe've already raised ₹13.7 crore but the goal was ₹6.9 crore - showing how massive this crisis is. Even ₹100 helps provide meals and medicine.\n\nPlease donate OR share with 5 people today.\nhttps://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
+        "hi": "हमारे बुजुर्गों को परिवार ने छोड़ दिया है और उन्हें तुरंत आश्रय और देखभाल की जरूरत है। ये असहाय बुजुर्गों के पास जाने को कोई जगह नहीं है।\n\nहमने ₹13.7 करोड़ जुटाए हैं लेकिन लक्ष्य ₹6.9 करोड़ था - यह दिखाता है कि समस्या कितनी बड़ी है। ₹100 भी भोजन और दवा में मदद करेगा।\n\nकृपया दान करें या 5 लोगों के साथ शेयर करें।\nhttps://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
+        "kn": "ಕುಟುಂಬ ತೊರೆದ ನಮ್ಮ ಹಿರಿಯರಿಗೆ ತುರ್ತು ಆಶ್ರಯ ಮತ್ತು ಆರೈಕೆ ಬೇಕಾಗಿದೆ। ಈ ಅಸಹಾಯಕ ಹಿರಿಯರಿಗೆ ಹೋಗಲು ಸ್ಥಳವಿಲ್ಲ, ಆಧಾರವಿಲ್ಲ।\n\nನಾವು ₹13.7 ಕೋಟಿ ಸಂಗ್ರಹಿಸಿದ್ದೇವೆ ಆದರೆ ಗುರಿ ₹6.9 ಕೋಟಿ ಆಗಿತ್ತು - ಸಮಸ್ಯೆ ಎಷ್ಟು ದೊಡ್ಡದೆಂದು ತೋರಿಸುತ್ತದೆ। ₹100 ಕೂಡ ಆಹಾರ ಮತ್ತು ಔಷಧಕ್ಕೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ।\n\nದಯವಿಟ್ಟು ದಾನ ಮಾಡಿ ಅಥವಾ 5 ಜನರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ।\nhttps://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
+        "ta": "குடும்பத்தால் கைவிடப்பட்ட நமது முதியவர்களுக்கு உடனடியாக தங்குமிடமும் பராமரிப்பும் தேவை। இந்த உதவியற்ற முதியவர்களுக்கு செல்ல இடமில்லை, சார்ந்திருக்க யாருமில்லை।\n\nநாம் ₹13.7 கோடி திரட்டியுள்ளோம் ஆனால் இலக்கு ₹6.9 கோடி - இந்த பிரச்சனை எவ்வளவு பெரியது என்பதைக் காட்டுகிறது। ₹100 கூட உணவு மற்றும் மருந்துக்கு உதவும்.\n\nதயவுசெய்து நன்கொடை அளியுங்கள் அல்லது 5 பேருடன் பகிருங்கள்.\nhttps://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
+        "te": "కుటుంబం విడిచిపెట్టిన మన వృద్ధులకు తక్షణ ఆశ్రయం మరియు సంరక్షణ అవసరం. ఈ నిస్సహాయ వృద్ధులకు వెళ్లడానికి చోటు లేదు, ఆధారం లేదు।\n\nమేము ₹13.7 కోట్లు సేకరించాం కానీ లక్ష్యం ₹6.9 కోట్లు - ఈ సమస్య ఎంత పెద్దదో చూపిస్తుంది। ₹100 కూడా ఆహారం మరియు మందులకు సహాయపడుతుంది.\n\nదయచేసి విరాళం ఇవ్వండి లేదా 5 మందితో పంచుకోండి.\nhttps://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
+        "mr": "कुटुंबाने सोडून दिलेल्या आपल्या वृद्धांना तातडीने आश्रय आणि काळजीची गरज आहे. या असहाय्य वृद्धांकडे जायला जागा नाही, आधार नाही।\n\nआम्ही ₹13.7 कोटी गोळा केले आहेत पण ध्येय ₹6.9 कोटी होते - ही समस्या किती मोठी आहे हे दाखवते। ₹100 सुद्धा अन्न आणि औषधांसाठी मदत करेल।\n\nकृपया देणगी द्या किंवा 5 जणांसोबत शेअर करा.\nhttps://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
+        "bn": "পরিবার পরিত্যাগ করেছে এমন আমাদের বৃদ্ধদের জরুরি আশ্রয় ও যত্নের প্রয়োজন। এই অসহায় বৃদ্ধদের যাওয়ার কোনো জায়গা নেই, নির্ভর করার কেউ নেই।\n\nআমরা ₹১৩.৭ কোটি তুলেছি কিন্তু লক্ষ্য ছিল ₹৬.৯ কোটি - এটা দেখায় সমস্যাটা কত বড়। ₹১০০ও খাবার ও ওষুধে সাহায্য করবে।\n\nঅনুগ্রহ করে দান করুন অথবা ৫ জনের সাথে শেয়ার করুন।\nhttps://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
+        "gu": "પરિવારે છોડી દીધેલા અમારા વૃદ્ધોને તાત્કાલિક આશ્રય અને સંભાળની જરૂર છે. આ લાચાર વૃદ્ધો પાસે જવા માટે કોઈ જગ્યા નથી, આધાર કોઈ નથી।\n\nઅમે ₹13.7 કરોડ એકત્ર કર્યા છે પણ લક્ષ્ય ₹6.9 કરોડ હતું - આ સમસ્યા કેટલી મોટી છે તે દર્શાવે છે. ₹100 પણ ખોરાક અને દવામાં મદદ કરશે।\n\nકૃપા કરીને દાન કરો અથવા 5 લોકો સાથે શેર કરો.\nhttps://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
+        "pa": "ਪਰਿਵਾਰ ਵੱਲੋਂ ਛੱਡੇ ਗਏ ਸਾਡੇ ਬਜ਼ੁਰਗਾਂ ਨੂੰ ਤੁਰੰਤ ਪਨਾਹ ਅਤੇ ਦੇਖਭਾਲ ਦੀ ਲੋੜ ਹੈ। ਇਨ੍ਹਾਂ ਬੇਸਹਾਰਾ ਬਜ਼ੁਰਗਾਂ ਕੋਲ ਜਾਣ ਲਈ ਕੋਈ ਜਗ੍ਹਾ ਨਹੀਂ, ਕੋਈ ਸਹਾਰਾ ਨਹੀਂ।\n\nਅਸੀਂ ₹13.7 ਕਰੋੜ ਇਕੱਠੇ ਕੀਤੇ ਹਨ ਪਰ ਨਿਸ਼ਾਨਾ ₹6.9 ਕਰੋੜ ਸੀ - ਇਹ ਦਿਖਾਉਂਦਾ ਹੈ ਸਮੱਸਿਆ ਕਿੰਨੀ ਵੱਡੀ ਹੈ। ₹100 ਵੀ ਖਾਣਾ ਅਤੇ ਦਵਾਈ ਵਿੱਚ ਮਦਦ ਕਰੇਗਾ।\n\nਕਿਰਪਾ ਕਰਕੇ ਦਾਨ ਕਰੋ ਜਾਂ 5 ਲੋਕਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰੋ।\nhttps://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
+        "ml": "കുടുംബം ഉപേക്ഷിച്ച നമ്മുടെ പ്രായമായവർക്ക് അടിയന്തിര അഭയവും പരിചരണവും ആവശ്യമാണ്. ഈ നിസ്സഹായരായ വൃദ്ധർക്ക് പോകാൻ സ്ഥലവുമില്ല, ആശ്രയിക്കാൻ ആരുമില്ല।\n\nഞങ്ങൾ ₹13.7 കോടി സമാഹരിച്ചു പക്ഷേ ലക്ഷ്യം ₹6.9 കോടി ആയിരുന്നു - ഈ പ്രശ്നം എത്ര വലുതാണെന്ന് കാണിക്കുന്നു. ₹100 പോലും ഭക്ഷണത്തിനും മരുന്നിനും സഹായിക്കും।\n\nദയവായി സംഭാവന നൽകുക അല്ലെങ്കിൽ 5 പേരുമായി പങ്കിടുക।\nhttps://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care"
+      },
+      "scraped_at_iso": "2026-05-24T09:10:51.449920+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -197,14 +307,25 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 62119846.61,
+      "amount_raised_inr": 62124446.61,
       "amount_goal_inr": 35000000.0,
       "deadline_iso": "2030-05-31",
-      "days_left": 1469,
+      "days_left": 1468,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-23T23:14:56.008375+00:00"
+      "messages": {
+        "en": "These beautiful children with disabilities have already found incredible support - their fundraiser has actually exceeded the goal! But every rupee still helps ensure their continued care and shelter.\nWith 1468 days left in this campaign, the community support has been overwhelming.\nEven ₹100 helps provide ongoing support for these precious kids.\nPlease donate OR share with 5 people to spread this success story.\nhttps://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
+        "hi": "ये प्यारे दिव्यांग बच्चों को अविश्वसनीय सहयोग मिला है - उनका फंडरेज़र लक्ष्य पार कर गया है! लेकिन हर रुपया अभी भी इनकी देखभाल में मदद करता है।\n1468 दिन बचे हैं और समुदाय का साथ देखकर दिल खुश हो जाता है।\nसिर्फ ₹100 भी इन बच्चों की मदद करते हैं।\nकृपया दान करें या 5 लोगों के साथ शेयर करें।\nhttps://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
+        "kn": "ಈ ಪ್ರೀತಿಯ ವಿಕಲಾಂಗ ಮಕ್ಕಳಿಗೆ ಅದ್ಭುತ ಬೆಂಬಲ ಸಿಕ್ಕಿದೆ - ಅವರ ಫಂಡ್‌ರೈಸರ್ ಗುರಿ ದಾಟಿದೆ! ಆದರೆ ಪ್ರತಿ ರೂಪಾಯಿ ಇನ್ನೂ ಅವರ ಆರೈಕೆಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ।\n1468 ದಿನಗಳು ಬಾಕಿ ಇವೆ ಮತ್ತು ಸಮುದಾಯದ ಬೆಂಬಲ ಹೃದಯ ಸ್ಪರ್ಶಿಯಾಗಿದೆ।\n₹100 ಕೂಡ ಈ ಮಕ್ಕಳಿಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ।\nದಯವಿಟ್ಟು ದಾನ ಮಾಡಿ ಅಥವಾ 5 ಜನರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ।\nhttps://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
+        "ta": "இந்த அன்பான மாற்றுத்திறனாளி குழந்தைகளுக்கு நம்பமுடியாத ஆதரவு கிடைத்துள்ளது - அவர்களின் நிதி திரட்டல் இலக்கை தாண்டிவிட்டது! ஆனால் ஒவ்வொரு ரூபாயும் இன்னும் அவர்களின் பராமரிப்புக்கு உதவுகிறது।\n1468 நாட்கள் மீதமுள்ளன, சமுதாயத்தின் ஆதரவு மனதைத் தொடுகிறது।\n₹100 கூட இந்த குழந்தைகளுக்கு உதவும்।\nதயவுசெய்து நன்கொடை அளியுங்கள் அல்லது 5 பேருடன் பகிருங்கள்।\nhttps://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
+        "te": "ఈ ప్రియమైన వికలాంగ పిల్లలకు అద్భుతమైన మద్దతు వచ్చింది - వారి ఫండ్‌రైజర్ లక్ష్యాన్ని దాటింది! కానీ ప్రతి రూపాయి ఇప్పటికీ వారి సంరక్షణకు సహాయపడుతుంది।\n1468 రోజులు మిగిలి ఉన్నాయి మరియు సమాజం యొక్క మద్దతు హృదయాన్ని తాకుతుంది।\n₹100 కూడా ఈ పిల్లలకు సహాయపడుతుంది।\nదయచేసి విరాళం ఇవ్వండి లేదా 5 మందితో పంచుకోండి।\nhttps://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
+        "mr": "या प्रिय अपंग मुलांना अविश्वसनीय पाठिंबा मिळाला आहे - त्यांचा फंडरेझर ध्येय ओलांडला आहे! पण प्रत्येक रुपया अजूनही त्यांच्या काळजीसाठी मदत करतो।\n1468 दिवस शिल्लक आहेत आणि समुदायाचा पाठिंबा मनाला भावून टाकतो।\nफक्त ₹100 सुद्धा या मुलांना मदत करतो।\nकृपया दान करा किंवा 5 लोकांसोबत शेअर करा।\nhttps://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
+        "bn": "এই প্রিয় প্রতিবন্ধী শিশুরা অবিশ্বাস্য সহায়তা পেয়েছে - তাদের ফান্ডরেইজার লক্ষ্য অতিক্রম করেছে! কিন্তু প্রতিটি টাকা এখনও তাদের যত্নে সাহায্য করে।\n১৪৬৮ দিন বাকি আছে এবং সম্প্রদায়ের সহায়তা হৃদয় ছুঁয়ে যায়।\nমাত্র ₹১০০ও এই শিশুদের সাহায্য করে।\nদয়া করে দান করুন অথবা ৫ জনের সাথে শেয়ার করুন।\nhttps://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
+        "gu": "આ પ્રિય વિકલાંગ બાળકોને અવિશ્વસનીય સહાય મળી છે - તેમનું ફંડરેઝર લક્ષ્ય પાર કરી ગયું છે! પણ દરેક રૂપિયો હજુ પણ તેમની સંભાળમાં મદદ કરે છે।\n1468 દિવસ બાકી છે અને સમુદાયનો સાથ હૃદયને સ્પર્શે છે।\nફક્ત ₹100 પણ આ બાળકોને મદદ કરે છે।\nકૃપા કરીને દાન કરો અથવા 5 લોકો સાથે શેર કરો।\nhttps://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
+        "pa": "ਇਨ੍ਹਾਂ ਪਿਆਰੇ ਅਪਾਹਜ ਬੱਚਿਆਂ ਨੂੰ ਸ਼ਾਨਦਾਰ ਸਹਾਇਤਾ ਮਿਲੀ ਹੈ - ਉਨ੍ਹਾਂ ਦਾ ਫੰਡਰੇਜ਼ਰ ਟੀਚਾ ਪਾਰ ਕਰ ਗਿਆ ਹੈ! ਪਰ ਹਰ ਰੁਪਿਆ ਅਜੇ ਵੀ ਉਨ੍ਹਾਂ ਦੀ ਦੇਖਭਾਲ ਵਿੱਚ ਮਦਦ ਕਰਦਾ ਹੈ।\n1468 ਦਿਨ ਬਾਕੀ ਹਨ ਅਤੇ ਭਾਈਚਾਰੇ ਦਾ ਸਾਥ ਦਿਲ ਛੂਹ ਜਾਂਦਾ ਹੈ।\nਸਿਰਫ਼ ₹100 ਵੀ ਇਨ੍ਹਾਂ ਬੱਚਿਆਂ ਦੀ ਮਦਦ ਕਰਦੇ ਹਨ।\nਕਿਰਪਾ ਕਰਕੇ ਦਾਨ ਕਰੋ ਜਾਂ 5 ਲੋਕਾਂ ਨਾਲ ਸ਼ੇਅਰ ਕਰੋ।\nhttps://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
+        "ml": "ഈ പ്രിയപ്പെട്ട വികലാംഗ കുട്ടികൾക്ക് അവിശ്വസനീയമായ പിന്തുണ ലഭിച്ചിട്ടുണ്ട് - അവരുടെ ഫണ്ട്റൈസർ ലക്ഷ്യം കടന്നു! എന്നാൽ ഓരോ രൂപയും ഇപ്പോഴും അവരുടെ പരിചരണത്തിന് സഹായിക്കുന്നു।\n1468 ദിവസം ബാക്കിയുണ്ട്, സമൂഹത്തിന്റെ പിന്തുണ ഹൃദയം സ്പർശിക്കുന്നു।\n₹100 പോലും ഈ കുട്ടികളെ സഹായിക്കുന്നു।\nദയവായി സംഭാവന നൽകുക അല്ലെങ്കിൽ 5 പേരുമായി പങ്കിടുക।\nhttps://give.do/fundraisers/help-disabled-children-with-shelter-and-care"
+      },
+      "scraped_at_iso": "2026-05-24T09:10:51.449952+00:00"
     }
   ]
 }
