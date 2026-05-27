@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-27T12:48:12.022214+00:00",
+  "generated_at": "2026-05-27T22:22:37.319892+00:00",
   "sources": {
-    "ketto": 10,
+    "ketto": 0,
     "milaap": 8,
     "givedo": 6
   },
@@ -17,7 +17,7 @@
     "pa",
     "ml"
   ],
-  "total": 20,
+  "total": 13,
   "campaigns": [
     {
       "id": "givedo-65b89257",
@@ -27,25 +27,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/8484bab7-7bd7-49dd-8a03-840f14344985.webp",
-      "amount_raised_inr": 9952355.0,
+      "amount_raised_inr": 9966155.0,
       "amount_goal_inr": 9000000.0,
       "deadline_iso": "2026-05-28",
       "days_left": 1,
       "campaign_url": "https://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
       "verified": true,
-      "messages": {
-        "en": "Vinay has dedicated his life to rescuing children from abuse in red-light areas. He's already saved so many innocent lives, giving them hope and a future.\n\nHis campaign has reached ₹99.5 lakh of ₹90 lakh goal - we've actually exceeded it! Just 1 day left to help even more children.\n\nEven ₹100 helps save a child's life. Please donate OR share with 5 people.\nhttps://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
-        "hi": "विनय जी ने अपना जीवन रेड-लाइट एरिया के बच्चों को दुर्व्यवहार से बचाने में समर्पित किया है। उन्होंने कई मासूम जिंदगियां बचाई हैं।\n\n₹90 लाख के लक्ष्य में से ₹99.5 लाख मिल गए हैं - लक्ष्य पूरा हो गया! सिर्फ 1 दिन बाकी है और भी बच्चों की मदद के लिए।\n\n₹100 भी एक बच्चे की जिंदगी बचा सकते हैं। कृपया दान करें या 5 लोगों के साथ शेयर करें।\nhttps://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
-        "kn": "ವಿನಯ್ ಅವರು ತಮ್ಮ ಜೀವನವನ್ನು ರೆಡ್-ಲೈಟ್ ಪ್ರದೇಶಗಳಲ್ಲಿ ದುರುಪಯೋಗಕ್ಕೆ ಒಳಗಾಗುವ ಮಕ್ಕಳನ್ನು ರಕ್ಷಿಸಲು ಅರ್ಪಿಸಿದ್ದಾರೆ। ಅವರು ಅನೇಕ ಮಾಸೂಮ ಜೀವಗಳನ್ನು ಉಳಿಸಿದ್ದಾರೆ।\n\n₹90 ಲಕ್ಷ ಗುರಿಯಲ್ಲಿ ₹99.5 ಲಕ್ಷ ಸಂಗ್ರಹವಾಗಿದೆ - ಗುರಿ ಮೀರಿದೆ! ಇನ್ನಷ್ಟು ಮಕ್ಕಳಿಗೆ ಸಹಾಯ ಮಾಡಲು ಕೇವಲ 1 ದಿನ ಬಾಕಿ।\n\n₹100 ಕೂಡ ಒಂದು ಮಗುವಿನ ಜೀವ ಉಳಿಸುತ್ತದೆ। ದಯವಿಟ್ಟು ದಾನ ಮಾಡಿ ಅಥವಾ 5 ಜನರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ।\nhttps://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
-        "ta": "வினய் தனது வாழ்க்கையை சிவப்பு விளக்கு பகுதிகளில் துஷ்பிரயோகத்திற்கு உள்ளாகும் குழந்தைகளை காப்பாற்றுவதற்கு அர்ப்பணித்துள்ளார். அவர் பல அப்பாவி உயிர்களை காப்பாற்றியுள்ளார்.\n\n₹90 லட்ச இலக்கில் ₹99.5 லட்சம் சேகரிக்கப்பட்டுள்ளது - இலக்கை தாண்டியுள்ளோம்! இன்னும் அதிக குழந்தைகளுக்கு உதவ வெறும் 1 நாள் மட்டுமே மீதம்.\n\n₹100 கூட ஒரு குழந்தையின் வாழ்க்கையை காப்பாற்றும். தயவுசெய்து நன்கொடை அளியுங்கள் அல்லது 5 பேருடன் பகிருங்கள்.\nhttps://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
-        "te": "వినయ్ తన జీవితాన్ని రెడ్-లైట్ ప్రాంతాలలో దుర్వినియోగానికి గురయ్యే పిల్లలను రక్షించడానికి అంకితం చేశాడు. అతను చాలా అమాయక జీవితాలను కాపాడాడు.\n\n₹90 లక్షల లక్ష్యంలో ₹99.5 లక్షలు సేకరించబడ్డాయి - లక్ష్యం మించిపోయింది! మరిన్ని పిల్లలకు సహాయం చేయడానికి కేవలం 1 రోజు మాత్రమే మిగిలింది.\n\n₹100 కూడా ఒక పిల్లవాడి జీవితాన్ని కాపాడుతుంది. దయచేసి దానం చేయండి లేదా 5 మందితో పంచుకోండి.\nhttps://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
-        "mr": "विनयने आपले जीवन रेड-लाइट एरियातील मुलांना अत्याचारापासून वाचवण्यासाठी वाहून दिले आहे. त्याने अनेक निष्पाप जीव वाचवले आहेत.\n\n₹90 लाखाच्या ध्येयात ₹99.5 लाख गोळा झाले आहेत - ध्येय पूर्ण झाले! आणखी मुलांना मदत करण्यासाठी फक्त 1 दिवस शिल्लक.\n\n₹100 सुद्धा एका मुलाचे जीवन वाचवू शकतात. कृपया दान करा किंवा 5 लोकांसोबत शेअर करा.\nhttps://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
-        "bn": "বিনয় তার জীবন রেড-লাইট এলাকায় নির্যাতনের শিকার শিশুদের রক্ষা করার জন্য উৎসর্গ করেছেন। তিনি অনেক নিষ্পাপ জীবন বাঁচিয়েছেন।\n\n৯০ লাখ টাকার লক্ষ্যে ৯৯.৫ লাখ টাকা সংগ্রহ হয়েছে - লক্ষ্য অতিক্রম করেছি! আরো শিশুদের সাহায্য করতে মাত্র ১ দিন বাকি।\n\n১০০ টাকাও একটি শিশুর জীবন বাঁচাতে পারে। অনুগ্রহ করে দান করুন অথবা ৫ জনের সাথে শেয়ার করুন।\nhttps://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
-        "gu": "વિનયે પોતાનું જીવન રેડ-લાઇટ વિસ્તારમાં દુરુપયોગનો ભોગ બનતા બાળકોને બચાવવા માટે સમર્પિત કર્યું છે. તેણે ઘણા નિર્દોષ જીવન બચાવ્યા છે.\n\n₹90 લાખના લક્ષ્યમાં ₹99.5 લાખ એકત્ર થયા છે - લક્ષ્ય પૂરું થઈ ગયું! વધુ બાળકોને મદદ કરવા માટે માત્ર 1 દિવસ બાકી.\n\n₹100 પણ એક બાળકનું જીવન બચાવી શકે છે. કૃપા કરીને દાન કરો અથવા 5 લોકો સાથે શેર કરો.\nhttps://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
-        "pa": "ਵਿਨੇ ਨੇ ਆਪਣੀ ਜ਼ਿੰਦਗੀ ਰੈੱਡ-ਲਾਈਟ ਇਲਾਕਿਆਂ ਵਿੱਚ ਦੁਰਵਿਵਹਾਰ ਦਾ ਸ਼ਿਕਾਰ ਹੋਣ ਵਾਲੇ ਬੱਚਿਆਂ ਨੂੰ ਬਚਾਉਣ ਲਈ ਸਮਰਪਿਤ ਕੀਤੀ ਹੈ। ਉਸਨੇ ਕਈ ਮਾਸੂਮ ਜ਼ਿੰਦਗੀਆਂ ਬਚਾਈਆਂ ਹਨ।\n\n₹90 ਲੱਖ ਦੇ ਟੀਚੇ ਵਿੱਚ ₹99.5 ਲੱਖ ਇਕੱਠੇ ਹੋ ਗਏ ਹਨ - ਟੀਚਾ ਪੂਰਾ ਹੋ ਗਿਆ! ਹੋਰ ਬੱਚਿਆਂ ਦੀ ਮਦਦ ਲਈ ਸਿਰਫ 1 ਦਿਨ ਬਾਕੀ।\n\n₹100 ਵੀ ਇੱਕ ਬੱਚੇ ਦੀ ਜ਼ਿੰਦਗੀ ਬਚਾ ਸਕਦੇ ਹਨ। ਕਿਰਪਾ ਕਰਕੇ ਦਾਨ ਕਰੋ ਜਾਂ 5 ਲੋਕਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰੋ।\nhttps://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
-        "ml": "വിനയ് തന്റെ ജീവിതം റെഡ്-ലൈറ്റ് ഏരിയകളിൽ ദുരുപയോഗത്തിനിരയാകുന്ന കുട്ടികളെ രക്ഷിക്കാൻ സമർപ്പിച്ചിരിക്കുന്നു. അവൻ നിരവധി നിഷ്കളങ്കരുടെ ജീവൻ രക്ഷിച്ചിട്ടുണ്ട്.\n\n₹90 ലക്ഷം ലക്ഷ്യത്തിൽ ₹99.5 ലക്ഷം സമാഹരിച്ചു - ലക്ഷ്യം കവിഞ്ഞു! കൂടുതൽ കുട്ടികളെ സഹായിക്കാൻ വെറും 1 ദിവസം മാത്രം ബാക്കി.\n\n₹100 പോലും ഒരു കുട്ടിയുടെ ജീവൻ രക്ഷിക്കും. ദയവായി സംഭാവന നൽകുക അല്ലെങ്കിൽ 5 പേരുമായി പങ്കിടുക.\nhttps://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them"
-      },
-      "scraped_at_iso": "2026-05-27T12:37:40.946330+00:00"
+      "messages": {},
+      "scraped_at_iso": "2026-05-27T22:22:34.749195+00:00"
     },
     {
       "id": "givedo-68f25b24",
@@ -55,25 +44,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/3d8552de-9a0a-41b0-878a-470ec88157d8.webp",
-      "amount_raised_inr": 1651627.0,
+      "amount_raised_inr": 1654427.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-05-29",
       "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
       "verified": true,
-      "messages": {
-        "en": "Leena has dedicated her life to rescuing young girls from red-light areas, giving them hope for a better future. She's been fighting this battle for years, but needs our support to continue her mission.\n\nWith just 2 days left, she still needs ₹33.5 lakh of her ₹50 lakh goal. Every girl saved is a life transformed.\n\nEven ₹100 helps. Please donate OR share with 5 people.\nhttps://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
-        "hi": "लीना ने अपना जीवन लाल बत्ती इलाकों से लड़कियों को बचाने में लगाया है। वो सालों से इन बच्चियों को बेहतर भविष्य देने की कोशिश कर रही है।\n\nसिर्फ 2 दिन बचे हैं, अभी भी ₹33.5 लाख की जरूरत है। कुल ₹50 लाख का लक्ष्य है।\n\nसिर्फ ₹100 भी मदद कर सकते हैं। कृपया दान करें या 5 लोगों के साथ शेयर करें।\nhttps://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
-        "kn": "ಲೀನಾ ಅವರು ತಮ್ಮ ಜೀವನವನ್ನು ರೆಡ್ ಲೈಟ್ ಪ್ರದೇಶಗಳಿಂದ ಹುಡುಗಿಯರನ್ನು ರಕ್ಷಿಸಲು ಮೀಸಲಿಟ್ಟಿದ್ದಾರೆ. ಅವರು ಈ ಮಕ್ಕಳಿಗೆ ಉತ್ತಮ ಭವಿಷ್ಯವನ್ನು ಕೊಡಲು ಹೋರಾಡುತ್ತಿದ್ದಾರೆ.\n\nಕೇವಲ 2 ದಿನಗಳು ಮಿಕ್ಕಿವೆ, ಇನ್ನೂ ₹33.5 ಲಕ್ಷ ಬೇಕಾಗಿದೆ. ಒಟ್ಟು ₹50 ಲಕ್ಷ ಗುರಿ.\n\n₹100 ಕೂಡ ಸಹಾಯ ಮಾಡುತ್ತದೆ. ದಯವಿಟ್ಟು ದಾನ ಮಾಡಿ ಅಥವಾ 5 ಜನರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ.\nhttps://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
-        "ta": "லீனா தன் வாழ்க்கையை சிவப்பு விளக்கு பகுதிகளில் இருந்து பெண் குழந்தைகளை காப்பாற்றுவதற்கு அர்ப்பணித்துள்ளார். அவர் இந்த குழந்தைகளுக்கு சிறந்த எதிர்காலத்தை கொடுக்க ஆண்டுகளாக போராடி வருகிறார்.\n\nவெறும் 2 நாட்கள் மட்டுமே உள்ளன, இன்னும் ₹33.5 லட்சம் தேவை. மொத்த இலக்கு ₹50 லட்சம்.\n\n₹100 கூட உதவும். தயவுசெய்து நன்கொடை அளியுங்கள் அல்லது 5 பேருடன் பகிருங்கள்.\nhttps://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
-        "te": "లీనా తన జీవితాన్ని రెడ్ లైట్ ప్రాంతాల నుండి అమ్మాయిలను రక్షించడానికి అంకితం చేసింది. ఆమె ఈ పిల్లలకు మెరుగైన భవిష్యత్తు ఇవ్వడానికి సంవత్సరాలుగా కష్టపడుతోంది.\n\nకేవలం 2 రోజులు మాత్రమే మిగిలాయి, ఇంకా ₹33.5 లక్షలు కావాలి. మొత్తం లక్ష్యం ₹50 లక్షలు.\n\n₹100 కూడా సహాయపడుతుంది. దయచేసి విరాళం ఇవ్వండి లేదా 5 మందితో పంచుకోండి.\nhttps://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
-        "mr": "लीनाने तिचे जीवन रेड लाइट क्षेत्रातून मुलींना वाचवण्यासाठी वाहून दिले आहे. ती वर्षांपासून या मुलींना चांगले भविष्य देण्यासाठी लढत आहे.\n\nफक्त 2 दिवस उरले आहेत, अजूनही ₹33.5 लाखांची गरज आहे. एकूण ₹50 लाखांचे लक्ष्य आहे.\n\nफक्त ₹100 देखील मदत करेल. कृपया दान करा किंवा 5 लोकांसोबत शेअर करा.\nhttps://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
-        "bn": "লীনা তার জীবন উৎসর্গ করেছেন রেড লাইট এলাকা থেকে মেয়েদের উদ্ধার করতে। তিনি বছরের পর বছর ধরে এই শিশুদের ভাল ভবিষ্যৎ দেওয়ার জন্য সংগ্রাম করছেন।\n\nমাত্র 2 দিন বাকি, এখনও ₹33.5 লাখ টাকা প্রয়োজন। মোট লক্ষ্য ₹50 লাখ টাকা।\n\nমাত্র ₹100 টাকাও সাহায্য করবে। অনুগ্রহ করে দান করুন অথবা 5 জনের সাথে শেয়ার করুন।\nhttps://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
-        "gu": "લીનાએ પોતાનું જીવન રેડ લાઇટ વિસ્તારોમાંથી છોકરીઓને બચાવવા માટે સમર્પિત કર્યું છે. તે વર્ષોથી આ બાળકોને સારું ભવિષ્ય આપવા માટે લડી રહી છે.\n\nફક્ત 2 દિવસ બાકી છે, હજુ પણ ₹33.5 લાખની જરૂર છે. કુલ લક્ષ્ય ₹50 લાખનું છે.\n\nફક્ત ₹100 પણ મદદ કરશે. મહેરબાની કરીને દાન કરો અથવા 5 લોકો સાથે શેર કરો.\nhttps://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
-        "pa": "ਲੀਨਾ ਨੇ ਆਪਣੀ ਜ਼ਿੰਦਗੀ ਰੈੱਡ ਲਾਈਟ ਇਲਾਕਿਆਂ ਤੋਂ ਲੜਕੀਆਂ ਨੂੰ ਬਚਾਉਣ ਲਈ ਸਮਰਪਿਤ ਕਰ ਦਿੱਤੀ ਹੈ। ਉਹ ਸਾਲਾਂ ਤੋਂ ਇਨ੍ਹਾਂ ਬੱਚਿਆਂ ਨੂੰ ਬਿਹਤਰ ਭਵਿੱਖ ਦੇਣ ਲਈ ਸੰਘਰਸ਼ ਕਰ ਰਹੀ ਹੈ।\n\nਸਿਰਫ 2 ਦਿਨ ਬਚੇ ਹਨ, ਅਜੇ ਵੀ ₹33.5 ਲੱਖ ਦੀ ਲੋੜ ਹੈ। ਕੁੱਲ ਮਕਸਦ ₹50 ਲੱਖ ਦਾ ਹੈ।\n\nਸਿਰਫ ₹100 ਵੀ ਮਦਦ ਕਰਦੇ ਹਨ। ਕਿਰਪਾ ਕਰਕੇ ਦਾਨ ਕਰੋ ਜਾਂ 5 ਲੋਕਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰੋ।\nhttps://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
-        "ml": "ലീന തന്റെ ജീവിതം റെഡ് ലൈറ്റ് മേഖലകളിൽ നിന്ന് പെൺകുട്ടികളെ രക്ഷിക്കാൻ സമർപ്പിച്ചിരിക്കുന്നു. വർഷങ്ങളായി അവർ ഈ കുട്ടികൾക്ക് മെച്ചപ്പെട്ട ഭാവി നൽകാൻ പോരാടുകയാണ്.\n\nവെറും 2 ദിവസം മാത്രം ബാക്കി, ഇനിയും ₹33.5 ലക്ഷം ആവശ്യമുണ്ട്. ആകെ ലക്ഷ്യം ₹50 ലക്ഷം.\n\n₹100 പോലും സഹായിക്കും. ദയവായി സംഭാവന നൽകുക അല്ലെങ്കിൽ 5 പേരുമായി പങ്കിടുക.\nhttps://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas"
-      },
-      "scraped_at_iso": "2026-05-27T12:37:40.946419+00:00"
+      "messages": {},
+      "scraped_at_iso": "2026-05-27T22:22:34.749304+00:00"
     },
     {
       "id": "givedo-645e1d5b",
@@ -83,25 +61,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/ab425988-f410-4f07-a7ef-855bc2554fb3.webp",
-      "amount_raised_inr": 30116706.54,
+      "amount_raised_inr": 30123006.54,
       "amount_goal_inr": 60000000.0,
       "deadline_iso": "2026-05-30",
       "days_left": 3,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-grandparents-fight-hunger-and-receive-medical-care-donate-now",
       "verified": true,
-      "messages": {
-        "en": "Our elderly grandparents have been abandoned by their families and are struggling to survive without food or medical care. These brave souls who once cared for others now need our help desperately.\n\nOnly 3 days left to raise ₹3 crore more for their survival. Even ₹100 helps save a life.\n\nPlease donate OR share with 5 people.\nhttps://give.do/fundraisers/help-abandoned-grandparents-fight-hunger-and-receive-medical-care-donate-now",
-        "hi": "हमारे बुजुर्ग दादा-दादी को उनके परिवार ने छोड़ दिया है और वे खाने और इलाज के बिना जीवन की लड़ाई लड़ रहे हैं। जिन्होंने कभी सबकी देखभाल की, आज उन्हें हमारी मदद की जरूरत है।\n\nउनके जीवन के लिए सिर्फ 3 दिन बचे हैं, ₹3 करोड़ और चाहिए। ₹100 भी एक जिंदगी बचा सकते हैं।\n\nकृपया दान करें या 5 लोगों को भेजें।\nhttps://give.do/fundraisers/help-abandoned-grandparents-fight-hunger-and-receive-medical-care-donate-now",
-        "kn": "ನಮ್ಮ ಹಿರಿಯರಾದ ಅಜ್ಜ-ಅಜ್ಜಿಯರನ್ನು ಅವರ ಕುಟುಂಬ ತ್ಯಜಿಸಿದೆ ಮತ್ತು ಅವರು ಆಹಾರ ಮತ್ತು ವೈದ್ಯಕೀಯ ಸೇವೆ ಇಲ್ಲದೆ ಬದುಕಲು ಹೆಣಗಾಡುತ್ತಿದ್ದಾರೆ। ಒಮ್ಮೆ ಎಲ್ಲರನ್ನು ನೋಡಿಕೊಂಡ ಈ ಶೂರರಿಗೆ ಇಂದು ನಮ್ಮ ಸಹಾಯ ಬೇಕು।\n\nಅವರ ಜೀವಕ್ಕೆ ಕೇವಲ 3 ದಿನಗಳು ಉಳಿದಿವೆ, ಇನ್ನೂ ₹3 ಕೋಟಿ ಬೇಕು। ₹100 ಕೂಡ ಒಂದು ಜೀವ ಉಳಿಸುತ್ತದೆ।\n\nದಯವಿಟ್ಟು ದಾನ ಮಾಡಿ ಅಥವಾ 5 ಜನರಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ।\nhttps://give.do/fundraisers/help-abandoned-grandparents-fight-hunger-and-receive-medical-care-donate-now",
-        "ta": "நமது முதியவர்களான தாத்தா-பாட்டிகளை அவர்கள் குடும்பம் கைவிட்டுவிட்டது, அவர்கள் உணவு மற்றும் மருத்துவ உதவி இல்லாமல் வாழ்க்கைப் போராட்டத்தில் உள்ளனர். ஒரு காலத்தில் எல்லாரையும் கவனித்த இந்த வீரர்களுக்கு இன்று நமது உதவி தேவை।\n\nஅவர்களின் உயிருக்கு வெறும் 3 நாட்கள் மட்டுமே மீதம், இன்னும் ₹3 கோடி தேவை. ₹100 கூட ஒரு உயிரைக் காப்பாற்றும்।\n\nதயவுசெய்து நன்கொடை அளியுங்கள் அல்லது 5 பேருக்குப் பகிருங்கள்.\nhttps://give.do/fundraisers/help-abandoned-grandparents-fight-hunger-and-receive-medical-care-donate-now",
-        "te": "మన వృద్ధులైన తాతయ్యలు-అమ్మమ్మలను వారి కుటుంబం వదిలేసింది, వారు ఆహారం మరియు వైద్య సేవలు లేకుండా జీవన పోరాటంలో ఉన్నారు. ఒకప్పుడు అందరినీ చూసుకున్న ఈ వీరులకు నేడు మన సహాయం కావాలి।\n\nవారి ప్రాణాలకు కేవలం 3 రోజులు మాత్రమే మిగిలాయి, ఇంకా ₹3 కోట్లు కావాలి. ₹100 కూడా ఒక ప్రాణాన్ని కాపాడుతుంది।\n\nదయచేసి దానం చేయండి లేదా 5 మందితో పంచుకోండి.\nhttps://give.do/fundraisers/help-abandoned-grandparents-fight-hunger-and-receive-medical-care-donate-now",
-        "mr": "आमच्या वडिलधाऱ्या आजी-आजोबांना त्यांच्या कुटुंबाने सोडून दिले आहे आणि ते अन्न व वैद्यकीय मदत न मिळता जगण्याचा संघर्ष करत आहेत. ज्यांनी कधी सगळ्यांची काळजी घेतली, आज त्यांना आमच्या मदतीची गरज आहे।\n\nत्यांच्या जिवासाठी फक्त 3 दिवस शिल्लक, अजून ₹3 कोटी लागतील. ₹100 सुद्धा एक जीव वाचवू शकतात।\n\nकृपया दान करा किंवा 5 जणांना पाठवा.\nhttps://give.do/fundraisers/help-abandoned-grandparents-fight-hunger-and-receive-medical-care-donate-now",
-        "bn": "আমাদের বয়স্ক দাদা-দাদিদের তাঁদের পরিবার ছেড়ে চলে গেছে এবং তাঁরা খাবার ও চিকিৎসা ছাড়াই বেঁচে থাকার লড়াই করছেন। যাঁরা একদিন সবার যত্ন নিতেন, আজ তাঁদের আমাদের সাহায্যের প্রয়োজন।\n\nতাঁদের জীবনের জন্য মাত্র ৩ দিন বাকি, আরো ৩ কোটি টাকা লাগবে। ১০০ টাকাও একটি জীবন বাঁচাতে পারে।\n\nঅনুগ্রহ করে দান করুন অথবা ৫ জনের কাছে পাঠান।\nhttps://give.do/fundraisers/help-abandoned-grandparents-fight-hunger-and-receive-medical-care-donate-now",
-        "gu": "આપણા વૃદ્ધ દાદા-દાદીને તેમના પરિવારે છોડી દીધા છે અને તેઓ ખોરાક અને દવાઈ વિના જીવવા માટે સંઘર્ષ કરી રહ્યા છે. જેમણે એક સમયે બધાની સંભાળ લીધી હતી, આજે તેમને આપણી મદદની જરૂર છે।\n\nતેમના જીવન માટે ફક્ત 3 દિવસ બાકી છે, હજુ ₹3 કરોડ જોઈએ. ₹100 પણ એક જીવન બચાવી શકે છે।\n\nકૃપા કરીને દાન આપો અથવા 5 લોકોને મોકલો.\nhttps://give.do/fundraisers/help-abandoned-grandparents-fight-hunger-and-receive-medical-care-donate-now",
-        "pa": "ਸਾਡੇ ਬੁਜ਼ੁਰਗ ਦਾਦਾ-ਦਾਦੀ ਨੂੰ ਉਨ੍ਹਾਂ ਦੇ ਪਰਿਵਾਰ ਨੇ ਛੱਡ ਦਿੱਤਾ ਹੈ ਅਤੇ ਉਹ ਖਾਣੇ ਅਤੇ ਇਲਾਜ ਤੋਂ ਬਿਨਾਂ ਜਿੰਦਗੀ ਦੀ ਜੰਗ ਲੜ ਰਹੇ ਹਨ। ਜਿਨ੍ਹਾਂ ਨੇ ਕਦੇ ਸਭ ਦੀ ਦੇਖਭਾਲ ਕੀਤੀ, ਅੱਜ ਉਨ੍ਹਾਂ ਨੂੰ ਸਾਡੀ ਮਦਦ ਦੀ ਲੋੜ ਹੈ।\n\nਉਨ੍ਹਾਂ ਦੀ ਜਿੰਦਗੀ ਲਈ ਸਿਰਫ 3 ਦਿਨ ਬਾਕੀ, ਹੋਰ ₹3 ਕਰੋੜ ਚਾਹੀਦੇ ਹਨ। ₹100 ਵੀ ਇਕ ਜਾਨ ਬਚਾ ਸਕਦੇ ਹਨ।\n\nਕਿਰਪਾ ਕਰਕੇ ਦਾਨ ਕਰੋ ਜਾਂ 5 ਲੋਕਾਂ ਨੂੰ ਭੇਜੋ।\nhttps://give.do/fundraisers/help-abandoned-grandparents-fight-hunger-and-receive-medical-care-donate-now",
-        "ml": "നമ്മുടെ പ്രായമായ മുത്തശ്ശിമാരെ അവരുടെ കുടുംബം ഉപേക്ഷിച്ചു, അവർ ഭക്ഷണവും വൈദ്യസഹായവുമില്ലാതെ ജീവിതസമരം നടത്തുകയാണ്. ഒരുകാലത്ത് എല്ലാവരെയും പരിചരിച്ച ഈ വീരന്മാർക്ക് ഇന്ന് നമ്മുടെ സഹായം വേണം।\n\nഅവരുടെ ജീവന് വെറും 3 ദിവസം മാത്രം ബാക്കി, ഇനിയും ₹3 കോടി വേണം। ₹100 പോലും ഒരു ജീവൻ രക്ഷിക്കും।\n\nദയവായി സംഭാവന നൽകുക അല്ലെങ്കിൽ 5 പേർക്ക് അയക്കുക।\nhttps://give.do/fundraisers/help-abandoned-grandparents-fight-hunger-and-receive-medical-care-donate-now"
-      },
-      "scraped_at_iso": "2026-05-27T12:37:40.946378+00:00"
+      "messages": {},
+      "scraped_at_iso": "2026-05-27T22:22:34.749235+00:00"
     },
     {
       "id": "givedo-667e964e",
@@ -111,109 +78,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/e2c65b44-daf2-4379-b205-a7f110543865.webp",
-      "amount_raised_inr": 11574557.0,
+      "amount_raised_inr": 11580058.0,
       "amount_goal_inr": 30000000.0,
       "deadline_iso": "2026-05-30",
       "days_left": 3,
       "campaign_url": "https://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
       "verified": true,
-      "messages": {
-        "en": "72-year-old Vanitha has dedicated her life to caring for 100+ abandoned mentally ill women who have nowhere else to go. She's built them a home, but needs urgent help to secure permanent shelter and care.\nOnly 3 days left to raise ₹1.8 crore more (₹1.2 crore already raised of ₹3 crore goal).\nEven ₹100 helps save these vulnerable women.\nPlease donate OR share with 5 people.\nhttps://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
-        "hi": "72 साल की वनिता जी ने अपना जीवन 100+ परित्यक्त मानसिक रूप से बीमार महिलाओं की देखभाल में समर्पित कर दिया है जिनका कोई सहारा नहीं। उन्होंने इनके लिए एक घर बनाया है, लेकिन स्थायी आश्रय के लिए तुरंत मदद चाहिए।\nकेवल 3 दिन बचे हैं ₹1.8 करोड़ और जुटाने के लिए (₹3 करोड़ में से ₹1.2 करोड़ मिल गए)।\nसिर्फ ₹100 भी इन असहाय महिलाओं की मदद करेगा।\nकृपया दान करें या 5 लोगों को भेजें।\nhttps://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
-        "kn": "72 ವರ್ಷದ ವನಿತಾ ತಮ್ಮ ಜೀವನವನ್ನು 100+ ಕೈಬಿಡಲ್ಪಟ್ಟ ಮಾನಸಿಕ ಅಸ್ವಸ್ಥ ಮಹಿಳೆಯರ ಪರಿಚರಣೆಗೆ ಸಮರ್ಪಿಸಿದ್ದಾರೆ. ಈ ಮಹಿಳೆಯರಿಗೆ ಬೇರೆ ಯಾವುದೇ ಆಸರೆ ಇಲ್ಲ. ಅವರು ಇವರಿಗೆ ಒಂದು ಮನೆ ನಿರ್ಮಿಸಿದ್ದಾರೆ, ಆದರೆ ಶಾಶ್ವತ ಆಶ್ರಯಕ್ಕಾಗಿ ತುರ್ತು ಸಹಾಯ ಬೇಕು.\nಇನ್ನೂ ₹1.8 ಕೋಟಿ ಸಂಗ್ರಹಿಸಲು ಕೇವಲ 3 ದಿನಗಳು ಬಾಕಿ (₹3 ಕೋಟಿಯಲ್ಲಿ ₹1.2 ಕೋಟಿ ಸಿಕ್ಕಿದೆ).\n₹100 ಕೂಡ ಈ ಅಸಹಾಯಕ ಮಹಿಳೆಯರಿಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ.\nದಯವಿಟ್ಟು ದಾನ ಮಾಡಿ ಅಥವಾ 5 ಜನರಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ.\nhttps://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
-        "ta": "72 வயதான வனிதா தமது வாழ்க்கையை 100+ கைவிடப்பட்ட மனநல பாதிப்பு உள்ள பெண்களின் பராமரிப்புக்காக அர்ப்பணித்துள்ளார். இவர்களுக்கு வேறு எந்த ஆதரவும் இல்லை. அவர் இவர்களுக்கு ஒரு வீடு கட்டியுள்ளார், ஆனால் நிரந்தர தங்குமிடத்திற்கு அவசர உதவி தேவை.\nஇன்னும் ₹1.8 கோடி திரட்ட வெறும் 3 நாட்கள் மட்டுமே உள்ளன (₹3 கோடியில் ₹1.2 கோடி கிடைத்துள்ளது).\n₹100 கூட இந்த ஆதரவற்ற பெண்களுக்கு உதவும்.\nதயவுசெய்து நன்கொடை அளியுங்கள் அல்லது 5 பேருடன் பகிருங்கள்.\nhttps://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
-        "te": "72 ఏళ్ల వనిత తన జీవితాన్ని 100+ వదిలివేయబడిన మానసిక అనారోగ్య స్త్రీల సంరక్షణకు అంకితం చేసింది. వీరికి మరెక్కడా ఆసరా లేదు. ఆమె వీరికి ఒక ఇంటిని నిర్మించింది, కానీ శాశ్వత ఆశ్రయం కోసం అత్యవసర సహాయం అవసరం.\nఇంకా ₹1.8 కోట్లు సేకరించడానికి కేవలం 3 రోజులు మాత్రమే మిగిలాయి (₹3 కోట్లలో ₹1.2 కోట్లు వచ్చాయి).\n₹100 కూడా ఈ నిస్సహాయ స్త్రీలకు సహాయపడుతుంది.\nదయచేసి దానం చేయండి లేదా 5 మందితో పంచుకోండి.\nhttps://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
-        "mr": "72 वर्षीय वनिता यांनी त्यांचे आयुष्य 100+ सोडून दिलेल्या मानसिक आजारी महिलांच्या काळजीसाठी वाहून दिले आहे. या महिलांना इतर कुठेही आधार नाही. त्यांनी यांच्यासाठी एक घर बांधले आहे, पण कायमस्वरूपी निवारा मिळवण्यासाठी तातडीने मदत हवी.\nआणखी ₹1.8 कोटी गोळा करण्यासाठी फक्त 3 दिवस उरले आहेत (₹3 कोटींपैकी ₹1.2 कोटी मिळाले).\nफक्त ₹100 सुद्धा या असहाय्य महिलांना मदत करेल.\nकृपया दान करा किंवा 5 लोकांना पाठवा.\nhttps://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
-        "bn": "৭২ বছর বয়সী বনিতা তার জীবন উৎসর্গ করেছেন ১০০+ পরিত্যক্ত মানসিক অসুস্থ নারীদের যত্নের জন্য যাদের আর কোথাও আশ্রয় নেই। তিনি তাদের জন্য একটি বাড়ি তৈরি করেছেন, কিন্তু স্থায়ী আশ্রয় ও যত্নের জন্য জরুরি সাহায্য দরকার।\nআরও ₹১.৮ কোটি সংগ্রহের জন্য মাত্র ৩ দিন বাকি (₹৩ কোটির লক্ষ্যে ₹১.২ কোটি সংগৃহীত)।\nমাত্র ₹১০০ও এই অসহায় নারীদের সাহায্য করবে।\nঅনুগ্রহ করে দান করুন অথবা ৫ জনের সাথে শেয়ার করুন।\nhttps://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
-        "gu": "72 વર્ષીય વનિતાએ પોતાનું જીવન 100+ છોડી દેવાયેલ માનસિક બીમાર મહિલાઓની સંભાળ માટે સમર્પિત કર્યું છે જેમને બીજે કહીં કોઈ આધાર નથી. તેમણે આ મહિલાઓ માટે એક ઘર બનાવ્યું છે, પરંતુ કાયમી આશ્રય અને સંભાળ માટે તાત્કાલિક મદદની જરૂર છે.\nવધુ ₹1.8 કરોડ એકત્ર કરવા માટે માત્ર 3 દિવસ બાકી છે (₹3 કરોડના લક્ષ્યમાંથી ₹1.2 કરોડ મળ્યા છે).\nમાત્ર ₹100 પણ આ અસહાય મહિલાઓને મદદ કરશે.\nકૃપા કરીને દાન કરો અથવા 5 લોકો સાથે શેર કરો.\nhttps://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
-        "pa": "72 ਸਾਲਾ ਵਨਿਤਾ ਨੇ ਆਪਣੀ ਜ਼ਿੰਦਗੀ 100+ ਛੱਡੀਆਂ ਗਈਆਂ ਮਾਨਸਿਕ ਰੋਗੀ ਔਰਤਾਂ ਦੀ ਦੇਖਭਾਲ ਲਈ ਸਮਰਪਿਤ ਕਰ ਦਿੱਤੀ ਹੈ ਜਿਨ੍ਹਾਂ ਦਾ ਹੋਰ ਕਿਤੇ ਕੋਈ ਸਹਾਰਾ ਨਹੀਂ। ਉਸਨੇ ਇਨ੍ਹਾਂ ਲਈ ਇੱਕ ਘਰ ਬਣਾਇਆ ਹੈ, ਪਰ ਸਥਾਈ ਆਸਰਾ ਅਤੇ ਦੇਖਭਾਲ ਲਈ ਤੁਰੰਤ ਮਦਦ ਚਾਹੀਦੀ ਹੈ।\nਹੋਰ ₹1.8 ਕਰੋੜ ਇਕੱਠੇ ਕਰਨ ਲਈ ਸਿਰਫ਼ 3 ਦਿਨ ਬਾਕੀ (₹3 ਕਰੋੜ ਵਿੱਚੋਂ ₹1.2 ਕਰੋੜ ਮਿਲੇ)।\nਸਿਰਫ਼ ₹100 ਵੀ ਇਨ੍ਹਾਂ ਬੇਸਹਾਰਾ ਔਰਤਾਂ ਦੀ ਮਦਦ ਕਰੇਗਾ।\nਕਿਰਪਾ ਕਰਕੇ ਦਾਨ ਕਰੋ ਜਾਂ 5 ਲੋਕਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰੋ।\nhttps://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
-        "ml": "72 വയസ്സുള്ള വനിത തന്റെ ജീവിതം 100+ ഉപേക്ഷിക്കപ്പെട്ട മാനസികരോഗികളായ സ്ത്രീകളുടെ പരിചരണത്തിനായി സമർപ്പിച്ചിരിക്കുന്നു, അവർക്ക് മറ്റെവിടെയും ആശ്രയമില്ല. അവർ ഇവർക്കായി ഒരു വീട് നിർമ്മിച്ചിട്ടുണ്ട്, എന്നാൽ സ്ഥിരമായ അഭയവും പരിചരണവും നൽകാൻ അടിയന്തര സഹായം വേണം.\nകൂടുതൽ ₹1.8 കോടി സമാഹരിക്കാൻ വെറും 3 ദിവസം മാത്രം ബാക്കി (₹3 കോടി ലക്ഷ്യത്തിൽ ₹1.2 കോടി ലഭിച്ചു).\n₹100 പോലും ഈ നിസ്സഹായരായ സ്ത്രീകളെ സഹായിക്കും.\nദയവായി സംഭാവന നൽകുക അല്ലെങ്കിൽ 5 പേരുമായി പങ്കിടുക.\nhttps://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care"
-      },
-      "scraped_at_iso": "2026-05-27T12:37:40.946470+00:00"
-    },
-    {
-      "id": "ketto-4-3898213",
-      "source": "ketto",
-      "title": "My Baby Battles For Her Life And We Need Your Support To Save Her",
-      "description": "My Baby Battles For Her Life And We Need Your Support To Save Her",
-      "patient_name": "Anika Sharma",
-      "condition": "Medical condition not in the list",
-      "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/media/campaign/1064000/1064511/image/blurred/68f20089b431b.jpg",
-      "amount_raised_inr": 33566794.13,
-      "amount_goal_inr": 90000000.0,
-      "deadline_iso": "2026-06-02",
-      "days_left": 6,
-      "campaign_url": "https://www.ketto.org/fundraiser/my-baby-battles-for-her-life-and-we-need-your-support-to-save-her-1064511",
-      "verified": true,
-      "messages": {
-        "en": "A little baby is fighting for her life and needs our help urgently. Her parents have managed to raise ₹3.4 crore but still need ₹5.6 crore more in just 6 days. This is a verified campaign on Ketto and every rupee counts. Even ₹100 helps save this precious life. Please donate OR share with 5 people - both make a difference.\nhttps://www.ketto.org/fundraiser/my-baby-battles-for-her-life-and-we-need-your-support-to-save-her-1064511",
-        "hi": "एक छोटी सी बच्ची अपनी जिंदगी के लिए लड़ रही है और हमारी मदद की सख्त जरूरत है। उसके माता-पिता ने ३.४ करोड़ जुटाया है लेकिन अभी भी ६ दिनों में ५.६ करोड़ रुपए और चाहिए। यह केटो पर एक वेरिफाइड कैंपेन है और हर रुपया मायने रखता है। सिर्फ ₹१०० भी इस प्यारी जिंदगी को बचाने में मदद करेगा। कृपया दान करें या फिर ५ लोगों के साथ शेयर करें - दोनों से फर्क पड़ता है।\nhttps://www.ketto.org/fundraiser/my-baby-battles-for-her-life-and-we-need-your-support-to-save-her-1064511",
-        "kn": "ಒಂದು ಪುಟ್ಟ ಮಗು ತನ್ನ ಜೀವಕ್ಕಾಗಿ ಹೋರಾಡುತ್ತಿದೆ ಮತ್ತು ನಮ್ಮ ಸಹಾಯದ ತುರ್ತು ಅವಶ್ಯಕತೆಯಿದೆ। ಅವಳ ಹೆತ್ತವರು ₹೩.೪ ಕೋಟಿ ಸಂಗ್ರಹಿಸಿದ್ದಾರೆ ಆದರೆ ಇನ್ನೂ ೬ ದಿನಗಳಲ್ಲಿ ₹೫.೬ ಕೋಟಿ ಬೇಕು. ಇದು ಕೆಟ್ಟೋದಲ್ಲಿ ವೆರಿಫೈಡ್ ಕ್ಯಾಂಪೇನ್ ಮತ್ತು ಪ್ರತಿ ರೂಪಾಯಿ ಮುಖ್ಯ. ಕೇವಲ ₹೧೦೦ ಸಹ ಈ ಅಮೂಲ್ಯ ಜೀವ ಉಳಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ। ದಯವಿಟ್ಟು ದಾನ ಮಾಡಿ ಅಥವಾ ೫ ಜನರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ - ಎರಡೂ ವ್ಯತ್ಯಾಸ ಮಾಡುತ್ತದೆ।\nhttps://www.ketto.org/fundraiser/my-baby-battles-for-her-life-and-we-need-your-support-to-save-her-1064511",
-        "ta": "ஒரு குட்டிக் குழந்தை தன் உயிருக்காகப் போராடுகிறாள், நமது உதவி மிகவும் அவசரம். அவளுடைய பெற்றோர் ₹3.4 கோடி சேகரித்துள்ளனர் ஆனால் இன்னும் 6 நாட்களில் ₹5.6 கோடி தேவை. இது கெட்டோவில் வெரிஃபைட் கேம்பெய்ன், ஒவ்வொரு ரூபாயும் முக்கியம். வெறும் ₹100 கூட இந்த அருமையான உயிரைக் காப்பாற்ற உதவும். தயவுசெய்து நன்கொடை அளியுங்கள் அல்லது 5 பேருடன் பகிருங்கள் - இரண்டுமே மாற்றத்தை ஏற்படுத்தும்.\nhttps://www.ketto.org/fundraiser/my-baby-battles-for-her-life-and-we-need-your-support-to-save-her-1064511",
-        "te": "ఒక చిన్ని పాప తన ప్రాణం కోసం పోరాడుతోంది, మన సహాయం అత్యవసరం. ఆమె తల్లిదండ్రులు ₹3.4 కోట్లు సేకరించారు కానీ ఇంకా 6 రోజుల్లో ₹5.6 కోట్లు కావాలి. ఇది కెట్టో లో వెరిఫైడ్ క్యాంపెయిన్, ప్రతి రూపాయి ముఖ్యం. కేవలం ₹100 కూడా ఈ ప్రాణాన్ని రక్షించడంలో సహాయపడుతుంది. దయచేసి దానం చేయండి లేదా 5 మందితో షేర్ చేయండి - రెండూ తేడా చేస్తాయి.\nhttps://www.ketto.org/fundraiser/my-baby-battles-for-her-life-and-we-need-your-support-to-save-her-1064511",
-        "mr": "एक लहानसं बाळ तिच्या आयुष्यासाठी लढत आहे आणि आम्हाला तातडीने मदतीची गरज आहे. तिच्या आई-वडिलांनी ₹३.४ कोटी गोळा केले आहे पण अजूनही ६ दिवसांत ₹५.६ कोटी लागतील. हे केटो वरील व्हेरिफाइड मोहीम आहे आणि प्रत्येक रुपया मोलाचा आहे. फक्त ₹१०० सुद्धा या मोलत्या जीवाला वाचवण्यास मदत करेल. कृपया दान करा किंवा ५ लोकांसोबत शेअर करा - दोन्हीचा फरक पडतो.\nhttps://www.ketto.org/fundraiser/my-baby-battles-for-her-life-and-we-need-your-support-to-save-her-1064511",
-        "bn": "একটি ছোট্ট শিশু তার জীবনের জন্য লড়াই করছে এবং আমাদের জরুরি সাহায্যের প্রয়োজন। তার বাবা-মা ৩.৪ কোটি টাকা সংগ্রহ করেছেন কিন্তু আরও ৬ দিনে ৫.৬ কোটি টাকা লাগবে। এটি কেটো-তে একটি ভেরিফাইড ক্যাম্পেইন এবং প্রতিটি টাকা গুরুত্বপূর্ণ। মাত্র ₹১০০ও এই মূল্যবান জীবন বাঁচাতে সাহায্য করবে। অনুগ্রহ করে দান করুন অথবা ৫ জনের সাথে শেয়ার করুন - দুটোই পার্থক্য আনে।\nhttps://www.ketto.org/fundraiser/my-baby-battles-for-her-life-and-we-need-your-support-to-save-her-1064511",
-        "gu": "એક નાનકડું બાળક તેના જીવન માટે લડી રહ્યું છે અને આપણી તાત્કાલિક મદદની જરૂર છે. તેના માતા-પિતાએ ₹3.4 કરોડ એકત્ર કર્યા છે પરંતુ હજુ પણ 6 દિવસમાં ₹5.6 કરોડની જરૂર છે. આ કેટ્ટો પર વેરિફાઇડ કેમ્પેઇન છે અને દરેક રૂપિયો મહત્વનો છે. માત્ર ₹100 પણ આ કિંમતી જીવન બચાવવામાં મદદ કરશે. કૃપા કરીને દાન કરો અથવા 5 લોકો સાથે શેર કરો - બંને ફરક લાવે છે।\nhttps://www.ketto.org/fundraiser/my-baby-battles-for-her-life-and-we-need-your-support-to-save-her-1064511",
-        "pa": "ਇੱਕ ਨਿੱਕਾ ਬੱਚਾ ਆਪਣੀ ਜਿੰਦਗੀ ਲਈ ਲੜ ਰਿਹਾ ਹੈ ਅਤੇ ਸਾਨੂੰ ਤੁਰੰਤ ਮਦਦ ਦੀ ਲੋੜ ਹੈ। ਉਸਦੇ ਮਾਤਾ-ਪਿਤਾ ਨੇ ₹3.4 ਕਰੋੜ ਇਕੱਠੇ ਕੀਤੇ ਹਨ ਪਰ ਅਜੇ ਵੀ 6 ਦਿਨਾਂ ਵਿੱਚ ₹5.6 ਕਰੋੜ ਦੀ ਲੋੜ ਹੈ। ਇਹ ਕੈਟੋ ਤੇ ਇੱਕ ਵੈਰੀਫਾਈਡ ਮੁਹਿੰਮ ਹੈ ਅਤੇ ਹਰ ਰੁਪਇਆ ਅਹਿਮ ਹੈ। ਸਿਰਫ ₹100 ਵੀ ਇਸ ਕੀਮਤੀ ਜਿੰਦਗੀ ਨੂੰ ਬਚਾਉਣ ਵਿੱਚ ਮਦਦ ਕਰੇਗਾ। ਕਿਰਪਾ ਕਰਕੇ ਦਾਨ ਕਰੋ ਜਾਂ 5 ਲੋਕਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰੋ - ਦੋਵਾਂ ਨਾਲ ਫਰਕ ਪੈਂਦਾ ਹੈ।\nhttps://www.ketto.org/fundraiser/my-baby-battles-for-her-life-and-we-need-your-support-to-save-her-1064511",
-        "ml": "ഒരു ചെറിയ കുഞ്ഞ് അവളുടെ ജീവന് വേണ്ടി പോരാടുകയാണ്, നമുക്ക് അടിയന്തര സഹായം ആവശ്യമാണ്. അവളുടെ മാതാപിതാക്കൾ ₹3.4 കോടി ശേഖരിച്ചു എന്നാൽ ഇനിയും 6 ദിവസം കൊണ്ട് ₹5.6 കോടി വേണം. ഇത് കെട്ടോയിൽ വെരിഫൈഡ് കാമ്പയിനാണ്, ഓരോ രൂപയും പ്രധാനമാണ്. വെറും ₹100 പോലും ഈ അമൂല്യമായ ജീവൻ രക്ഷിക്കാൻ സഹായിക്കും. ദയവായി സംഭാവന നൽകുക അല്ലെങ്കിൽ 5 പേരുമായി പങ്കുവയ്ക്കുക - രണ്ടും വ്യത്യാസമുണ്ടാക്കും.\nhttps://www.ketto.org/fundraiser/my-baby-battles-for-her-life-and-we-need-your-support-to-save-her-1064511"
-      },
-      "scraped_at_iso": "2026-05-27T12:37:35.503659+00:00"
-    },
-    {
-      "id": "ketto-8-3706296",
-      "source": "ketto",
-      "title": "Give Hope to a Premature Baby in Intensive Care-Mrs. Rohini",
-      "description": "Give Hope to a Premature Baby in Intensive Care-Mrs. Rohini",
-      "patient_name": "Baby of Rohini Rakesh Vadje",
-      "condition": "Prematurity/ Preterm",
-      "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/media/campaign/1140000/1140957/image/blurred/6a084d57250f7.jpg",
-      "amount_raised_inr": 284341.0,
-      "amount_goal_inr": 350000.0,
-      "deadline_iso": "2026-06-05",
-      "days_left": 9,
-      "campaign_url": "https://www.ketto.org/fundraiser/give-hope-to-a-premature-baby-in-intensive-care-mrs-rohini",
-      "verified": true,
-      "messages": {
-        "en": "Mrs. Rohini's premature baby is fighting for life in intensive care. This little fighter needs our help to survive these critical early days.\n\nOnly 9 days left to raise the remaining ₹66K out of ₹3.5 lakh needed for treatment. Even ₹100 helps save this precious life.\n\nPlease donate OR share with 5 people who might help.\nhttps://www.ketto.org/fundraiser/give-hope-to-a-premature-baby-in-intensive-care-mrs-rohini",
-        "hi": "श्रीमती रोहिणी का नन्हा बच्चा आईसीयू में जिंदगी की लड़ाई लड़ रहा है। इस छोटे योद्धा को जीवित रहने के लिए हमारी मदद चाहिए।\n\n₹3.5 लाख में से बाकी ₹66 हजार जुटाने के लिए केवल 9 दिन बचे हैं। ₹100 भी इस बच्चे की जान बचाने में मदद करेगा।\n\nकृपया दान करें या 5 लोगों के साथ शेयर करें।\nhttps://www.ketto.org/fundraiser/give-hope-to-a-premature-baby-in-intensive-care-mrs-rohini",
-        "kn": "ಶ್ರೀಮತಿ ರೋಹಿಣಿಯವರ ಅಪಕ್ವ ಮಗು ಐಸಿಯುನಲ್ಲಿ ಜೀವನಕ್ಕಾಗಿ ಹೋರಾಟ ನಡೆಸುತ್ತಿದೆ। ಈ ಪುಟ್ಟ ಯೋಧನಿಗೆ ಬದುಕಲು ನಮ್ಮ ಸಹಾಯ ಬೇಕಾಗಿದೆ।\n\n₹3.5 ಲಕ್ಷದಲ್ಲಿ ಉಳಿದ ₹66 ಸಾವಿರ ಸಂಗ್ರಹಿಸಲು ಕೇವಲ 9 ದಿನಗಳೇ ಬಾಕಿ. ₹100 ಕೂಡ ಈ ಪ್ರಾಣ ಉಳಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ।\n\nದಯವಿಟ್ಟು ದಾನ ಮಾಡಿ ಅಥವಾ 5 ಜನರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ।\nhttps://www.ketto.org/fundraiser/give-hope-to-a-premature-baby-in-intensive-care-mrs-rohini",
-        "ta": "திருமதி ரோகிணியின் குறைமாத குழந்தை தீவிர சிகிச்சை பிரிவில் உயிருக்குப் போராடிக் கொண்டிருக்கிறது. இந்த சின்ன வீரனுக்கு உயிர் வாழ நம் உதவி தேவை।\n\n₹3.5 லட்சத்தில் மீதி ₹66 ஆயிரத்தை சேகரிக்க வெறும் 9 நாட்கள் மட்டுமே உள்ளன. ₹100 கூட இந்த உயிரைக் காப்பாற்ற உதவும்.\n\nதயவுசெய்து நன்கொடை அளியுங்கள் அல்லது 5 பேருடன் பகிருங்கள்।\nhttps://www.ketto.org/fundraiser/give-hope-to-a-premature-baby-in-intensive-care-mrs-rohini",
-        "te": "శ్రీమతి రోహిణి గారి అపరిపక్వ శిశువు ఐసియూలో ప్రాణాలకు పోరాటం చేస్తోంది. ఈ చిన్న యోధుడికి జీవించడానికి మన సహాయం కావాలి।\n\n₹3.5 లక్షల్లో మిగిలిన ₹66 వేలు సేకరించడానికి కేవలం 9 రోజులు మాత్రమే మిగిలి ఉన్నాయి. ₹100 కూడా ఈ ప్రాణాన్ని రక్షించడంలో సహాయపడుతుంది।\n\nదయచేసి విరాళం ఇవ్వండి లేదా 5 మందితో పంచుకోండి।\nhttps://www.ketto.org/fundraiser/give-hope-to-a-premature-baby-in-intensive-care-mrs-rohini",
-        "mr": "श्रीमती रोहिणी यांचे अकाली जन्मलेले बाळ आयसीयूमध्ये जिवाची लढाई लढत आहे. या छोट्या योद्ध्याला जगण्यासाठी आमची मदत हवी आहे।\n\n₹3.5 लाखातील उरलेली ₹66 हजार गोळा करण्यासाठी फक्त 9 दिवस शिल्लक आहेत. ₹100 सुद्धा या जीवाला वाचवण्यास मदत करेल।\n\nकृपया दान करा किंवा 5 लोकांसोबत शेअर करा।\nhttps://www.ketto.org/fundraiser/give-hope-to-a-premature-baby-in-intensive-care-mrs-rohini",
-        "bn": "শ্রীমতী রোহিণীর অপরিণত শিশুটি আইসিইউতে জীবনের জন্য লড়াই করছে। এই ছোট্ট যোদ্ধার বাঁচার জন্য আমাদের সাহায্য প্রয়োজন।\n\n৩.৫ লক্ষ টাকার মধ্যে বাকি ৬৬ হাজার টাকা সংগ্রহ করতে মাত্র ৯ দিন বাকি। ১০০ টাকাও এই জীবন বাঁচাতে সাহায্য করবে।\n\nদয়া করে দান করুন অথবা ৫ জনের সাথে শেয়ার করুন।\nhttps://www.ketto.org/fundraiser/give-hope-to-a-premature-baby-in-intensive-care-mrs-rohini",
-        "gu": "શ્રીમતી રોહિણીનું અપરિપક્વ બાળક આઈસીયુમાં જીવન માટે લડી રહ્યું છે. આ નાના યોદ્ધાને જીવવા માટે આપણી મદદની જરૂર છે।\n\n₹3.5 લાખમાંથી બાકીના ₹66 હજાર ભેગા કરવા માટે માત્ર 9 દિવસ બાકી છે. ₹100 પણ આ જીવન બચાવવામાં મદદ કરશે।\n\nકૃપા કરીને દાન કરો અથવા 5 લોકો સાથે શેર કરો।\nhttps://www.ketto.org/fundraiser/give-hope-to-a-premature-baby-in-intensive-care-mrs-rohini",
-        "pa": "ਸ਼ਰੀਮਤੀ ਰੋਹਿਣੀ ਦਾ ਅਧੂਰੇ ਮਹੀਨਿਆਂ ਵਿੱਚ ਜਨਮਿਆ ਬੱਚਾ ਆਈਸੀਯੂ ਵਿੱਚ ਜ਼ਿੰਦਗੀ ਦੀ ਲੜਾਈ ਲੜ ਰਿਹਾ ਹੈ। ਇਸ ਛੋਟੇ ਯੋਧੇ ਨੂੰ ਜਿਉਣ ਲਈ ਸਾਡੀ ਮਦਦ ਦੀ ਲੋੜ ਹੈ।\n\n₹3.5 ਲੱਖ ਵਿੱਚੋਂ ਬਾਕੀ ਬਚੇ ₹66 ਹਜ਼ਾਰ ਇਕੱਠੇ ਕਰਨ ਲਈ ਸਿਰਫ਼ 9 ਦਿਨ ਬਾਕੀ ਹਨ। ₹100 ਵੀ ਇਸ ਜਾਨ ਬਚਾਉਣ ਵਿੱਚ ਮਦਦ ਕਰਨਗੇ।\n\nਕਿਰਪਾ ਕਰਕੇ ਦਾਨ ਕਰੋ ਜਾਂ 5 ਲੋਕਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰੋ।\nhttps://www.ketto.org/fundraiser/give-hope-to-a-premature-baby-in-intensive-care-mrs-rohini",
-        "ml": "ശ്രീമതി രോഹിണിയുടെ അപൂർണ്ണമാസത്തിൽ ജനിച്ച കുട്ടി ഐസിയുവിൽ ജീവനുവേണ്ടി പോരാടുന്നു. ഈ ചെറിയ യോദ്ധാവിന് ജീവിക്കാൻ നമ്മുടെ സഹായം വേണം।\n\n₹3.5 ലക്ഷത്തിൽ ബാക്കിയുള്ള ₹66 ആയിരം ശേഖരിക്കാൻ വെറും 9 ദിവസം മാത്രം ബാക്കി. ₹100 പോലും ഈ ജീവൻ രക്ഷിക്കാൻ സഹായിക്കും।\n\nദയവായി സംഭാവന നൽകുക അല്ലെങ്കിൽ 5 പേരുമായി പങ്കിടുക।\nhttps://www.ketto.org/fundraiser/give-hope-to-a-premature-baby-in-intensive-care-mrs-rohini"
-      },
-      "scraped_at_iso": "2026-05-27T12:37:35.503718+00:00"
-    },
-    {
-      "id": "ketto-9-922706",
-      "source": "ketto",
-      "title": "Offer A Helping Hand To Support Ishan Vivek Parab's Treatment",
-      "description": "Offer A Helping Hand To Support Ishan Vivek Parab's Treatment",
-      "patient_name": "Ishan Vivek Parab",
-      "condition": "Acute lymphoblastic leukemia (all)",
-      "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/media/campaigns/1139000/1139644/image/blurred/zIs5vfzlhqMgXqnOfwkKyI3MDSynwPvFo6xSmVSE.png",
-      "amount_raised_inr": 129385.81,
-      "amount_goal_inr": 2500000.0,
-      "deadline_iso": "2026-06-12",
-      "days_left": 16,
-      "campaign_url": "https://www.ketto.org/fundraiser/offer-a-helping-hand-to-support-ishan-vivek-parabs-treatment-1139644",
-      "verified": true,
-      "messages": {
-        "en": "Our friend Ishan Vivek Parab urgently needs our help for his medical treatment. He's fighting for his life and his family is struggling to arrange funds.\n\nOnly 16 days left to raise ₹23.7 lakh more (₹1.3 lakh raised so far).\n\nEven ₹100 helps. Please donate OR share with 5 people.\n\nhttps://www.ketto.org/fundraiser/offer-a-helping-hand-to-support-ishan-vivek-parabs-treatment-1139644",
-        "hi": "हमारे मित्र ईशान विवेक पराब को अपने इलाज के लिए तुरंत मदद चाहिए। वह जिंदगी से जूझ रहा है और उसका परिवार पैसे जुटाने में परेशान है।\n\nसिर्फ 16 दिन बचे हैं, अभी भी ₹23.7 लाख चाहिए (₹1.3 लाख मिल चुके हैं)।\n\n₹100 भी काफी है। कृपया दान करें या 5 लोगों को भेजें।\n\nhttps://www.ketto.org/fundraiser/offer-a-helping-hand-to-support-ishan-vivek-parabs-treatment-1139644",
-        "kn": "ನಮ್ಮ ಸ್ನೇಹಿತ ಈಶಾನ್ ವಿವೇಕ್ ಪರಾಬ್ ಅವರಿಗೆ ತುರ್ತಾಗಿ ಚಿಕಿತ್ಸೆಗಾಗಿ ಸಹಾಯ ಬೇಕು. ಅವರು ಜೀವನಕ್ಕಾಗಿ ಹೋರಾಡುತ್ತಿದ್ದಾರೆ ಮತ್ತು ಅವರ ಕುಟುಂಬವು ಹಣ ಸಂಗ್ರಹಿಸಲು ಕಷ್ಟಪಡುತ್ತಿದೆ।\n\nಕೇವಲ 16 ದಿನಗಳು ಉಳಿದಿವೆ, ಇನ್ನೂ ₹23.7 ಲಕ್ಷ ಬೇಕು (₹1.3 ಲಕ್ಷ ಸಿಕ್ಕಿದೆ)।\n\n₹100 ಕೂಡ ಸಾಕು. ದಯವಿಟ್ಟು ದಾನ ಮಾಡಿ ಅಥವಾ 5 ಜನರಿಗೆ ಕಳುಹಿಸಿ।\n\nhttps://www.ketto.org/fundraiser/offer-a-helping-hand-to-support-ishan-vivek-parabs-treatment-1139644",
-        "ta": "நமது நண்பர் ஈஷான் விவேக் பராப்புக்கு அவசர மருத்துவ சிகிச்சைக்கு உதவி தேவை. அவர் உயிருக்காக போராடுகிறார், அவரது குடும்பம் பணம் திரட்ட கஷ்டப்படுகிறது।\n\nவெறும் 16 நாட்கள் மட்டுமே உள்ளன, இன்னும் ₹23.7 லட்சம் தேவை (₹1.3 லட்சம் கிடைத்தது)।\n\n₹100 கூட போதும். தயவுசெய்து நன்கொடை அளியுங்கள் அல்லது 5 பேருக்கு அனுப்புங்கள்।\n\nhttps://www.ketto.org/fundraiser/offer-a-helping-hand-to-support-ishan-vivek-parabs-treatment-1139644",
-        "te": "మా స్నేహితుడు ఈషాన్ వివేక్ పరాబ్‌కు వైద్య చికిత్స కోసం తక్షణ సహాయం అవసరం. అతను జీవితం కోసం పోరాడుతున్నాడు మరియు అతని కుటుంబం డబ్బు సేకరించడంలో ఇబ్బంది పడుతోంది।\n\nకేవలం 16 రోజులు మాత్రమే మిగిలాయి, ఇంకా ₹23.7 లక్షలు కావాలి (₹1.3 లక్షలు వచ్చాయి)।\n\n₹100 కూడా సహాయకరం. దయచేసి దానం చేయండి లేదా 5 మందికి పంపండి।\n\nhttps://www.ketto.org/fundraiser/offer-a-helping-hand-to-support-ishan-vivek-parabs-treatment-1139644",
-        "mr": "आमचा मित्र ईशान विवेक पराब याला त्याच्या उपचारासाठी तातडीने मदत हवी आहे. तो आपल्या आयुष्यासाठी लढत आहे आणि त्याचे कुटुंब पैसे जमवण्यात अडचणीत आहे।\n\nफक्त 16 दिवस उरले आहेत, अजून ₹23.7 लाख हवे (₹1.3 लाख मिळाले)।\n\n₹100 सुद्धा पुरेसे आहे. कृपया दान करा किंवा 5 लोकांना पाठवा।\n\nhttps://www.ketto.org/fundraiser/offer-a-helping-hand-to-support-ishan-vivek-parabs-treatment-1139644",
-        "bn": "আমাদের বন্ধু ঈশান বিবেক পরাবের চিকিৎসার জন্য জরুরি সাহায্য দরকার। তিনি জীবনের জন্য লড়াই করছেন এবং তার পরিবার অর্থ সংগ্রহ করতে কষ্ট পাচ্ছে।\n\nমাত্র ১৬ দিন বাকি, এখনও ₹২৩.৭ লাখ প্রয়োজন (₹১.৩ লাখ উঠেছে)।\n\n₹১০০ও যথেষ্ট। অনুগ্রহ করে দান করুন অথবা ৫ জনকে পাঠান।\n\nhttps://www.ketto.org/fundraiser/offer-a-helping-hand-to-support-ishan-vivek-parabs-treatment-1139644",
-        "gu": "આપણા મિત્ર ઈશાન વિવેક પરાબને તેની સારવાર માટે તાત્કાલિક મદદની જરૂર છે. તે પોતાના જીવન માટે લડી રહ્યો છે અને તેનો પરિવાર પૈસા ભેગા કરવામાં મુશ્કેલીમાં છે।\n\nમાત્ર 16 દિવસ બાકી છે, હજુ પણ ₹23.7 લાખ જોઈએ (₹1.3 લાખ મળ્યા છે)।\n\n₹100 પણ મદદરૂપ છે. કૃપા કરીને દાન કરો કે 5 લોકોને મોકલો।\n\nhttps://www.ketto.org/fundraiser/offer-a-helping-hand-to-support-ishan-vivek-parabs-treatment-1139644",
-        "pa": "ਸਾਡੇ ਮਿੱਤਰ ਈਸ਼ਾਨ ਵਿਵੇਕ ਪਰਾਬ ਨੂੰ ਆਪਣੇ ਇਲਾਜ ਲਈ ਤੁਰੰਤ ਮਦਦ ਦੀ ਲੋੜ ਹੈ। ਉਹ ਆਪਣੀ ਜ਼ਿੰਦਗੀ ਲਈ ਲੜ ਰਿਹਾ ਹੈ ਅਤੇ ਉਸਦਾ ਪਰਿਵਾਰ ਪੈਸੇ ਜੁਟਾਉਣ ਵਿੱਚ ਮੁਸ਼ਕਲ ਵਿੱਚ ਹੈ।\n\nਸਿਰਫ਼ 16 ਦਿਨ ਬਾਕੀ ਹਨ, ਅਜੇ ਵੀ ₹23.7 ਲੱਖ ਚਾਹੀਦੇ ਹਨ (₹1.3 ਲੱਖ ਮਿਲੇ ਹਨ)।\n\n₹100 ਵੀ ਕਾਫ਼ੀ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਦਾਨ ਕਰੋ ਜਾਂ 5 ਲੋਕਾਂ ਨੂੰ ਭੇਜੋ।\n\nhttps://www.ketto.org/fundraiser/offer-a-helping-hand-to-support-ishan-vivek-parabs-treatment-1139644",
-        "ml": "നമ്മുടെ സുഹൃത്ത് ഈശാൻ വിവേക് പരാബിന് അടിയന്തര ചികിത്സയ്ക്ക് സഹായം വേണം. അവൻ ജീവനുവേണ്ടി പോരാടുകയാണ്, അവന്റെ കുടുംബം പണം ശേഖരിക്കാൻ ബുദ്ധിമുട്ടുന്നു।\n\n16 ദിവസം മാത്രം ശേഷിക്കുന്നു, ഇനിയും ₹23.7 ലക്ഷം വേണം (₹1.3 ലക്ഷം കിട്ടി)।\n\n₹100 പോലും സഹായകരമാണ്. ദയവായി സംഭാവന നൽകുക അല്ലെങ്കിൽ 5 പേർക്ക് അയയ്ക്കുക।\n\nhttps://www.ketto.org/fundraiser/offer-a-helping-hand-to-support-ishan-vivek-parabs-treatment-1139644"
-      },
-      "scraped_at_iso": "2026-05-27T12:37:35.503731+00:00"
+      "messages": {},
+      "scraped_at_iso": "2026-05-27T22:22:34.749337+00:00"
     },
     {
       "id": "milaap-1020611",
@@ -223,14 +95,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1779094594/production/images/campaign/1020611/medical_1553587798_1779094582.jpg",
-      "amount_raised_inr": 10394.0,
+      "amount_raised_inr": 10411.0,
       "amount_goal_inr": 4000000.0,
       "deadline_iso": "2026-06-17",
       "days_left": 21,
       "campaign_url": "https://milaap.org/fundraisers/support-payal-fartyal",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-27T12:37:38.176247+00:00"
+      "scraped_at_iso": "2026-05-27T22:22:31.659105+00:00"
     },
     {
       "id": "milaap-1020706",
@@ -247,7 +119,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-sanaz-khozini",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-27T12:37:38.176281+00:00"
+      "scraped_at_iso": "2026-05-27T22:22:31.659005+00:00"
     },
     {
       "id": "milaap-1021540",
@@ -257,14 +129,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1779358884/production/images/campaign/1021540/1001284113_vsjyzp_1779358885.jpg",
-      "amount_raised_inr": 3044.0,
+      "amount_raised_inr": 3056.0,
       "amount_goal_inr": 1500000.0,
       "deadline_iso": "2026-06-20",
       "days_left": 24,
       "campaign_url": "https://milaap.org/fundraisers/support-yogendra-kumar-10",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-27T12:37:38.176385+00:00"
+      "scraped_at_iso": "2026-05-27T22:22:31.659199+00:00"
     },
     {
       "id": "milaap-1019642",
@@ -274,14 +146,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1779356440/production/images/campaign/1019642/Mukesh_Before_lrzpxw_1779356441.jpg",
-      "amount_raised_inr": 4371.0,
+      "amount_raised_inr": 4527.0,
       "amount_goal_inr": 1500000.0,
       "deadline_iso": "2026-06-20",
       "days_left": 24,
       "campaign_url": "https://milaap.org/fundraisers/support-mukesh-424",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-27T12:37:38.176356+00:00"
+      "scraped_at_iso": "2026-05-27T22:22:31.659148+00:00"
     },
     {
       "id": "milaap-1021923",
@@ -291,14 +163,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1779464509/production/images/campaign/1021923/Varun_Aanand_nnvaqb_1779464510.jpg",
-      "amount_raised_inr": 25222.0,
+      "amount_raised_inr": 25277.0,
       "amount_goal_inr": 4000000.0,
       "deadline_iso": "2026-06-21",
       "days_left": 25,
       "campaign_url": "https://milaap.org/fundraisers/support-varun-aanand",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-27T12:37:38.176154+00:00"
+      "scraped_at_iso": "2026-05-27T22:22:31.658817+00:00"
     },
     {
       "id": "milaap-1022080",
@@ -308,14 +180,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1779533372/production/images/campaign/1022080/dyipmw1mksi1ouqklv6d_1779533373.jpg",
-      "amount_raised_inr": 19557.0,
+      "amount_raised_inr": 19749.0,
       "amount_goal_inr": 3000000.0,
       "deadline_iso": "2026-06-22",
       "days_left": 26,
       "campaign_url": "https://milaap.org/fundraisers/support-manikandan-k-n",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-27T12:37:38.176214+00:00"
+      "scraped_at_iso": "2026-05-27T22:22:31.658912+00:00"
     },
     {
       "id": "milaap-1022428",
@@ -325,82 +197,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1779637915/production/images/campaign/1022428/WhatsApp_Image_2026-05-24_at_11.13.16_AM_l2f7zj_1779637915.jpg",
-      "amount_raised_inr": 5056.0,
+      "amount_raised_inr": 5325.0,
       "amount_goal_inr": 4000000.0,
       "deadline_iso": "2026-06-23",
       "days_left": 27,
       "campaign_url": "https://milaap.org/fundraisers/support-aripirala-nagaraju",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-27T12:37:38.176333+00:00"
-    },
-    {
-      "id": "ketto-6-6448457",
-      "source": "ketto",
-      "title": "Help Sheik Munas Rahuman T. Win Over Blood Cancer!",
-      "description": "Help Sheik Munas Rahuman T. Win Over Blood Cancer!",
-      "patient_name": "Sheik Munas Rahuman T",
-      "condition": "Acute lymphoblastic leukemia (all)",
-      "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/media/campaigns/1142000/1142746/image/IN5CAfsYwnn6I4UPmQyqo6srKtcKeGXBGBftwKsX.jpg",
-      "amount_raised_inr": 698172.2,
-      "amount_goal_inr": 2500000.0,
-      "deadline_iso": "2026-06-23",
-      "days_left": 27,
-      "campaign_url": "https://www.ketto.org/fundraiser/offer-a-helping-hand-to-support-sheik-munas-rahuman-ts-treatment-1142746",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-27T12:37:35.503690+00:00"
-    },
-    {
-      "id": "ketto-5-6268638",
-      "source": "ketto",
-      "title": "A Cancer-Free Future For My Mother! Donate to Her Lung Cancer Treatments!",
-      "description": "A Cancer-Free Future For My Mother! Donate to Her Lung Cancer Treatments!",
-      "patient_name": "Supriya Sadashiv Vanjare",
-      "condition": "Lung cancer",
-      "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/images/fundraiser-default-image.jpg",
-      "amount_raised_inr": 48804.1,
-      "amount_goal_inr": 800000.0,
-      "deadline_iso": "2026-06-26",
-      "days_left": 30,
-      "campaign_url": "https://www.ketto.org/fundraiser/my-mother-is-fighting-for-her-life-and-we-need-your-support-to-save-her-1143538",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-27T12:37:35.503677+00:00"
-    },
-    {
-      "id": "ketto-7-4434768",
-      "source": "ketto",
-      "title": "Support the Family of Rakesh Ramesh Bandal During This Difficult Time",
-      "description": "Support the Family of Rakesh Ramesh Bandal During This Difficult Time",
-      "patient_name": "Riddhi Rakesh Bandal",
-      "condition": null,
-      "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/media/campaign/1143000/1143567/image/6a15631789b75.png",
-      "amount_raised_inr": 884737.0,
-      "amount_goal_inr": 1500000.0,
-      "deadline_iso": "2026-07-10",
-      "days_left": 44,
-      "campaign_url": "https://www.ketto.org/fundraiser/support-the-family-of-rakesh-ramesh-bandal-during-this-difficult-time",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-27T12:37:35.503704+00:00"
-    },
-    {
-      "id": "ketto-3-8449389",
-      "source": "ketto",
-      "title": "Support Ajay Who’s Spent His Whole Life Helping Special Kids Succeed",
-      "description": "Support Ajay Who’s Spent His Whole Life Helping Special Kids Succeed",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/media/campaigns/1130000/1130259/image/phoKfQlI03VpvajskfGokjHDePierSh1GwEWD9cS.jpg",
-      "amount_raised_inr": 0.0,
-      "amount_goal_inr": 0.0,
-      "deadline_iso": "2026-09-04",
-      "days_left": 100,
-      "campaign_url": "https://www.ketto.org/fundraiser/KettoKart-andhancheyuvamanch-ngo",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-27T12:37:35.503644+00:00"
+      "scraped_at_iso": "2026-05-27T22:22:31.659052+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -410,14 +214,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 137337127.55,
+      "amount_raised_inr": 137359852.55,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2030-03-31",
       "days_left": 1404,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-27T12:37:40.946246+00:00"
+      "scraped_at_iso": "2026-05-27T22:22:34.749119+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -427,14 +231,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 63066584.69,
+      "amount_raised_inr": 63142927.51,
       "amount_goal_inr": 35000000.0,
       "deadline_iso": "2030-05-31",
       "days_left": 1465,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-27T12:37:40.946273+00:00"
+      "scraped_at_iso": "2026-05-27T22:22:34.749147+00:00"
     }
   ]
 }
