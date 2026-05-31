@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-31T09:59:49.973591+00:00",
+  "generated_at": "2026-05-31T15:58:11.576987+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 8,
-    "givedo": 6
+    "givedo": 10
   },
   "languages": [
     "en",
@@ -17,8 +17,59 @@
     "pa",
     "ml"
   ],
-  "total": 13,
+  "total": 17,
   "campaigns": [
+    {
+      "id": "givedo-690b1764",
+      "source": "givedo",
+      "title": "Pledge to rebuild Punjab, support the state’s children and their education",
+      "description": "Punjab was once widely recognised as a land of abundance and promise. Unfortunately, the state today is staring at a crisis in the making. And this time, the most vulnerable of all, the children of Punjab, are at the receiving end.Onground reports suggest a large number of children fail to complete schooling, and some others may be completely out of the education system.But our NGO partner, Sanjhi Sikhiya, has been at the forefront, fighting for the children of Punjab and ensuring their right to an education and a future ahead. But sadly, the NGO and its young founders can't do this alone. Your donation can fuel the transformation that Punjab needs. Donate generously!Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).A crisis at the gatesPunjab's children are facing an unprecedented education crisis that threatens their future and the state's prosperity. One in four young people in Punjab feels there's no future for them in their own state. The opportunities they see around them don't match their hopes and aspirations.The impact on the groundStarted by a group of well-educated youths, Sanjhi Sakhiya has already begun to make its presence felt and bring about visible change. In just a few years, Sanjhi Sikhiya has reached 1,200 schools across Punjab, trained and supported 5,000 teachers, impacted 1.22 lakh students, and empowered 94 youth leaders who are driving change in their communities.Real change happens when communities take ownership. The NGO has mobilised over 8,000 community members who refuse to accept mediocre education for their children. They have empowered 516 School Management Committees to move from paperwork to real action, and created 584 Teacher Collectives where educators support and learn from each other.When Punjab faced its toughest test, Sanjhi Sikhiya empowered youth to restore safe and joyful spaces for every child, covering 100 schools, turning flooded classrooms into Schools of Strength.What your support will doYour donations contribute to expanding this movement. Your donation has the power to reignite the spark of learning. It will provide materials that make abstract concepts concrete for children struggling with the basics. It will support teachers who want to do better but need resources and training to make it happen.This isn't charity. This is an investment in Punjab's future. Join Punjab's Transformation. Donate nowYour support will help the NGO reach more districts, more schools, more children who are currently sitting in classrooms where hope is in short supply.Donate to this fundraiser by Give, India’s most trusted online donation platform, to support Sanjhi Sikhiya, in its mission to give children of Punjab the future they deserve.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/ed5511d8-0981-4bf4-aff1-65cf7cff074f.webp",
+      "amount_raised_inr": 995447.0,
+      "amount_goal_inr": 5000000.0,
+      "deadline_iso": "2026-06-02",
+      "days_left": 2,
+      "campaign_url": "https://give.do/fundraisers/pledge-to-rebuild-punjab-support-the-states-children-and-their-education",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-05-31T15:58:09.060143+00:00"
+    },
+    {
+      "id": "givedo-64a40146",
+      "source": "givedo",
+      "title": "Help Manju rescue young sex trafficking victims. Donate now",
+      "description": "“I used to be sexually abused repeatedly, and when I screamed in pain, they hit and threatened me with more violence,” says Priya (name changed), a rescued child sex worker. Priya was abducted by traffickers and sold into a red-light area house before she was rescued by Guria led by Manju. For over two decades, Manju has been rescuing young girls forced into prostitution across the country. She has been shaken to the core seeing some of the most horrifying crimes that young girls have to undergo. “You can’t imagine the state of girls forced into sex work. The girls are given electric shocks and burnt with cigarette butts just to get kicks out of it. And if they get pregnant, the \"owners\" kick them repeatedly in the womb so that the child inside dies…If you want to see hell, it is here on this planet where young girls are sexually abused,” says Manju.Manju needs your help to rescue more young girls from forced prostitution and reunite them with their families. Donate now.Guria’s work over the yearsBased out of Varanasi, inarguably the holiest place in India, Manju and her organisation Guria, fights the sexual exploitation of girls, especially minors, by taking on the traffickers head-on, and rescuing and rehabilitating them.Started in 1993, Guria has rescued over 5500 persons from slavery, sex trafficking, and child prostitution so far. It has also been instrumental in shutting down hundreds of places that housed trafficked girls and putting scores of traffickers out of business and in jail.For instance, in 2005, a Guria-led rescue operation in Varanasi's red-light area led to the freeing of 49 women and girls, including minors. Many of them were kept against their will. Some of the traffickers were also arrested and tried. Since then, Guria has rescued thousands of young girls.Manju and her husband, Ajeet Singh began rescuing girls from Varanasi’s red-light areas and then working to stop the sex-trafficking of young girls within Uttar Pradesh and outside. The organisation’s aim is to eliminate the sex trafficking of women, especially minor girls, end second-generation prostitution and child prostitution, and rehabilitate women and girls who are rescued from the trade. Manju has faced violent backlash from the traffickers and other vested interests, but it has not deterred her from carrying on rescuing young girls from trafficking. Rescue and rehabilitationBesides rescuing girls trafficked for sex, mostly from low-income families, from across the country, Guria fights on their behalf in courts and also provides education, food, vocational training, and other facilities until they are united with their families. But because of a lack of funds, Guria is finding it difficult to rescue more girls and also take care of them once they are away from the clutches of the traffickers. Take the case of Sameena (name changed), who was abducted from Uttar Pradesh all the way to Telangana. Guria took it upon itself to rescue the girl with the help of its own work and also the authorities. After months of rehabilitation, Sameena went back to her family and even completed her education. With your support, Manju can rescue many more young girls from trafficking and help them live the life of their dreams.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/8d505534-3d39-4b8d-88b2-d96becf60703.webp",
+      "amount_raised_inr": 6263751.77,
+      "amount_goal_inr": 10000000.0,
+      "deadline_iso": "2026-06-02",
+      "days_left": 2,
+      "campaign_url": "https://give.do/fundraisers/help-manju-rescue-young-sex-trafficking-victims-donate-now-s4gicer",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-05-31T15:58:09.059965+00:00"
+    },
+    {
+      "id": "givedo-67860356",
+      "source": "givedo",
+      "title": "Help visually impaired ‘Singh Sir’ provide food, shelter and education to blind girls",
+      "description": "In many families, blind girls are often seen as a burden—a harsh reality that leaves many of them abandoned, neglected, and deprived of opportunities. Families often feel, \"If we spend money on them, it would be useless\", shares Ramesh Singh a blind teacher committed to providing care and education the blind girls deserve. Sadly, many blind girls are forced to grow up in isolation and denied the education and care they deserve. But amidst this darkness, there is a glimmer of hope. “Singh Sir” as he is fondly called, is on a mission but he cannot do it alone. Support this blind teacher in transforming lives. Donate generouslyDonate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).How it beganIn 2005, Ramesh Prasad Singh, a blind teacher who has personally experienced the struggles faced by blind children, founded the Bhartiya Netraheen Kalyan Parishad. His mission? To rescue blind girls from neglect and give them a chance to thrive.\"People think this girl is a lifelong burden for us,\" Ramesh says. \"But as soon as the girl gets a job, the same family starts hounding her.\"Over the years, the nonprofit has provided food, shelter, and admission fees for college to blind girls, ensuring they are not trapped within four walls but instead empowered to pursue their dreams.At the heart of Bhartiya Netraheen Kalyan Parishad is a home—a safe haven for blind girls where they receive education, care, and the tools to build a better future. These girls are not just surviving; they are thriving. They are becoming independent, proving that blindness is not a limitation but a stepping stone to resilience and strength.But Ramesh cannot continue this mission alone.He appeals to you to join hands and support Bhartiya Netraheen Kalyan Parishad.Why your contribution countsNutritious meals for blind girlsSafe and secure shelterAdmission fees and educational support\"We appeal to each person to support our mission and make a difference,\" Ramesh urges.Together, we can ensure these girls are no longer seen as burdens but as empowered individuals ready to lead fulfilling lives.Donate to this fundraiser by Give, India’s largest online donation platform, to support Bhartiya Netraheen Kalyan Parishad in its mission to provide blind girls the shelter, care and education they deserve.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/442d2dea-b432-4069-bc9d-00855f5a1d11.webp",
+      "amount_raised_inr": 3943284.0,
+      "amount_goal_inr": 5000000.0,
+      "deadline_iso": "2026-06-02",
+      "days_left": 2,
+      "campaign_url": "https://give.do/fundraisers/help-visually-impaired-singh-sir-provide-food-shelter-and-education-to-blind-girls",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-05-31T15:58:09.060026+00:00"
+    },
     {
       "id": "givedo-65b89257",
       "source": "givedo",
@@ -27,65 +78,65 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/8484bab7-7bd7-49dd-8a03-840f14344985.webp",
-      "amount_raised_inr": 10072258.0,
+      "amount_raised_inr": 10088758.0,
       "amount_goal_inr": 9000000.0,
       "deadline_iso": "2026-06-02",
       "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-31T09:59:47.382768+00:00"
+      "scraped_at_iso": "2026-05-31T15:58:09.059924+00:00"
     },
     {
-      "id": "givedo-66b6315a",
+      "id": "givedo-6a0196c1",
       "source": "givedo",
-      "title": "Help Gopalan of Akshaya Trust feed and care for rescued abandoned elderly parents",
-      "description": "“Parvathi Amma (name changed) was brought to Akshaya Trust by her son. He brought her here saying she was being taken to the hospital for treatment and he would be back in a while. It's been 8 years since that day. The phone number he gave to us was made up, even his address was false. Imagine the pain of the mother who was abandoned in such a heartless manner. She is not the only one. We have over 260 elderly parents here and most of them have faced abandonment, neglect or even abuse”, says G Gopalan, the founder of Akshaya Trust, the NGO taking care of abandoned seniors who have no one else in the world.Without Gopalan’s Akshaya Trust, countless elderly would still be on the streets or simply deprived of the love and care they deserve. The NGO takes care of every single need of its seniors from Food to medical care and housing. Your donation can enable Akshaya Trust to reach out to many more elderly with food and support. Contribute generously. Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).G Gopalan, a well-to-do businessman preferred to serve the elderly than living a peaceful retired life. He says that he was too shocked to see the state of the elderly, treated shabbily by their own children.A lifeline for hundreds of neglected elderlyToday, Akshaya Trust offers a safe haven to over 260 elderly parents, shielding them from the harsh realities of street life. This organization attends to all their needs, providing comprehensive medical care and ensuring they recover from past traumas. The trust also organises joyful celebrations during festivals and special occasions, bringing happiness into their lives.To date, Akshaya Trust has served over 1,000 elderly parents most of whom were from extremely weak financial backgrounds and had no way to fend for themselves. Akshaya Trust: A silver lining for elderlyAkshaya Trust’s efforts are a lifeline for these seniors, but they rely heavily on public support to continue. You can be the hero these elderly parents deserve. Donate now to help care for them.Your contribution can transform the lives of many homeless seniors. Support Akshaya Trust’s mission today.Donate to this fundraiser on Give.do, India’s largest and most trusted online donation platform, to help elderly parents abandoned by their children get the love and care they deserve.",
+      "title": "Urgent: Help India's Most Vulnerable Survive the 2026 Heatwave",
+      "description": "The sun is not just uncomfortable this summer. It is killing people. Last month temperatures in Banda, Uttar Pradesh hit 47.6°C. Across North, Central and Eastern India — from Delhi-NCR and Rajasthan to Odisha — millions of people are stepping out into heat that the human body was never meant to endure. The India Meteorological Department has warned that there is no respite in sight, and experts say 2026 could match or exceed 2024, the warmest year ever recorded.For most of us, a heatwave means staying indoors and turning up the fan. For millions of others, there is no such choice.Who is most at riskThe people most exposed to this crisis are the ones with the least protection. These are brick kiln workers, street vendors, waste collectors, construction labourers, and daily wage earners who cannot afford to stop working, no matter how high the mercury climbs. For them, extreme heat is not an inconvenience. It is a life-threatening emergency.Dehydration, heat exhaustion, and heatstroke are already claiming lives. And the worst weeks are still ahead.ActionAid to rescueActionAid Association, one of India’s most well-known nonprofits is already responding. Their teams are setting up cooling and hydration stations at bus stands, marketplaces, and labour congregation points across high-risk regions in North, Central, and Western India. They are distributing ORS, safe drinking water, and nutritional supplements to prevent heat-related illness. Awareness campaigns are reaching communities with information on symptoms, precautions, and emergency contacts.But the scale of this crisis demands more — more reach, more kits, more stations, more people protected.Your donation will help the most vulnerableTo protect 3,000 of the most vulnerable people, we need to provide:# Cotton cloths to shield heads and necks from direct sun# Reusable water bottles to encourage hydration through the day# Energy and hydration supplements — ORS, electral powder, coconut water, sattu# Portable umbrellas and shaded structures for street vendors and brick kiln workers# Water pots at public locations for clean drinking water access# Awareness materials and community outreach sessions# Engagement with employers to ensure shaded rest areas and work breaksYour donations go directly towards keeping someone alive through India's most dangerous summer in recent memory.The summer essentialsWith your donations, ActionAid will be able to provide the most important summer essentials that protect our most vulnerable. Some of these items and their prices include: # ₹100 provides a cotton cloth to protect someone from direct sun# ₹250 puts a reusable water bottle in a worker's hands# ₹600 gives someone a portable umbrella — their shield for the entire season# ₹2,000 sets up a portable shade structure for an entire work sitePlease donate nowDonate to this fundraiser on Give.do, India's largest and most trusted online donation platform, and help ActionAid Association reach the workers and communities who need protection the most.Because no one should die from the heat simply because they had to earn a living.",
       "patient_name": null,
       "condition": null,
-      "image_url": "https://cfstatic.give.do/58fcaa89-109c-4f22-85ff-50fec98cd0dc.webp",
-      "amount_raised_inr": 12085800.0,
-      "amount_goal_inr": 30000000.0,
+      "image_url": "https://cfstatic.give.do/68070385-8f13-4be1-ab91-6a29120dce0e.webp",
+      "amount_raised_inr": 421622.0,
+      "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-06-03",
       "days_left": 3,
-      "campaign_url": "https://give.do/fundraisers/help-gopalan-of-akshaya-trust-feed-and-care-for-rescued-abandoned-elderly-parents",
+      "campaign_url": "https://give.do/fundraisers/urgent-help-indias-most-vulnerable-survive-the-2026-heatwave",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-31T09:59:47.382834+00:00"
+      "scraped_at_iso": "2026-05-31T15:58:09.059883+00:00"
     },
     {
-      "id": "givedo-645e1d5b",
+      "id": "givedo-68f25b24",
       "source": "givedo",
-      "title": "Help abandoned grandparents fight hunger and receive medical care. Donate now",
-      "description": "65-year-old Shakuntala completely depends on our partner NGO, Share and Care, for her food requirements, as she has no one else to take care of her. “When my only child was young, my husband Nadesan died. It was just me and my young son. After my son got married, he left me to stay with his in-laws, and I was alone. I am old, have pain in my legs, knees, shoulders and my entire body so I cannot work as I once did. But the food rations such as the nuts, lentils, wheat flour and rice I receive from Share and Care help me tremendously and I can eat well every day,” she says. Share and Care helps hundreds of abandoned grandparents, most of them being elderly women. The senior citizens belong to tribal communities and have limited access to necessities such as food and medicines to stay alive and well. This Shivratri,  you can help with food and other essentials. Support them. Donate now. Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India), &amp; 501(c)(3) of the Internal Revenue Code (USA). Abandoned elderly supported by Share and Care400 elderly parents abandoned by their children have no one to take care of them and need your help. They suffer from hunger, sight and hearing failure, diabetes, high blood pressure and other medical conditions. As they cannot work and support themselves because of old age, they cannot afford medicines or even clothing. So, they remain poor and alone. Share and Care’s mission Since 1984, Share and Care has been caring for disadvantaged groups of people, including elderly parents who have been living in poverty after being abandoned by their children. The founders, a couple named Carmel and Arokiasamy, aim to eliminate poverty and the suffering of the poor through social welfare programs and education. To achieve this mission, Share and Care runs a program in Chennai and also a village in Tiruvallur, where the 400 elderly live. This program ensures that every month, the 400 senior citizens have dry food rations, medicines and medical care, clothes, physiotherapy, geriatric counselling and other services to nurture them back to good physical health. Need for the fundraiserOne of the founders, Carmel Arokiasamy, shares that the abandoned elderly parents who live in extreme poverty without food or anyone to care for them constantly think about their children and ask, “Did we do something wrong?” Arokiasamy shares that from the time their children are born, they take care of them in such a special way. But when their children abandon them, they weep and cannot stop thinking about them. While dealing with this emotional distress, they are also suffering from hunger and disease. But cannot afford food and medicines. Donate now to help Share and Care provide the abandoned elderly with dry food rations, medical supplies, a medical and eye camp, counselling, clothes, blankets and recreational activities to live their lives with a positive outlook, despite their circumstances.Your donation can provide these elderly parents with their most basic and urgent needs. “Please support our work because this is for the elderly parents who are in great need. These grandparents are bedridden. They need care, love and support”.Donate to this fundraiser by Give, India’s largest online donation platform, to support Share and Care in their mission to provide food, medicines, counselling and personal care to 400 abandoned grandparents living in poverty.",
+      "title": "Help Leena in saving girls from being lost forever in red-light areas",
+      "description": "\"Hundreds of young girls are lost forever in the dark lanes of red-light areas,\" says Leena Kejriwal, the founder of Missing Link Trust. These girls endure unimaginable abuse and exploitation, being lured or trafficked into an industry that breaks them physically and emotionally. Missing Link Trust is on a mission to prevent the tragedy before it happens, and also rehabilitate girls and women who are rescued from forced sex work.Leena’s journey began with her powerful street art project in Kolkata, where she painted haunting silhouettes of missing girls to raise awareness against sex trafficking. Now, she leads a larger fight — one that focuses on prevention and rehabilitation. But this mission needs your support.You can save countless girl children from going missing forever. Donate now.Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).Preventing Trafficking Before It Begins“When girls come into a red-light area, the first thing is that they are broken, physically and emotionally,” Leena says. “It’s like they will be caught, hands and legs tied, and all heinous crimes committed on them.” These are the brutal realities that Missing Link Trust fights against every day.Many of these girls are from impoverished regions like the Sundarbans, and traffickers prey on their vulnerability. “It’s shocking that they sell themselves for as low as a hundred rupees,” Leena adds. \"They ready her through violent acts, removing all threads of shame from her.\"But why wait until a girl is trafficked to save her? Missing Link Trust believes in stopping trafficking at its root — through “prevention, prevention, prevention” as Leena puts it. The goal is simple: protect girls from ever being lost to this darkness.A Safe World for Children“Our mission is the prevention of abuse and exploitation of children,” Leena emphasizes. “Our vision is to create a safe world for children, and we want to do this with a preventive methodology.”Every Donation MattersYour support will help Missing Link Trust continue its vital work of rescuing, rehabilitating, and preventing the trafficking of young girls. The funds raised will go directly towards:Prevention programs in vulnerable areas to stop trafficking before it happens.Rehabilitation services for girls rescued from red-light areas, providing them with medical care, emotional support, and education.Awareness campaigns to reach at-risk communities and ensure girls are protected from traffickers.Together, We Can Make a Difference“Why wait for a girl to get trafficked to save her?” asks Leena. With your help, we can stop this horror before it begins. Your donation will help us create a world where no girl is lost to the nightmare of trafficking.Donate to this fundraiser by Give, India’s largest and most trusted online giving platform, to support Missing Link Trust to save young girls from being trafficked and help rehabilitate those rescued.",
       "patient_name": null,
       "condition": null,
-      "image_url": "https://cfstatic.give.do/ab425988-f410-4f07-a7ef-855bc2554fb3.webp",
-      "amount_raised_inr": 30167153.54,
-      "amount_goal_inr": 60000000.0,
-      "deadline_iso": "2026-06-05",
-      "days_left": 5,
-      "campaign_url": "https://give.do/fundraisers/help-abandoned-grandparents-fight-hunger-and-receive-medical-care-donate-now",
+      "image_url": "https://cfstatic.give.do/3d8552de-9a0a-41b0-878a-470ec88157d8.webp",
+      "amount_raised_inr": 1704578.0,
+      "amount_goal_inr": 5000000.0,
+      "deadline_iso": "2026-06-04",
+      "days_left": 4,
+      "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-31T09:59:47.382871+00:00"
+      "scraped_at_iso": "2026-05-31T15:58:09.060124+00:00"
     },
     {
-      "id": "givedo-667e964e",
+      "id": "givedo-6a0412f3",
       "source": "givedo",
-      "title": "Help 72-year-old Vanitha provide 100+ abandoned mentally ill women with shelter and care",
-      "description": "“The major problem in society today is the stigma against mentally ill or mentally disabled people. Families feed and care for men who are mentally ill and keep them at home. But no one wants to help women with mental illnesses,” says N Vanitha Rengaraj, chairperson of Sharanalayam.Sharanalaym’s ‘Jothi’ is a sanctuary for over 100 women facing mental challenges. Women with mental illness facing various challenges on the streets are brought to Sharanalayam with the help of the authorities and cared for. Donate easily through UPI, all debit/credit cards and net banking. Donations to this fundraiser are tax exempted under 80G of the Income Tax Act (India).The women at Sharanalaym Jothi are provided with necessities like food, clothing and medical care. They also get mental health services, access to psychiatrists and counseling, empowering individuals on their path to recovery.Once lost and vulnerable on unfamiliar streets, the women at Sharanalaym Jothi find solace.By supporting mentally disabled women at Sharanalaym Jothi, you contribute to creating a better world. We can ensure these women receive the care and support they deserve.Over the years, Vanitha has tried her best to run Sharanalayam from her own resources and that of her well-wishers, but the last few years have been harsh. “I normally don’t extend my hand for people to donate. Many have come on their own. But life has become a bit difficult now. I need your support to take care of the women here and also bring more women here in need of help,” says Vanitha. How Sharanalayam came into beingThe NGO started its operations in 2001 from rented premises in Pollachi in the district of Coimbatore. It started with taking care of children in difficult conditions. It slowly started taking care of mentally challenged women. Sharanalayam has come a long way since that time, with hundreds of children and women being taken care of by the NGO in the last two decades. Many women were rehabilitated by the NGO, thanks to its facilities.Sharanalayam needs urgent support to take care of over 100 women. The organisation also aspires to take care of many more mentally ill women in the coming months and years. Vanitha cannot do it without your support. Donate to this fundraiser on Give.do, India’s largest and most trusted online donation platform, to help abandoned mentally ill women get care and shelter. Vanitha, 72, the founder of Sharanalayam cannot do it alone.Donate now.",
+      "title": "400 elderly parents abandoned by their families need your urgent support. Donate Now",
+      "description": "Vijaya was around 70 years old and a street in Avadi, Chennai was her home. Abandoned by family, she had no roof to call home and no means of survival. The police had warned her to move on. Residents had complained. Nobody wanted to touch what they saw as somebody else's problem. Then someone called Anbagam. The rescue team from the NGO arrived. There was a complication: Vijaya refused to leave without her puppies. The team found homes for each one. Then they brought Vijaya in. Today she is healthy, comfortable, and happy. This is what Anbagam does. It meets people exactly where they are, asks nothing of them except to come, and gives them something most of us take entirely for granted: a safe place to be.But without your support this safe haven for the elderly might not even exist. Be the pillar of support this old age home needs. Donate generously!Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).A life-long missionSince 1999, Mohammed Rafi, a small businessman from Parry's in Chennai, has been doing this work. He started by housing people in his own home. When that filled up, he built more. Today, Anbagam runs three homes across Chennai and Thiruvallur, caring for 400 residents: mentally ill, elderly, abandoned, forgotten.Running this for 400 people costs money. Food alone costs roughly Rs 4 lakh every month. Medicines and psychiatric care cost approximately Rs 1 lakh a month. Add staff, a doctor, cleaning, bedding, and clothing, and the annual operating cost across all three homes comes to around Rs 77 lakh.Your contribution means a warm meal, a comfortable bed and necessary medical treatment for an abandoned elderly grandparent. Support Now!Impact beyond numbersOver 7,000 people have walked through Anbagam's doors. Around 3,000 have been reunited with families across India. The rest stay, because Anbagam is the family they have now.Mohammed Rafi said it simply: “Share your happiness with the people who are here. Help them!”Donate to this fundraiser by Give, India’s most trusted online donation platform, to support Anbagam, in its mission to give abandoned elderly parents the care they deserve.",
       "patient_name": null,
       "condition": null,
-      "image_url": "https://cfstatic.give.do/e2c65b44-daf2-4379-b205-a7f110543865.webp",
-      "amount_raised_inr": 11607658.0,
-      "amount_goal_inr": 30000000.0,
-      "deadline_iso": "2026-06-05",
-      "days_left": 5,
-      "campaign_url": "https://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
+      "image_url": "https://cfstatic.give.do/6bfb6fb8-ac08-42c1-b653-b5c44d538b66.webp",
+      "amount_raised_inr": 398063.0,
+      "amount_goal_inr": 5000000.0,
+      "deadline_iso": "2026-06-06",
+      "days_left": 6,
+      "campaign_url": "https://give.do/fundraisers/400-elderly-parents-abandoned-by-their-families-need-your-urgent-support-donate-now",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-31T09:59:47.382802+00:00"
+      "scraped_at_iso": "2026-05-31T15:58:09.059995+00:00"
     },
     {
       "id": "milaap-1021923",
@@ -95,14 +146,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1779464509/production/images/campaign/1021923/Varun_Aanand_nnvaqb_1779464510.jpg",
-      "amount_raised_inr": 27354.0,
+      "amount_raised_inr": 27495.0,
       "amount_goal_inr": 4000000.0,
       "deadline_iso": "2026-06-21",
       "days_left": 21,
       "campaign_url": "https://milaap.org/fundraisers/support-varun-aanand",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-31T09:59:44.520285+00:00"
+      "scraped_at_iso": "2026-05-31T15:58:05.769585+00:00"
     },
     {
       "id": "milaap-1022080",
@@ -112,14 +163,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1779533372/production/images/campaign/1022080/dyipmw1mksi1ouqklv6d_1779533373.jpg",
-      "amount_raised_inr": 21731.0,
+      "amount_raised_inr": 21754.0,
       "amount_goal_inr": 3000000.0,
       "deadline_iso": "2026-06-22",
       "days_left": 22,
       "campaign_url": "https://milaap.org/fundraisers/support-manikandan-k-n",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-31T09:59:44.520236+00:00"
+      "scraped_at_iso": "2026-05-31T15:58:05.769564+00:00"
     },
     {
       "id": "milaap-1022428",
@@ -129,14 +180,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1779637915/production/images/campaign/1022428/WhatsApp_Image_2026-05-24_at_11.13.16_AM_l2f7zj_1779637915.jpg",
-      "amount_raised_inr": 6620.0,
+      "amount_raised_inr": 6625.0,
       "amount_goal_inr": 4000000.0,
       "deadline_iso": "2026-06-23",
       "days_left": 23,
       "campaign_url": "https://milaap.org/fundraisers/support-aripirala-nagaraju",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-31T09:59:44.520362+00:00"
+      "scraped_at_iso": "2026-05-31T15:58:05.769663+00:00"
     },
     {
       "id": "milaap-1022771",
@@ -146,14 +197,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1779727653/production/images/campaign/1022771/medical_1553587798_1779727640.jpg",
-      "amount_raised_inr": 12337.0,
+      "amount_raised_inr": 12931.0,
       "amount_goal_inr": 3500000.0,
       "deadline_iso": "2026-06-24",
       "days_left": 24,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-srilatha-k",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-31T09:59:44.520265+00:00"
+      "scraped_at_iso": "2026-05-31T15:58:05.769537+00:00"
     },
     {
       "id": "milaap-1022715",
@@ -163,14 +214,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.27,w_0.4,x_0.3,y_0.22/c_fill,h_198,w_264/v1779881942/production/images/campaign/1022715/WhatsApp_Image_2026-05-27_at_17.02.25_aabecr_1779881944.jpg",
-      "amount_raised_inr": 15742.0,
+      "amount_raised_inr": 16117.0,
       "amount_goal_inr": 2500000.0,
       "deadline_iso": "2026-06-24",
       "days_left": 24,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-subramani-g",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-31T09:59:44.520175+00:00"
+      "scraped_at_iso": "2026-05-31T15:58:05.769478+00:00"
     },
     {
       "id": "milaap-1022757",
@@ -187,7 +238,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-subhash-151",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-31T09:59:44.520341+00:00"
+      "scraped_at_iso": "2026-05-31T15:58:05.769642+00:00"
     },
     {
       "id": "milaap-1023293",
@@ -197,14 +248,48 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1779948246/production/images/campaign/1023293/WhatsApp_Image_2026-05-27_at_9.27.14_PM_curr6t_1779948247.jpg",
-      "amount_raised_inr": 7633.0,
+      "amount_raised_inr": 7788.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-06-26",
       "days_left": 26,
       "campaign_url": "https://milaap.org/fundraisers/support-renuka-d-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-31T09:59:44.520303+00:00"
+      "scraped_at_iso": "2026-05-31T15:58:05.769602+00:00"
+    },
+    {
+      "id": "givedo-69f06c27",
+      "source": "givedo",
+      "title": "Support youth in transforming society - slowly, gently and deeply",
+      "description": "The world today calls for peace but the answer it gets is war. It needs warmth but only gets warming. It needs nature to be sacred but is dragged around by stature that is scared. It asks for travellers, but is catered merely for tourists. This world, our world, deserves pilgrims, not tourists. And to be a true pilgrim is to travel far and wide for a larger cause - be it spiritual, societal or moral. Routes To Roots focuses on taking youth on the latter two pilgrimages - societal and moral. Traveling into two worlds, outside and within, from routes to roots.Routes To Roots is a unique programme designed for youth that wish to become deep changemakers. Because real changemaking requires depth. It requires time. It necessitates an understanding of the interconnectedness of the issues we face today. And this cannot be done in silos. Nor can it be done solo. It needs to be done collectively - face to face, at a certain pace and in a certain kind of space. RTR programme enables a space for such deep exploration into various themes of societal concern and provides pathways for youth to work on creative responses to these concerns.Routes To Roots Programme Details: https://www.travellersuniversity.org/routestorootsFrom Routes To Roots - What followedKavya is on the ground in Telangana, securing grazing rights for pastoral communities under the Forest Rights Act. Ankita is documenting the nomadic practice of Van Gujjar pastoralists in Himachal Pradesh while fighting for their forest access. Anil works with smallholder farmers and indigenous communities at WASSAN, promoting regenerative agriculture and nutrition-sensitive livelihoods. Divya makes art that tells the stories most people miss. Vaishna researches coexistence practices between wildlife and indigenous communities in Wayanad. Agnus leads climate resilience initiatives with youth and local self-governments in Kerala. Susruthan anchors ‘Moving School Wayanad’, working with tribal communities in Wayanad. These are not paths taken for convenience. These are lives reoriented, slowly, gently, and deeply, toward transforming society.Travellers’ University is the brand name under which we operate, and Sahyatri Foundation is the registered Section 8 not-for-profit organisation.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/67ad432d-582c-4c0a-843b-cd04df4fec86.webp",
+      "amount_raised_inr": 162170.0,
+      "amount_goal_inr": 2500000.0,
+      "deadline_iso": "2026-06-30",
+      "days_left": 30,
+      "campaign_url": "https://give.do/fundraisers/support-youth-in-transforming-society-slowly-gently-and-deeply",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-05-31T15:58:09.060160+00:00"
+    },
+    {
+      "id": "givedo-6a116499",
+      "source": "givedo",
+      "title": "Support a Scholarship Fund for First Generation Learners",
+      "description": "Project Background:Eastern Himalayan Foundation (EHF) works with first-generation learners/ college go-ers from the districts of Darjeeling and Kalimpong. These are young people from families earning under Rs. 3 lakhs a year, where parents work in tea gardens or daily wage jobs, and where higher education has always felt out of reach because the opportunity never felt possible.Through our EmpowerED programme, we introduce students to universities and fellowships that were not accessible to them. Through the program, we build their skills for entrance tests and interviews and support every step of the application process from application, tests, interviews to applying for financial assistance. Last year, we sent over 50 students for UG/PG courses and to Fellowships across this country.Most of them secured a college seat with up to a 100% need-based scholarship or a fellowship averaging Rs. 22,000 per month. This is not just an opportunity for a year, but a turning point for a young person and their entire family. This year, 32 students have been selected to various UG/PG courses and Fellowships. We are still awaiting results for 70 more students. Current Challenge &amp; Ask:In the current scenario, almost 50% of the students are dropping off even after being selected by the University. Most of these students have received only up to 75% financial assistance from the College. As the remaining rounds of selection close, we expect more students to face the same gap. It would be unfair to let this financial gap and not their capability decide their future. Keeping such students in mind, we are aiming to raise Rs. 12 lakhs by 10th June to support students with their course fees. Your contribution to build a Scholarship Fund for these students would not only support a young person, but also inspire an entire family and community as they become the first to pursue a path not taken before.Our responsibility:As part of our process, every student will be vetted by EHF through academic records, family income documents, teacher recommendations, and background verification before support is extended.Annexures below have additional program details:Annexure 1: Program status (as of 21st May 2026)Programme SnapshotStudents Reached – 373 Total applications to different institutions – 162 Students Selected – 32Local schools / colleges reachedDarjeeling Govt. College Kalimpong College Ghoom Degree College Southfield College Kurseong College Cluny Women's College Sonada Degree College Bijanbari Degree College Mirik College St. Robert's SchoolSt. Teresa's SchoolSt. Xavier's SchoolSt. Michael's Higher Secondary SchoolMountain Heritage School Sai Sundaram School Nepali Girls' School St. Teresa's Girls High School Sunrise SchoolWhere students have applied toAshoka UniversityAzim Premji UniversityShiv Nadar UniversityBML Munjal UniversityTeach For IndiaSports For Transformation",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/379e9e2e-ce9d-4de0-b247-0a48ebbda6a7.webp",
+      "amount_raised_inr": 16000.0,
+      "amount_goal_inr": 1200000.0,
+      "deadline_iso": "2026-06-30",
+      "days_left": 30,
+      "campaign_url": "https://give.do/fundraisers/support-a-scholarship-fund-for-first-generation-learners",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-05-31T15:58:09.060101+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -214,31 +299,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 137565939.75,
+      "amount_raised_inr": 137566440.75,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2030-03-31",
       "days_left": 1400,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-05-31T09:59:47.382692+00:00"
-    },
-    {
-      "id": "givedo-68396073",
-      "source": "givedo",
-      "title": "Help Disabled Children with Shelter & Care",
-      "description": "I am fundraising for a cause close to my heart, to bring a lasting change in the lives of the underprivileged. To help me create more impact and touch more lives, I need your support and contribution. Please back my fundraiser so that together we can build a better India for all of us. Pledge your support, donate now!",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 63492314.6,
-      "amount_goal_inr": 35000000.0,
-      "deadline_iso": "2030-05-31",
-      "days_left": 1461,
-      "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-05-31T09:59:47.382720+00:00"
+      "scraped_at_iso": "2026-05-31T15:58:09.060053+00:00"
     }
   ]
 }
