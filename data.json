@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-04T19:50:29.872808+00:00",
+  "generated_at": "2026-06-04T23:58:11.424281+00:00",
   "sources": {
     "ketto": 0,
-    "milaap": 0,
+    "milaap": 8,
     "givedo": 6
   },
   "languages": [
@@ -17,7 +17,7 @@
     "pa",
     "ml"
   ],
-  "total": 6,
+  "total": 13,
   "campaigns": [
     {
       "id": "givedo-66c71da4",
@@ -27,14 +27,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/df9aec70-9e3c-482f-be42-ecd4d728552a.webp",
-      "amount_raised_inr": 7259117.0,
+      "amount_raised_inr": 7259317.0,
       "amount_goal_inr": 7000000.0,
       "deadline_iso": "2026-06-07",
       "days_left": 3,
       "campaign_url": "https://give.do/fundraisers/loving-mother-to-180-blind-kids-visually-impaired-veena-needs-your-support-in-caring-for-them",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-04T19:50:28.888777+00:00"
+      "scraped_at_iso": "2026-06-04T23:58:09.743917+00:00"
     },
     {
       "id": "givedo-65b89257",
@@ -51,7 +51,7 @@
       "campaign_url": "https://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-04T19:50:28.888706+00:00"
+      "scraped_at_iso": "2026-06-04T23:58:09.743829+00:00"
     },
     {
       "id": "givedo-6a0196c1",
@@ -68,24 +68,143 @@
       "campaign_url": "https://give.do/fundraisers/urgent-help-indias-most-vulnerable-survive-the-2026-heatwave",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-04T19:50:28.888749+00:00"
+      "scraped_at_iso": "2026-06-04T23:58:09.743881+00:00"
     },
     {
-      "id": "givedo-667e964e",
+      "id": "givedo-6835addd",
       "source": "givedo",
-      "title": "Help 72-year-old Vanitha provide 100+ abandoned mentally ill women with shelter and care",
-      "description": "“The major problem in society today is the stigma against mentally ill or mentally disabled people. Families feed and care for men who are mentally ill and keep them at home. But no one wants to help women with mental illnesses,” says N Vanitha Rengaraj, chairperson of Sharanalayam.Sharanalaym’s ‘Jothi’ is a sanctuary for over 100 women facing mental challenges. Women with mental illness facing various challenges on the streets are brought to Sharanalayam with the help of the authorities and cared for. Donate easily through UPI, all debit/credit cards and net banking. Donations to this fundraiser are tax exempted under 80G of the Income Tax Act (India).The women at Sharanalaym Jothi are provided with necessities like food, clothing and medical care. They also get mental health services, access to psychiatrists and counseling, empowering individuals on their path to recovery.Once lost and vulnerable on unfamiliar streets, the women at Sharanalaym Jothi find solace.By supporting mentally disabled women at Sharanalaym Jothi, you contribute to creating a better world. We can ensure these women receive the care and support they deserve.Over the years, Vanitha has tried her best to run Sharanalayam from her own resources and that of her well-wishers, but the last few years have been harsh. “I normally don’t extend my hand for people to donate. Many have come on their own. But life has become a bit difficult now. I need your support to take care of the women here and also bring more women here in need of help,” says Vanitha. How Sharanalayam came into beingThe NGO started its operations in 2001 from rented premises in Pollachi in the district of Coimbatore. It started with taking care of children in difficult conditions. It slowly started taking care of mentally challenged women. Sharanalayam has come a long way since that time, with hundreds of children and women being taken care of by the NGO in the last two decades. Many women were rehabilitated by the NGO, thanks to its facilities.Sharanalayam needs urgent support to take care of over 100 women. The organisation also aspires to take care of many more mentally ill women in the coming months and years. Vanitha cannot do it without your support. Donate to this fundraiser on Give.do, India’s largest and most trusted online donation platform, to help abandoned mentally ill women get care and shelter. Vanitha, 72, the founder of Sharanalayam cannot do it alone.Donate now.",
+      "title": "Help visually impaired Shivaprakash give 40 blind girls shelter, education and care",
+      "description": "At the age of 8, Shivaprakash lost his vision. But what could have become a life of despair became something else entirely. Shivaprakash went on to complete his Master’s degree and eventually founded the Divya Jyothi Charitable Trust, an organisation born out of personal struggle and driven by a powerful mission, to educate and empower blind girls, who are among the most neglected and marginalised in society.In many families, blind daughters are hidden away, seen as a burden, and in some cases, even as a curse. They are denied the right to dream, grow, or be independent. At Divya Jyothi, Shivaprakash is changing that narrative. Your support can ensure that no blind girl is left behind simply because of her disability. Donate today to help them stand tall, proud, and self-reliant. Donate nowDonate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).Education is survivalIn communities where gender and disability intersect, blind girls face deep-rooted prejudice and extreme isolation. Many are denied even basic schooling and are left dependent on family members for the rest of their lives. Recognising this, Divya Jyothi began with a simple yet radical step: to provide blind girls with computer training so they could access the digital world and open doors to employment.But the journey didn’t stop there. The NGO went on to launch a braille transcription centre, ensuring girls have access to learning materials that suit their needs. As Shivaprakash says, “Without education, no one can do anything. That's why education is even more important for blind girls.” Education isn’t just about literacy, it’s about self-worth, decision-making, mobility, and freedom. It’s about giving these girls the same right to participate in society that sighted individuals often take for granted.From rejection to respectIn a country where blind girls are often treated as liabilities, Divya Jyothi is rewriting their futures. Over 1,000 girls have graduated from the Trust’s training centres. Many of them come from families that had almost given up on them. Today, these same girls are government employees, corporate professionals, and role models in their communities.More than 200 graduates have secured jobs in the public sector. Over 300 are now employed in private companies. Every success story is proof that with the right support, blind girls don’t just survive, they thrive. “Most girls are neglected by their families. This is a major challenge for them,” says Shivaprakash. By providing them with skills and confidence, Divya Jyothi is turning neglect into empowerment and helplessness into hope.Donate to help 40 blind girls find independenceAlmost 40 girls are currently enrolled and will directly benefit from your support. These are girls with potential, courage, and ambition—but they lack the resources to pursue an independent life. “I request each one to come forward and donate to help blind girls lead independent lives in society,” urges Shivaprakash.Help Divya Jyothi Charitable Trust break the cycle of neglect. Your donation can give a blind girl her first lesson, her first job, and a life of dignity.Donate to this fundraiser by Give, India’s most trusted online donation platform, to support Divya Jyothi Charitable Trust in its mission to shelter and educate neglected and abandoned blind girls.",
       "patient_name": null,
       "condition": null,
-      "image_url": "https://cfstatic.give.do/e2c65b44-daf2-4379-b205-a7f110543865.webp",
-      "amount_raised_inr": 11636136.0,
-      "amount_goal_inr": 30000000.0,
-      "deadline_iso": "2026-06-10",
-      "days_left": 6,
-      "campaign_url": "https://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
+      "image_url": "https://cfstatic.give.do/04cef85a-b87c-43bf-8088-3e8de6c14a74.webp",
+      "amount_raised_inr": 2700787.0,
+      "amount_goal_inr": 5000000.0,
+      "deadline_iso": "2026-06-11",
+      "days_left": 7,
+      "campaign_url": "https://give.do/fundraisers/help-visually-impaired-shivaprakash-give-40-blind-girls-shelter-education-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-04T19:50:28.888809+00:00"
+      "scraped_at_iso": "2026-06-04T23:58:09.743967+00:00"
+    },
+    {
+      "id": "milaap-1022771",
+      "source": "milaap",
+      "title": "Help my 6-year-old nephew fight for his life 🙏",
+      "description": "A 6-year-old boy suffered severe injuries in a tragic 11KV electrical accident and is currently fighting for his life in...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1779727653/production/images/campaign/1022771/medical_1553587798_1779727640.jpg",
+      "amount_raised_inr": 16941.0,
+      "amount_goal_inr": 3500000.0,
+      "deadline_iso": "2026-06-24",
+      "days_left": 20,
+      "campaign_url": "https://milaap.org/fundraisers/support-child-of-srilatha-k",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-06-04T23:58:03.828147+00:00"
+    },
+    {
+      "id": "milaap-1022715",
+      "source": "milaap",
+      "title": "5 Years Old child Needs Urgent Bone Marrow Transplant.",
+      "description": "My name is Subramanian G., and I am raising funds for my 5-year-old daughter,  who is courageously fighting a rare and l...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.27,w_0.4,x_0.3,y_0.22/c_fill,h_198,w_264/v1779881942/production/images/campaign/1022715/WhatsApp_Image_2026-05-27_at_17.02.25_aabecr_1779881944.jpg",
+      "amount_raised_inr": 23034.0,
+      "amount_goal_inr": 2500000.0,
+      "deadline_iso": "2026-06-24",
+      "days_left": 20,
+      "campaign_url": "https://milaap.org/fundraisers/support-child-of-subramani-g",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-06-04T23:58:03.828059+00:00"
+    },
+    {
+      "id": "milaap-1023524",
+      "source": "milaap",
+      "title": "Support Sunil Gurav’s Urgent Medical Treatment",
+      "description": "My brother, Mr. Sunil Gurav, is currently battling a severe medical condition that has turned our lives upside down. He ...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1779958602/production/images/campaign/1023524/medical_1553587798_1779958602.jpg",
+      "amount_raised_inr": 3488.0,
+      "amount_goal_inr": 500000.0,
+      "deadline_iso": "2026-06-27",
+      "days_left": 23,
+      "campaign_url": "https://milaap.org/fundraisers/support-sunil-gurav-1",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-06-04T23:58:03.828516+00:00"
+    },
+    {
+      "id": "milaap-1023693",
+      "source": "milaap",
+      "title": "Help my premature baby fight for life in the NICU",
+      "description": "I am raising this campaign for my newborn son, who is just 7 days old and fighting the hardest battle of his tiny life. ...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1780019229/production/images/campaign/1023693/medical_1553587798_1780019217.jpg",
+      "amount_raised_inr": 4052.0,
+      "amount_goal_inr": 2000000.0,
+      "deadline_iso": "2026-06-28",
+      "days_left": 24,
+      "campaign_url": "https://milaap.org/fundraisers/support-child-of-ritu-nigam",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-06-04T23:58:03.828454+00:00"
+    },
+    {
+      "id": "milaap-1012671",
+      "source": "milaap",
+      "title": "This 2 months old needs your urgent support in fighting Wiskott-Aldrich Syndrome / WAS",
+      "description": "Our baby is just 2 months old and has been diagnosed with Wiskott-Aldrich Syndrome (WAS), a rare and serious genetic imm...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1776153213/production/images/campaign/1012671/medical_1553587798_1776153212.jpg",
+      "amount_raised_inr": 4934.0,
+      "amount_goal_inr": 4000000.0,
+      "deadline_iso": "2026-06-30",
+      "days_left": 26,
+      "campaign_url": "https://milaap.org/fundraisers/support-child-of-divakar-p",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-06-04T23:58:03.828399+00:00"
+    },
+    {
+      "id": "milaap-1025071",
+      "source": "milaap",
+      "title": "Help save a 14-year-old fighting a rare, life-threatening disease",
+      "description": "Raghavendra Abhyankar's 14-year-old son, is battling Atypical Hemolytic Uremic Syndrome (aHUS), a rare and life-threaten...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.33,w_0.2,x_0.02,y_0.2/c_fill,e_blur_region:1500,h_0.15,w_0.16,x_0.46,y_0.35/c_fill,h_198,w_264/v1780479327/production/images/campaign/1025071/Ankush1_xajkjg_1780479330.jpg",
+      "amount_raised_inr": 7636.0,
+      "amount_goal_inr": 7500000.0,
+      "deadline_iso": "2026-07-03",
+      "days_left": 29,
+      "campaign_url": "https://milaap.org/fundraisers/support-child-of-raghavendra-abhyankar",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-06-04T23:58:03.828292+00:00"
+    },
+    {
+      "id": "milaap-1022204",
+      "source": "milaap",
+      "title": "Help Baby Adrit Fight SMA Type-2, A Rare Genetic Disease",
+      "description": "I am raising this campaign for my child, who is just 11 months old and has been diagnosed with Spinal Muscular Atrophy T...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.07,w_0.08,x_0.47,y_0.2/c_fill,h_198,w_264/v1780500936/production/images/campaign/1022204/1000400849_ohdplz_1780500938.jpg",
+      "amount_raised_inr": 9364.0,
+      "amount_goal_inr": 150000000.0,
+      "deadline_iso": "2026-11-30",
+      "days_left": 179,
+      "campaign_url": "https://milaap.org/fundraisers/support-child-of-ujjal-naskar-mampi-roy",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-06-04T23:58:03.828203+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -95,14 +214,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 138093586.07,
+      "amount_raised_inr": 138095586.07,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2030-03-31",
       "days_left": 1396,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-04T19:50:28.888630+00:00"
+      "scraped_at_iso": "2026-06-04T23:58:09.743740+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -119,7 +238,7 @@
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-04T19:50:28.888655+00:00"
+      "scraped_at_iso": "2026-06-04T23:58:09.743769+00:00"
     }
   ]
 }
