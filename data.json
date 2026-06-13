@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-12T22:09:06.115408+00:00",
+  "generated_at": "2026-06-13T10:14:34.748321+00:00",
   "sources": {
     "ketto": 0,
-    "milaap": 0,
+    "milaap": 9,
     "givedo": 6
   },
   "languages": [
@@ -17,7 +17,7 @@
     "pa",
     "ml"
   ],
-  "total": 6,
+  "total": 13,
   "campaigns": [
     {
       "id": "givedo-6835addd",
@@ -27,14 +27,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/04cef85a-b87c-43bf-8088-3e8de6c14a74.webp",
-      "amount_raised_inr": 2922266.0,
+      "amount_raised_inr": 2929268.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-06-15",
-      "days_left": 3,
+      "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/help-visually-impaired-shivaprakash-give-40-blind-girls-shelter-education-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-12T22:09:05.004493+00:00"
+      "scraped_at_iso": "2026-06-13T10:14:32.659186+00:00"
     },
     {
       "id": "givedo-6a0196c1",
@@ -47,11 +47,11 @@
       "amount_raised_inr": 513554.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-06-17",
-      "days_left": 5,
+      "days_left": 4,
       "campaign_url": "https://give.do/fundraisers/urgent-help-indias-most-vulnerable-survive-the-2026-heatwave",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-12T22:09:05.004531+00:00"
+      "scraped_at_iso": "2026-06-13T10:14:32.659253+00:00"
     },
     {
       "id": "givedo-65b89257",
@@ -61,14 +61,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/8484bab7-7bd7-49dd-8a03-840f14344985.webp",
-      "amount_raised_inr": 10225801.0,
+      "amount_raised_inr": 10232101.0,
       "amount_goal_inr": 9000000.0,
       "deadline_iso": "2026-06-18",
-      "days_left": 6,
+      "days_left": 5,
       "campaign_url": "https://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-12T22:09:05.004434+00:00"
+      "scraped_at_iso": "2026-06-13T10:14:32.659151+00:00"
     },
     {
       "id": "givedo-66c71da4",
@@ -78,14 +78,133 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/df9aec70-9e3c-482f-be42-ecd4d728552a.webp",
-      "amount_raised_inr": 7465392.0,
+      "amount_raised_inr": 7465613.0,
       "amount_goal_inr": 7000000.0,
       "deadline_iso": "2026-06-19",
-      "days_left": 7,
+      "days_left": 6,
       "campaign_url": "https://give.do/fundraisers/loving-mother-to-180-blind-kids-visually-impaired-veena-needs-your-support-in-caring-for-them",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-12T22:09:05.004462+00:00"
+      "scraped_at_iso": "2026-06-13T10:14:32.659213+00:00"
+    },
+    {
+      "id": "milaap-1012671",
+      "source": "milaap",
+      "title": "This 2 months old needs your urgent support in fighting Wiskott-Aldrich Syndrome / WAS",
+      "description": "Our baby is just 2 months old and has been diagnosed with Wiskott-Aldrich Syndrome (WAS), a rare and serious genetic imm...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1776153213/production/images/campaign/1012671/medical_1553587798_1776153212.jpg",
+      "amount_raised_inr": 11688.0,
+      "amount_goal_inr": 4000000.0,
+      "deadline_iso": "2026-06-30",
+      "days_left": 17,
+      "campaign_url": "https://milaap.org/fundraisers/support-child-of-divakar-p",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-06-13T10:14:29.872924+00:00"
+    },
+    {
+      "id": "milaap-1024641",
+      "source": "milaap",
+      "title": "Help Purshothaman fight blood cancer — every dose saves his life!",
+      "description": "Dear Friends, Family, and Kind Strangers, My name is Purushothaman Sekar. I am 34 years old from Chennai, India., and to...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1780383108/production/images/campaign/1024641/image_1553587824_1780383094.jpg",
+      "amount_raised_inr": 11439.0,
+      "amount_goal_inr": 4500000.0,
+      "deadline_iso": "2026-07-02",
+      "days_left": 19,
+      "campaign_url": "https://milaap.org/fundraisers/support-mr-purshothaman-s-1",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-06-13T10:14:29.872884+00:00"
+    },
+    {
+      "id": "milaap-1025071",
+      "source": "milaap",
+      "title": "Help save a 14-year-old fighting a rare, life-threatening disease",
+      "description": "Raghavendra Abhyankar's 14-year-old son, is battling Atypical Hemolytic Uremic Syndrome (aHUS), a rare and life-threaten...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.33,w_0.2,x_0.02,y_0.2/c_fill,e_blur_region:1500,h_0.15,w_0.16,x_0.46,y_0.35/c_fill,h_198,w_264/v1780479327/production/images/campaign/1025071/Ankush1_xajkjg_1780479330.jpg",
+      "amount_raised_inr": 12161.0,
+      "amount_goal_inr": 7500000.0,
+      "deadline_iso": "2026-07-03",
+      "days_left": 20,
+      "campaign_url": "https://milaap.org/fundraisers/support-child-of-raghavendra-abhyankar",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-06-13T10:14:29.873061+00:00"
+    },
+    {
+      "id": "milaap-1025652",
+      "source": "milaap",
+      "title": "Help save our premature twin baby girls fighting for life",
+      "description": "I am raising this campaign on behalf of myself, Ayyasamy Kittusamy, as our family is going through the most difficult ph...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1780704477/production/images/campaign/1025652/lrglkcrubd3x08uzs71c_1780704479.jpg",
+      "amount_raised_inr": 5606.0,
+      "amount_goal_inr": 4000000.0,
+      "deadline_iso": "2026-07-05",
+      "days_left": 22,
+      "campaign_url": "https://milaap.org/fundraisers/support-ayyasamy-kittusamy",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-06-13T10:14:29.872958+00:00"
+    },
+    {
+      "id": "milaap-1026153",
+      "source": "milaap",
+      "title": "Help my father fight advanced bladder cancer",
+      "description": "I am raising funds for my father, Narayanan Panchapakesan, who is 65 years old and has been bravely battling bladder can...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1780800324/production/images/campaign/1026153/medical_1553587798_1780800312.jpg",
+      "amount_raised_inr": 4114.0,
+      "amount_goal_inr": 5000000.0,
+      "deadline_iso": "2026-07-07",
+      "days_left": 24,
+      "campaign_url": "https://milaap.org/fundraisers/support-narayanan-panchapakesan-1",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-06-13T10:14:29.873026+00:00"
+    },
+    {
+      "id": "milaap-1027429",
+      "source": "milaap",
+      "title": "Help Save Sachin's Life: He Is Fighting Relapsed Blood Cancer",
+      "description": "My name is Shanti, and I am here with folded hands seeking your support to save my beloved son, Sachin, who is courageou...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1781170025/production/images/campaign/1027429/WhatsApp_Image_2026-06-11_at_14.36.26_td7k0y_1781170027.jpg",
+      "amount_raised_inr": 21618.0,
+      "amount_goal_inr": 15000000.0,
+      "deadline_iso": "2026-07-11",
+      "days_left": 28,
+      "campaign_url": "https://milaap.org/fundraisers/support-sachin-mawari",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-06-13T10:14:29.872736+00:00"
+    },
+    {
+      "id": "milaap-1022204",
+      "source": "milaap",
+      "title": "Help Baby Adrit Fight SMA Type-2, A Rare Genetic Diseaseএকটি অনুদান",
+      "description": "I am raising this campaign for my child, who is just 11 months old and has been diagnosed with Spinal Muscular Atrophy T...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.07,w_0.08,x_0.47,y_0.2/c_fill,h_198,w_264/v1780500936/production/images/campaign/1022204/1000400849_ohdplz_1780500938.jpg",
+      "amount_raised_inr": 13747.0,
+      "amount_goal_inr": 150000000.0,
+      "deadline_iso": "2026-11-30",
+      "days_left": 170,
+      "campaign_url": "https://milaap.org/fundraisers/support-child-of-ujjal-naskar-mampi-roy",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-06-13T10:14:29.873090+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -95,14 +214,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 141074162.24,
+      "amount_raised_inr": 141177410.24,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2030-03-31",
-      "days_left": 1388,
+      "days_left": 1387,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-12T22:09:05.004388+00:00"
+      "scraped_at_iso": "2026-06-13T10:14:32.659098+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -112,14 +231,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 66531611.12,
+      "amount_raised_inr": 66559075.28,
       "amount_goal_inr": 35000000.0,
       "deadline_iso": "2030-05-31",
-      "days_left": 1449,
+      "days_left": 1448,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-12T22:09:05.004351+00:00"
+      "scraped_at_iso": "2026-06-13T10:14:32.659055+00:00"
     }
   ]
 }
