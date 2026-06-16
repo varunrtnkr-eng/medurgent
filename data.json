@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-16T16:45:31.404550+00:00",
+  "generated_at": "2026-06-16T22:09:50.775337+00:00",
   "sources": {
     "ketto": 0,
-    "milaap": 0,
+    "milaap": 7,
     "givedo": 6
   },
   "languages": [
@@ -17,7 +17,7 @@
     "pa",
     "ml"
   ],
-  "total": 6,
+  "total": 11,
   "campaigns": [
     {
       "id": "givedo-6835addd",
@@ -27,14 +27,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/04cef85a-b87c-43bf-8088-3e8de6c14a74.webp",
-      "amount_raised_inr": 3006903.0,
+      "amount_raised_inr": 3012403.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-06-18",
       "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/help-visually-impaired-shivaprakash-give-40-blind-girls-shelter-education-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-16T16:45:28.208083+00:00"
+      "scraped_at_iso": "2026-06-16T22:09:48.555440+00:00"
     },
     {
       "id": "givedo-66c71da4",
@@ -51,7 +51,7 @@
       "campaign_url": "https://give.do/fundraisers/loving-mother-to-180-blind-kids-visually-impaired-veena-needs-your-support-in-caring-for-them",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-16T16:45:28.208114+00:00"
+      "scraped_at_iso": "2026-06-16T22:09:48.555470+00:00"
     },
     {
       "id": "givedo-65b89257",
@@ -61,14 +61,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/8484bab7-7bd7-49dd-8a03-840f14344985.webp",
-      "amount_raised_inr": 10271910.0,
+      "amount_raised_inr": 10277560.0,
       "amount_goal_inr": 9000000.0,
       "deadline_iso": "2026-06-21",
       "days_left": 5,
       "campaign_url": "https://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-16T16:45:28.207713+00:00"
+      "scraped_at_iso": "2026-06-16T22:09:48.555351+00:00"
     },
     {
       "id": "givedo-6a0196c1",
@@ -85,7 +85,92 @@
       "campaign_url": "https://give.do/fundraisers/urgent-help-indias-most-vulnerable-survive-the-2026-heatwave",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-16T16:45:28.208041+00:00"
+      "scraped_at_iso": "2026-06-16T22:09:48.555398+00:00"
+    },
+    {
+      "id": "milaap-1024641",
+      "source": "milaap",
+      "title": "Help Purshothaman fight blood cancer — every dose saves his life!",
+      "description": "Dear Friends, Family, and Kind Strangers, My name is Purushothaman Sekar. I am 34 years old from Chennai, India., and to...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1780383108/production/images/campaign/1024641/image_1553587824_1780383094.jpg",
+      "amount_raised_inr": 12331.0,
+      "amount_goal_inr": 4500000.0,
+      "deadline_iso": "2026-07-02",
+      "days_left": 16,
+      "campaign_url": "https://milaap.org/fundraisers/support-mr-purshothaman-s-1",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-06-16T22:09:45.649010+00:00"
+    },
+    {
+      "id": "milaap-1025652",
+      "source": "milaap",
+      "title": "Help save our premature twin baby girls fighting for life",
+      "description": "I am raising this campaign on behalf of myself, Ayyasamy Kittusamy, as our family is going through the most difficult ph...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1780704477/production/images/campaign/1025652/lrglkcrubd3x08uzs71c_1780704479.jpg",
+      "amount_raised_inr": 7345.0,
+      "amount_goal_inr": 4000000.0,
+      "deadline_iso": "2026-07-05",
+      "days_left": 19,
+      "campaign_url": "https://milaap.org/fundraisers/support-ayyasamy-kittusamy",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-06-16T22:09:45.649094+00:00"
+    },
+    {
+      "id": "milaap-1026153",
+      "source": "milaap",
+      "title": "Help my father fight advanced bladder cancer",
+      "description": "I am raising funds for my father, Narayanan Panchapakesan, who is 65 years old and has been bravely battling bladder can...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1780800324/production/images/campaign/1026153/medical_1553587798_1780800312.jpg",
+      "amount_raised_inr": 4341.0,
+      "amount_goal_inr": 5000000.0,
+      "deadline_iso": "2026-07-07",
+      "days_left": 21,
+      "campaign_url": "https://milaap.org/fundraisers/support-narayanan-panchapakesan-1",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-06-16T22:09:45.649110+00:00"
+    },
+    {
+      "id": "milaap-1027429",
+      "source": "milaap",
+      "title": "Help Save Sachin's Life: He Is Fighting Relapsed Blood Cancer",
+      "description": "My name is Shanti, and I am here with folded hands seeking your support to save my beloved son, Sachin, who is courageou...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1781170025/production/images/campaign/1027429/WhatsApp_Image_2026-06-11_at_14.36.26_td7k0y_1781170027.jpg",
+      "amount_raised_inr": 28581.0,
+      "amount_goal_inr": 15000000.0,
+      "deadline_iso": "2026-07-11",
+      "days_left": 25,
+      "campaign_url": "https://milaap.org/fundraisers/support-sachin-mawari",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-06-16T22:09:45.648948+00:00"
+    },
+    {
+      "id": "milaap-1028573",
+      "source": "milaap",
+      "title": "Help my mom Sabina fight multiple cerebral hemorrhages",
+      "description": "Dear All, I am reaching out to you with a heavy heart to ask for your help. My mother, Sabina D'souza (58), has always b...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1781524189/production/images/campaign/1028573/Sabina_nc4ewa_1781524190.jpg",
+      "amount_raised_inr": 7498.0,
+      "amount_goal_inr": 2300000.0,
+      "deadline_iso": "2026-07-15",
+      "days_left": 29,
+      "campaign_url": "https://milaap.org/fundraisers/support-sabina-dsouza-1",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-06-16T22:09:45.649054+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -95,14 +180,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 142484115.92,
+      "amount_raised_inr": 142492208.16,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2030-03-31",
       "days_left": 1384,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-16T16:45:28.207665+00:00"
+      "scraped_at_iso": "2026-06-16T22:09:48.555302+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -112,14 +197,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 67234417.83,
+      "amount_raised_inr": 67235836.28,
       "amount_goal_inr": 35000000.0,
       "deadline_iso": "2030-05-31",
       "days_left": 1445,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-16T16:45:28.207623+00:00"
+      "scraped_at_iso": "2026-06-16T22:09:48.555252+00:00"
     }
   ]
 }
