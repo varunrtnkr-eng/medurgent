@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T09:00:42.775286+00:00",
+  "generated_at": "2026-06-17T15:25:39.545110+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 7,
@@ -27,14 +27,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/df9aec70-9e3c-482f-be42-ecd4d728552a.webp",
-      "amount_raised_inr": 7472114.0,
+      "amount_raised_inr": 7473114.0,
       "amount_goal_inr": 7000000.0,
       "deadline_iso": "2026-06-19",
       "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/loving-mother-to-180-blind-kids-visually-impaired-veena-needs-your-support-in-caring-for-them",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-17T09:00:40.355140+00:00"
+      "scraped_at_iso": "2026-06-17T15:25:37.462384+00:00"
     },
     {
       "id": "givedo-65b89257",
@@ -44,14 +44,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/8484bab7-7bd7-49dd-8a03-840f14344985.webp",
-      "amount_raised_inr": 10284437.0,
+      "amount_raised_inr": 10302638.0,
       "amount_goal_inr": 9000000.0,
       "deadline_iso": "2026-06-21",
       "days_left": 4,
       "campaign_url": "https://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-17T09:00:40.355039+00:00"
+      "scraped_at_iso": "2026-06-17T15:25:37.462280+00:00"
     },
     {
       "id": "givedo-6a0196c1",
@@ -68,7 +68,7 @@
       "campaign_url": "https://give.do/fundraisers/urgent-help-indias-most-vulnerable-survive-the-2026-heatwave",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-17T09:00:40.355079+00:00"
+      "scraped_at_iso": "2026-06-17T15:25:37.462324+00:00"
     },
     {
       "id": "givedo-6835addd",
@@ -78,14 +78,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/04cef85a-b87c-43bf-8088-3e8de6c14a74.webp",
-      "amount_raised_inr": 3015403.0,
+      "amount_raised_inr": 3026903.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-06-24",
       "days_left": 7,
       "campaign_url": "https://give.do/fundraisers/help-visually-impaired-shivaprakash-give-40-blind-girls-shelter-education-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-17T09:00:40.355112+00:00"
+      "scraped_at_iso": "2026-06-17T15:25:37.462357+00:00"
     },
     {
       "id": "milaap-1024641",
@@ -95,31 +95,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1780383108/production/images/campaign/1024641/image_1553587824_1780383094.jpg",
-      "amount_raised_inr": 12423.0,
+      "amount_raised_inr": 12487.0,
       "amount_goal_inr": 4500000.0,
       "deadline_iso": "2026-07-02",
       "days_left": 15,
       "campaign_url": "https://milaap.org/fundraisers/support-mr-purshothaman-s-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-17T09:00:37.543514+00:00"
-    },
-    {
-      "id": "milaap-1025652",
-      "source": "milaap",
-      "title": "Help save our premature twin baby girls fighting for life",
-      "description": "I am raising this campaign on behalf of myself, Ayyasamy Kittusamy, as our family is going through the most difficult ph...",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1780704477/production/images/campaign/1025652/lrglkcrubd3x08uzs71c_1780704479.jpg",
-      "amount_raised_inr": 7414.0,
-      "amount_goal_inr": 4000000.0,
-      "deadline_iso": "2026-07-05",
-      "days_left": 18,
-      "campaign_url": "https://milaap.org/fundraisers/support-ayyasamy-kittusamy",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-06-17T09:00:37.543647+00:00"
+      "scraped_at_iso": "2026-06-17T15:25:34.520415+00:00"
     },
     {
       "id": "milaap-1027429",
@@ -129,14 +112,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1781170025/production/images/campaign/1027429/WhatsApp_Image_2026-06-11_at_14.36.26_td7k0y_1781170027.jpg",
-      "amount_raised_inr": 28802.0,
+      "amount_raised_inr": 29720.0,
       "amount_goal_inr": 15000000.0,
       "deadline_iso": "2026-07-11",
       "days_left": 24,
       "campaign_url": "https://milaap.org/fundraisers/support-sachin-mawari",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-17T09:00:37.543427+00:00"
+      "scraped_at_iso": "2026-06-17T15:25:34.520273+00:00"
     },
     {
       "id": "milaap-1028573",
@@ -146,14 +129,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1781524189/production/images/campaign/1028573/Sabina_nc4ewa_1781524190.jpg",
-      "amount_raised_inr": 8235.0,
+      "amount_raised_inr": 8787.0,
       "amount_goal_inr": 2300000.0,
       "deadline_iso": "2026-07-15",
       "days_left": 28,
       "campaign_url": "https://milaap.org/fundraisers/support-sabina-dsouza-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-17T09:00:37.543538+00:00"
+      "scraped_at_iso": "2026-06-17T15:25:34.520451+00:00"
+    },
+    {
+      "id": "milaap-1028900",
+      "source": "milaap",
+      "title": "Help me get out of constant mental torture",
+      "description": "My name is Subham Tibra, a 28-year-old from Jhunjhunu, Rajasthan, and an alumnus of IIT Kharagpur (Class of 2019, Mathem...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1781684665/production/images/campaign/1028900/z7cswcoknk2izyl853jl_1781684668.jpg",
+      "amount_raised_inr": 6234.0,
+      "amount_goal_inr": 1500000.0,
+      "deadline_iso": "2026-07-16",
+      "days_left": 29,
+      "campaign_url": "https://milaap.org/fundraisers/support-subham-tibra",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-06-17T15:25:34.520558+00:00"
     },
     {
       "id": "milaap-1028850",
@@ -163,14 +163,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1781606198/production/images/campaign/1028850/medical_1553587798_1781601734.jpg",
-      "amount_raised_inr": 11369.0,
+      "amount_raised_inr": 14553.0,
       "amount_goal_inr": 1800000.0,
       "deadline_iso": "2026-12-31",
       "days_left": 197,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-rani-mukherjee",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-17T09:00:37.543484+00:00"
+      "scraped_at_iso": "2026-06-17T15:25:34.520367+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -180,14 +180,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 142519710.16,
+      "amount_raised_inr": 142562856.35,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2030-03-31",
       "days_left": 1383,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-17T09:00:40.354996+00:00"
+      "scraped_at_iso": "2026-06-17T15:25:37.462230+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -197,14 +197,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 67250398.27,
+      "amount_raised_inr": 67259677.76,
       "amount_goal_inr": 35000000.0,
       "deadline_iso": "2030-05-31",
       "days_left": 1444,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-17T09:00:40.354960+00:00"
+      "scraped_at_iso": "2026-06-17T15:25:37.462185+00:00"
     }
   ]
 }
