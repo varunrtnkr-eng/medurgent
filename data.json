@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T21:21:07.915315+00:00",
+  "generated_at": "2026-06-25T02:52:15.836110+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 8,
@@ -30,11 +30,11 @@
       "amount_raised_inr": 9361.0,
       "amount_goal_inr": 3000000.0,
       "deadline_iso": "2026-06-25",
-      "days_left": 1,
+      "days_left": 0,
       "campaign_url": "https://milaap.org/fundraisers/support-c-g-ramegowda",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-24T21:21:02.671823+00:00"
+      "scraped_at_iso": "2026-06-25T02:52:09.571929+00:00"
     },
     {
       "id": "givedo-6a0196c1",
@@ -47,11 +47,11 @@
       "amount_raised_inr": 528215.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-06-27",
-      "days_left": 3,
+      "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/urgent-help-indias-most-vulnerable-survive-the-2026-heatwave",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-24T21:21:05.499386+00:00"
+      "scraped_at_iso": "2026-06-25T02:52:12.717173+00:00"
     },
     {
       "id": "givedo-65b89257",
@@ -61,14 +61,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/8484bab7-7bd7-49dd-8a03-840f14344985.webp",
-      "amount_raised_inr": 10346467.0,
+      "amount_raised_inr": 10346767.0,
       "amount_goal_inr": 9000000.0,
       "deadline_iso": "2026-06-27",
-      "days_left": 3,
+      "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-24T21:21:05.499419+00:00"
+      "scraped_at_iso": "2026-06-25T02:52:12.717227+00:00"
     },
     {
       "id": "givedo-66c71da4",
@@ -81,11 +81,11 @@
       "amount_raised_inr": 7478924.0,
       "amount_goal_inr": 7000000.0,
       "deadline_iso": "2026-06-28",
-      "days_left": 4,
+      "days_left": 3,
       "campaign_url": "https://give.do/fundraisers/loving-mother-to-180-blind-kids-visually-impaired-veena-needs-your-support-in-caring-for-them",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-24T21:21:05.499446+00:00"
+      "scraped_at_iso": "2026-06-25T02:52:12.717198+00:00"
     },
     {
       "id": "givedo-6835addd",
@@ -95,14 +95,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/04cef85a-b87c-43bf-8088-3e8de6c14a74.webp",
-      "amount_raised_inr": 3125309.0,
+      "amount_raised_inr": 3127809.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-06-30",
-      "days_left": 6,
+      "days_left": 5,
       "campaign_url": "https://give.do/fundraisers/help-visually-impaired-shivaprakash-give-40-blind-girls-shelter-education-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-24T21:21:05.499342+00:00"
+      "scraped_at_iso": "2026-06-25T02:52:12.717144+00:00"
     },
     {
       "id": "milaap-1027429",
@@ -112,14 +112,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1781170025/production/images/campaign/1027429/WhatsApp_Image_2026-06-11_at_14.36.26_td7k0y_1781170027.jpg",
-      "amount_raised_inr": 34573.0,
+      "amount_raised_inr": 34576.0,
       "amount_goal_inr": 15000000.0,
       "deadline_iso": "2026-07-11",
-      "days_left": 17,
+      "days_left": 16,
       "campaign_url": "https://milaap.org/fundraisers/support-sachin-mawari",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-24T21:21:02.671778+00:00"
+      "scraped_at_iso": "2026-06-25T02:52:09.571895+00:00"
     },
     {
       "id": "milaap-1029391",
@@ -132,11 +132,11 @@
       "amount_raised_inr": 4470.0,
       "amount_goal_inr": 2500000.0,
       "deadline_iso": "2026-07-18",
-      "days_left": 24,
+      "days_left": 23,
       "campaign_url": "https://milaap.org/fundraisers/support-pooja-lokare",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-24T21:21:02.671798+00:00"
+      "scraped_at_iso": "2026-06-25T02:52:09.571908+00:00"
     },
     {
       "id": "milaap-1029423",
@@ -149,11 +149,11 @@
       "amount_raised_inr": 5728.0,
       "amount_goal_inr": 600000.0,
       "deadline_iso": "2026-07-18",
-      "days_left": 24,
+      "days_left": 23,
       "campaign_url": "https://milaap.org/fundraisers/support-neelim-das-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-24T21:21:02.671731+00:00"
+      "scraped_at_iso": "2026-06-25T02:52:09.571876+00:00"
     },
     {
       "id": "milaap-1030482",
@@ -163,14 +163,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1782106587/production/images/campaign/1030482/medical_1553587798_1782106586.jpg",
-      "amount_raised_inr": 8441.0,
+      "amount_raised_inr": 8916.0,
       "amount_goal_inr": 3500000.0,
       "deadline_iso": "2026-07-22",
-      "days_left": 28,
+      "days_left": 27,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-vibhore-malwiya",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-24T21:21:02.671707+00:00"
+      "scraped_at_iso": "2026-06-25T02:52:09.571842+00:00"
     },
     {
       "id": "milaap-1028614",
@@ -180,14 +180,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1781532370/production/images/campaign/1028614/medical_1553587798_1781532357.jpg",
-      "amount_raised_inr": 24808.0,
+      "amount_raised_inr": 24915.0,
       "amount_goal_inr": 170000000.0,
       "deadline_iso": "2026-07-31",
-      "days_left": 37,
+      "days_left": 36,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-naveen-kumar-reddy",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-24T21:21:02.671613+00:00"
+      "scraped_at_iso": "2026-06-25T02:52:09.571762+00:00"
     },
     {
       "id": "milaap-1030154",
@@ -197,14 +197,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1782049784/production/images/campaign/1030154/WhatsApp_Image_2026-06-21_at_7.50.59_AM_ebku7l_1782049785.jpg",
-      "amount_raised_inr": 5658.0,
+      "amount_raised_inr": 5819.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-08-31",
-      "days_left": 68,
+      "days_left": 67,
       "campaign_url": "https://milaap.org/fundraisers/support-pavan-211",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-24T21:21:02.671752+00:00"
+      "scraped_at_iso": "2026-06-25T02:52:09.571861+00:00"
     },
     {
       "id": "milaap-1028850",
@@ -217,11 +217,11 @@
       "amount_raised_inr": 25659.0,
       "amount_goal_inr": 2500000.0,
       "deadline_iso": "2026-12-31",
-      "days_left": 190,
+      "days_left": 189,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-rani-mukherjee",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-24T21:21:02.671678+00:00"
+      "scraped_at_iso": "2026-06-25T02:52:09.571820+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -231,14 +231,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 147342205.92,
+      "amount_raised_inr": 147479498.92,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2030-03-31",
-      "days_left": 1376,
+      "days_left": 1375,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-24T21:21:05.499265+00:00"
+      "scraped_at_iso": "2026-06-25T02:52:12.717091+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -248,14 +248,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 67598179.07,
+      "amount_raised_inr": 67625844.07,
       "amount_goal_inr": 35000000.0,
       "deadline_iso": "2030-05-31",
-      "days_left": 1437,
+      "days_left": 1436,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-24T21:21:05.499291+00:00"
+      "scraped_at_iso": "2026-06-25T02:52:12.717110+00:00"
     }
   ]
 }
