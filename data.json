@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T10:48:45.020157+00:00",
+  "generated_at": "2026-06-26T14:16:19.972501+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 8,
@@ -34,7 +34,7 @@
       "campaign_url": "https://give.do/fundraisers/loving-mother-to-180-blind-kids-visually-impaired-veena-needs-your-support-in-caring-for-them",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-26T10:48:42.227374+00:00"
+      "scraped_at_iso": "2026-06-26T14:16:17.414089+00:00"
     },
     {
       "id": "givedo-6a0196c1",
@@ -51,7 +51,7 @@
       "campaign_url": "https://give.do/fundraisers/urgent-help-indias-most-vulnerable-survive-the-2026-heatwave",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-26T10:48:42.227421+00:00"
+      "scraped_at_iso": "2026-06-26T14:16:17.414145+00:00"
     },
     {
       "id": "givedo-6835addd",
@@ -61,14 +61,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/04cef85a-b87c-43bf-8088-3e8de6c14a74.webp",
-      "amount_raised_inr": 3188342.0,
+      "amount_raised_inr": 3198343.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-06-30",
       "days_left": 4,
       "campaign_url": "https://give.do/fundraisers/help-visually-impaired-shivaprakash-give-40-blind-girls-shelter-education-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-26T10:48:42.227351+00:00"
+      "scraped_at_iso": "2026-06-26T14:16:17.414052+00:00"
     },
     {
       "id": "givedo-65b0b1e2",
@@ -78,14 +78,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://img.youtube.com/vi/TGXGQ3b5CdY/0.jpg",
-      "amount_raised_inr": 3839642.0,
+      "amount_raised_inr": 3842142.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-07-02",
       "days_left": 6,
       "campaign_url": "https://give.do/fundraisers/help-sandip-rescue-and-care-for-abandoned-elderly-left-to-beg-on-the-streets-donate-now",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-26T10:48:42.227395+00:00"
+      "scraped_at_iso": "2026-06-26T14:16:17.414121+00:00"
     },
     {
       "id": "milaap-1030385",
@@ -95,14 +95,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1782058608/production/images/campaign/1030385/medical_1553587798_1782058597.jpg",
-      "amount_raised_inr": 7351.0,
+      "amount_raised_inr": 7352.0,
       "amount_goal_inr": 10000000.0,
       "deadline_iso": "2026-07-21",
       "days_left": 25,
       "campaign_url": "https://milaap.org/fundraisers/support-sandeep-krishan",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-26T10:48:39.455302+00:00"
+      "scraped_at_iso": "2026-06-26T14:16:14.455932+00:00"
     },
     {
       "id": "milaap-1030482",
@@ -112,14 +112,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1782106587/production/images/campaign/1030482/medical_1553587798_1782106586.jpg",
-      "amount_raised_inr": 10851.0,
+      "amount_raised_inr": 10856.0,
       "amount_goal_inr": 3500000.0,
       "deadline_iso": "2026-07-22",
       "days_left": 26,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-vibhore-malwiya",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-26T10:48:39.455203+00:00"
+      "scraped_at_iso": "2026-06-26T14:16:14.455710+00:00"
     },
     {
       "id": "milaap-1030911",
@@ -129,14 +129,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1782204859/production/images/campaign/1030911/medical_1553587798_1782204848.jpg",
-      "amount_raised_inr": 5785.0,
+      "amount_raised_inr": 5796.0,
       "amount_goal_inr": 1500000.0,
       "deadline_iso": "2026-07-23",
       "days_left": 27,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-rajathi-vadivel",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-26T10:48:39.455397+00:00"
+      "scraped_at_iso": "2026-06-26T14:16:14.456132+00:00"
     },
     {
       "id": "milaap-1031295",
@@ -146,14 +146,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.47,w_0.25,x_0.34,y_0.31/c_fill,h_198,w_264/v1782369043/production/images/campaign/1031295/WhatsApp_Image_2026-06-25_at_11.58.36_AM_xh3wnh_1782369044.jpg",
-      "amount_raised_inr": 7762.0,
+      "amount_raised_inr": 7887.0,
       "amount_goal_inr": 2000000.0,
       "deadline_iso": "2026-07-24",
       "days_left": 28,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-oliva-roy",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-26T10:48:39.455261+00:00"
+      "scraped_at_iso": "2026-06-26T14:16:14.455836+00:00"
     },
     {
       "id": "milaap-1031152",
@@ -163,14 +163,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1782270561/production/images/campaign/1031152/medical_1553587798_1782270549.jpg",
-      "amount_raised_inr": 7570.0,
+      "amount_raised_inr": 7664.0,
       "amount_goal_inr": 800000.0,
       "deadline_iso": "2026-07-24",
       "days_left": 28,
       "campaign_url": "https://milaap.org/fundraisers/support-mrs-geeta",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-26T10:48:39.455285+00:00"
+      "scraped_at_iso": "2026-06-26T14:16:14.455889+00:00"
     },
     {
       "id": "milaap-1024789",
@@ -180,14 +180,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1780406742/production/images/campaign/1024789/medical_1553587798_1780406741.jpg",
-      "amount_raised_inr": 6271.0,
+      "amount_raised_inr": 6329.0,
       "amount_goal_inr": 2000000.0,
       "deadline_iso": "2026-07-31",
       "days_left": 35,
       "campaign_url": "https://milaap.org/fundraisers/support-m-mayuri",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-26T10:48:39.455361+00:00"
+      "scraped_at_iso": "2026-06-26T14:16:14.456025+00:00"
     },
     {
       "id": "milaap-1030154",
@@ -204,7 +204,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-pavan-211",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-26T10:48:39.455342+00:00"
+      "scraped_at_iso": "2026-06-26T14:16:14.455974+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -214,14 +214,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 151813025.48,
+      "amount_raised_inr": 151841745.84,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2030-03-31",
       "days_left": 1374,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-26T10:48:42.227263+00:00"
+      "scraped_at_iso": "2026-06-26T14:16:17.413962+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -231,14 +231,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 68077798.38,
+      "amount_raised_inr": 68078798.38,
       "amount_goal_inr": 35000000.0,
       "deadline_iso": "2030-05-31",
       "days_left": 1435,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-26T10:48:42.227284+00:00"
+      "scraped_at_iso": "2026-06-26T14:16:17.413988+00:00"
     }
   ]
 }
