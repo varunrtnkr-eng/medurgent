@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-29T03:32:08.899366+00:00",
+  "generated_at": "2026-06-29T08:56:15.181895+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 8,
-    "givedo": 10
+    "givedo": 6
   },
   "languages": [
     "en",
@@ -17,126 +17,75 @@
     "pa",
     "ml"
   ],
-  "total": 17,
+  "total": 13,
   "campaigns": [
     {
-      "id": "givedo-6541270d",
+      "id": "givedo-6835addd",
       "source": "givedo",
-      "title": "Your donation can help 40 blind girls get food, shelter and care. Donate now",
-      "description": "“We received a distress call saying that a blind girl is being held captive by a woman and is being forced to beg. Our volunteers were able to rescue that girl and bring her to the Blind Welfare Society home for girls. We cared for her and educated her. Today that girl is a senior government official”, says Asha Bhola, President, Blind Welfare Society (BWS) as she recalls how her organisation has been able to transform lives.BWS has been a ray of hope for 40 such blind girls, many of whom have been abandoned by their families owing to their visual impairment. Sadly, the care, shelter and education for blind girls come at a cost, and BWS is unable to keep its work going. Your donations can help shine the light of education upon 40 blind girls and change their lives forever. Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India). Neglect, Abandonment and StigmaIn various parts of the country, a blind girl is often seen as a curse and a burden for no fault of theirs. According to the nonprofit office bearer, “Many parents neglect their blind daughters and at times even sell them off for begging, etc. Even if the girl is from a well-to-do family, they feel providing education and care to a blind girl is a waste of money”. “What is the fault of an innocent child?”, she asks.Education, the only hope “These girls have no future without education. If they don’t receive education, they will remain uncared for. They will continue to be ignored by not just their families but even by society at large. Whatever I am today is only because of the education I received. But sadly, every blind girl is not as fortunate. Most visually impaired girls are deprived of any care and even something as basic as education thus leading to a life of darkness”, Asha adds. You can be the light in the lives of these 40 blind girls who have not seen anything but darkness. Help support their education and be a catalyst for change in their lives. Donate nowPlease donate to this fundraiser by Give, India’s largest and most trusted online donation platform, to help women facing domestic violence break the endless cycle of abuse and give them safe shelter.",
+      "title": "Help visually impaired Shivaprakash give 40 blind girls shelter, education and care",
+      "description": "At the age of 8, Shivaprakash lost his vision. But what could have become a life of despair became something else entirely. Shivaprakash went on to complete his Master’s degree and eventually founded the Divya Jyothi Charitable Trust, an organisation born out of personal struggle and driven by a powerful mission, to educate and empower blind girls, who are among the most neglected and marginalised in society.In many families, blind daughters are hidden away, seen as a burden, and in some cases, even as a curse. They are denied the right to dream, grow, or be independent. At Divya Jyothi, Shivaprakash is changing that narrative. Your support can ensure that no blind girl is left behind simply because of her disability. Donate today to help them stand tall, proud, and self-reliant. Donate nowDonate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).Education is survivalIn communities where gender and disability intersect, blind girls face deep-rooted prejudice and extreme isolation. Many are denied even basic schooling and are left dependent on family members for the rest of their lives. Recognising this, Divya Jyothi began with a simple yet radical step: to provide blind girls with computer training so they could access the digital world and open doors to employment.But the journey didn’t stop there. The NGO went on to launch a braille transcription centre, ensuring girls have access to learning materials that suit their needs. As Shivaprakash says, “Without education, no one can do anything. That's why education is even more important for blind girls.” Education isn’t just about literacy, it’s about self-worth, decision-making, mobility, and freedom. It’s about giving these girls the same right to participate in society that sighted individuals often take for granted.From rejection to respectIn a country where blind girls are often treated as liabilities, Divya Jyothi is rewriting their futures. Over 1,000 girls have graduated from the Trust’s training centres. Many of them come from families that had almost given up on them. Today, these same girls are government employees, corporate professionals, and role models in their communities.More than 200 graduates have secured jobs in the public sector. Over 300 are now employed in private companies. Every success story is proof that with the right support, blind girls don’t just survive, they thrive. “Most girls are neglected by their families. This is a major challenge for them,” says Shivaprakash. By providing them with skills and confidence, Divya Jyothi is turning neglect into empowerment and helplessness into hope.Donate to help 40 blind girls find independenceAlmost 40 girls are currently enrolled and will directly benefit from your support. These are girls with potential, courage, and ambition—but they lack the resources to pursue an independent life. “I request each one to come forward and donate to help blind girls lead independent lives in society,” urges Shivaprakash.Help Divya Jyothi Charitable Trust break the cycle of neglect. Your donation can give a blind girl her first lesson, her first job, and a life of dignity.Donate to this fundraiser by Give, India’s most trusted online donation platform, to support Divya Jyothi Charitable Trust in its mission to shelter and educate neglected and abandoned blind girls.",
       "patient_name": null,
       "condition": null,
-      "image_url": "https://cfstatic.give.do/3436ad4a-3a61-41cc-8fa3-a5780ab8d4e0.jpg",
-      "amount_raised_inr": 10390165.43,
-      "amount_goal_inr": 35000000.0,
+      "image_url": "https://cfstatic.give.do/04cef85a-b87c-43bf-8088-3e8de6c14a74.webp",
+      "amount_raised_inr": 3236045.0,
+      "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-07-01",
       "days_left": 2,
-      "campaign_url": "https://give.do/fundraisers/your-donation-can-help-40-blind-girls-get-food-shelter-and-care-donate-now",
+      "campaign_url": "https://give.do/fundraisers/help-visually-impaired-shivaprakash-give-40-blind-girls-shelter-education-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-29T03:32:02.342962+00:00"
+      "scraped_at_iso": "2026-06-29T08:56:12.634614+00:00"
     },
     {
-      "id": "givedo-65b89257",
+      "id": "givedo-667e964e",
       "source": "givedo",
-      "title": "Help Vinay bring children facing abuse in red-light areas to safety and protect them",
-      "description": "“I saw a girl, barely 7 or 8, being pushed into flesh trade. Her cries for help still echo in my ears. There were men as old as 60 r*ping the innocent child. That was the day I knew my mission in life was to get these children out of the hell-like conditions in red-light areas. They are nothing short of hell and no child deserves to grow up in this environment” says Vinay Vasta, founder of Social Activities Integration, an organisation committed to freeing children trapped in red-light areas.Vinay and his NGO have been able to provide education, medical care and nutrition to over 2,500 children. But his dream to provide safe shelter to children remains unrealized. “We do our best to keep these children safe during the day but sadly they are forced to go back to the red light areas at night as we don’t have a home for them. Your donation can help us build a safe home for children of sex workers and prevent them from being pulled into prostitution. Donate to make this dream a realityDonate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).Life in red light areas“S*x workers use their homes which are barely 6 feet by 4 feet for their business. They invite customers in the presence of their children. Their children not only witness abuse but experience it too. Just imagine a child being told that all she can ever become in life is a pr*stitute”, Vinay shares as he explains the extent of abuse children face in red light areas.This is a life that thousands of children are forced to live behind closed doors where they suffer abuse and exploitation morning, noon and night.A ray of hopeVinay has been relentlessly trying to give children the care and education they deserve. He has provided quality English education to thousands of children, enabling them to secure a livelihood out of red-light areas. Several children taught by Vinay are today leading successful lives as professionals and Government employees. However the sad reality is that Vinay and his NGO, in the absence of a permanent shelter home, are unable to provide round the clock safety to these children, which is essential for their well-being.Your donations can enable SAI to build a shelter home for the children of sex workers and usher in a new tomorrow for them, away from the horrors of red-light areas.Donate to this fundraiser on Give.do, India’s largest and most trusted online donation platform, to provide safe shelter for children of sex workers and save them from abuse and second generation pr*stitution.NGO's 80G number: AACTS0408EF20216NGO's 12A number: AACTS0408EE20028",
+      "title": "Help 72-year-old Vanitha provide 100+ abandoned mentally ill women with shelter and care",
+      "description": "“The major problem in society today is the stigma against mentally ill or mentally disabled people. Families feed and care for men who are mentally ill and keep them at home. But no one wants to help women with mental illnesses,” says N Vanitha Rengaraj, chairperson of Sharanalayam.Sharanalaym’s ‘Jothi’ is a sanctuary for over 100 women facing mental challenges. Women with mental illness facing various challenges on the streets are brought to Sharanalayam with the help of the authorities and cared for. Donate easily through UPI, all debit/credit cards and net banking. Donations to this fundraiser are tax exempted under 80G of the Income Tax Act (India).The women at Sharanalaym Jothi are provided with necessities like food, clothing and medical care. They also get mental health services, access to psychiatrists and counseling, empowering individuals on their path to recovery.Once lost and vulnerable on unfamiliar streets, the women at Sharanalaym Jothi find solace.By supporting mentally disabled women at Sharanalaym Jothi, you contribute to creating a better world. We can ensure these women receive the care and support they deserve.Over the years, Vanitha has tried her best to run Sharanalayam from her own resources and that of her well-wishers, but the last few years have been harsh. “I normally don’t extend my hand for people to donate. Many have come on their own. But life has become a bit difficult now. I need your support to take care of the women here and also bring more women here in need of help,” says Vanitha. How Sharanalayam came into beingThe NGO started its operations in 2001 from rented premises in Pollachi in the district of Coimbatore. It started with taking care of children in difficult conditions. It slowly started taking care of mentally challenged women. Sharanalayam has come a long way since that time, with hundreds of children and women being taken care of by the NGO in the last two decades. Many women were rehabilitated by the NGO, thanks to its facilities.Sharanalayam needs urgent support to take care of over 100 women. The organisation also aspires to take care of many more mentally ill women in the coming months and years. Vanitha cannot do it without your support. Donate to this fundraiser on Give.do, India’s largest and most trusted online donation platform, to help abandoned mentally ill women get care and shelter. Vanitha, 72, the founder of Sharanalayam cannot do it alone.Donate now.",
       "patient_name": null,
       "condition": null,
-      "image_url": "https://cfstatic.give.do/8484bab7-7bd7-49dd-8a03-840f14344985.webp",
-      "amount_raised_inr": 10396090.0,
-      "amount_goal_inr": 9000000.0,
-      "deadline_iso": "2026-07-01",
-      "days_left": 2,
-      "campaign_url": "https://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-06-29T03:32:02.342988+00:00"
-    },
-    {
-      "id": "givedo-647705ad",
-      "source": "givedo",
-      "title": "Help provide shelter, food, clothes and medical support to abandoned widow mothers of Vrindavan. Donate now",
-      "description": "In Vrindavan, thousands of elderly widow mothers face the harsh reality of abandonment and suffering. With no one to turn to, many are left begging on the streets, exposed to heat, cold and rain,Donate so that Maitri can provide shelter, food, clothes and medical support to abandoned elderly mothers now. Give generously.Winnie Singh has witnessed many cases of widow mothers being abandoned on the streets of Vrindavan, one of the holiest places in India. “Children leave their mothers as soon as they become widows. The children start feeling the burden. This has become a practice in today's society that money comes first and everything else later,” says Winnie whose Maitri India, rescues widowed mothers from the streets of Vrindavan.Many widowed elderly mothers often end up living a lonely life and begging to survive on the streets. And Maitri aspires to take care of every widow in need of help, but because of lack of funds, Winnie and Maitri are in a position to do it.\"Elderly widows don't have shelter. They sleep in cowsheds over sacks. They don't have a blanket. Nights are really difficult for them,\" shares Winnie Singh. Maitri aims to:Provide shelter and nutritious meals leading to improved health and wellbeingMake physical and mental health services accessibleOffer necessary quality aged care and assisted living supportIncrease awareness and engagement around the struggles of abandoned widow mothersWhy donate to MaitriWinnie needs your support to help those in need of food, healthcare and well-being. “Maitri urgently needs your support to provide nutritious food, clothing and healthcare to sustain these widow mothers who are prone to more illnesses as they age,” appeals Winnie. “You can become the family they were denied. Hold their hands so they don't need to beg ever again,” she adds. Let’s rescue abandoned widows mothers from the streets of Vrindavan and give them a better future. Donate now.Our help will enable Maitri to save hundreds of abandoned widows from a life of begging, and restore the respect, dignity, and identity they deserve.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/2b7855bd-1989-40e4-ba81-19daa280a292.webp",
-      "amount_raised_inr": 26658249.0,
-      "amount_goal_inr": 40000000.0,
+      "image_url": "https://cfstatic.give.do/e2c65b44-daf2-4379-b205-a7f110543865.webp",
+      "amount_raised_inr": 11863876.0,
+      "amount_goal_inr": 30000000.0,
       "deadline_iso": "2026-07-02",
       "days_left": 3,
-      "campaign_url": "https://give.do/fundraisers/help-provide-shelter-food-clothes-and-medical-support-to-abandoned-widow-mothers-of-vrindavan-donate-now",
+      "campaign_url": "https://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-29T03:32:02.342862+00:00"
+      "scraped_at_iso": "2026-06-29T08:56:12.634710+00:00"
     },
     {
-      "id": "givedo-69e9e4f0",
+      "id": "givedo-65b0b1e2",
       "source": "givedo",
-      "title": "Don’t let children fight cancer on an empty stomach, help them with nutrition. Donate now",
-      "description": "“My 4-year-old son was diagnosed with an aggressive form of leukaemia. We brought him to Mumbai 6 months back when he was fighting for life. But within a couple of months, Vidhan’s condition improved drastically. Apart from the chemotherapy, one thing that has had a significant impact on his health is the nutrition support provided by Cuddles Foundation,” says Meenakshi Motiwala, who hails from Dhule, Maharashtra. Meenakshi and her husband had no means of supporting Vidhan with special nutrition, but thanks to the NGO, their son is in better shape.Cuddles Foundation is a nonprofit that helps hundreds of children fight cancer each year, but there are thousands more still battling cancer and in need of help. Help the NGO extend its reach and save many more lives. Donate now.Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India)Non-profit organisation Cuddles Foundation has been on a mission to give underprivileged children having cancer a fighting chance against the disease with complete nutritional support. Giving kids battling cancer a fighting chanceDoctors often say that proper nutrition is the first line of treatment for children fighting cancer. However, because of poor financial background, many parents can’t give their kids life-saving nutrition and often witness the condition deteriorate before their eyes. “We have observed that there is a marked improvement or maintenance in the health and nutritional status of more than 80% of children with cancer by giving them proper meals. Nutritional support can not only give a child the strength needed to go through chemotherapy, but also help in reducing the side effects of cancer treatment significantly. Sadly, the life-saving nutrition needed to help children defeat cancer is well beyond the reach for many parents due to their financial condition,” says Purnota Dutta Bahl, founder of the nonprofit. Purnota embarked upon the mission to save the lives of children with cancer over a decade back after a chance visit to the Tata Memorial Hospital. “I saw a baby girl who back then, was about the same age as my daughter. The girl was fighting cancer and was visibly malnourished. I was informed by the nurse that children get treatment for cancer at the hospital free of cost, but their condition keeps deteriorating as their parents can’t afford the required nutrition. It was on that day that I decided to at least give these children a fighting chance against cancer,” explains the founder of the nonprofit organisation. Donate to heal thousands more“We have been able to take our programme to over 50 hospitals, spread across 17 states. But still there are thousands of children we are yet to reach. The cost of providing nutritional support to a child and their family suffering from cancer is about ₹80,000 per year (or ₹7,000 a month). Cancer is absolutely curable. A little love and support from you can help children suffering from cancer complete their treatment and go on to live functional and productive lives in the future,” says Purnota.Donate to this fundraiser by give.do, India’s largest fundraising platform, to support Cuddles Foundation in their mission to give life-saving nutrition to children suffering from cancer and give them the strength to fight cancer.",
+      "title": "Help Sandip rescue and care for abandoned elderly left to beg on the streets. Donate now",
+      "description": "“I never imagined I would have to sleep at the bus stand despite having an able-bodied son. I was a building contractor, and it was all fine till the time I was earning well. But as soon as I lost my leg in an accident, I came on the streets. My son assaulted me and deserted me,” recalls Laxman Parasram Ajrekar, a beneficiary of Jeevan Anand Sanstha’s home for elderly, a sanctuary for over 230 seniors like him.Over the last decade Sandip Parab and his NGO Jeevan Anand Sanstha, despite facing financial hardships himself, have been a saviour for over 3,000 elderly.  With your support, Sandip can continue to rescue the elderly parents who are abandoned by their own children and give them the love and care they deserve. Donate nowDonate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India), &amp; 501(c)(3) of the Internal Revenue Code (USA). A fate worse than death“Just imagine the plight of an elderly mother who, despite coming from a well-to-do background is compelled to live the life of a beggar on city streets. The condition of elderly women who have been abandoned by their children is the worst because they face so many problems and threats on the streets. They lie starving on the streets with festering wounds and incapable of even moving,” says Sandip while talking about the pain of homeless seniors. Sandip has made it his life’s mission to protect and care for such senior citizens and has resolved never to rest till he can reach every elderly who is in need. The only hurdle Sandip faces is that of funds. Your support can enable him to reach countless more senior citizens who have been abused and abandoned by their families.How your donations helpSuch has been Sandip’s resolve to save the elderly from the streets that he has been rescuing them on his two wheeler. Today he faces a huge challenge in providing rescued senior citizens nutrition and medical care. “I treat each and every person at our home for elderly as my own parents. I do everything for them from bathing and cleaning to feeding them. But the problem I am facing is that the number of elderly at our home is increasing with each passing day. I need support in getting rations and medicines for this family of mine” shares Sandip.“When I was in my 20s, I found an elderly person lying unconscious near a railway station. I took him to my friend's home, cleaned him, bathed him and began taking care of him. I later found out that he was the principal of a school. His son was a professor but despite that he had been lying on the road. It is for helpless seniors like these that I decided that I will dedicate my life to care for them.Join this mission to protect vulnerable and helpless senior citizens who are in urgent need of medical care, food and shelter. Donate nowDonate to this fundraiser by Give, India’s largest online donation platform, to support Jeevan Anand Sansthan and other NGOs working in this cause to further their mission of rescuing abandoned elderly from the streets and giving them a loving home.",
       "patient_name": null,
       "condition": null,
-      "image_url": "https://cfstatic.give.do/762aa4e8-3505-4189-a857-e0c15942af03.webp",
-      "amount_raised_inr": 385613.0,
+      "image_url": "https://img.youtube.com/vi/TGXGQ3b5CdY/0.jpg",
+      "amount_raised_inr": 3859642.0,
       "amount_goal_inr": 5000000.0,
-      "deadline_iso": "2026-07-03",
-      "days_left": 4,
-      "campaign_url": "https://give.do/fundraisers/dont-let-children-fight-cancer-on-an-empty-stomach-help-them-with-nutrition-donate-now",
+      "deadline_iso": "2026-07-02",
+      "days_left": 3,
+      "campaign_url": "https://give.do/fundraisers/help-sandip-rescue-and-care-for-abandoned-elderly-left-to-beg-on-the-streets-donate-now",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-29T03:32:02.343015+00:00"
+      "scraped_at_iso": "2026-06-29T08:56:12.634646+00:00"
     },
     {
-      "id": "givedo-699e84db",
+      "id": "givedo-66c71da4",
       "source": "givedo",
-      "title": "Help restore an elderly mother's world through eye surgery. Give her sight back",
-      "description": "“Jyoti Devi came from Govindgarh. She was 95 years old. Upon examination, it was found that she only had a perception of light, she could only see if there was light somewhere, but beyond that, she had no vision. We performed her cataract surgery, and after the surgery, she achieved almost 6/6 vision. So, we were really delighted to know that, you know, we were able to provide eyesight to a 95-year-old lady.” When former IPS officer and ex-head of NSG, Sudhir Pratap Singh, shares this, it is not just a medical success story, it is a second chance at life.For elderly grandparents, blindness from cataracts is not just a health issue, It means losing their last hope. It means darkness in the final years of life. Through his NGO, Sapna, Singh is working tirelessly to ensure that no elderly person is condemned to blindness simply because they cannot afford ₹6,000. Your contributions are crucial in his mission. Donate as much as you can now.Donate easily through UPI, all debit/credit cards and net banking.Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).Poorest of the poor elderly affectedMany elderly are neglected by their families who feel spending money on an aging parent or grandparent might be futile, often leaving them as a burden. The extent of their poverty is such that they themselves can’t dream of the treatment. “This surgery is meant only for the poorest of the poor who cannot afford to go to a town or to a hospital in town to get their surgery. Due to cataracts, their perspective on daily tasks becomes very difficult,” Singh says.Singh recalls another case with deep concern: “Someone who could barely see her own finger and everything was blurred. Her vision had almost disappeared and had we not done anything she would have become cataract blind. We brought her into our hospital and conducted an urgent surgery and her vision improved to 6/9.”This is the difference your support makes, the difference between darkness and light. Your donation has the power to ease their pain. How your donation is usedSapna identifies elderly patients in remote rural areas who are too poor, too isolated, and too helpless to access treatment. They are brought in, examined, operated upon by qualified surgeons, and sent back home with restored vision, completely free of cost. But each surgery costs money. Surgeons must be paid. Equipment must be maintained. Medical supplies must be procured. Transportation must be arranged.And without support, many will continue to wait in darkness.16,000 surgeries. Thousands of lives were transformed. But many more are waiting.“We are not able to perform a very high number of cataract surgeries, but I think starting from about 300 to 400 a year, we have now slowly moved on to a thousand to fifteen hundred; last year, we had about fourteen hundred surgeries. Since inception, we have performed over about 16,000 surgeries until now. You need a lot of resources, you need a lot of, you know, manpower, you need a lot of surgeons, we have to pay them a decent amount of money too. So, I request all of you to support us in this cause and help us mobilize resources so that we can perform the maximum number of cataract surgeries for the poor in rural areas.”Sadly, for every person treated, many more remain untreated — elderly men and women slowly losing their sight because ₹6,000 stands between them and vision.Sudhir Pratap Singh’s appeal is simple, heartfelt and urgent, “Help mobilise resources so that Sapna can perform the maximum number of cataract surgeries for those most in need.”Your donation today can:Fund a life-changing cataract surgeryCover medical consumables and surgical costsSupport qualified surgeons and medical staffHelp transport elderly patients from remote villagesPrevent avoidable blindnessDonate now to help Ex-IPS officer Sudhir Pratap Singh in providing poor elderly parents and grandparents urgent cataract surgeries that they can’t afford",
+      "title": "Loving mother to 180 blind kids, visually impaired Veena needs your support in caring for them",
+      "description": "“A blind child is seen as a curse or as a burden to the family. These children are left on the street. I have picked up children from roadsides myself. I also lost my eyesight as a child but today I am a senior officer in a public sector company. What would I have done, had I not been taken care of?” asks Veena Mehta Verma who was once a beneficiary of National Association for the Blind, Delhi (NAB) and now works with the NGO to protect and care for blind children like herself.Today, hundreds of blind children supported by NAB, Delhi have found something that they never had before–hope for a better tomorrow. Without Veena and NAB, many of these children would be at the risk of going back to the streets or spend a life of neglect and even abuse. Your support to the NGO is crucial. Donate generouslyDonate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).A life of uncertainty and sufferingEven if a blind child is not abandoned they are often trapped in their homes deprived of education or any way of making a living. According to the nonprofit leader, “For a blind kid, employment is impossible without education. The (blind) kids need to learn Braille or they need ‘talking computer’ aids. Many of these kids are deprived of such facilities”.  Illuminating young lives “At NAB Delhi there are around 200-250 blind kids. There are around 180 kids in the hostel of NAB. We teach Braille, we teach arithmetic Taylor frames. To work towards a brighter future for the blind, we need your support. Please come forward and donate towards our mission”, says Veena. Students for whom NAB Delhi has cared for are today placed in some of the most prestigious organisations across the world. While some have gone on to make a name for themselves in the corporate world, others have taken up art and music as a profession too. Many blind children are bright, academically gifted, and waiting to shine, all they need is an opportunity. And your donation can give them just that.Donate to this fundraiser on Give.do, India’s largest and most trusted online donation platform, to help the blind children get shelter, education, care and a shot at a future full of opportunities.",
       "patient_name": null,
       "condition": null,
-      "image_url": "https://cfstatic.give.do/3918b1ae-cd21-4bea-891e-d468c32225b9.webp",
-      "amount_raised_inr": 850599.0,
-      "amount_goal_inr": 5000000.0,
-      "deadline_iso": "2026-07-03",
-      "days_left": 4,
-      "campaign_url": "https://give.do/fundraisers/help-restore-an-elderly-mothers-world-through-eye-surgery-give-her-sight-back",
+      "image_url": "https://cfstatic.give.do/df9aec70-9e3c-482f-be42-ecd4d728552a.webp",
+      "amount_raised_inr": 7492874.0,
+      "amount_goal_inr": 7000000.0,
+      "deadline_iso": "2026-07-02",
+      "days_left": 3,
+      "campaign_url": "https://give.do/fundraisers/loving-mother-to-180-blind-kids-visually-impaired-veena-needs-your-support-in-caring-for-them",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-29T03:32:02.343042+00:00"
-    },
-    {
-      "id": "givedo-691aeef5",
-      "source": "givedo",
-      "title": "Help Prasad provide shelter and care to orphaned kids and abandoned elderly parents",
-      "description": "Prasad and his wife Anu once had a daughter, little Prarthana , who passed away when she was still a toddler. Heartbroken but determined to honour her memory, they decided to dedicate their lives to those who had no one.  What began as adopting eight distressed children has now grown into a loving community that survives solely because Prasad refuses to give up. “My father, a farmer, ended his life owing to debt and distress. What I have faced as a child, I don't want any other child to face the same, and that is the biggest motivation. At present, we have 45 children and 25 abandoned elderly in our shelter home. We are their family. Anu (my wife) loves them like her own, and I provide for them and protect them like any father would,” says Prasad who stands as the last hope for these young ones and the elderly.  Unfortunately, he has been supporting this home with his meager earnings as an autorickshaw driver. He is in urgent need of help to keep a roof over his large family. You can lend him a hand in his noble work. Donate as much as you can today.Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).When pain became a missionPrasad knows what it means to grow up with hunger, fear, and the constant uncertainty of survival. He remembers the nights his family slept without food, the days his mother struggled alone after his father’s suicide, and the years he worked as a child doing menial jobs just to stay afloat. Today, those memories shape every decision he makes as the founder of Prathana Foundation, a home where abandoned elderly parents and orphaned children live together, as one family.“Our home is very unique. Here, orphans and elderly parents who have been abandoned by their children live together as a family. Here grandparents get the love of grandchildren, and orphaned kids are cared for by the elderly,” he shares with quiet pride.  In this one home, 45 children and 25 abandoned elderly have found love, belonging, and dignity, things life once denied them.But behind this warmth is a daily struggle that Prasad carries alone.  The daily struggle for survival“It’s very difficult for me to earn enough to sustain such a big home as an auto rickshaw driver. I am constantly in fear that if I run out of money, what will happen to the elderly and the orphans,” he says. The rising number of children and elderly people taking shelter here means more mouths to feed, more medicines to buy, more hospital visits, and more responsibilities on a man who already gives everything he has.Even after both he and Anu lost their jobs, he took up auto-rickshaw driving so the home could run. But the expenses of running such a large shelter are overwhelming.  Children need nutritious rations, school supplies, a safe environment, and emotional support. Elderly parents, many frail and chronically ill, need constant medical attention, medicines, and hospital visits. And the need keeps growing.I request you all to see these children and elderly as a member of your family and donate generously for them, so that their lives can be transformed,” Prasad appeals.Your support today can ensure- Daily nutritious meals for children and elderly parents  - Medical care, medicines, and emergency support for the elderly  - Safe shelter, clothing, and hygiene essentials  - Schooling, books, and basic education for every child  In a world where abandonment and loneliness break so many lives, Prathana Foundation stands as a rare home where forgotten grandparents and orphaned children rebuild hope together.  But this home, this family, cannot survive without you.  Your contribution can help Prasad continue saying “yes” to every abandoned child… every lonely elderly parent… every life that deserves love.  Donate today and help ensure that no elderly mother sleeps alone, no child suffers the scars Prasad once carried, and no family built on love collapses because of financial struggle.  Donate to this fundraiser on give.do, India’s most trusted online donation platform, to support Prathana Foundation in its mission to rescue and care for orphans of farmers and abandoned elderly. Your kindness can help keep this beautiful family together.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/9a289a4f-5e1a-426a-88ea-4286691a2170.webp",
-      "amount_raised_inr": 5423949.0,
-      "amount_goal_inr": 10000000.0,
-      "deadline_iso": "2026-07-04",
-      "days_left": 5,
-      "campaign_url": "https://give.do/fundraisers/help-prasad-provide-shelter-and-care-to-orphaned-kids-and-abandoned-elderly-parents",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-06-29T03:32:02.342943+00:00"
-    },
-    {
-      "id": "givedo-6697f8fa",
-      "source": "givedo",
-      "title": "Help care for abandoned widow mothers of Vrindavan. Donate now.",
-      "description": "\"My son is wealthy but I am a burden to him. I struggle for every meal and beg to survive,\" says a sobbing elderly mother, burdened by the grief of abandonment. The streets of Vrindavan are home to hundreds of elderly mothers who have been driven away from their own homes by their children. Some even live with the trauma of having been abused and assaulted by their families.Mothers who sacrifice everything for their families, in old age they are forced to beg to survive and struggle to get even two square meals a day. Pure Devotion Foundation, led by Gopal Das, has been providing shelter, care, and much-needed medical treatment to hundreds of widow mothers. Pure Devotion is also feeding the devotees during the Rath Yatra. The NGO cannot continue to serve elderly mothers and devotees without support. Come forward and donate generously.Donate easily through UPI, all debit/credit cards, and net banking. Charitable donations to this fundraising campaign are tax-exempt under 80G of the Income Tax Act (India).A Life of unimaginable sufferingMost widows who make their way to Vrindavan are abandoned by their families, often after years of abuse. They come here hoping they will spend the rest of their days in prayer and devotion. But most live in impoverished conditions on the streets and in dingy rooms. Poor living conditions often cause a wide range of health ailments, including respiratory infections and chronic conditions. Pure Devotion Foundation comes to their rescue through their work on the ground.“Someone's back isn't right. Someone can't walk, can't sit, or has eyesight issues. Someone has bad knees, blood pressure, or diabetes. These elderly mothers have various types of illnesses. At a time when they needed care and shelter the most, their sons have driven them out of their houses. In Vrindavan, thousands of mothers have been shunned by their sons. In this condition, they beg to survive somehow across the streets of Vrindavan. Somehow they survive by eating rice soaked in water,” says Gopal Das.Pure Devotion Foundation urgently needs support to provide food, shelter, and medical care to these widow mothers who are prone to more illnesses as they age.Pure Devotion Foundation provides monthly rations to not a few but thousands of mothers. We have even built a shelter home for these mothers in Radhakund and are building the largest shelter home in Vrindavan. But service of this magnitude cannot be done alone. We need more people to join this mission, this Diwali. I urge everyone to join this service,” the NGO founder further shares.Donate to this fundraiser by Pure Devotion Foundation on give.do, India’s largest and most trusted online donation platform, to provide abandoned elderly mothers of Vrindavan with urgent treatment, care, and shelter.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/77ee59ae-624e-4dc4-a722-6e349655a018.webp",
-      "amount_raised_inr": 5674900.0,
-      "amount_goal_inr": 8000000.0,
-      "deadline_iso": "2026-07-06",
-      "days_left": 7,
-      "campaign_url": "https://give.do/fundraisers/help-care-for-abandoned-widow-mothers-of-vrindavan-donate-now",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-06-29T03:32:02.343061+00:00"
+      "scraped_at_iso": "2026-06-29T08:56:12.634681+00:00"
     },
     {
       "id": "milaap-1030385",
@@ -146,14 +95,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1782058608/production/images/campaign/1030385/medical_1553587798_1782058597.jpg",
-      "amount_raised_inr": 8315.0,
+      "amount_raised_inr": 8332.0,
       "amount_goal_inr": 10000000.0,
       "deadline_iso": "2026-07-21",
       "days_left": 22,
       "campaign_url": "https://milaap.org/fundraisers/support-sandeep-krishan",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-29T03:31:59.538549+00:00"
+      "scraped_at_iso": "2026-06-29T08:56:09.709816+00:00"
     },
     {
       "id": "milaap-1030482",
@@ -163,14 +112,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1782106587/production/images/campaign/1030482/medical_1553587798_1782106586.jpg",
-      "amount_raised_inr": 12657.0,
+      "amount_raised_inr": 12774.0,
       "amount_goal_inr": 3500000.0,
       "deadline_iso": "2026-07-22",
       "days_left": 23,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-vibhore-malwiya",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-29T03:31:59.538433+00:00"
+      "scraped_at_iso": "2026-06-29T08:56:09.709585+00:00"
     },
     {
       "id": "milaap-1030911",
@@ -180,14 +129,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1782204859/production/images/campaign/1030911/medical_1553587798_1782204848.jpg",
-      "amount_raised_inr": 6121.0,
+      "amount_raised_inr": 6392.0,
       "amount_goal_inr": 1500000.0,
       "deadline_iso": "2026-07-23",
       "days_left": 24,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-rajathi-vadivel",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-29T03:31:59.538622+00:00"
+      "scraped_at_iso": "2026-06-29T08:56:09.709905+00:00"
     },
     {
       "id": "milaap-1031295",
@@ -197,14 +146,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.47,w_0.25,x_0.34,y_0.31/c_fill,h_198,w_264/v1782369043/production/images/campaign/1031295/WhatsApp_Image_2026-06-25_at_11.58.36_AM_xh3wnh_1782369044.jpg",
-      "amount_raised_inr": 11280.0,
+      "amount_raised_inr": 11327.0,
       "amount_goal_inr": 2000000.0,
       "deadline_iso": "2026-07-24",
       "days_left": 25,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-oliva-roy",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-29T03:31:59.538499+00:00"
+      "scraped_at_iso": "2026-06-29T08:56:09.709684+00:00"
     },
     {
       "id": "milaap-1031152",
@@ -214,14 +163,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1782270561/production/images/campaign/1031152/medical_1553587798_1782270549.jpg",
-      "amount_raised_inr": 8496.0,
+      "amount_raised_inr": 8501.0,
       "amount_goal_inr": 1300000.0,
       "deadline_iso": "2026-07-24",
       "days_left": 25,
       "campaign_url": "https://milaap.org/fundraisers/support-mrs-geeta",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-29T03:31:59.538571+00:00"
+      "scraped_at_iso": "2026-06-29T08:56:09.709867+00:00"
     },
     {
       "id": "milaap-1031576",
@@ -231,14 +180,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.15,w_0.12,x_0.32,y_0.43/c_fill,h_198,w_264/v1782556425/production/images/campaign/1031576/WhatsApp_Image_2026-06-27_at_2.27.57_PM_afuogd_1782556426.jpg",
-      "amount_raised_inr": 9095.0,
+      "amount_raised_inr": 9205.0,
       "amount_goal_inr": 10000000.0,
       "deadline_iso": "2026-07-25",
       "days_left": 26,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-srikanth-panchakarla",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-29T03:31:59.538525+00:00"
+      "scraped_at_iso": "2026-06-29T08:56:09.709732+00:00"
     },
     {
       "id": "milaap-1024789",
@@ -248,31 +197,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1782496928/production/images/campaign/1024789/WhatsApp_Image_2026-06-26_at_11.29.35_PM_cchsxs_1782496929.jpg",
-      "amount_raised_inr": 8278.0,
+      "amount_raised_inr": 8426.0,
       "amount_goal_inr": 2000000.0,
       "deadline_iso": "2026-07-31",
       "days_left": 32,
       "campaign_url": "https://milaap.org/fundraisers/support-m-mayuri",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-29T03:31:59.538601+00:00"
-    },
-    {
-      "id": "givedo-649bf51a",
-      "source": "givedo",
-      "title": "Educate 300 marginalized children in Bihar",
-      "description": "The 2014 Education Report shows that only 66.6% of students studying in Grades 3 to 5 could read Grade 1 texts, ﻿while only 58.7% have basic computational skills in government schools. There is also a lack of opportunities for students belonging to socially and economically deprived communities. These children face widespread discrimination on lines of caste, religion, gender, and class identities in general. This stunts their social, emotional and educational growth. \n Having identified the weakest link, Diksha, through its Knowledge Hub for Education and Learning, works primarily with displaced children between the ages of 5 - 18. These are primarily first generation learners whose parents are primarily daily-wage earners unable to provide access to steady or quality education to their children. In addition to addressing the gap of numeracy and literacy, the children are given access to tech tools; taught how to use computer programmes and use the internet. \n A)round 300 marginalized children get direct benefits from this activity. These children are better placed to access opportunities that will allow them to contribute better to their society. Primarily, focusing on the girls' education and their access to technology , confidence and builds their creativity so that they are able to voice their aspirations meaningfully alongside their male peers. In the long run, this results in an overall community transformation.Partnered with the American Embassy for English Access MicroScholarship programme for 50 students in Patna 4 children from Diksha participated in an event organized by UNICEF and CSEI in order to raise the voice against all the odds a youth has to go through also become a part of Patna Youth Forum.Sonu Kumar got selected for Bachelors in Economics in Banaras Hindu University.Vishal Kumar cleared the 6 round of test and interview and got selected for 1 year course of computer sciences at NavGurukulTwo of our students Khushi Rani and Khushboo Rani were able to perform well and clear their polytechnic examinations.Priyanka Kumari an alumna of Diksha KHEL center recently joined Bihar Police. Prince Kumar and Aryan Sahu, two of our students got selected as 75 creative minds of tomorrow at 52nd international film festival of India held in Goa.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/f6c9c784-8aa0-4365-9350-fa08420e0eae.jpg",
-      "amount_raised_inr": 869476.86,
-      "amount_goal_inr": 1075200.0,
-      "deadline_iso": "2030-03-31",
-      "days_left": 1371,
-      "campaign_url": "https://give.do/fundraisers/educate-300-marginalized-children-in-bihar-k2mfdwzm",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-06-29T03:32:02.343078+00:00"
+      "scraped_at_iso": "2026-06-29T08:56:09.709780+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -282,14 +214,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 152071302.06,
+      "amount_raised_inr": 152072802.06,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2030-03-31",
       "days_left": 1371,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-29T03:32:02.342891+00:00"
+      "scraped_at_iso": "2026-06-29T08:56:12.634542+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -306,7 +238,7 @@
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-29T03:32:02.342910+00:00"
+      "scraped_at_iso": "2026-06-29T08:56:12.634568+00:00"
     }
   ]
 }
