@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-29T21:23:15.903108+00:00",
+  "generated_at": "2026-06-30T02:56:00.366852+00:00",
   "sources": {
-    "ketto": 0,
+    "ketto": 10,
     "milaap": 8,
     "givedo": 6
   },
@@ -17,8 +17,25 @@
     "pa",
     "ml"
   ],
-  "total": 13,
+  "total": 20,
   "campaigns": [
+    {
+      "id": "ketto-8-7748919",
+      "source": "ketto",
+      "title": "Support Baby of Shalini to get a new life",
+      "description": "Support Baby of Shalini to get a new life",
+      "patient_name": "Baby of Shalini Kashyap",
+      "condition": "Prematurity/ Preterm",
+      "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/media/campaign/1151000/1151460/image/6a3bbff716cf3.jpg",
+      "amount_raised_inr": 111904.0,
+      "amount_goal_inr": 600000.0,
+      "deadline_iso": "2026-06-30",
+      "days_left": 0,
+      "campaign_url": "https://www.ketto.org/fundraiser/support-baby-of-shalini-to-get-a-new-life",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-06-30T02:55:51.278884+00:00"
+    },
     {
       "id": "givedo-6835addd",
       "source": "givedo",
@@ -30,28 +47,11 @@
       "amount_raised_inr": 3236045.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-07-01",
-      "days_left": 2,
+      "days_left": 1,
       "campaign_url": "https://give.do/fundraisers/help-visually-impaired-shivaprakash-give-40-blind-girls-shelter-education-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-29T21:23:13.466364+00:00"
-    },
-    {
-      "id": "givedo-667e964e",
-      "source": "givedo",
-      "title": "Help 72-year-old Vanitha provide 100+ abandoned mentally ill women with shelter and care",
-      "description": "“The major problem in society today is the stigma against mentally ill or mentally disabled people. Families feed and care for men who are mentally ill and keep them at home. But no one wants to help women with mental illnesses,” says N Vanitha Rengaraj, chairperson of Sharanalayam.Sharanalaym’s ‘Jothi’ is a sanctuary for over 100 women facing mental challenges. Women with mental illness facing various challenges on the streets are brought to Sharanalayam with the help of the authorities and cared for. Donate easily through UPI, all debit/credit cards and net banking. Donations to this fundraiser are tax exempted under 80G of the Income Tax Act (India).The women at Sharanalaym Jothi are provided with necessities like food, clothing and medical care. They also get mental health services, access to psychiatrists and counseling, empowering individuals on their path to recovery.Once lost and vulnerable on unfamiliar streets, the women at Sharanalaym Jothi find solace.By supporting mentally disabled women at Sharanalaym Jothi, you contribute to creating a better world. We can ensure these women receive the care and support they deserve.Over the years, Vanitha has tried her best to run Sharanalayam from her own resources and that of her well-wishers, but the last few years have been harsh. “I normally don’t extend my hand for people to donate. Many have come on their own. But life has become a bit difficult now. I need your support to take care of the women here and also bring more women here in need of help,” says Vanitha. How Sharanalayam came into beingThe NGO started its operations in 2001 from rented premises in Pollachi in the district of Coimbatore. It started with taking care of children in difficult conditions. It slowly started taking care of mentally challenged women. Sharanalayam has come a long way since that time, with hundreds of children and women being taken care of by the NGO in the last two decades. Many women were rehabilitated by the NGO, thanks to its facilities.Sharanalayam needs urgent support to take care of over 100 women. The organisation also aspires to take care of many more mentally ill women in the coming months and years. Vanitha cannot do it without your support. Donate to this fundraiser on Give.do, India’s largest and most trusted online donation platform, to help abandoned mentally ill women get care and shelter. Vanitha, 72, the founder of Sharanalayam cannot do it alone.Donate now.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/e2c65b44-daf2-4379-b205-a7f110543865.webp",
-      "amount_raised_inr": 11866876.0,
-      "amount_goal_inr": 30000000.0,
-      "deadline_iso": "2026-07-02",
-      "days_left": 3,
-      "campaign_url": "https://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-06-29T21:23:13.466455+00:00"
+      "scraped_at_iso": "2026-06-30T02:55:57.277247+00:00"
     },
     {
       "id": "givedo-65b0b1e2",
@@ -64,11 +64,11 @@
       "amount_raised_inr": 3862143.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-07-02",
-      "days_left": 3,
+      "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/help-sandip-rescue-and-care-for-abandoned-elderly-left-to-beg-on-the-streets-donate-now",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-29T21:23:13.466395+00:00"
+      "scraped_at_iso": "2026-06-30T02:55:57.277309+00:00"
     },
     {
       "id": "givedo-66c71da4",
@@ -81,11 +81,28 @@
       "amount_raised_inr": 7492874.0,
       "amount_goal_inr": 7000000.0,
       "deadline_iso": "2026-07-02",
-      "days_left": 3,
+      "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/loving-mother-to-180-blind-kids-visually-impaired-veena-needs-your-support-in-caring-for-them",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-29T21:23:13.466421+00:00"
+      "scraped_at_iso": "2026-06-30T02:55:57.277338+00:00"
+    },
+    {
+      "id": "ketto-6-5592549",
+      "source": "ketto",
+      "title": "URGENT MEDICAL SUPPORT NEEDED",
+      "description": "URGENT MEDICAL SUPPORT NEEDED",
+      "patient_name": "Thatavarthy pavani Hyma Sudha",
+      "condition": "Traumatic Brain Injury",
+      "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/media/campaign/1144000/1144720/image/blurred/6a1b12554c5f1.jpg",
+      "amount_raised_inr": 215643.42,
+      "amount_goal_inr": 1500000.0,
+      "deadline_iso": "2026-07-14",
+      "days_left": 14,
+      "campaign_url": "https://www.ketto.org/fundraiser/my-wife-is-suffering-from-traumatic-brain-injury-we-need-your-help-to-provide-for-her-treatment-1144720",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-06-30T02:55:51.278839+00:00"
     },
     {
       "id": "milaap-1030385",
@@ -98,11 +115,11 @@
       "amount_raised_inr": 8494.0,
       "amount_goal_inr": 10000000.0,
       "deadline_iso": "2026-07-21",
-      "days_left": 22,
+      "days_left": 21,
       "campaign_url": "https://milaap.org/fundraisers/support-sandeep-krishan",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-29T21:23:10.778886+00:00"
+      "scraped_at_iso": "2026-06-30T02:55:54.425018+00:00"
     },
     {
       "id": "milaap-1030482",
@@ -112,14 +129,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1782106587/production/images/campaign/1030482/medical_1553587798_1782106586.jpg",
-      "amount_raised_inr": 13078.0,
+      "amount_raised_inr": 13100.0,
       "amount_goal_inr": 3500000.0,
       "deadline_iso": "2026-07-22",
-      "days_left": 23,
+      "days_left": 22,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-vibhore-malwiya",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-29T21:23:10.778771+00:00"
+      "scraped_at_iso": "2026-06-30T02:55:54.424929+00:00"
     },
     {
       "id": "milaap-1030911",
@@ -132,11 +149,11 @@
       "amount_raised_inr": 6398.0,
       "amount_goal_inr": 1500000.0,
       "deadline_iso": "2026-07-23",
-      "days_left": 24,
+      "days_left": 23,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-rajathi-vadivel",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-29T21:23:10.778908+00:00"
+      "scraped_at_iso": "2026-06-30T02:55:54.425036+00:00"
     },
     {
       "id": "milaap-1031295",
@@ -146,14 +163,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.47,w_0.25,x_0.34,y_0.31/c_fill,h_198,w_264/v1782369043/production/images/campaign/1031295/WhatsApp_Image_2026-06-25_at_11.58.36_AM_xh3wnh_1782369044.jpg",
-      "amount_raised_inr": 12872.0,
+      "amount_raised_inr": 12987.0,
       "amount_goal_inr": 2000000.0,
       "deadline_iso": "2026-07-24",
-      "days_left": 25,
+      "days_left": 24,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-oliva-roy",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-29T21:23:10.778703+00:00"
+      "scraped_at_iso": "2026-06-30T02:55:54.424883+00:00"
     },
     {
       "id": "milaap-1031152",
@@ -163,14 +180,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1782270561/production/images/campaign/1031152/medical_1553587798_1782270549.jpg",
-      "amount_raised_inr": 8537.0,
+      "amount_raised_inr": 8542.0,
       "amount_goal_inr": 1300000.0,
       "deadline_iso": "2026-07-24",
-      "days_left": 25,
+      "days_left": 24,
       "campaign_url": "https://milaap.org/fundraisers/support-mrs-geeta",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-29T21:23:10.778858+00:00"
+      "scraped_at_iso": "2026-06-30T02:55:54.424999+00:00"
     },
     {
       "id": "milaap-1031576",
@@ -180,14 +197,48 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.15,w_0.12,x_0.32,y_0.43/c_fill,h_198,w_264/v1782556425/production/images/campaign/1031576/WhatsApp_Image_2026-06-27_at_2.27.57_PM_afuogd_1782556426.jpg",
-      "amount_raised_inr": 9728.0,
+      "amount_raised_inr": 10504.0,
       "amount_goal_inr": 10000000.0,
       "deadline_iso": "2026-07-25",
-      "days_left": 26,
+      "days_left": 25,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-srikanth-panchakarla",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-29T21:23:10.778806+00:00"
+      "scraped_at_iso": "2026-06-30T02:55:54.424957+00:00"
+    },
+    {
+      "id": "ketto-5-8936599",
+      "source": "ketto",
+      "title": "My Son Is Suffering From Spinal muscular atrophy (SMA). We Need Your Help To Provide For His Treatment",
+      "description": "My Son Is Suffering From Spinal muscular atrophy (SMA). We Need Your Help To Provide For His Treatment",
+      "patient_name": "Aditya Pradhan",
+      "condition": "Spinal muscular atrophy (SMA)",
+      "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/media/campaigns/1141000/1141568/image/blurred/MYc8FCZN6W4YWJ07fro2ecR64t8qEbDePD57TDuB.jpg",
+      "amount_raised_inr": 4429.0,
+      "amount_goal_inr": 90000000.0,
+      "deadline_iso": "2026-07-31",
+      "days_left": 31,
+      "campaign_url": "https://www.ketto.org/fundraiser/my-son-is-suffering-from-spinal-muscular-atrophy-sma-we-need-your-help-to-provide-for-his-treatment-1141568",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-06-30T02:55:51.278816+00:00"
+    },
+    {
+      "id": "ketto-7-4161775",
+      "source": "ketto",
+      "title": "Help my father recover from STAGE 4 CANCER",
+      "description": "Help my father recover from STAGE 4 CANCER",
+      "patient_name": "Harsh Singhal",
+      "condition": "Bladder cancer/ bladder carcinoma",
+      "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/media/campaigns/1098000/1098037/image/JTEJbMT0QKd5wEWdacHhhNiPqt5RA1SsYAuAvkvx.jpg",
+      "amount_raised_inr": 1939094.96,
+      "amount_goal_inr": 5000000.0,
+      "deadline_iso": "2026-07-31",
+      "days_left": 31,
+      "campaign_url": "https://www.ketto.org/fundraiser/my-father-is-fighting-for-his-life-and-we-need-your-support-to-save-him-1098037",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-06-30T02:55:51.278863+00:00"
     },
     {
       "id": "milaap-1024789",
@@ -197,14 +248,82 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1782496928/production/images/campaign/1024789/WhatsApp_Image_2026-06-26_at_11.29.35_PM_cchsxs_1782496929.jpg",
-      "amount_raised_inr": 8814.0,
+      "amount_raised_inr": 8849.0,
       "amount_goal_inr": 2000000.0,
       "deadline_iso": "2026-07-31",
-      "days_left": 32,
+      "days_left": 31,
       "campaign_url": "https://milaap.org/fundraisers/support-m-mayuri",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-29T21:23:10.778834+00:00"
+      "scraped_at_iso": "2026-06-30T02:55:54.424979+00:00"
+    },
+    {
+      "id": "ketto-9-1040294",
+      "source": "ketto",
+      "title": "A Childhood Beyond Labour",
+      "description": "A Childhood Beyond Labour",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/media/campaign/1149000/1149547/image/6a324114e89d7.png",
+      "amount_raised_inr": 110004.0,
+      "amount_goal_inr": 500000.0,
+      "deadline_iso": "2026-08-01",
+      "days_left": 32,
+      "campaign_url": "https://www.ketto.org/fundraiser/a-childhood-beyond-labour",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-06-30T02:55:51.278905+00:00"
+    },
+    {
+      "id": "ketto-4-1630245",
+      "source": "ketto",
+      "title": "Independence Through Empowerment",
+      "description": "Independence Through Empowerment",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/media/campaign/1146000/1146280/image/6a227b569ebb3.png",
+      "amount_raised_inr": 109803.0,
+      "amount_goal_inr": 3000000.0,
+      "deadline_iso": "2026-08-31",
+      "days_left": 62,
+      "campaign_url": "https://www.ketto.org/fundraiser/independence-through-empowerment",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-06-30T02:55:51.278789+00:00"
+    },
+    {
+      "id": "ketto-3-4859032",
+      "source": "ketto",
+      "title": "Support Ajay Who’s Spent His Whole Life Helping Special Kids Succeed",
+      "description": "Support Ajay Who’s Spent His Whole Life Helping Special Kids Succeed",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/media/campaigns/1130000/1130259/image/phoKfQlI03VpvajskfGokjHDePierSh1GwEWD9cS.jpg",
+      "amount_raised_inr": 0.0,
+      "amount_goal_inr": 0.0,
+      "deadline_iso": "2026-09-04",
+      "days_left": 66,
+      "campaign_url": "https://www.ketto.org/fundraiser/KettoKart-andhancheyuvamanch-ngo",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-06-30T02:55:51.278766+00:00"
+    },
+    {
+      "id": "givedo-68b5a344",
+      "source": "givedo",
+      "title": "Feed the Hungry and Restore Hope",
+      "description": "I am fundraising for a cause close to my heart, to bring a lasting change in the lives of the underprivileged. To help me create more impact and touch more lives, I need your support and contribution. Please back my fundraiser so that together we can build a better India for all of us. Pledge your support, donate now!",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/b81bea6f-24d2-42fc-aa7d-2a464c910737.webp",
+      "amount_raised_inr": 3261899.0,
+      "amount_goal_inr": 20000000.0,
+      "deadline_iso": "2027-12-31",
+      "days_left": 549,
+      "campaign_url": "https://give.do/fundraisers/feed-the-hungry-and-restore-hope",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-06-30T02:55:57.277351+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -214,14 +333,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 152096435.97,
+      "amount_raised_inr": 152097570.71,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2030-03-31",
-      "days_left": 1371,
+      "days_left": 1370,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-29T21:23:13.466297+00:00"
+      "scraped_at_iso": "2026-06-30T02:55:57.277176+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -231,14 +350,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 68258238.57,
+      "amount_raised_inr": 68260129.81,
       "amount_goal_inr": 35000000.0,
       "deadline_iso": "2030-05-31",
-      "days_left": 1432,
+      "days_left": 1431,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-06-29T21:23:13.466322+00:00"
+      "scraped_at_iso": "2026-06-30T02:55:57.277200+00:00"
     }
   ]
 }
