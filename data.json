@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T17:52:54.969224+00:00",
+  "generated_at": "2026-07-09T21:20:39.905273+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 6,
@@ -27,14 +27,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/3d8552de-9a0a-41b0-878a-470ec88157d8.webp",
-      "amount_raised_inr": 2477338.0,
+      "amount_raised_inr": 2484038.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-07-11",
       "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-09T17:52:52.325684+00:00"
+      "scraped_at_iso": "2026-07-09T21:20:36.847235+00:00"
     },
     {
       "id": "givedo-6835addd",
@@ -51,7 +51,7 @@
       "campaign_url": "https://give.do/fundraisers/help-visually-impaired-shivaprakash-give-40-blind-girls-shelter-education-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-09T17:52:52.325563+00:00"
+      "scraped_at_iso": "2026-07-09T21:20:36.847149+00:00"
     },
     {
       "id": "givedo-65094410",
@@ -61,14 +61,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/08165cbd-96ba-401a-9acc-5d0edaa6764a.webp",
-      "amount_raised_inr": 3958643.0,
+      "amount_raised_inr": 3961143.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-07-11",
       "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/help-chitra-save-disabled-children-from-poor-families-from-a-life-of-neglect-and-abuse",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-09T17:52:52.325639+00:00"
+      "scraped_at_iso": "2026-07-09T21:20:36.847195+00:00"
     },
     {
       "id": "milaap-1032756",
@@ -78,31 +78,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1782746770/production/images/campaign/1032756/nandalal_qzjgtv_1782746771.webp",
-      "amount_raised_inr": 21906.0,
+      "amount_raised_inr": 21908.0,
       "amount_goal_inr": 3000000.0,
       "deadline_iso": "2026-07-29",
       "days_left": 20,
       "campaign_url": "https://milaap.org/fundraisers/support-mr-nandalal",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-09T17:52:49.426972+00:00"
-    },
-    {
-      "id": "milaap-1032966",
-      "source": "milaap",
-      "title": "Urgent: Help My Sister-In-Law Beat Stage 4 Cancer",
-      "description": "Help Save  A Mother’s Urgent Fight Against Stage 4 Lung Cancer My brother, Stephen Thomas Walker, and his wife, Janet Gi...",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1782811392/production/images/campaign/1032966/Gemini_Generated_Image_dja4scdja4scdja4_l0ov14_1782811393.webp",
-      "amount_raised_inr": 6018.0,
-      "amount_goal_inr": 1000000.0,
-      "deadline_iso": "2026-07-30",
-      "days_left": 21,
-      "campaign_url": "https://milaap.org/fundraisers/support-stephen-55",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-07-09T17:52:49.427121+00:00"
+      "scraped_at_iso": "2026-07-09T21:20:33.698551+00:00"
     },
     {
       "id": "milaap-1033481",
@@ -119,7 +102,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-priyadarshini-19",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-09T17:52:49.427098+00:00"
+      "scraped_at_iso": "2026-07-09T21:20:33.698710+00:00"
     },
     {
       "id": "milaap-1033784",
@@ -136,7 +119,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-yash-singla",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-09T17:52:49.427040+00:00"
+      "scraped_at_iso": "2026-07-09T21:20:33.698643+00:00"
     },
     {
       "id": "milaap-1033979",
@@ -153,7 +136,24 @@
       "campaign_url": "https://milaap.org/fundraisers/support-prem-kumar-m-n",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-09T17:52:49.427147+00:00"
+      "scraped_at_iso": "2026-07-09T21:20:33.698738+00:00"
+    },
+    {
+      "id": "milaap-1033941",
+      "source": "milaap",
+      "title": "Help save my newborn twin's life",
+      "description": "I am a mother raising funds for my 15-day-old twin daughter who has been diagnosed with Ichthyosis with Confetti (IWC), ...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.25,w_0.21,x_0.17,y_0.3/c_fill,h_198,w_264/v1783093495/production/images/campaign/1033941/Twin_Baby_2_idaitc_1783093497.webp",
+      "amount_raised_inr": 5191.0,
+      "amount_goal_inr": 650000.0,
+      "deadline_iso": "2026-08-02",
+      "days_left": 24,
+      "campaign_url": "https://milaap.org/fundraisers/support-child-of-a-durgadevi-gopal-1",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-07-09T21:20:33.698768+00:00"
     },
     {
       "id": "milaap-1026824",
@@ -163,14 +163,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1780999038/production/images/campaign/1026824/medical_1553587798_1780999037.webp",
-      "amount_raised_inr": 7845.0,
+      "amount_raised_inr": 7847.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-10-31",
       "days_left": 114,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-karthik-k-n",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-09T17:52:49.427073+00:00"
+      "scraped_at_iso": "2026-07-09T21:20:33.698680+00:00"
     },
     {
       "id": "givedo-68b5a344",
@@ -180,14 +180,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/b81bea6f-24d2-42fc-aa7d-2a464c910737.webp",
-      "amount_raised_inr": 3294599.0,
+      "amount_raised_inr": 3295599.0,
       "amount_goal_inr": 20000000.0,
       "deadline_iso": "2027-12-31",
       "days_left": 540,
       "campaign_url": "https://give.do/fundraisers/feed-the-hungry-and-restore-hope",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-09T17:52:52.325702+00:00"
+      "scraped_at_iso": "2026-07-09T21:20:36.847247+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -197,14 +197,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 152851138.61,
+      "amount_raised_inr": 152882783.35,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2030-03-31",
       "days_left": 1361,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-09T17:52:52.325475+00:00"
+      "scraped_at_iso": "2026-07-09T21:20:36.847076+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -214,14 +214,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 68477812.15,
+      "amount_raised_inr": 68478813.15,
       "amount_goal_inr": 35000000.0,
       "deadline_iso": "2030-05-31",
       "days_left": 1422,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-09T17:52:52.325507+00:00"
+      "scraped_at_iso": "2026-07-09T21:20:36.847101+00:00"
     }
   ]
 }
