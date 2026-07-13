@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-13T17:52:42.783275+00:00",
+  "generated_at": "2026-07-13T20:54:27.241239+00:00",
   "sources": {
-    "ketto": 0,
+    "ketto": 9,
     "milaap": 8,
     "givedo": 6
   },
@@ -17,7 +17,7 @@
     "pa",
     "ml"
   ],
-  "total": 13,
+  "total": 22,
   "campaigns": [
     {
       "id": "givedo-68f25b24",
@@ -27,14 +27,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/3d8552de-9a0a-41b0-878a-470ec88157d8.webp",
-      "amount_raised_inr": 2703764.0,
+      "amount_raised_inr": 2706564.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-07-15",
       "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-13T17:52:40.321026+00:00"
+      "scraped_at_iso": "2026-07-13T20:54:22.095285+00:00"
+    },
+    {
+      "id": "ketto-1-2900987",
+      "source": "ketto",
+      "title": "I Can Conquer Cancer If You Will Support Me.",
+      "description": "I Can Conquer Cancer If You Will Support Me.",
+      "patient_name": "Naga Bhargavi Dabberu",
+      "condition": "Metastatic breast cancer",
+      "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/media/campaigns/1135000/1135361/image/67xyd0cF6wRIyIxpysJAFk9gBfq1hiHY4ZFr1gy9.jpg",
+      "amount_raised_inr": 384626.5,
+      "amount_goal_inr": 2600000.0,
+      "deadline_iso": "2026-07-15",
+      "days_left": 2,
+      "campaign_url": "https://www.ketto.org/fundraiser/i-need-your-urgent-support-for-my-metastatic-breast-cancer-treatment-1135361",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-07-13T20:54:15.468244+00:00"
     },
     {
       "id": "givedo-65b89257",
@@ -51,7 +68,24 @@
       "campaign_url": "https://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-13T17:52:40.321063+00:00"
+      "scraped_at_iso": "2026-07-13T20:54:22.095327+00:00"
+    },
+    {
+      "id": "ketto-4-4603900",
+      "source": "ketto",
+      "title": "3-Year-Old Adheeran Thirupathi's Cancer-Free Future Can Begin With Your Support!",
+      "description": "3-Year-Old Adheeran Thirupathi's Cancer-Free Future Can Begin With Your Support!",
+      "patient_name": "Master Adheeran T",
+      "condition": "Leukemia",
+      "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/media/campaigns/1145000/1145297/image/blurred/3RNlXw6IHQn3QxOcSbl6iQRQAUtln4rTvuPp4nxr.png",
+      "amount_raised_inr": 2783324.56,
+      "amount_goal_inr": 4400000.0,
+      "deadline_iso": "2026-07-17",
+      "days_left": 4,
+      "campaign_url": "https://www.ketto.org/fundraiser/offer-a-helping-hand-to-support-adheeran-thirupathis-treatment",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-07-13T20:54:15.468317+00:00"
     },
     {
       "id": "givedo-65094410",
@@ -61,14 +95,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/08165cbd-96ba-401a-9acc-5d0edaa6764a.webp",
-      "amount_raised_inr": 3995355.0,
+      "amount_raised_inr": 3995855.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-07-19",
       "days_left": 6,
       "campaign_url": "https://give.do/fundraisers/help-chitra-save-disabled-children-from-poor-families-from-a-life-of-neglect-and-abuse",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-13T17:52:40.321093+00:00"
+      "scraped_at_iso": "2026-07-13T20:54:22.095361+00:00"
     },
     {
       "id": "milaap-1031576",
@@ -78,14 +112,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.15,w_0.12,x_0.32,y_0.43/c_fill,h_198,w_264/v1782556425/production/images/campaign/1031576/WhatsApp_Image_2026-06-27_at_2.27.57_PM_afuogd_1782556426.webp",
-      "amount_raised_inr": 24306.0,
+      "amount_raised_inr": 24525.0,
       "amount_goal_inr": 10000000.0,
       "deadline_iso": "2026-07-25",
       "days_left": 12,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-srikanth-panchakarla",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-13T17:52:37.438665+00:00"
+      "scraped_at_iso": "2026-07-13T20:54:19.110322+00:00"
+    },
+    {
+      "id": "ketto-5-8851547",
+      "source": "ketto",
+      "title": "Help Support Sagar Barua After a Hit-and-Run Accident as He Battles for His Life",
+      "description": "Help Support Sagar Barua After a Hit-and-Run Accident as He Battles for His Life",
+      "patient_name": "Sagar Barua",
+      "condition": "Accident",
+      "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/media/campaign/1142000/1142531/image/6a1008b6f2506.png",
+      "amount_raised_inr": 4946585.02,
+      "amount_goal_inr": 7000000.0,
+      "deadline_iso": "2026-07-31",
+      "days_left": 18,
+      "campaign_url": "https://www.ketto.org/fundraiser/offer-a-helping-hand-to-support-sagar-baruas-treatment-1142531",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-07-13T20:54:15.468344+00:00"
     },
     {
       "id": "milaap-1033784",
@@ -102,7 +153,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-yash-singla",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-13T17:52:37.438562+00:00"
+      "scraped_at_iso": "2026-07-13T20:54:19.110228+00:00"
     },
     {
       "id": "milaap-1033979",
@@ -112,14 +163,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1783104685/production/images/campaign/1033979/spodqelw5adpbmwegaxt_1783104686.webp",
-      "amount_raised_inr": 6147.0,
+      "amount_raised_inr": 6289.0,
       "amount_goal_inr": 1000000.0,
       "deadline_iso": "2026-08-02",
       "days_left": 20,
       "campaign_url": "https://milaap.org/fundraisers/support-prem-kumar-m-n",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-13T17:52:37.438638+00:00"
+      "scraped_at_iso": "2026-07-13T20:54:19.110296+00:00"
     },
     {
       "id": "milaap-1034094",
@@ -129,14 +180,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1783153826/production/images/campaign/1034094/medical_1553587798_1783153814.webp",
-      "amount_raised_inr": 4133.0,
+      "amount_raised_inr": 4151.0,
       "amount_goal_inr": 2064249.0,
       "deadline_iso": "2026-08-03",
       "days_left": 21,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-nikita-chavan",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-13T17:52:37.438534+00:00"
+      "scraped_at_iso": "2026-07-13T20:54:19.110201+00:00"
     },
     {
       "id": "milaap-1035095",
@@ -153,7 +204,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-s-savitha",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-13T17:52:37.438586+00:00"
+      "scraped_at_iso": "2026-07-13T20:54:19.110252+00:00"
     },
     {
       "id": "milaap-1035958",
@@ -170,7 +221,24 @@
       "campaign_url": "https://milaap.org/fundraisers/support-souvik-mondal",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-13T17:52:37.438614+00:00"
+      "scraped_at_iso": "2026-07-13T20:54:19.110274+00:00"
+    },
+    {
+      "id": "ketto-2-6454403",
+      "source": "ketto",
+      "title": "Help Ishu Fight Back After a Tragic Road Accident",
+      "description": "Help Ishu Fight Back After a Tragic Road Accident",
+      "patient_name": "Ishu Pal Singh",
+      "condition": "Traumatic Brain Injury",
+      "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/media/campaign/1147000/1147444/image/6a2943b984ee0.png",
+      "amount_raised_inr": 9989537.63,
+      "amount_goal_inr": 12500000.0,
+      "deadline_iso": "2026-08-10",
+      "days_left": 28,
+      "campaign_url": "https://www.ketto.org/fundraiser/help-ishu-fight-back-after-a-tragic-road-accident",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-07-13T20:54:15.468271+00:00"
     },
     {
       "id": "milaap-1036067",
@@ -187,7 +255,92 @@
       "campaign_url": "https://milaap.org/fundraisers/support-srinivasan-163",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-13T17:52:37.438501+00:00"
+      "scraped_at_iso": "2026-07-13T20:54:19.110149+00:00"
+    },
+    {
+      "id": "ketto-0-3417298",
+      "source": "ketto",
+      "title": "Help My Mother Overcome Stage 4 Metastatic Breast Cancer and Become a Cancer Survivor!",
+      "description": "Help My Mother Overcome Stage 4 Metastatic Breast Cancer and Become a Cancer Survivor!",
+      "patient_name": "Aarti Devi",
+      "condition": "Metastatic breast cancer",
+      "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/media/campaigns/1153000/1153441/image/1GE5Q4KxIJxXacsosBEvy1nRmiQvclzO14QNsLYK.png",
+      "amount_raised_inr": 1134000.85,
+      "amount_goal_inr": 3150000.0,
+      "deadline_iso": "2026-08-15",
+      "days_left": 33,
+      "campaign_url": "https://www.ketto.org/fundraiser/my-mother-is-fighting-for-her-life-and-we-need-your-support-to-save-her-1153441",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-07-13T20:54:15.468184+00:00"
+    },
+    {
+      "id": "ketto-3-9056863",
+      "source": "ketto",
+      "title": "Offer a helping hand to support Pawan Singh Treatment for Blood Cancer(Leukaemia)",
+      "description": "Offer a helping hand to support Pawan Singh Treatment for Blood Cancer(Leukaemia)",
+      "patient_name": "Pawan Singh",
+      "condition": "Acute myeloid leukemia (AML)",
+      "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/media/campaign/1154000/1154320/image/6a49433544acd.jpg",
+      "amount_raised_inr": 201419.0,
+      "amount_goal_inr": 6000000.0,
+      "deadline_iso": "2026-08-18",
+      "days_left": 36,
+      "campaign_url": "https://www.ketto.org/fundraiser/offer-a-helping-hand-to-support-pawan-singhs-treatment-1154320",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-07-13T20:54:15.468293+00:00"
+    },
+    {
+      "id": "ketto-7-4238480",
+      "source": "ketto",
+      "title": "My 25-Year-Old Brother is fighting for his life against Amyotrophic Lateral Sclerosis (ALS). Your Help Could Save His Life!",
+      "description": "My 25-Year-Old Brother is fighting for his life against Amyotrophic Lateral Sclerosis (ALS). Your Help Could Save His Life!",
+      "patient_name": "Dhanakumar S",
+      "condition": "Autoimmune disorder",
+      "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/media/campaigns/1112000/1112306/image/z8foVoXG7yfSGvem9g30O0JWjWQl6hhEBfFHo96h.jpg",
+      "amount_raised_inr": 1667334.08,
+      "amount_goal_inr": 5000000.0,
+      "deadline_iso": "2026-08-20",
+      "days_left": 38,
+      "campaign_url": "https://www.ketto.org/fundraiser/my-brother-is-suffering-from-autoimmune-disorder-we-need-your-help-to-provide-for-his-treatment-1112306",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-07-13T20:54:15.468384+00:00"
+    },
+    {
+      "id": "ketto-8-1665779",
+      "source": "ketto",
+      "title": "My Mother Is Fighting For Her Life And We Need Your Support To Save Her",
+      "description": "My Mother Is Fighting For Her Life And We Need Your Support To Save Her",
+      "patient_name": "Nazmunnisa Pathan",
+      "condition": "Breast cancer",
+      "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/media/campaign/1014000/1014345/image/6843fbfdafe0b.jpg",
+      "amount_raised_inr": 1398746.55,
+      "amount_goal_inr": 2000000.0,
+      "deadline_iso": "2026-09-26",
+      "days_left": 75,
+      "campaign_url": "https://www.ketto.org/fundraiser/my-mother-is-fighting-for-her-life-and-we-need-your-support-to-save-her-1014345",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-07-13T20:54:15.468403+00:00"
+    },
+    {
+      "id": "ketto-6-4550590",
+      "source": "ketto",
+      "title": "Only 1-Year-Old But Battling Blood Cancer. Save Baby Kridha!",
+      "description": "Only 1-Year-Old But Battling Blood Cancer. Save Baby Kridha!",
+      "patient_name": "Kridha Indupuru",
+      "condition": "Acute Monoblastic Leukemia",
+      "image_url": "https://d1vdjc70h9nzd9.cloudfront.net/media/campaigns/1136000/1136811/image/RPq6rHfWw0Ni9li9ty9OOZ3NHUMmE9Obx2moezLj.png",
+      "amount_raised_inr": 942717.01,
+      "amount_goal_inr": 1500000.0,
+      "deadline_iso": "2026-09-28",
+      "days_left": 77,
+      "campaign_url": "https://www.ketto.org/fundraiser/my-daughter-is-fighting-for-her-life-and-we-need-your-support-to-save-her-1136811",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-07-13T20:54:15.468363+00:00"
     },
     {
       "id": "givedo-68b5a344",
@@ -204,7 +357,7 @@
       "campaign_url": "https://give.do/fundraisers/feed-the-hungry-and-restore-hope",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-13T17:52:40.321038+00:00"
+      "scraped_at_iso": "2026-07-13T20:54:22.095299+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -214,14 +367,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 153692529.82,
+      "amount_raised_inr": 153701574.36,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2030-03-31",
       "days_left": 1357,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-13T17:52:40.320959+00:00"
+      "scraped_at_iso": "2026-07-13T20:54:22.095214+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -238,7 +391,7 @@
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-13T17:52:40.320982+00:00"
+      "scraped_at_iso": "2026-07-13T20:54:22.095237+00:00"
     }
   ]
 }
