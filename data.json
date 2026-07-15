@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-15T02:03:03.045102+00:00",
+  "generated_at": "2026-07-15T06:12:10.413677+00:00",
   "sources": {
     "ketto": 0,
-    "milaap": 8,
+    "milaap": 7,
     "givedo": 6
   },
   "languages": [
@@ -17,7 +17,7 @@
     "pa",
     "ml"
   ],
-  "total": 13,
+  "total": 12,
   "campaigns": [
     {
       "id": "givedo-65b89257",
@@ -34,7 +34,7 @@
       "campaign_url": "https://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-15T02:03:00.977586+00:00"
+      "scraped_at_iso": "2026-07-15T06:12:07.432254+00:00"
     },
     {
       "id": "givedo-65094410",
@@ -51,7 +51,7 @@
       "campaign_url": "https://give.do/fundraisers/help-chitra-save-disabled-children-from-poor-families-from-a-life-of-neglect-and-abuse",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-15T02:03:00.977608+00:00"
+      "scraped_at_iso": "2026-07-15T06:12:07.432278+00:00"
     },
     {
       "id": "givedo-68f25b24",
@@ -61,14 +61,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/3d8552de-9a0a-41b0-878a-470ec88157d8.webp",
-      "amount_raised_inr": 2791178.0,
+      "amount_raised_inr": 2809678.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-07-20",
       "days_left": 5,
       "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-15T02:03:00.977556+00:00"
+      "scraped_at_iso": "2026-07-15T06:12:07.432219+00:00"
     },
     {
       "id": "milaap-1031576",
@@ -78,14 +78,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.15,w_0.12,x_0.32,y_0.43/c_fill,h_198,w_264/v1782556425/production/images/campaign/1031576/WhatsApp_Image_2026-06-27_at_2.27.57_PM_afuogd_1782556426.webp",
-      "amount_raised_inr": 25162.0,
+      "amount_raised_inr": 26179.0,
       "amount_goal_inr": 10000000.0,
       "deadline_iso": "2026-07-25",
       "days_left": 10,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-srikanth-panchakarla",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-15T02:02:58.135437+00:00"
+      "scraped_at_iso": "2026-07-15T06:12:04.202146+00:00"
     },
     {
       "id": "milaap-1033784",
@@ -102,24 +102,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-yash-singla",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-15T02:02:58.135411+00:00"
-    },
-    {
-      "id": "milaap-1033979",
-      "source": "milaap",
-      "title": "Help Me Save My Father’s Life",
-      "description": "I am raising funds for my father, Prem Kumar M N (54), who recently underwent emergency brain surgery after a critical m...",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1783104685/production/images/campaign/1033979/spodqelw5adpbmwegaxt_1783104686.webp",
-      "amount_raised_inr": 6314.0,
-      "amount_goal_inr": 1000000.0,
-      "deadline_iso": "2026-08-02",
-      "days_left": 18,
-      "campaign_url": "https://milaap.org/fundraisers/support-prem-kumar-m-n",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-07-15T02:02:58.135422+00:00"
+      "scraped_at_iso": "2026-07-15T06:12:04.202159+00:00"
     },
     {
       "id": "milaap-1034094",
@@ -129,14 +112,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1783153826/production/images/campaign/1034094/medical_1553587798_1783153814.webp",
-      "amount_raised_inr": 4645.0,
+      "amount_raised_inr": 4768.0,
       "amount_goal_inr": 2064249.0,
       "deadline_iso": "2026-08-03",
       "days_left": 19,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-nikita-chavan",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-15T02:02:58.135384+00:00"
+      "scraped_at_iso": "2026-07-15T06:12:04.202127+00:00"
     },
     {
       "id": "milaap-1035095",
@@ -146,14 +129,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1783785339/production/images/campaign/1035095/medical_1553587798_1783486284.webp",
-      "amount_raised_inr": 4158.0,
+      "amount_raised_inr": 5235.0,
       "amount_goal_inr": 1200000.0,
       "deadline_iso": "2026-08-07",
       "days_left": 23,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-s-savitha",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-15T02:02:58.135396+00:00"
+      "scraped_at_iso": "2026-07-15T06:12:04.202112+00:00"
     },
     {
       "id": "milaap-1035958",
@@ -163,14 +146,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1783699662/production/images/campaign/1035958/1000011793_mojtrg_1783699665.webp",
-      "amount_raised_inr": 7018.0,
+      "amount_raised_inr": 7066.0,
       "amount_goal_inr": 1800000.0,
       "deadline_iso": "2026-08-09",
       "days_left": 25,
       "campaign_url": "https://milaap.org/fundraisers/support-souvik-mondal",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-15T02:02:58.135361+00:00"
+      "scraped_at_iso": "2026-07-15T06:12:04.202095+00:00"
     },
     {
       "id": "milaap-1036067",
@@ -180,14 +163,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1783941681/production/images/campaign/1036067/M1_e4nwhh_1783747802_ujszud_1783941683.webp",
-      "amount_raised_inr": 7442.0,
+      "amount_raised_inr": 7464.0,
       "amount_goal_inr": 2500000.0,
       "deadline_iso": "2026-08-10",
       "days_left": 26,
       "campaign_url": "https://milaap.org/fundraisers/support-srinivasan-163",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-15T02:02:58.135343+00:00"
+      "scraped_at_iso": "2026-07-15T06:12:04.202073+00:00"
     },
     {
       "id": "givedo-68b5a344",
@@ -204,7 +187,7 @@
       "campaign_url": "https://give.do/fundraisers/feed-the-hungry-and-restore-hope",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-15T02:03:00.977564+00:00"
+      "scraped_at_iso": "2026-07-15T06:12:07.432229+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -214,14 +197,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 154028345.93,
+      "amount_raised_inr": 154097437.0,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2030-03-31",
       "days_left": 1355,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-15T02:03:00.977503+00:00"
+      "scraped_at_iso": "2026-07-15T06:12:07.432163+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -231,14 +214,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 68663029.14,
+      "amount_raised_inr": 68667530.14,
       "amount_goal_inr": 35000000.0,
       "deadline_iso": "2030-05-31",
       "days_left": 1416,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-15T02:03:00.977520+00:00"
+      "scraped_at_iso": "2026-07-15T06:12:07.432183+00:00"
     }
   ]
 }
