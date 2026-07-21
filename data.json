@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T10:22:51.469956+00:00",
+  "generated_at": "2026-07-21T13:39:35.938389+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 7,
@@ -34,7 +34,7 @@
       "campaign_url": "https://give.do/fundraisers/help-chitra-save-disabled-children-from-poor-families-from-a-life-of-neglect-and-abuse",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-21T10:22:50.203629+00:00"
+      "scraped_at_iso": "2026-07-21T13:39:34.620504+00:00"
     },
     {
       "id": "milaap-1031725",
@@ -51,7 +51,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-sai-krishna-b-v",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-21T10:22:47.329757+00:00"
+      "scraped_at_iso": "2026-07-21T13:39:31.745022+00:00"
     },
     {
       "id": "givedo-68f25b24",
@@ -61,14 +61,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/3d8552de-9a0a-41b0-878a-470ec88157d8.webp",
-      "amount_raised_inr": 2967862.0,
+      "amount_raised_inr": 2969163.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-07-26",
       "days_left": 5,
       "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-21T10:22:50.203581+00:00"
+      "scraped_at_iso": "2026-07-21T13:39:34.620445+00:00"
     },
     {
       "id": "givedo-65b89257",
@@ -78,14 +78,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/8484bab7-7bd7-49dd-8a03-840f14344985.webp",
-      "amount_raised_inr": 10586737.0,
+      "amount_raised_inr": 10587237.0,
       "amount_goal_inr": 9000000.0,
       "deadline_iso": "2026-07-26",
       "days_left": 5,
       "campaign_url": "https://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-21T10:22:50.203698+00:00"
+      "scraped_at_iso": "2026-07-21T13:39:34.620535+00:00"
     },
     {
       "id": "milaap-1035096",
@@ -95,31 +95,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1784026064/production/images/campaign/1035096/WhatsApp_Image_2026-07-08_at_10.43.47_AM_1_t2kpwd_1784026065.webp",
-      "amount_raised_inr": 7656.0,
+      "amount_raised_inr": 7664.0,
       "amount_goal_inr": 1200000.0,
       "deadline_iso": "2026-08-07",
       "days_left": 17,
       "campaign_url": "https://milaap.org/fundraisers/support-vishnulal-k-v",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-21T10:22:47.329714+00:00"
-    },
-    {
-      "id": "milaap-1035958",
-      "source": "milaap",
-      "title": "Stand With Souvik: Help a 23-Year-Old Brother Fight For His Life",
-      "description": "I am raising this campaign for my brother, Souvik Mondal, 23 years old, who met with a devastating road accident while c...",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1783699662/production/images/campaign/1035958/1000011793_mojtrg_1783699665.webp",
-      "amount_raised_inr": 9178.0,
-      "amount_goal_inr": 1800000.0,
-      "deadline_iso": "2026-08-09",
-      "days_left": 19,
-      "campaign_url": "https://milaap.org/fundraisers/support-souvik-mondal",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-07-21T10:22:47.329866+00:00"
+      "scraped_at_iso": "2026-07-21T13:39:31.745002+00:00"
     },
     {
       "id": "milaap-1036690",
@@ -129,14 +112,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1783943947/production/images/campaign/1036690/medical_1553587798_1783943936.webp",
-      "amount_raised_inr": 5663.0,
+      "amount_raised_inr": 5759.0,
       "amount_goal_inr": 2000000.0,
       "deadline_iso": "2026-08-12",
       "days_left": 22,
       "campaign_url": "https://milaap.org/fundraisers/support-adrija-de",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-21T10:22:47.329914+00:00"
+      "scraped_at_iso": "2026-07-21T13:39:31.745079+00:00"
+    },
+    {
+      "id": "milaap-1037260",
+      "source": "milaap",
+      "title": "Help Sanjay Bohra fight AML 💙",
+      "description": "Please do not post it on facebook. I am Arpit Bissa Raising funds For Sanjay Bohra, 54, from Jodhpur, Rajasthan, has spe...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1784635056/production/images/campaign/1037260/medical_1553587798_1784110880.webp",
+      "amount_raised_inr": 4361.0,
+      "amount_goal_inr": 6000000.0,
+      "deadline_iso": "2026-09-01",
+      "days_left": 42,
+      "campaign_url": "https://milaap.org/fundraisers/support-sanjay-bohra-1",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-07-21T13:39:31.745063+00:00"
     },
     {
       "id": "milaap-947926",
@@ -153,7 +153,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-abhijeet-nath",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-21T10:22:47.329662+00:00"
+      "scraped_at_iso": "2026-07-21T13:39:31.744974+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -163,14 +163,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 155151755.22,
+      "amount_raised_inr": 155158755.22,
       "amount_goal_inr": 200000000.0,
       "deadline_iso": "2027-01-20",
       "days_left": 183,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-21T10:22:50.203479+00:00"
+      "scraped_at_iso": "2026-07-21T13:39:34.620366+00:00"
     },
     {
       "id": "givedo-68b5a344",
@@ -187,7 +187,7 @@
       "campaign_url": "https://give.do/fundraisers/feed-the-hungry-and-restore-hope",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-21T10:22:50.203722+00:00"
+      "scraped_at_iso": "2026-07-21T13:39:34.620548+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -197,14 +197,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 69123196.8,
+      "amount_raised_inr": 69125196.8,
       "amount_goal_inr": 35000000.0,
       "deadline_iso": "2030-05-31",
       "days_left": 1410,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-21T10:22:50.203508+00:00"
+      "scraped_at_iso": "2026-07-21T13:39:34.620393+00:00"
     }
   ]
 }
