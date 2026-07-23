@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T21:02:51.426167+00:00",
+  "generated_at": "2026-07-23T02:24:40.448388+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 7,
@@ -30,11 +30,28 @@
       "amount_raised_inr": 4168157.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-07-24",
-      "days_left": 2,
+      "days_left": 1,
       "campaign_url": "https://give.do/fundraisers/help-chitra-save-disabled-children-from-poor-families-from-a-life-of-neglect-and-abuse",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-22T21:02:49.718051+00:00"
+      "scraped_at_iso": "2026-07-23T02:24:39.197653+00:00"
+    },
+    {
+      "id": "givedo-667e964e",
+      "source": "givedo",
+      "title": "Help 72-year-old Vanitha provide 100+ abandoned mentally ill women with shelter and care",
+      "description": "“The major problem in society today is the stigma against mentally ill or mentally disabled people. Families feed and care for men who are mentally ill and keep them at home. But no one wants to help women with mental illnesses,” says N Vanitha Rengaraj, chairperson of Sharanalayam.Sharanalaym’s ‘Jothi’ is a sanctuary for over 100 women facing mental challenges. Women with mental illness facing various challenges on the streets are brought to Sharanalayam with the help of the authorities and cared for. Donate easily through UPI, all debit/credit cards and net banking. Donations to this fundraiser are tax exempted under 80G of the Income Tax Act (India).The women at Sharanalaym Jothi are provided with necessities like food, clothing and medical care. They also get mental health services, access to psychiatrists and counseling, empowering individuals on their path to recovery.Once lost and vulnerable on unfamiliar streets, the women at Sharanalaym Jothi find solace.By supporting mentally disabled women at Sharanalaym Jothi, you contribute to creating a better world. We can ensure these women receive the care and support they deserve.Over the years, Vanitha has tried her best to run Sharanalayam from her own resources and that of her well-wishers, but the last few years have been harsh. “I normally don’t extend my hand for people to donate. Many have come on their own. But life has become a bit difficult now. I need your support to take care of the women here and also bring more women here in need of help,” says Vanitha. How Sharanalayam came into beingThe NGO started its operations in 2001 from rented premises in Pollachi in the district of Coimbatore. It started with taking care of children in difficult conditions. It slowly started taking care of mentally challenged women. Sharanalayam has come a long way since that time, with hundreds of children and women being taken care of by the NGO in the last two decades. Many women were rehabilitated by the NGO, thanks to its facilities.Sharanalayam needs urgent support to take care of over 100 women. The organisation also aspires to take care of many more mentally ill women in the coming months and years. Vanitha cannot do it without your support. Donate to this fundraiser on Give.do, India’s largest and most trusted online donation platform, to help abandoned mentally ill women get care and shelter. Vanitha, 72, the founder of Sharanalayam cannot do it alone.Donate now.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/e2c65b44-daf2-4379-b205-a7f110543865.webp",
+      "amount_raised_inr": 12038458.0,
+      "amount_goal_inr": 30000000.0,
+      "deadline_iso": "2026-07-26",
+      "days_left": 3,
+      "campaign_url": "https://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-07-23T02:24:39.197702+00:00"
     },
     {
       "id": "givedo-68f25b24",
@@ -47,11 +64,11 @@
       "amount_raised_inr": 2987313.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-07-26",
-      "days_left": 4,
+      "days_left": 3,
       "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-22T21:02:49.717998+00:00"
+      "scraped_at_iso": "2026-07-23T02:24:39.197626+00:00"
     },
     {
       "id": "givedo-65b89257",
@@ -61,14 +78,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/8484bab7-7bd7-49dd-8a03-840f14344985.webp",
-      "amount_raised_inr": 10591837.0,
+      "amount_raised_inr": 10594837.0,
       "amount_goal_inr": 9000000.0,
       "deadline_iso": "2026-07-26",
-      "days_left": 4,
+      "days_left": 3,
       "campaign_url": "https://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-22T21:02:49.718086+00:00"
+      "scraped_at_iso": "2026-07-23T02:24:39.197679+00:00"
     },
     {
       "id": "milaap-1035096",
@@ -78,14 +95,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1784026064/production/images/campaign/1035096/WhatsApp_Image_2026-07-08_at_10.43.47_AM_1_t2kpwd_1784026065.webp",
-      "amount_raised_inr": 7810.0,
+      "amount_raised_inr": 7813.0,
       "amount_goal_inr": 1200000.0,
       "deadline_iso": "2026-08-07",
-      "days_left": 16,
+      "days_left": 15,
       "campaign_url": "https://milaap.org/fundraisers/support-vishnulal-k-v",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-22T21:02:46.503802+00:00"
+      "scraped_at_iso": "2026-07-23T02:24:36.167893+00:00"
     },
     {
       "id": "milaap-1037439",
@@ -95,14 +112,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1784275810/production/images/campaign/1037439/mdyesmt6eq7n9tzxfl0c_1784275811.webp",
-      "amount_raised_inr": 3706.0,
+      "amount_raised_inr": 3711.0,
       "amount_goal_inr": 1500000.0,
       "deadline_iso": "2026-08-15",
-      "days_left": 24,
+      "days_left": 23,
       "campaign_url": "https://milaap.org/fundraisers/support-prabal-pratap-singh-3",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-22T21:02:46.503755+00:00"
+      "scraped_at_iso": "2026-07-23T02:24:36.167872+00:00"
     },
     {
       "id": "milaap-1037795",
@@ -112,14 +129,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.3,w_0.18,x_0.46,y_0.17/c_fill,h_198,w_264/v1784277243/production/images/campaign/1037795/1000319334_q93mzo_1784277244.webp",
-      "amount_raised_inr": 3467.0,
+      "amount_raised_inr": 4567.0,
       "amount_goal_inr": 3000000.0,
       "deadline_iso": "2026-08-16",
-      "days_left": 25,
+      "days_left": 24,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-ramakrushna-rout",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-22T21:02:46.503780+00:00"
+      "scraped_at_iso": "2026-07-23T02:24:36.167843+00:00"
     },
     {
       "id": "milaap-1037260",
@@ -132,11 +149,11 @@
       "amount_raised_inr": 5680.0,
       "amount_goal_inr": 6000000.0,
       "deadline_iso": "2026-09-01",
-      "days_left": 41,
+      "days_left": 40,
       "campaign_url": "https://milaap.org/fundraisers/support-sanjay-bohra-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-22T21:02:46.503707+00:00"
+      "scraped_at_iso": "2026-07-23T02:24:36.167771+00:00"
     },
     {
       "id": "milaap-947926",
@@ -146,14 +163,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1756459428/production/images/campaign/947926/WhatsApp_Image_2025-08-29_at_2.26.23_PM_1_wsjqjw_1756459429.webp",
-      "amount_raised_inr": 246670.0,
+      "amount_raised_inr": 246673.0,
       "amount_goal_inr": 30000000.0,
       "deadline_iso": "2026-12-31",
-      "days_left": 162,
+      "days_left": 161,
       "campaign_url": "https://milaap.org/fundraisers/support-abhijeet-nath",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-22T21:02:46.503676+00:00"
+      "scraped_at_iso": "2026-07-23T02:24:36.167740+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -163,14 +180,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 155252620.98,
+      "amount_raised_inr": 155273570.98,
       "amount_goal_inr": 200000000.0,
       "deadline_iso": "2027-01-20",
-      "days_left": 182,
+      "days_left": 181,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-22T21:02:49.717900+00:00"
+      "scraped_at_iso": "2026-07-23T02:24:39.197563+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -180,31 +197,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 69160780.52,
+      "amount_raised_inr": 69175881.52,
       "amount_goal_inr": 150000000.0,
       "deadline_iso": "2027-02-28",
-      "days_left": 221,
+      "days_left": 220,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-22T21:02:49.717931+00:00"
-    },
-    {
-      "id": "givedo-68b5a344",
-      "source": "givedo",
-      "title": "Feed the Hungry and Restore Hope",
-      "description": "I am fundraising for a cause close to my heart, to bring a lasting change in the lives of the underprivileged. To help me create more impact and touch more lives, I need your support and contribution. Please back my fundraiser so that together we can build a better India for all of us. Pledge your support, donate now!",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/b81bea6f-24d2-42fc-aa7d-2a464c910737.webp",
-      "amount_raised_inr": 3329712.0,
-      "amount_goal_inr": 20000000.0,
-      "deadline_iso": "2027-12-31",
-      "days_left": 527,
-      "campaign_url": "https://give.do/fundraisers/feed-the-hungry-and-restore-hope",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-07-22T21:02:49.718102+00:00"
+      "scraped_at_iso": "2026-07-23T02:24:39.197584+00:00"
     }
   ]
 }
