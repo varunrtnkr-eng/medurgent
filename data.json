@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T21:00:17.972800+00:00",
+  "generated_at": "2026-07-24T02:17:44.089719+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 6,
@@ -20,23 +20,6 @@
   "total": 10,
   "campaigns": [
     {
-      "id": "givedo-65094410",
-      "source": "givedo",
-      "title": "Help Chitra save disabled children from poor families from a life of neglect and abuse",
-      "description": "Chitra Shah noticed that a patient with disabilities had missed several of her appointments with a psychologist, where she worked. Determined to find out why, Chitra went to the girl’s house which was located near a garbage dump, and she found the house locked. But she kept hearing noises from within the house. Looking inside, she found the missing patient tied to a chair and covered in her own urine and waste. The patient was a young girl with Down’s Syndrome and because of her disability; she was locked up every day and suffered in silence. This incident led Chitra Shah to establish Satya Special School in 2003. Since then, she has provided thousands of special needs children with therapies, education and vocational skills training to live their lives with dignity and respect. Many children with disabilities are abandoned because of their disabilities. Satya Special School believes in empowering disabled children and helping them stand on their own independently so they never have to be shunned, humiliated and abused because of their disabilities. Your support can help children with disabilities receive therapy and education. Donate now.Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India), &amp; 501(c)(3) of the Internal Revenue Code (USA). Place of rehabilitation and transformation For 20 years, Satya Special School has been working with special-needs children in 10 centres located in rural and urban Puducherry. The centres have trained teachers and physical therapists who work with the children to identify their special needs and develop physical and educational programs to help them be integrated into mainstream life. The children are provided with multiple therapies such as physiotherapy, hydrotherapy, speech therapy, art therapy and more to improve their physical condition and help them function independently. The school also provides the children with specialized educational support to help them integrate into mainstream schools. This School Readiness Program includes one-on-one special education, activity-based learning, visual media learning and more. Satya Special School is also equipped with facilities such as a sensory walkway, an outdoor inclusive disabled-friendly play park, a wheelchair accessible vehicle and many more facilities to assist children with physical disabilities.Need for the fundraiserThe work of Satya Special School is making an impact in the lives of the children, many of whom have learned to function independently, been enrolled in mainstream schools and secured employment. But the school is in desperate need of funds to afford rehabilitation equipment such as walkers and standing frames, custom made shoes for people with disabilities and other therapeutic interventions. Your support will help the special needs children continue to have access to the tools, resources and therapies that make their lives better and give them a chance to have self-reliant and hopeful lives.The parents and guardians of the children were previously in despair regarding their children’s helplessness but because of Satya Special School, they are watching their children grow into independent and capable individuals who work towards their dreams for the future. The stigma, discrimination and abuse of disabled children is widespread, and many special-needs children are abandoned by their own families. But ”we transform their lives through building their abilities” , shares Chitra Shah, the founder of Satya Special School. Donate to this fundraiser by Give, India’s largest online donation platform, to support Satya Special School in their mission to provide multiple therapies, rehabilitation, academic support and future job readiness skills to 61 special needs children.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/08165cbd-96ba-401a-9acc-5d0edaa6764a.webp",
-      "amount_raised_inr": 4173157.0,
-      "amount_goal_inr": 5000000.0,
-      "deadline_iso": "2026-07-24",
-      "days_left": 1,
-      "campaign_url": "https://give.do/fundraisers/help-chitra-save-disabled-children-from-poor-families-from-a-life-of-neglect-and-abuse",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-07-23T20:59:40.843892+00:00"
-    },
-    {
       "id": "givedo-667e964e",
       "source": "givedo",
       "title": "Help 72-year-old Vanitha provide 100+ abandoned mentally ill women with shelter and care",
@@ -44,14 +27,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/e2c65b44-daf2-4379-b205-a7f110543865.webp",
-      "amount_raised_inr": 12059009.0,
+      "amount_raised_inr": 12062009.0,
       "amount_goal_inr": 30000000.0,
       "deadline_iso": "2026-07-26",
-      "days_left": 3,
+      "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-23T20:59:40.843963+00:00"
+      "scraped_at_iso": "2026-07-24T02:17:42.954558+00:00"
     },
     {
       "id": "givedo-68f25b24",
@@ -64,11 +47,11 @@
       "amount_raised_inr": 2990713.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-07-26",
-      "days_left": 3,
+      "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-23T20:59:40.843848+00:00"
+      "scraped_at_iso": "2026-07-24T02:17:42.954501+00:00"
     },
     {
       "id": "givedo-65b89257",
@@ -81,11 +64,28 @@
       "amount_raised_inr": 10594837.0,
       "amount_goal_inr": 9000000.0,
       "deadline_iso": "2026-07-26",
-      "days_left": 3,
+      "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-23T20:59:40.843926+00:00"
+      "scraped_at_iso": "2026-07-24T02:17:42.954575+00:00"
+    },
+    {
+      "id": "givedo-65094410",
+      "source": "givedo",
+      "title": "Help Chitra save disabled children from poor families from a life of neglect and abuse",
+      "description": "Chitra Shah noticed that a patient with disabilities had missed several of her appointments with a psychologist, where she worked. Determined to find out why, Chitra went to the girl’s house which was located near a garbage dump, and she found the house locked. But she kept hearing noises from within the house. Looking inside, she found the missing patient tied to a chair and covered in her own urine and waste. The patient was a young girl with Down’s Syndrome and because of her disability; she was locked up every day and suffered in silence. This incident led Chitra Shah to establish Satya Special School in 2003. Since then, she has provided thousands of special needs children with therapies, education and vocational skills training to live their lives with dignity and respect. Many children with disabilities are abandoned because of their disabilities. Satya Special School believes in empowering disabled children and helping them stand on their own independently so they never have to be shunned, humiliated and abused because of their disabilities. Your support can help children with disabilities receive therapy and education. Donate now.Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India), &amp; 501(c)(3) of the Internal Revenue Code (USA). Place of rehabilitation and transformation For 20 years, Satya Special School has been working with special-needs children in 10 centres located in rural and urban Puducherry. The centres have trained teachers and physical therapists who work with the children to identify their special needs and develop physical and educational programs to help them be integrated into mainstream life. The children are provided with multiple therapies such as physiotherapy, hydrotherapy, speech therapy, art therapy and more to improve their physical condition and help them function independently. The school also provides the children with specialized educational support to help them integrate into mainstream schools. This School Readiness Program includes one-on-one special education, activity-based learning, visual media learning and more. Satya Special School is also equipped with facilities such as a sensory walkway, an outdoor inclusive disabled-friendly play park, a wheelchair accessible vehicle and many more facilities to assist children with physical disabilities.Need for the fundraiserThe work of Satya Special School is making an impact in the lives of the children, many of whom have learned to function independently, been enrolled in mainstream schools and secured employment. But the school is in desperate need of funds to afford rehabilitation equipment such as walkers and standing frames, custom made shoes for people with disabilities and other therapeutic interventions. Your support will help the special needs children continue to have access to the tools, resources and therapies that make their lives better and give them a chance to have self-reliant and hopeful lives.The parents and guardians of the children were previously in despair regarding their children’s helplessness but because of Satya Special School, they are watching their children grow into independent and capable individuals who work towards their dreams for the future. The stigma, discrimination and abuse of disabled children is widespread, and many special-needs children are abandoned by their own families. But ”we transform their lives through building their abilities” , shares Chitra Shah, the founder of Satya Special School. Donate to this fundraiser by Give, India’s largest online donation platform, to support Satya Special School in their mission to provide multiple therapies, rehabilitation, academic support and future job readiness skills to 61 special needs children.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/08165cbd-96ba-401a-9acc-5d0edaa6764a.webp",
+      "amount_raised_inr": 4173157.0,
+      "amount_goal_inr": 5000000.0,
+      "deadline_iso": "2026-07-30",
+      "days_left": 6,
+      "campaign_url": "https://give.do/fundraisers/help-chitra-save-disabled-children-from-poor-families-from-a-life-of-neglect-and-abuse",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-07-24T02:17:42.954539+00:00"
     },
     {
       "id": "milaap-1037795",
@@ -95,14 +95,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.3,w_0.18,x_0.46,y_0.17/c_fill,h_198,w_264/v1784277243/production/images/campaign/1037795/1000319334_q93mzo_1784277244.webp",
-      "amount_raised_inr": 4791.0,
+      "amount_raised_inr": 4805.0,
       "amount_goal_inr": 3000000.0,
       "deadline_iso": "2026-08-16",
-      "days_left": 24,
+      "days_left": 23,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-ramakrushna-rout",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-23T20:59:37.975764+00:00"
+      "scraped_at_iso": "2026-07-24T02:17:40.150639+00:00"
     },
     {
       "id": "milaap-1038024",
@@ -112,14 +112,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1784397266/production/images/campaign/1038024/1000184693_o8gxyt_1784397272.webp",
-      "amount_raised_inr": 3619.0,
+      "amount_raised_inr": 3657.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-08-31",
-      "days_left": 39,
+      "days_left": 38,
       "campaign_url": "https://milaap.org/fundraisers/support-friend-father",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-23T20:59:37.975788+00:00"
+      "scraped_at_iso": "2026-07-24T02:17:40.150656+00:00"
     },
     {
       "id": "milaap-1037260",
@@ -129,14 +129,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1784635056/production/images/campaign/1037260/medical_1553587798_1784110880.webp",
-      "amount_raised_inr": 5939.0,
+      "amount_raised_inr": 5966.0,
       "amount_goal_inr": 6000000.0,
       "deadline_iso": "2026-09-01",
-      "days_left": 40,
+      "days_left": 39,
       "campaign_url": "https://milaap.org/fundraisers/support-sanjay-bohra-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-23T20:59:37.975738+00:00"
+      "scraped_at_iso": "2026-07-24T02:17:40.150617+00:00"
     },
     {
       "id": "milaap-947926",
@@ -149,11 +149,11 @@
       "amount_raised_inr": 247101.0,
       "amount_goal_inr": 30000000.0,
       "deadline_iso": "2026-12-31",
-      "days_left": 161,
+      "days_left": 160,
       "campaign_url": "https://milaap.org/fundraisers/support-abhijeet-nath",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-23T20:59:37.975703+00:00"
+      "scraped_at_iso": "2026-07-24T02:17:40.150587+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -163,14 +163,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 155356329.26,
+      "amount_raised_inr": 155393098.26,
       "amount_goal_inr": 200000000.0,
       "deadline_iso": "2027-01-20",
-      "days_left": 181,
+      "days_left": 180,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-23T20:59:40.843756+00:00"
+      "scraped_at_iso": "2026-07-24T02:17:42.954411+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -180,14 +180,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 69209154.49,
+      "amount_raised_inr": 69215254.49,
       "amount_goal_inr": 150000000.0,
       "deadline_iso": "2027-02-28",
-      "days_left": 220,
+      "days_left": 219,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-23T20:59:40.843784+00:00"
+      "scraped_at_iso": "2026-07-24T02:17:42.954441+00:00"
     }
   ]
 }
