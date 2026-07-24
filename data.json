@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-24T10:13:54.323267+00:00",
+  "generated_at": "2026-07-24T13:28:48.773871+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 7,
-    "givedo": 10
+    "givedo": 6
   },
   "languages": [
     "en",
@@ -17,25 +17,8 @@
     "pa",
     "ml"
   ],
-  "total": 16,
+  "total": 12,
   "campaigns": [
-    {
-      "id": "givedo-666c15f5",
-      "source": "givedo",
-      "title": "Sanjivani- mother to 70 kids rescued from red-light areas, needs help to bring more to safety and care for them",
-      "description": "Renu grew up in the chawls of Pune’s red-light area in a dingy house, witnessing a flow of unknown men enter and leave their small bedroom day and night. Sometimes while looking at her mother hiding her fresh bruises with her pallu, Renu’s determination not to take up this path that her mother was pushed into only became stronger. She yearned for a way out of this dark world where she could live without fear, not struggle for three meals a day and get an education.Luckily for Renu (name changed), Swadhar IDWC-Pune took her in with her mother’s consent and put her in school. After years of hard work, she cleared all her grades and has now appeared for her Class 12 final exams.Swadhar IDWC led by Sanjivani Hingne, is on a mission to bring many more children to safety and your support can make it possible. Donate generously.Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).A fight for the rights of childrenChildren like Renu, who are born to sex workers, cannot dream of a normal childhood. They are subjected to stress, trauma, and sometimes abuse by their mother’s clients. “What will the child get whose mother is a sex worker? There is no family; there is no schooling, no medical care, and nothing for the child. Children like them are easy prey. Our only concern is the child getting into mainstream society and not continuing in the mother’s profession,” says Sanjivani Hingne, secretary, Swadhar IDWC Pune.Swadhar IDWC- Pune weaves a safety net for children of sex workers. They strive to prevent second-generation prostitution of children living in red-light areas by providing a secure environment where they have access to shelter, nutrition, healthcare, education, and happiness. The organisation wants to provide a refuge for more children trapped in the sex-trade environment, but they cannot do it without your support.Project Mohor - a safe home away from red-light areasSwadhar’s fully functional 24x7 facility looks after the most vulnerable and neglected children of sex workers in Pune’s red-light area. These children often roam the streets till early morning while their mothers engage in prostitution. In view of providing a safe environment for them, Swadhar runs a kitchen, a pre-school, and an e-learning center.“Right from cleaning, bathing, feeding, medical care, seeing that the child is ready for school - all of it is taken care of here, which is impossible in a red-light area. So far, we have taken care of 200 children, most of them now pursuing higher education or have finished school with flying colours. Now, we need more funds because the number of children is increasing and we want to take in more children”.Unfortunately, this safe home for kids is at risk of shutting down. The NGO is racing against time to raise funds to build a new home for the rescued kids and your help can strengthen their efforts. Please donate as much as you can.Donate to this fundraiser on Give.do, India’s largest and most trusted online donation platform, to help minor victims of forced prostitution get back to school and reshape their lives.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/de3e2b6f-dc6f-48f8-b774-488f9e53221c.webp",
-      "amount_raised_inr": 4137469.0,
-      "amount_goal_inr": 5000000.0,
-      "deadline_iso": "2026-07-25",
-      "days_left": 1,
-      "campaign_url": "https://give.do/fundraisers/sanjivani-mother-to-70-kids-rescued-from-red-light-areas-needs-help-to-bring-more-to-safety-and-care-for-them",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-07-24T10:13:53.034223+00:00"
-    },
     {
       "id": "givedo-667e964e",
       "source": "givedo",
@@ -44,14 +27,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/e2c65b44-daf2-4379-b205-a7f110543865.webp",
-      "amount_raised_inr": 12079209.0,
+      "amount_raised_inr": 12081409.0,
       "amount_goal_inr": 30000000.0,
       "deadline_iso": "2026-07-26",
       "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-24T10:13:53.034157+00:00"
+      "scraped_at_iso": "2026-07-24T13:28:47.279264+00:00"
     },
     {
       "id": "givedo-68f25b24",
@@ -61,65 +44,48 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/3d8552de-9a0a-41b0-878a-470ec88157d8.webp",
-      "amount_raised_inr": 2997213.0,
+      "amount_raised_inr": 2997713.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-07-26",
       "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-24T10:13:53.034197+00:00"
+      "scraped_at_iso": "2026-07-24T13:28:47.279197+00:00"
     },
     {
-      "id": "givedo-67860356",
+      "id": "givedo-65b89257",
       "source": "givedo",
-      "title": "Help visually impaired ‘Singh Sir’ provide food, shelter and education to blind girls",
-      "description": "In many families, blind girls are often seen as a burden—a harsh reality that leaves many of them abandoned, neglected, and deprived of opportunities. Families often feel, \"If we spend money on them, it would be useless\", shares Ramesh Singh a blind teacher committed to providing care and education the blind girls deserve. Sadly, many blind girls are forced to grow up in isolation and denied the education and care they deserve. But amidst this darkness, there is a glimmer of hope. “Singh Sir” as he is fondly called, is on a mission but he cannot do it alone. Support this blind teacher in transforming lives. Donate generouslyDonate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).How it beganIn 2005, Ramesh Prasad Singh, a blind teacher who has personally experienced the struggles faced by blind children, founded the Bhartiya Netraheen Kalyan Parishad. His mission? To rescue blind girls from neglect and give them a chance to thrive.\"People think this girl is a lifelong burden for us,\" Ramesh says. \"But as soon as the girl gets a job, the same family starts hounding her.\"Over the years, the nonprofit has provided food, shelter, and admission fees for college to blind girls, ensuring they are not trapped within four walls but instead empowered to pursue their dreams.At the heart of Bhartiya Netraheen Kalyan Parishad is a home—a safe haven for blind girls where they receive education, care, and the tools to build a better future. These girls are not just surviving; they are thriving. They are becoming independent, proving that blindness is not a limitation but a stepping stone to resilience and strength.But Ramesh cannot continue this mission alone.He appeals to you to join hands and support Bhartiya Netraheen Kalyan Parishad.Why your contribution countsNutritious meals for blind girlsSafe and secure shelterAdmission fees and educational support\"We appeal to each person to support our mission and make a difference,\" Ramesh urges.Together, we can ensure these girls are no longer seen as burdens but as empowered individuals ready to lead fulfilling lives.Donate to this fundraiser by Give, India’s largest online donation platform, to support Bhartiya Netraheen Kalyan Parishad in its mission to provide blind girls the shelter, care and education they deserve.",
+      "title": "Help Vinay bring children facing abuse in red-light areas to safety and protect them",
+      "description": "“I saw a girl, barely 7 or 8, being pushed into flesh trade. Her cries for help still echo in my ears. There were men as old as 60 r*ping the innocent child. That was the day I knew my mission in life was to get these children out of the hell-like conditions in red-light areas. They are nothing short of hell and no child deserves to grow up in this environment” says Vinay Vasta, founder of Social Activities Integration, an organisation committed to freeing children trapped in red-light areas.Vinay and his NGO have been able to provide education, medical care and nutrition to over 2,500 children. But his dream to provide safe shelter to children remains unrealized. “We do our best to keep these children safe during the day but sadly they are forced to go back to the red light areas at night as we don’t have a home for them. Your donation can help us build a safe home for children of sex workers and prevent them from being pulled into prostitution. Donate to make this dream a realityDonate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).Life in red light areas“S*x workers use their homes which are barely 6 feet by 4 feet for their business. They invite customers in the presence of their children. Their children not only witness abuse but experience it too. Just imagine a child being told that all she can ever become in life is a pr*stitute”, Vinay shares as he explains the extent of abuse children face in red light areas.This is a life that thousands of children are forced to live behind closed doors where they suffer abuse and exploitation morning, noon and night.A ray of hopeVinay has been relentlessly trying to give children the care and education they deserve. He has provided quality English education to thousands of children, enabling them to secure a livelihood out of red-light areas. Several children taught by Vinay are today leading successful lives as professionals and Government employees. However the sad reality is that Vinay and his NGO, in the absence of a permanent shelter home, are unable to provide round the clock safety to these children, which is essential for their well-being.Your donations can enable SAI to build a shelter home for the children of sex workers and usher in a new tomorrow for them, away from the horrors of red-light areas.Donate to this fundraiser on Give.do, India’s largest and most trusted online donation platform, to provide safe shelter for children of sex workers and save them from abuse and second generation pr*stitution.NGO's 80G number: AACTS0408EF20216NGO's 12A number: AACTS0408EE20028",
       "patient_name": null,
       "condition": null,
-      "image_url": "https://cfstatic.give.do/442d2dea-b432-4069-bc9d-00855f5a1d11.webp",
-      "amount_raised_inr": 4233609.0,
+      "image_url": "https://cfstatic.give.do/8484bab7-7bd7-49dd-8a03-840f14344985.webp",
+      "amount_raised_inr": 10594837.0,
+      "amount_goal_inr": 9000000.0,
+      "deadline_iso": "2026-07-26",
+      "days_left": 2,
+      "campaign_url": "https://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-07-24T13:28:47.279294+00:00"
+    },
+    {
+      "id": "givedo-65094410",
+      "source": "givedo",
+      "title": "Help Chitra save disabled children from poor families from a life of neglect and abuse",
+      "description": "Chitra Shah noticed that a patient with disabilities had missed several of her appointments with a psychologist, where she worked. Determined to find out why, Chitra went to the girl’s house which was located near a garbage dump, and she found the house locked. But she kept hearing noises from within the house. Looking inside, she found the missing patient tied to a chair and covered in her own urine and waste. The patient was a young girl with Down’s Syndrome and because of her disability; she was locked up every day and suffered in silence. This incident led Chitra Shah to establish Satya Special School in 2003. Since then, she has provided thousands of special needs children with therapies, education and vocational skills training to live their lives with dignity and respect. Many children with disabilities are abandoned because of their disabilities. Satya Special School believes in empowering disabled children and helping them stand on their own independently so they never have to be shunned, humiliated and abused because of their disabilities. Your support can help children with disabilities receive therapy and education. Donate now.Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India), &amp; 501(c)(3) of the Internal Revenue Code (USA). Place of rehabilitation and transformation For 20 years, Satya Special School has been working with special-needs children in 10 centres located in rural and urban Puducherry. The centres have trained teachers and physical therapists who work with the children to identify their special needs and develop physical and educational programs to help them be integrated into mainstream life. The children are provided with multiple therapies such as physiotherapy, hydrotherapy, speech therapy, art therapy and more to improve their physical condition and help them function independently. The school also provides the children with specialized educational support to help them integrate into mainstream schools. This School Readiness Program includes one-on-one special education, activity-based learning, visual media learning and more. Satya Special School is also equipped with facilities such as a sensory walkway, an outdoor inclusive disabled-friendly play park, a wheelchair accessible vehicle and many more facilities to assist children with physical disabilities.Need for the fundraiserThe work of Satya Special School is making an impact in the lives of the children, many of whom have learned to function independently, been enrolled in mainstream schools and secured employment. But the school is in desperate need of funds to afford rehabilitation equipment such as walkers and standing frames, custom made shoes for people with disabilities and other therapeutic interventions. Your support will help the special needs children continue to have access to the tools, resources and therapies that make their lives better and give them a chance to have self-reliant and hopeful lives.The parents and guardians of the children were previously in despair regarding their children’s helplessness but because of Satya Special School, they are watching their children grow into independent and capable individuals who work towards their dreams for the future. The stigma, discrimination and abuse of disabled children is widespread, and many special-needs children are abandoned by their own families. But ”we transform their lives through building their abilities” , shares Chitra Shah, the founder of Satya Special School. Donate to this fundraiser by Give, India’s largest online donation platform, to support Satya Special School in their mission to provide multiple therapies, rehabilitation, academic support and future job readiness skills to 61 special needs children.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/08165cbd-96ba-401a-9acc-5d0edaa6764a.webp",
+      "amount_raised_inr": 4173657.0,
       "amount_goal_inr": 5000000.0,
-      "deadline_iso": "2026-07-27",
-      "days_left": 3,
-      "campaign_url": "https://give.do/fundraisers/help-visually-impaired-singh-sir-provide-food-shelter-and-education-to-blind-girls",
+      "deadline_iso": "2026-07-30",
+      "days_left": 6,
+      "campaign_url": "https://give.do/fundraisers/help-chitra-save-disabled-children-from-poor-families-from-a-life-of-neglect-and-abuse",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-24T10:13:53.034269+00:00"
-    },
-    {
-      "id": "givedo-66193607",
-      "source": "givedo",
-      "title": "Help Raja Bhaiyya care for farmer suicide families and prevent others from ending their lives",
-      "description": "“There was a farmer called Bihor. He had a debt of ₹6 lakh. His mother fell ill and had to spend a lot of money on her care. His land was not giving any yield and his crop was destroyed. Pressure from the banks and the money lenders because of debt left him with no other option but to commit suicide,” shares Raja Bhaiyya, the founder of Vidya Dham Samiti, an NGO that helps families in which farmers have committed suicide and prevents further farmer suicides from happening. “His family was in tatters, but we helped them. We gave them foodgrains and we gave them training in sustainable farming. After all these efforts, the family is in decent condition.” This Makar Sankranti, you can help Raja Bhaiyya support farmer families and prevent more farmer suicides from taking place by equipping them with rations and tools to have better futures. Donate now.Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).Vidya Dham Samiti identifies farmer’s households where farmer suicides have taken place and farmer households that are prone to suicide. For these families, the NGO offers counselling, skill development training and capacity building to train the farmers and their families in alternate agricultural practices so they can continue their livelihoods, access available Government schemes and cope with conditions such as drought and climate change through new and other agricultural technologies and practices - and not take the drastic step of suicide. Founded in 2001 by Raja Bhaiyya, Vidya Dham Samiti focuses its work in and around Bundelkhand, Banda District in Uttar Pradesh which is an area that is prone to drought and crop failure. Your support can prevent farmer suicides and empower farmer families with counselling and skills training. Donate now. “The farmers who are cut off from the mainstream and are in trouble,” explains Vidya Dham Samiti founder Raja Bhaiyya. “We bring them together and counsel them, we give them exposure and provide them with every opportunity to do well through fertilizer, grains and agricultural implements. We train them to adopt the right methods to do agriculture and we give them top-quality grains. These are our efforts.”“But these efforts are taking place at a small level. We want to take our programme to a larger level. We can save the lives of farmers if we can bring more and more people into our programmes and reach more and more areas.” Donate now to help Raja Bhaiyya support farmer families that have been devastated by suicide and prevent other farmer suicides from happening. “We can stop farmer suicides through training, counselling and newer forms of agriculture. For those farmers who are on the verge of suicide, and whose families are in trouble, please give them one more chance. Donate so that we can rescue them from suicide.”Donate to this fundraiser by Give, India’s largest online donation platform, to help Raja Bhaiya rescue debt-trapped farmers who are on the verge of suicide.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/fa967afd-5aeb-4320-8985-4f9b62d47e90.webp",
-      "amount_raised_inr": 2723629.0,
-      "amount_goal_inr": 5000000.0,
-      "deadline_iso": "2026-07-28",
-      "days_left": 4,
-      "campaign_url": "https://give.do/fundraisers/help-raja-bhaiyya-care-for-farmer-suicide-families-and-prevent-others-from-ending-their-lives",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-07-24T10:13:53.034298+00:00"
-    },
-    {
-      "id": "givedo-6a4f6f0a",
-      "source": "givedo",
-      "title": "Help feed devotees during Puri Jagannath Rath Yatra from  July 16-24",
-      "description": "Every year, the sacred Jagannath Rath Yatra draws millions to witness Lord Jagannath's chariot procession. Among them are thousands of elderly and other devotees who travel from remote villages, carrying little beyond their faith. What they don't carry is food.The Yatra stretches across hours, often through heavy monsoon rain. Pilgrims stand for long periods, pressed into crowds, waiting for a glimpse of the deities. Many have no money left for a meal after the cost of travel.Pure Devotion Foundation (PDF) stands in this gap.Through its Yatra meal programme, the PDF serves warm, simple meals to devotees at points along the pilgrimage route, food handed over with the same reverence the devotees bring to their prayers. For many of these devotees, this meal is the only one they will eat that day. The need grows every year, as the crowds do. Volunteers on the ground report the same scene repeatedly: elderly men and women, drenched from the rain, sitting on the roadside because they can no longer stand — some too proud to ask for help, some too weak to. PDF prepares meals in bulk, transports to the route, and serves fresh through the duration of the Yatra, regardless of rain, crowd density, or logistical hurdles.You can be the reason a devotee doesn't go hungry this Yatra season.A contribution, however modest, helps Pure Devotion Foundation prepare and serve one more meal, reach one more devotee.Give.do is India's largest and most trusted online donation platform, connecting donors directly to verified NGOs like Pure Devotion Foundation.This Rath Yatra, help ensure that faith isn't met with hunger. Donate today, and let no devotee go without a meal on their sacred journey.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/7a5d62c8-eec2-4f8b-b91d-01e3f7451828.webp",
-      "amount_raised_inr": 16600.0,
-      "amount_goal_inr": 1000000.0,
-      "deadline_iso": "2026-07-31",
-      "days_left": 7,
-      "campaign_url": "https://give.do/fundraisers/help-feed-devotees-during-puri-jagannath-rath-yatra-from-july-16-24",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-07-24T10:13:53.034245+00:00"
+      "scraped_at_iso": "2026-07-24T13:28:47.279231+00:00"
     },
     {
       "id": "milaap-1037795",
@@ -136,7 +102,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-ramakrushna-rout",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-24T10:13:50.125077+00:00"
+      "scraped_at_iso": "2026-07-24T13:28:44.273962+00:00"
     },
     {
       "id": "milaap-1039441",
@@ -146,14 +112,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1784801888/production/images/campaign/1039441/medical_1553587798_1784796923.webp",
-      "amount_raised_inr": 3449.0,
+      "amount_raised_inr": 3977.0,
       "amount_goal_inr": 3000000.0,
       "deadline_iso": "2026-08-22",
       "days_left": 29,
       "campaign_url": "https://milaap.org/fundraisers/support-deepak-goyal-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-24T10:13:50.125133+00:00"
+      "scraped_at_iso": "2026-07-24T13:28:44.274012+00:00"
     },
     {
       "id": "milaap-1038024",
@@ -170,7 +136,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-friend-father",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-24T10:13:50.125107+00:00"
+      "scraped_at_iso": "2026-07-24T13:28:44.274064+00:00"
     },
     {
       "id": "milaap-1037260",
@@ -187,7 +153,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-sanjay-bohra-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-24T10:13:50.125049+00:00"
+      "scraped_at_iso": "2026-07-24T13:28:44.273985+00:00"
     },
     {
       "id": "milaap-1039366",
@@ -197,14 +163,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1784786329/production/images/campaign/1039366/medical_1553587798_1784785422.webp",
-      "amount_raised_inr": 7239.0,
+      "amount_raised_inr": 7544.0,
       "amount_goal_inr": 4000000.0,
       "deadline_iso": "2026-09-30",
       "days_left": 68,
       "campaign_url": "https://milaap.org/fundraisers/support-goutam-bandyopadhyay",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-24T10:13:50.125023+00:00"
+      "scraped_at_iso": "2026-07-24T13:28:44.273937+00:00"
     },
     {
       "id": "milaap-947926",
@@ -221,7 +187,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-abhijeet-nath",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-24T10:13:50.124982+00:00"
+      "scraped_at_iso": "2026-07-24T13:28:44.273908+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -231,14 +197,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 155468919.26,
+      "amount_raised_inr": 155488510.26,
       "amount_goal_inr": 200000000.0,
       "deadline_iso": "2027-01-20",
       "days_left": 180,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-24T10:13:53.034090+00:00"
+      "scraped_at_iso": "2026-07-24T13:28:47.279125+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -248,48 +214,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 69232637.65,
+      "amount_raised_inr": 69255138.65,
       "amount_goal_inr": 150000000.0,
       "deadline_iso": "2027-02-28",
       "days_left": 219,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-24T10:13:53.034117+00:00"
-    },
-    {
-      "id": "givedo-649bfb4f",
-      "source": "givedo",
-      "title": "RESCUE AND CARE OF DESTITUTE CHILDREN",
-      "description": "More than 12 million destitute children in India. These children are found abandoned by the police in toilets, railway stations, religious places, hospitals and dustbins. These children are often left to mercy of stray animals, insects, anti-social elements and unhygienic conditions.   The children are rescued by Police, Citizens, NGOs and are in immediate care and protection.  There are also children who are surrendered by their birth parents due to social and medical reasons.  The children need shelter, food, medical, education, development, counseling and rehabilitation.   \n Bal Asha Trust gives children love, care, medical attention from the best pediatricians and the required treatment is provided in top hospitals. We have committed team of trained professionals including pediatricians, social workers, para medical, speech &amp; occupational therapist, psychologists, teachers and care takers. We care for healthy children with many others with special needs, physical or mental challenges and those who suffer from conditions like heart issues, CP, Hep. B &amp; HIV etc \n We believe that every child should grow up in a family and make concerted efforts to reunite runaway missing children with their families across India. Children are placed with loving and caring Adoptive Families through a legal process. The Trust has been successful in placing many physically mentally and medically special needs children in Adoption. Every child deserves quality life while in a home and a chance to socially get integrated in a family by finding a loving forever family.  The trust will also create awareness on the issue.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/8b861a2c-8582-48ff-806f-1421d67469a7.JPG",
-      "amount_raised_inr": 2575082.0,
-      "amount_goal_inr": 11051337.0,
-      "deadline_iso": "2030-03-31",
-      "days_left": 1346,
-      "campaign_url": "https://give.do/fundraisers/300",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-07-24T10:13:53.034322+00:00"
-    },
-    {
-      "id": "givedo-649bf0ed",
-      "source": "givedo",
-      "title": "Provide Diya Foundation the space to nurture and train people with intellectual disabilities",
-      "description": "The road to the Diya foundation is inaccessible and terrible for people with wheelchairs, and the main mud road is uneven and difficult to walk on. The training rooms in the existing building have to be fabricated, and the spaces are small, with insufficient space for people to move around. There is little greenery outside the building and no open space for people to sit outside and enjoy the serenity of nature. We are looking at expanding as there are new parents interested in enrolling in the training program, due to insufficiency we need to accommodate only a few young adults. We’ve been paying a peak rent of 1 lakh monthly, which has become unsustainable. Our land/ premises will give us a sense of belonging and permanence in the community. \n We have raised one crore towards our goal, but we need three crores to acquire land and construct the building. To achieve our goal we are appealing to Bangalore-based companies and individual volunteers to run for Diya at the TCS World 10k Run 2023. We are also connecting with our past supporters, volunteers, and interns. This year marks the 25th anniversary of Diya for the silver jubilee we would like to showcase quarterly our varied training programs, also display our coffee table book, share engaging stories of change, and celebrate our trainee's journey. \n The aim is to improve the training program, focusing on designing spacious training rooms that are conducive to learning, and skilling. Getting our premises can help accommodate young adults and help interested parents work together. The vision is to impact 500 more students with intellectual disabilities with vocational training and support them in finding employment. Our vision is also to create a pool of 250 employable adults who are ready to meet the job market as they get skilled. Together we can celebrate their path of change.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/39d5b6ce-87c5-485d-803a-c266c5a626cf.jpeg",
-      "amount_raised_inr": 18163.0,
-      "amount_goal_inr": 1500000.0,
-      "deadline_iso": "2030-03-31",
-      "days_left": 1346,
-      "campaign_url": "https://give.do/fundraisers/provide-diya-foundation-the-space-to-nurture-and-train-people-with-intellectual-disabilities",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-07-24T10:13:53.034310+00:00"
+      "scraped_at_iso": "2026-07-24T13:28:47.279149+00:00"
     }
   ]
 }
