@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T20:54:28.176371+00:00",
+  "generated_at": "2026-07-27T02:33:50.408489+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 7,
@@ -20,23 +20,6 @@
   "total": 11,
   "campaigns": [
     {
-      "id": "givedo-65b89257",
-      "source": "givedo",
-      "title": "Help Vinay bring children facing abuse in red-light areas to safety and protect them",
-      "description": "“I saw a girl, barely 7 or 8, being pushed into flesh trade. Her cries for help still echo in my ears. There were men as old as 60 r*ping the innocent child. That was the day I knew my mission in life was to get these children out of the hell-like conditions in red-light areas. They are nothing short of hell and no child deserves to grow up in this environment” says Vinay Vasta, founder of Social Activities Integration, an organisation committed to freeing children trapped in red-light areas.Vinay and his NGO have been able to provide education, medical care and nutrition to over 2,500 children. But his dream to provide safe shelter to children remains unrealized. “We do our best to keep these children safe during the day but sadly they are forced to go back to the red light areas at night as we don’t have a home for them. Your donation can help us build a safe home for children of sex workers and prevent them from being pulled into prostitution. Donate to make this dream a realityDonate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).Life in red light areas“S*x workers use their homes which are barely 6 feet by 4 feet for their business. They invite customers in the presence of their children. Their children not only witness abuse but experience it too. Just imagine a child being told that all she can ever become in life is a pr*stitute”, Vinay shares as he explains the extent of abuse children face in red light areas.This is a life that thousands of children are forced to live behind closed doors where they suffer abuse and exploitation morning, noon and night.A ray of hopeVinay has been relentlessly trying to give children the care and education they deserve. He has provided quality English education to thousands of children, enabling them to secure a livelihood out of red-light areas. Several children taught by Vinay are today leading successful lives as professionals and Government employees. However the sad reality is that Vinay and his NGO, in the absence of a permanent shelter home, are unable to provide round the clock safety to these children, which is essential for their well-being.Your donations can enable SAI to build a shelter home for the children of sex workers and usher in a new tomorrow for them, away from the horrors of red-light areas.Donate to this fundraiser on Give.do, India’s largest and most trusted online donation platform, to provide safe shelter for children of sex workers and save them from abuse and second generation pr*stitution.NGO's 80G number: AACTS0408EF20216NGO's 12A number: AACTS0408EE20028",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/8484bab7-7bd7-49dd-8a03-840f14344985.webp",
-      "amount_raised_inr": 10597237.0,
-      "amount_goal_inr": 9000000.0,
-      "deadline_iso": "2026-07-27",
-      "days_left": 1,
-      "campaign_url": "https://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-07-26T20:54:27.100638+00:00"
-    },
-    {
       "id": "givedo-667e964e",
       "source": "givedo",
       "title": "Help 72-year-old Vanitha provide 100+ abandoned mentally ill women with shelter and care",
@@ -44,14 +27,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/e2c65b44-daf2-4379-b205-a7f110543865.webp",
-      "amount_raised_inr": 12160512.0,
+      "amount_raised_inr": 12164812.0,
       "amount_goal_inr": 30000000.0,
       "deadline_iso": "2026-07-29",
-      "days_left": 3,
+      "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-26T20:54:27.100601+00:00"
+      "scraped_at_iso": "2026-07-27T02:33:48.613530+00:00"
     },
     {
       "id": "givedo-68f25b24",
@@ -61,14 +44,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/3d8552de-9a0a-41b0-878a-470ec88157d8.webp",
-      "amount_raised_inr": 3061429.0,
+      "amount_raised_inr": 3068929.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-07-30",
-      "days_left": 4,
+      "days_left": 3,
       "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-26T20:54:27.100485+00:00"
+      "scraped_at_iso": "2026-07-27T02:33:48.613489+00:00"
     },
     {
       "id": "givedo-65094410",
@@ -81,11 +64,11 @@
       "amount_raised_inr": 4187568.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-07-30",
-      "days_left": 4,
+      "days_left": 3,
       "campaign_url": "https://give.do/fundraisers/help-chitra-save-disabled-children-from-poor-families-from-a-life-of-neglect-and-abuse",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-26T20:54:27.100560+00:00"
+      "scraped_at_iso": "2026-07-27T02:33:48.613513+00:00"
     },
     {
       "id": "milaap-1028614",
@@ -98,11 +81,28 @@
       "amount_raised_inr": 36158.0,
       "amount_goal_inr": 170000000.0,
       "deadline_iso": "2026-07-31",
-      "days_left": 5,
+      "days_left": 4,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-naveen-kumar-reddy",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-26T20:54:23.506415+00:00"
+      "scraped_at_iso": "2026-07-27T02:33:45.741975+00:00"
+    },
+    {
+      "id": "givedo-65b89257",
+      "source": "givedo",
+      "title": "Help Vinay bring children facing abuse in red-light areas to safety and protect them",
+      "description": "“I saw a girl, barely 7 or 8, being pushed into flesh trade. Her cries for help still echo in my ears. There were men as old as 60 r*ping the innocent child. That was the day I knew my mission in life was to get these children out of the hell-like conditions in red-light areas. They are nothing short of hell and no child deserves to grow up in this environment” says Vinay Vasta, founder of Social Activities Integration, an organisation committed to freeing children trapped in red-light areas.Vinay and his NGO have been able to provide education, medical care and nutrition to over 2,500 children. But his dream to provide safe shelter to children remains unrealized. “We do our best to keep these children safe during the day but sadly they are forced to go back to the red light areas at night as we don’t have a home for them. Your donation can help us build a safe home for children of sex workers and prevent them from being pulled into prostitution. Donate to make this dream a realityDonate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).Life in red light areas“S*x workers use their homes which are barely 6 feet by 4 feet for their business. They invite customers in the presence of their children. Their children not only witness abuse but experience it too. Just imagine a child being told that all she can ever become in life is a pr*stitute”, Vinay shares as he explains the extent of abuse children face in red light areas.This is a life that thousands of children are forced to live behind closed doors where they suffer abuse and exploitation morning, noon and night.A ray of hopeVinay has been relentlessly trying to give children the care and education they deserve. He has provided quality English education to thousands of children, enabling them to secure a livelihood out of red-light areas. Several children taught by Vinay are today leading successful lives as professionals and Government employees. However the sad reality is that Vinay and his NGO, in the absence of a permanent shelter home, are unable to provide round the clock safety to these children, which is essential for their well-being.Your donations can enable SAI to build a shelter home for the children of sex workers and usher in a new tomorrow for them, away from the horrors of red-light areas.Donate to this fundraiser on Give.do, India’s largest and most trusted online donation platform, to provide safe shelter for children of sex workers and save them from abuse and second generation pr*stitution.NGO's 80G number: AACTS0408EF20216NGO's 12A number: AACTS0408EE20028",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/8484bab7-7bd7-49dd-8a03-840f14344985.webp",
+      "amount_raised_inr": 10597237.0,
+      "amount_goal_inr": 9000000.0,
+      "deadline_iso": "2026-08-02",
+      "days_left": 6,
+      "campaign_url": "https://give.do/fundraisers/help-vinay-bring-children-facing-abuse-in-red-light-areas-to-safety-and-protect-them",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-07-27T02:33:48.613545+00:00"
     },
     {
       "id": "milaap-1038362",
@@ -115,11 +115,11 @@
       "amount_raised_inr": 3414.0,
       "amount_goal_inr": 400000.0,
       "deadline_iso": "2026-08-18",
-      "days_left": 23,
+      "days_left": 22,
       "campaign_url": "https://milaap.org/fundraisers/support-priya-ramesh-naik-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-26T20:54:23.506462+00:00"
+      "scraped_at_iso": "2026-07-27T02:33:45.742017+00:00"
     },
     {
       "id": "milaap-1039441",
@@ -132,11 +132,11 @@
       "amount_raised_inr": 4410.0,
       "amount_goal_inr": 3000000.0,
       "deadline_iso": "2026-08-22",
-      "days_left": 27,
+      "days_left": 26,
       "campaign_url": "https://milaap.org/fundraisers/support-deepak-goyal-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-26T20:54:23.506391+00:00"
+      "scraped_at_iso": "2026-07-27T02:33:45.741956+00:00"
     },
     {
       "id": "milaap-1039366",
@@ -146,14 +146,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1784786329/production/images/campaign/1039366/medical_1553587798_1784785422.webp",
-      "amount_raised_inr": 10409.0,
+      "amount_raised_inr": 10410.0,
       "amount_goal_inr": 4000000.0,
       "deadline_iso": "2026-09-30",
-      "days_left": 66,
+      "days_left": 65,
       "campaign_url": "https://milaap.org/fundraisers/support-goutam-bandyopadhyay",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-26T20:54:23.506333+00:00"
+      "scraped_at_iso": "2026-07-27T02:33:45.741903+00:00"
     },
     {
       "id": "milaap-947926",
@@ -163,14 +163,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1756459428/production/images/campaign/947926/WhatsApp_Image_2025-08-29_at_2.26.23_PM_1_wsjqjw_1756459429.webp",
-      "amount_raised_inr": 253711.0,
+      "amount_raised_inr": 253718.0,
       "amount_goal_inr": 30000000.0,
       "deadline_iso": "2026-12-31",
-      "days_left": 158,
+      "days_left": 157,
       "campaign_url": "https://milaap.org/fundraisers/support-abhijeet-nath",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-26T20:54:23.506274+00:00"
+      "scraped_at_iso": "2026-07-27T02:33:45.741839+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -180,14 +180,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 156824014.7,
+      "amount_raised_inr": 156846548.92,
       "amount_goal_inr": 200000000.0,
       "deadline_iso": "2027-01-20",
-      "days_left": 178,
+      "days_left": 177,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-26T20:54:27.100386+00:00"
+      "scraped_at_iso": "2026-07-27T02:33:48.613414+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -197,14 +197,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 69910531.51,
+      "amount_raised_inr": 69947157.69,
       "amount_goal_inr": 150000000.0,
       "deadline_iso": "2027-02-28",
-      "days_left": 217,
+      "days_left": 216,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-26T20:54:27.100422+00:00"
+      "scraped_at_iso": "2026-07-27T02:33:48.613430+00:00"
     }
   ]
 }
