@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-28T06:23:29.722750+00:00",
+  "generated_at": "2026-07-28T10:31:26.835472+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 7,
-    "givedo": 6
+    "givedo": 10
   },
   "languages": [
     "en",
@@ -17,58 +17,24 @@
     "pa",
     "ml"
   ],
-  "total": 12,
+  "total": 16,
   "campaigns": [
     {
-      "id": "givedo-6a437a0d",
+      "id": "givedo-66c71da4",
       "source": "givedo",
-      "title": "Help Mansi bring hope into lives of children fighting for life, Donate now",
-      "description": "When even hospitals and doctors gave up on children fighting for life Mansi Shah stood by them. Mansi founded Happy Feet Home, an NGO that cares for children fighting severe illnesses like thalassemia, HIV, Cancer, etc. Despite being discouraged repeatedly, she refused to turn away from children who were often overlooked simply because their journeys were difficult and uncertain. Today, Happy Feet Home provides children with medical care, nutritious food, education, emotional support and, above all, the love and dignity every child deserves.Your donation can help ensure these children continue receiving lifelong care. Donate today and give them the chance to live with hope.Donate easily through UPI, all debit/credit cards and net banking.Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).Born from one unforgettable momentHappy Feet Home was born from an experience Mansi could never forget. \"I was very attached to this 3-year-old girl. She had a brain tumour,\" she says. When the child hugged her tightly before boarding a train home, it felt like a final goodbye. That heartbreaking moment inspired Mansi to dedicate her life to children who may never receive a cure. \"If I start something, I will work with children who have illnesses which may not have a cure... That's when the idea of Happy Feet Home came into my mind.\"Every donation changes a child's futureMany children arrive at Happy Feet Home carrying far more than an illness. \"It's not 1, not 2, but 3 or 4 issues that they are grappling with in life,\" Mansi explains. Poverty, abandonment and years without affection often leave emotional scars as deep as their medical conditions. Some children have even told her that the first hug they ever received was after arriving at the centre.Yet with proper nutrition, medicines, counselling and constant care, lives begin to change. One girl who was once not responding to treatment is now a healthy college student. Another boy arrived weighing just 17 kilos after living on the streets. Today, he is healthy and learning professional cricket. These transformations are only possible because compassionate people chose to donate.Why your support is urgently neededProviding lifelong care for children with HIV, thalassemia and cancer requires constant support. There was even a time when Happy Feet Home had to shut its centre for nearly two weeks because of a lack of funding. During that period, children lost access to nutrition, education and mental health support. As Mansi explains, \"Illnesses like HIV and Thalassemia are incurable. The need for medicine, for treatment, for care and support is going to be a forever need.\"That is why your donation matters today.Donate to Happy Feet HomeEvery donation helps provide medicines, nutritious meals, education, counselling and a loving home for children fighting serious illnesses. As Mansi beautifully puts it, \"As a donor, you are not only giving money. You are ensuring that children with illnesses have the right to live as children. You are giving them hope.\"If you believe no child should be denied love, dignity or happiness because of illness, please support this NGO for children today. \"If you believe that children with HIV, Thalassemia, Cancer have a right to live a dignified life please support our cause and donate today.\"Donate to this fundraiser by Give, India’s most trusted online donation platform, to support Happy Feet Home in its mission to provide care, dignity, medical support, and hope to children living with life-limiting and life-shortening illnesses.",
+      "title": "Loving mother to 180 blind kids, visually impaired Veena needs your support in caring for them",
+      "description": "“A blind child is seen as a curse or as a burden to the family. These children are left on the street. I have picked up children from roadsides myself. I also lost my eyesight as a child but today I am a senior officer in a public sector company. What would I have done, had I not been taken care of?” asks Veena Mehta Verma who was once a beneficiary of National Association for the Blind, Delhi (NAB) and now works with the NGO to protect and care for blind children like herself.Today, hundreds of blind children supported by NAB, Delhi have found something that they never had before–hope for a better tomorrow. Without Veena and NAB, many of these children would be at the risk of going back to the streets or spend a life of neglect and even abuse. Your support to the NGO is crucial. Donate generouslyDonate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).A life of uncertainty and sufferingEven if a blind child is not abandoned they are often trapped in their homes deprived of education or any way of making a living. According to the nonprofit leader, “For a blind kid, employment is impossible without education. The (blind) kids need to learn Braille or they need ‘talking computer’ aids. Many of these kids are deprived of such facilities”.  Illuminating young lives “At NAB Delhi there are around 200-250 blind kids. There are around 180 kids in the hostel of NAB. We teach Braille, we teach arithmetic Taylor frames. To work towards a brighter future for the blind, we need your support. Please come forward and donate towards our mission”, says Veena. Students for whom NAB Delhi has cared for are today placed in some of the most prestigious organisations across the world. While some have gone on to make a name for themselves in the corporate world, others have taken up art and music as a profession too. Many blind children are bright, academically gifted, and waiting to shine, all they need is an opportunity. And your donation can give them just that.Donate to this fundraiser on Give.do, India’s largest and most trusted online donation platform, to help the blind children get shelter, education, care and a shot at a future full of opportunities.",
       "patient_name": null,
       "condition": null,
-      "image_url": "https://cfstatic.give.do/d4b7d56e-6571-4ee8-986c-fc9045de3ae8.webp",
-      "amount_raised_inr": 430536.0,
-      "amount_goal_inr": 5000000.0,
+      "image_url": "https://cfstatic.give.do/df9aec70-9e3c-482f-be42-ecd4d728552a.webp",
+      "amount_raised_inr": 7604236.0,
+      "amount_goal_inr": 7000000.0,
       "deadline_iso": "2026-07-30",
       "days_left": 2,
-      "campaign_url": "https://give.do/fundraisers/help-mansi-bring-hope-into-lives-of-children-fighting-for-life-donate-now",
+      "campaign_url": "https://give.do/fundraisers/loving-mother-to-180-blind-kids-visually-impaired-veena-needs-your-support-in-caring-for-them",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-28T06:23:28.422201+00:00"
-    },
-    {
-      "id": "givedo-68f25b24",
-      "source": "givedo",
-      "title": "Help Leena in saving girls from being lost forever in red-light areas",
-      "description": "\"Hundreds of young girls are lost forever in the dark lanes of red-light areas,\" says Leena Kejriwal, the founder of Missing Link Trust. These girls endure unimaginable abuse and exploitation, being lured or trafficked into an industry that breaks them physically and emotionally. Missing Link Trust is on a mission to prevent the tragedy before it happens, and also rehabilitate girls and women who are rescued from forced sex work.Leena’s journey began with her powerful street art project in Kolkata, where she painted haunting silhouettes of missing girls to raise awareness against sex trafficking. Now, she leads a larger fight — one that focuses on prevention and rehabilitation. But this mission needs your support.You can save countless girl children from going missing forever. Donate now.Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).Preventing Trafficking Before It Begins“When girls come into a red-light area, the first thing is that they are broken, physically and emotionally,” Leena says. “It’s like they will be caught, hands and legs tied, and all heinous crimes committed on them.” These are the brutal realities that Missing Link Trust fights against every day.Many of these girls are from impoverished regions like the Sundarbans, and traffickers prey on their vulnerability. “It’s shocking that they sell themselves for as low as a hundred rupees,” Leena adds. \"They ready her through violent acts, removing all threads of shame from her.\"But why wait until a girl is trafficked to save her? Missing Link Trust believes in stopping trafficking at its root — through “prevention, prevention, prevention” as Leena puts it. The goal is simple: protect girls from ever being lost to this darkness.A Safe World for Children“Our mission is the prevention of abuse and exploitation of children,” Leena emphasizes. “Our vision is to create a safe world for children, and we want to do this with a preventive methodology.”Every Donation MattersYour support will help Missing Link Trust continue its vital work of rescuing, rehabilitating, and preventing the trafficking of young girls. The funds raised will go directly towards:Prevention programs in vulnerable areas to stop trafficking before it happens.Rehabilitation services for girls rescued from red-light areas, providing them with medical care, emotional support, and education.Awareness campaigns to reach at-risk communities and ensure girls are protected from traffickers.Together, We Can Make a Difference“Why wait for a girl to get trafficked to save her?” asks Leena. With your help, we can stop this horror before it begins. Your donation will help us create a world where no girl is lost to the nightmare of trafficking.Donate to this fundraiser by Give, India’s largest and most trusted online giving platform, to support Missing Link Trust to save young girls from being trafficked and help rehabilitate those rescued.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/3d8552de-9a0a-41b0-878a-470ec88157d8.webp",
-      "amount_raised_inr": 3081630.0,
-      "amount_goal_inr": 5000000.0,
-      "deadline_iso": "2026-07-30",
-      "days_left": 2,
-      "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-07-28T06:23:28.422114+00:00"
-    },
-    {
-      "id": "givedo-65094410",
-      "source": "givedo",
-      "title": "Help Chitra save disabled children from poor families from a life of neglect and abuse",
-      "description": "Chitra Shah noticed that a patient with disabilities had missed several of her appointments with a psychologist, where she worked. Determined to find out why, Chitra went to the girl’s house which was located near a garbage dump, and she found the house locked. But she kept hearing noises from within the house. Looking inside, she found the missing patient tied to a chair and covered in her own urine and waste. The patient was a young girl with Down’s Syndrome and because of her disability; she was locked up every day and suffered in silence. This incident led Chitra Shah to establish Satya Special School in 2003. Since then, she has provided thousands of special needs children with therapies, education and vocational skills training to live their lives with dignity and respect. Many children with disabilities are abandoned because of their disabilities. Satya Special School believes in empowering disabled children and helping them stand on their own independently so they never have to be shunned, humiliated and abused because of their disabilities. Your support can help children with disabilities receive therapy and education. Donate now.Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India), &amp; 501(c)(3) of the Internal Revenue Code (USA). Place of rehabilitation and transformation For 20 years, Satya Special School has been working with special-needs children in 10 centres located in rural and urban Puducherry. The centres have trained teachers and physical therapists who work with the children to identify their special needs and develop physical and educational programs to help them be integrated into mainstream life. The children are provided with multiple therapies such as physiotherapy, hydrotherapy, speech therapy, art therapy and more to improve their physical condition and help them function independently. The school also provides the children with specialized educational support to help them integrate into mainstream schools. This School Readiness Program includes one-on-one special education, activity-based learning, visual media learning and more. Satya Special School is also equipped with facilities such as a sensory walkway, an outdoor inclusive disabled-friendly play park, a wheelchair accessible vehicle and many more facilities to assist children with physical disabilities.Need for the fundraiserThe work of Satya Special School is making an impact in the lives of the children, many of whom have learned to function independently, been enrolled in mainstream schools and secured employment. But the school is in desperate need of funds to afford rehabilitation equipment such as walkers and standing frames, custom made shoes for people with disabilities and other therapeutic interventions. Your support will help the special needs children continue to have access to the tools, resources and therapies that make their lives better and give them a chance to have self-reliant and hopeful lives.The parents and guardians of the children were previously in despair regarding their children’s helplessness but because of Satya Special School, they are watching their children grow into independent and capable individuals who work towards their dreams for the future. The stigma, discrimination and abuse of disabled children is widespread, and many special-needs children are abandoned by their own families. But ”we transform their lives through building their abilities” , shares Chitra Shah, the founder of Satya Special School. Donate to this fundraiser by Give, India’s largest online donation platform, to support Satya Special School in their mission to provide multiple therapies, rehabilitation, academic support and future job readiness skills to 61 special needs children.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/08165cbd-96ba-401a-9acc-5d0edaa6764a.webp",
-      "amount_raised_inr": 4192568.0,
-      "amount_goal_inr": 5000000.0,
-      "deadline_iso": "2026-07-30",
-      "days_left": 2,
-      "campaign_url": "https://give.do/fundraisers/help-chitra-save-disabled-children-from-poor-families-from-a-life-of-neglect-and-abuse",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-07-28T06:23:28.422176+00:00"
+      "scraped_at_iso": "2026-07-28T10:31:25.174015+00:00"
     },
     {
       "id": "milaap-1028614",
@@ -85,24 +51,75 @@
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-naveen-kumar-reddy",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-28T06:23:25.564906+00:00"
+      "scraped_at_iso": "2026-07-28T10:31:22.102474+00:00"
     },
     {
-      "id": "givedo-667e964e",
+      "id": "givedo-68a5afdd",
       "source": "givedo",
-      "title": "Help 72-year-old Vanitha provide 100+ abandoned mentally ill women with shelter and care",
-      "description": "“The major problem in society today is the stigma against mentally ill or mentally disabled people. Families feed and care for men who are mentally ill and keep them at home. But no one wants to help women with mental illnesses,” says N Vanitha Rengaraj, chairperson of Sharanalayam.Sharanalaym’s ‘Jothi’ is a sanctuary for over 100 women facing mental challenges. Women with mental illness facing various challenges on the streets are brought to Sharanalayam with the help of the authorities and cared for. Donate easily through UPI, all debit/credit cards and net banking. Donations to this fundraiser are tax exempted under 80G of the Income Tax Act (India).The women at Sharanalaym Jothi are provided with necessities like food, clothing and medical care. They also get mental health services, access to psychiatrists and counseling, empowering individuals on their path to recovery.Once lost and vulnerable on unfamiliar streets, the women at Sharanalaym Jothi find solace.By supporting mentally disabled women at Sharanalaym Jothi, you contribute to creating a better world. We can ensure these women receive the care and support they deserve.Over the years, Vanitha has tried her best to run Sharanalayam from her own resources and that of her well-wishers, but the last few years have been harsh. “I normally don’t extend my hand for people to donate. Many have come on their own. But life has become a bit difficult now. I need your support to take care of the women here and also bring more women here in need of help,” says Vanitha. How Sharanalayam came into beingThe NGO started its operations in 2001 from rented premises in Pollachi in the district of Coimbatore. It started with taking care of children in difficult conditions. It slowly started taking care of mentally challenged women. Sharanalayam has come a long way since that time, with hundreds of children and women being taken care of by the NGO in the last two decades. Many women were rehabilitated by the NGO, thanks to its facilities.Sharanalayam needs urgent support to take care of over 100 women. The organisation also aspires to take care of many more mentally ill women in the coming months and years. Vanitha cannot do it without your support. Donate to this fundraiser on Give.do, India’s largest and most trusted online donation platform, to help abandoned mentally ill women get care and shelter. Vanitha, 72, the founder of Sharanalayam cannot do it alone.Donate now.",
+      "title": "This Guru Purnima, help IITian Bipin ensure tribal kids of Majuli island get free education",
+      "description": "“The Hummingbird School is my only hope to succeed in life. I feel I am trying to swim out of this place (Majuli) and my school stands as a beacon on the other side of the river. If my school closes down, I feel I will drown in this river. Not just me but every child in villages around here and our families depend on this school”, says Roopjyoti, a bright, young student of Ayang Trust’s The Hummingbird School.Majuli Island, where The Hummingbird School is situated, faces severe floods and constant riverbank erosion, leaving most of its residents struggling to survive. For the children of this impoverished tribal community, education remains their only path to hope and dignity.Your support to Ayang Trust’s Hummingbird School can ensure that its students can have a future different from their parents who are struggling to get even two meals a day. Donate now.Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).From IIT Kharagpur to Majuli“When I first visited the remote villages of Majuli I was shocked. The extent of the struggles here was beyond my imagination. These villages had no connectivity to the outside world, and very limited access to healthcare and quality education”, says Bipin Dhane, founder of the school. Bipin, who grew up in the small town of Satara in Maharashtra, faced countless financial hardships. Despite his struggles, Bipin secured admission to the prestigious Indian Institute of Technology, Kharagpur, and then went on to take up a job in Singapore. Owing to his childhood experiences Bipin was always inclined towards helping the less fortunate, and he believed in the transformative power of education. It was in 2016 that Bipin left his lucrative career abroad and moved to Majuli, to provide the children from this inaccessible river island education they were deprived of.“Whatever little money I had saved, I gave it to my parents. I had no money to start the school. It was then that villagers came together to build bamboo huts. Each family donated bamboo, wood, and whatever little they could. It was the parents of our students who erected huts for the school to start”, shares Bipin while talking about the inception of The Hummingbird School in 2017.Help Bipin save underprivileged children of Majuli Island from generational poverty and give them a chance to succeed. Donate now.Donate to save future generations“People of the island value education greatly because they know that their children have no future without it. Parents have vested their faith in The Humming Bird School because they don't want their children to suffer the way they have been”, says Bipin. Bipin says, “Today we have over 300 students in our school and about 90 children live in our hostel. Many of these children are orphaned or come from single-parent households, struggling each day without adequate care or resources.. I urge each one of you to come forward and donate to us so we can help hundreds of children escape from the cycle of poverty and build lives of dignity, hope, and opportunity.”Donate to this fundraiser by Give, India’s largest and most trusted online donation platform, to help children of Majuli Island get an education and break the cycle of poverty.",
       "patient_name": null,
       "condition": null,
-      "image_url": "https://cfstatic.give.do/e2c65b44-daf2-4379-b205-a7f110543865.webp",
-      "amount_raised_inr": 12179415.0,
-      "amount_goal_inr": 30000000.0,
+      "image_url": "https://cfstatic.give.do/0d062599-cfe7-4fc9-a041-acddceb41a59.webp",
+      "amount_raised_inr": 1686831.0,
+      "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-08-01",
       "days_left": 4,
-      "campaign_url": "https://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
+      "campaign_url": "https://give.do/fundraisers/this-guru-purnima-help-iitian-bipin-ensure-tribal-kids-of-majuli-island-get-free-education",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-28T06:23:28.422135+00:00"
+      "scraped_at_iso": "2026-07-28T10:31:25.173884+00:00"
+    },
+    {
+      "id": "givedo-67860356",
+      "source": "givedo",
+      "title": "Help visually impaired ‘Singh Sir’ provide food, shelter and education to blind girls",
+      "description": "In many families, blind girls are often seen as a burden—a harsh reality that leaves many of them abandoned, neglected, and deprived of opportunities. Families often feel, \"If we spend money on them, it would be useless\", shares Ramesh Singh a blind teacher committed to providing care and education the blind girls deserve. Sadly, many blind girls are forced to grow up in isolation and denied the education and care they deserve. But amidst this darkness, there is a glimmer of hope. “Singh Sir” as he is fondly called, is on a mission but he cannot do it alone. Support this blind teacher in transforming lives. Donate generouslyDonate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).How it beganIn 2005, Ramesh Prasad Singh, a blind teacher who has personally experienced the struggles faced by blind children, founded the Bhartiya Netraheen Kalyan Parishad. His mission? To rescue blind girls from neglect and give them a chance to thrive.\"People think this girl is a lifelong burden for us,\" Ramesh says. \"But as soon as the girl gets a job, the same family starts hounding her.\"Over the years, the nonprofit has provided food, shelter, and admission fees for college to blind girls, ensuring they are not trapped within four walls but instead empowered to pursue their dreams.At the heart of Bhartiya Netraheen Kalyan Parishad is a home—a safe haven for blind girls where they receive education, care, and the tools to build a better future. These girls are not just surviving; they are thriving. They are becoming independent, proving that blindness is not a limitation but a stepping stone to resilience and strength.But Ramesh cannot continue this mission alone.He appeals to you to join hands and support Bhartiya Netraheen Kalyan Parishad.Why your contribution countsNutritious meals for blind girlsSafe and secure shelterAdmission fees and educational support\"We appeal to each person to support our mission and make a difference,\" Ramesh urges.Together, we can ensure these girls are no longer seen as burdens but as empowered individuals ready to lead fulfilling lives.Donate to this fundraiser by Give, India’s largest online donation platform, to support Bhartiya Netraheen Kalyan Parishad in its mission to provide blind girls the shelter, care and education they deserve.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/442d2dea-b432-4069-bc9d-00855f5a1d11.webp",
+      "amount_raised_inr": 4264511.0,
+      "amount_goal_inr": 5000000.0,
+      "deadline_iso": "2026-08-03",
+      "days_left": 6,
+      "campaign_url": "https://give.do/fundraisers/help-visually-impaired-singh-sir-provide-food-shelter-and-education-to-blind-girls",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-07-28T10:31:25.173998+00:00"
+    },
+    {
+      "id": "givedo-6a6782bb",
+      "source": "givedo",
+      "title": "Help Animals in Assam Floods",
+      "description": "I'm fundraising for Humane World for Animals India, which is on the ground in Assam providing emergency veterinary care and temporary shelter to animals affected by the floods, including goats, pigs, dogs and birds.These animals need help now! Please give today and help us reach animals in crisis before it is too late.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/d415aee2-36ec-431a-b391-2fd12bf32ee3.webp",
+      "amount_raised_inr": 14550.0,
+      "amount_goal_inr": 500000.0,
+      "deadline_iso": "2026-08-11",
+      "days_left": 14,
+      "campaign_url": "https://give.do/fundraisers/help-animals-in-assam-floods-vgzmp6bk",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-07-28T10:31:25.173897+00:00"
+    },
+    {
+      "id": "givedo-6a3a071f",
+      "source": "givedo",
+      "title": "Support 333 students's learning journey! Be a spark for our Back to School campaign and Ignite the future of our students from underserved communities, enriching their new academic year and skills.",
+      "description": "It is that time of the year when children are returning to their schools to their new grades and are looking forward to the year with curiosity and aspirations.The timelines are similar for most of the school going students of India but the resources and opportunities they have are not equal.Listen to the glimpse of our alum student Omkar's learning journey: click here .Universe Simplified Foundation (USF) have a vision to make the Quality STEM (Science, Technology, Engineering, Math) Education accessible to the students from underserved communities of rural / semi-rural villages and who are waiting to get the platform and opportunities they derserve at par with the elite schools. USF focuses on building problem solving mindset and 21st century skills through hands on project based approach and inquiry driven pedagogy.I am fundraising for a cause close to my heart, to bring a lasting change in the lives of the students and their future. To help me create more impact and touch more lives, I need your support and contribution. Please back my fundraiser so that together we can build a better India for all of us.The per student annual cost is approx. 6000 INR. Pledge your support, donate now!",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/ed4ab0f4-411b-46e2-8233-1e88702ccb58.webp",
+      "amount_raised_inr": 195468.0,
+      "amount_goal_inr": 2000000.0,
+      "deadline_iso": "2026-08-18",
+      "days_left": 21,
+      "campaign_url": "https://give.do/fundraisers/support-333-studentss-learning-journey-be-a-spark-for-our-back-to-school-campaign-and-ignite-the-future-of-our-students-from-underserved-communities-enriching-their-new-academic-year-and-skills",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-07-28T10:31:25.173847+00:00"
     },
     {
       "id": "milaap-1039315",
@@ -112,14 +129,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1784772218/production/images/campaign/1039315/rw5lnx8xvehfhistvyjh_1784772220.webp",
-      "amount_raised_inr": 8769.0,
+      "amount_raised_inr": 8786.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-08-22",
       "days_left": 25,
       "campaign_url": "https://milaap.org/fundraisers/support-md-amir-saeed",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-28T06:23:25.564820+00:00"
+      "scraped_at_iso": "2026-07-28T10:31:22.102379+00:00"
     },
     {
       "id": "milaap-1039441",
@@ -129,14 +146,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1784801888/production/images/campaign/1039441/medical_1553587798_1784796923.webp",
-      "amount_raised_inr": 4415.0,
+      "amount_raised_inr": 4526.0,
       "amount_goal_inr": 3000000.0,
       "deadline_iso": "2026-08-22",
       "days_left": 25,
       "campaign_url": "https://milaap.org/fundraisers/support-deepak-goyal-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-28T06:23:25.564888+00:00"
+      "scraped_at_iso": "2026-07-28T10:31:22.102453+00:00"
     },
     {
       "id": "milaap-1040292",
@@ -146,14 +163,48 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1785053188/production/images/campaign/1040292/IMG_7754_fvvekd_1785053189.webp",
-      "amount_raised_inr": 4557.0,
+      "amount_raised_inr": 4563.0,
       "amount_goal_inr": 3000000.0,
       "deadline_iso": "2026-08-25",
       "days_left": 28,
       "campaign_url": "https://milaap.org/fundraisers/support-sanket-patel",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-28T06:23:25.564863+00:00"
+      "scraped_at_iso": "2026-07-28T10:31:22.102426+00:00"
+    },
+    {
+      "id": "givedo-6a6709ec",
+      "source": "givedo",
+      "title": "People of Assam need urgent help as floods leave lakhs in need. Donate now",
+      "description": "People of Assam need urgent help as floods leave lakhs in need. Donate nowFloodwaters have once again ravaged the beautiful land of Assam, leaving a trail of destruction in its wake. According to the latest reports by the Assam State Disaster Management Authority (ASDMA), over 5.2 lakh people have been hit badly due to floods across Charaideo, Golaghat, Jorhat, Nagaon, Sivasagar, and other districts. The number of victims of the natural disaster has climbed to 68 while thousands remain stranded without help. Together, let us rise and make a difference by contributing to our fundraising campaign for the flood victims of Assam.Charaideo is the worst-hit district with nearly 1.9 lakh people affected, followed by Sivasagar (over 1.5 lakh) and Jorhat (around 1.4 lakh). Nestled in the northeastern part of India, Assam has a long-standing history of facing nature's fury. Just last year, the state witnessed a devastating flood that uprooted the lives of countless individuals. This year, the floods have struck again, plunging numerous families into unimaginable chaos and distress. Many have been displaced from their homes, left without shelter, and robbed of their basic necessities.Embankments, roads, bridges and other infrastructure have also been damaged by flood waters. The urgent need for assistance:In times like these, it is our duty to extend a helping hand to our fellow human beings who are facing the wrath of nature. Your generous donations will directly support our on-ground NGO partners who are tirelessly working to provide immediate relief to the flood-affected people in Assam. The funds raised will be utilised to provide them with essential supplies such as food, clean water, and medical care, bringing hope and solace to their lives during this moment of crisis.The power of your donations:Every rupee contributed to this fundraising campaign will create a ripple effect of positive change in the lives of those who need it the most. Your support will help in:Immediate Relief: Ensuring that the affected families receive immediate assistance in the form of food, clean water, and essential supplies.Medical Care: Providing medical aid to those injured or suffering from waterborne diseases, ensuring their well-being in the aftermath of the disaster.Shelter and Rehabilitation: Assisting in the construction of temporary shelters and facilitating the process of rehabilitation to help affected families rebuild their lives.Here's how your donations can help:a) A food kit comprising essential supplies can be provided for ₹1,255. b) A hygiene kit with essentials for an entire family during floods can be ensured for ₹1,035. c) Our NGO partner can provide temporary shelter for flood-affected families for ₹2,570.Now is the time to unite and show our solidarity with the people of Assam. By donating to our fundraising campaign, you are not just providing immediate relief; you are also offering hope and strength to those who have lost everything. Together, we can make a difference and rebuild the lives of the flood-affected communities in Assam. Join us today and let compassion guide our actions.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/9517bd11-558b-4582-8511-5ed16e5864c8.webp",
+      "amount_raised_inr": 11800.0,
+      "amount_goal_inr": 5000000.0,
+      "deadline_iso": "2026-08-27",
+      "days_left": 30,
+      "campaign_url": "https://give.do/fundraisers/people-of-assam-need-urgent-help-as-floods-leave-lakhs-in-need-donate-now",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-07-28T10:31:25.173929+00:00"
+    },
+    {
+      "id": "givedo-6a681196",
+      "source": "givedo",
+      "title": "🚨 Assam Flood Relief Appeal 🙏",
+      "description": "🚨 Assam Flood Relief Appeal 🙏Today, Assam needs us.Thousands of families have lost their homes. Children are sleeping without food. Elderly people are stranded. Mothers are struggling to protect their children.For them, this is not just a flood—it is a fight for survival.At Srijan Ek Soch, we cannot remain silent spectators.Our dedicated team of 20 volunteers is reaching the affected areas to provide immediate relief to families in need.We will be distributing:🍚 Dry ration kits🧴 Hygiene and sanitation kits🥛 Essential daily-use items💧 Safe drinking water and other emergency relief materialsBut we cannot do this alone.Every contribution—big or small—can help save lives and restore hope.₹500 can help provide essential supplies. ₹1,000 can support a family with relief materials. ₹2,500 or more can help us reach those who have lost everything.Today, someone in Assam is not asking for luxury. They are simply praying for food, clean water, and hope.Let’s become the answer to their prayers.🙏 Join hands with Srijan Ek Soch. Together, we can ensure that no family feels alone in this difficult time.Your support can become someone’s meal, someone’s medicine, and someone’s hope.Donate. Share. Stand with Assam.Team Srijan Ek Soch ❤️ Serving Humanity Beyond Boundaries",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/3edddd19-4749-4f13-b7e4-dc199aa7bb4b.webp",
+      "amount_raised_inr": 10800.0,
+      "amount_goal_inr": 1000000.0,
+      "deadline_iso": "2026-08-31",
+      "days_left": 34,
+      "campaign_url": "https://give.do/fundraisers/assam-flood-relief-appeal",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-07-28T10:31:25.173973+00:00"
     },
     {
       "id": "milaap-1039366",
@@ -170,7 +221,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-goutam-bandyopadhyay",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-28T06:23:25.564794+00:00"
+      "scraped_at_iso": "2026-07-28T10:31:22.102350+00:00"
     },
     {
       "id": "milaap-947926",
@@ -187,7 +238,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-abhijeet-nath",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-28T06:23:25.564735+00:00"
+      "scraped_at_iso": "2026-07-28T10:31:22.102284+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -197,14 +248,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 156947463.92,
+      "amount_raised_inr": 156957664.92,
       "amount_goal_inr": 200000000.0,
       "deadline_iso": "2027-01-20",
       "days_left": 176,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-28T06:23:28.422050+00:00"
+      "scraped_at_iso": "2026-07-28T10:31:25.173815+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -214,14 +265,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 70065963.43,
+      "amount_raised_inr": 70088665.43,
       "amount_goal_inr": 150000000.0,
       "deadline_iso": "2027-02-28",
       "days_left": 215,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-28T06:23:28.422072+00:00"
+      "scraped_at_iso": "2026-07-28T10:31:25.173782+00:00"
+    },
+    {
+      "id": "givedo-688c4cc5",
+      "source": "givedo",
+      "title": "Help Save Young Girls From Trafficking",
+      "description": "Human trafficking in India is a horrifying crisis. Thousands of victims, primarily women and girl children, are exploited in red-light areas. Over 10,659 cases were reported between 2018-2022, but experts say that these numbers are likely a fraction of the reality due to underreporting, yet they still do expose the magnitude of the crisis. Girls make up 71.4% of missing children in India and a large number of these girls end up at red-light areas. Sex trafficking is particularly gruesome, with girls as young as 12 sold for as little as a few thousand rupees.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/4bc9b10a-7428-494e-9c42-70d43fb3395d.webp",
+      "amount_raised_inr": 8034349.0,
+      "amount_goal_inr": 41000000.0,
+      "deadline_iso": "2030-12-31",
+      "days_left": 1617,
+      "campaign_url": "https://give.do/fundraisers/help-save-young-girls-from-trafficking",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-07-28T10:31:25.174024+00:00"
     }
   ]
 }
