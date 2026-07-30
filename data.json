@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-30T10:21:55.362829+00:00",
+  "generated_at": "2026-07-30T13:50:25.222340+00:00",
   "sources": {
     "ketto": 0,
-    "milaap": 8,
+    "milaap": 7,
     "givedo": 6
   },
   "languages": [
@@ -17,25 +17,8 @@
     "pa",
     "ml"
   ],
-  "total": 13,
+  "total": 12,
   "campaigns": [
-    {
-      "id": "milaap-1028614",
-      "source": "milaap",
-      "title": "Help save my 2-month-old from fatal SMA — every rupee matters",
-      "description": "As a father, there is nothing more devastating than watching your newborn fight for his life. My child is just 2 months ...",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1781532370/production/images/campaign/1028614/medical_1553587798_1781532357.webp",
-      "amount_raised_inr": 36644.0,
-      "amount_goal_inr": 170000000.0,
-      "deadline_iso": "2026-07-31",
-      "days_left": 1,
-      "campaign_url": "https://milaap.org/fundraisers/support-child-of-naveen-kumar-reddy",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-07-30T10:21:51.138706+00:00"
-    },
     {
       "id": "givedo-68f25b24",
       "source": "givedo",
@@ -51,7 +34,7 @@
       "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-30T10:21:53.906181+00:00"
+      "scraped_at_iso": "2026-07-30T13:50:23.752259+00:00"
     },
     {
       "id": "givedo-667e964e",
@@ -68,7 +51,7 @@
       "campaign_url": "https://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-30T10:21:53.906210+00:00"
+      "scraped_at_iso": "2026-07-30T13:50:23.752292+00:00"
     },
     {
       "id": "givedo-65094410",
@@ -85,7 +68,7 @@
       "campaign_url": "https://give.do/fundraisers/help-chitra-save-disabled-children-from-poor-families-from-a-life-of-neglect-and-abuse",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-30T10:21:53.906243+00:00"
+      "scraped_at_iso": "2026-07-30T13:50:23.752335+00:00"
     },
     {
       "id": "milaap-1039315",
@@ -95,14 +78,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1784772218/production/images/campaign/1039315/rw5lnx8xvehfhistvyjh_1784772220.webp",
-      "amount_raised_inr": 9043.0,
+      "amount_raised_inr": 9049.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-08-22",
       "days_left": 23,
       "campaign_url": "https://milaap.org/fundraisers/support-md-amir-saeed",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-30T10:21:51.138511+00:00"
+      "scraped_at_iso": "2026-07-30T13:50:20.814493+00:00"
     },
     {
       "id": "milaap-1039441",
@@ -119,7 +102,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-deepak-goyal-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-30T10:21:51.138684+00:00"
+      "scraped_at_iso": "2026-07-30T13:50:20.814700+00:00"
     },
     {
       "id": "milaap-1040164",
@@ -129,14 +112,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1785051870/production/images/campaign/1040164/temp_file_20260726_131429_xke12d_1785051872.webp",
-      "amount_raised_inr": 5614.0,
+      "amount_raised_inr": 5701.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-08-24",
       "days_left": 25,
       "campaign_url": "https://milaap.org/fundraisers/support-piyush-shah-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-30T10:21:51.138644+00:00"
+      "scraped_at_iso": "2026-07-30T13:50:20.814652+00:00"
     },
     {
       "id": "milaap-1040292",
@@ -146,31 +129,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1785053188/production/images/campaign/1040292/IMG_7754_fvvekd_1785053189.webp",
-      "amount_raised_inr": 5237.0,
+      "amount_raised_inr": 5281.0,
       "amount_goal_inr": 3000000.0,
       "deadline_iso": "2026-08-25",
       "days_left": 26,
       "campaign_url": "https://milaap.org/fundraisers/support-sanket-patel",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-30T10:21:51.138666+00:00"
+      "scraped_at_iso": "2026-07-30T13:50:20.814677+00:00"
     },
     {
       "id": "givedo-6a6709ec",
       "source": "givedo",
       "title": "URGENT!! People of Assam need urgent help as floods leave lakhs in need. Donate now",
-      "description": "People of Assam need urgent help as floods leave lakhs in need. Donate nowFloodwaters have once again ravaged the beautiful land of Assam, leaving a trail of destruction in its wake. According to the latest reports by the Assam State Disaster Management Authority (ASDMA), over 5.2 lakh people have been hit badly due to floods across Charaideo, Golaghat, Jorhat, Nagaon, Sivasagar, and other districts. The number of victims of the natural disaster has climbed to 68 while thousands remain stranded without help. Together, let us rise and make a difference by contributing to our fundraising campaign for the flood victims of Assam.Charaideo is the worst-hit district with nearly 1.9 lakh people affected, followed by Sivasagar (over 1.5 lakh) and Jorhat (around 1.4 lakh). Nestled in the northeastern part of India, Assam has a long-standing history of facing nature's fury. Just last year, the state witnessed a devastating flood that uprooted the lives of countless individuals. This year, the floods have struck again, plunging numerous families into unimaginable chaos and distress. Many have been displaced from their homes, left without shelter, and robbed of their basic necessities.Embankments, roads, bridges and other infrastructure have also been damaged by flood waters. The urgent need for assistance:In times like these, it is our duty to extend a helping hand to our fellow human beings who are facing the wrath of nature. Your generous donations will directly support our on-ground NGO partners who are tirelessly working to provide immediate relief to the flood-affected people in Assam. The funds raised will be utilised to provide them with essential supplies such as food, clean water, and medical care, bringing hope and solace to their lives during this moment of crisis.The power of your donations:Every rupee contributed to this fundraising campaign will create a ripple effect of positive change in the lives of those who need it the most. Your support will help in:Immediate Relief: Ensuring that the affected families receive immediate assistance in the form of food, clean water, and essential supplies.Medical Care: Providing medical aid to those injured or suffering from waterborne diseases, ensuring their well-being in the aftermath of the disaster.Shelter and Rehabilitation: Assisting in the construction of temporary shelters and facilitating the process of rehabilitation to help affected families rebuild their lives.Here's how your donations can help:a) A food kit comprising essential supplies can be provided for ₹1,255. b) A hygiene kit with essentials for an entire family during floods can be ensured for ₹1,035. c) Our NGO partner can provide temporary shelter for flood-affected families for ₹2,570.Now is the time to unite and show our solidarity with the people of Assam. By donating to our fundraising campaign, you are not just providing immediate relief; you are also offering hope and strength to those who have lost everything. Together, we can make a difference and rebuild the lives of the flood-affected communities in Assam. Join us today and let compassion guide our actions.",
+      "description": "People of Assam need urgent help as floods leave lakhs in need. Donate nowFloodwaters have once again ravaged the beautiful land of Assam, leaving a trail of destruction in its wake. According to the latest reports by the Assam State Disaster Management Authority (ASDMA), over six lakh people have been severely affected by floods across Charaideo, Golaghat, Jorhat, Nagaon, Sivasagar, and other districts. The number of victims of the natural disaster has climbed to over 70, while thousands remain stranded without help. Together, let us rise and make a difference by contributing to our fundraising campaign for the flood victims of Assam.Charaideo is the worst-hit district with nearly 1.9 lakh people affected, followed by Sivasagar (over 1.5 lakh) and Jorhat (around 1.4 lakh). Nestled in the northeastern part of India, Assam has a long-standing history of facing nature's fury. Just last year, the state witnessed a devastating flood that uprooted the lives of countless individuals. This year, the floods have struck again, plunging numerous families into unimaginable chaos and distress. Many have been displaced from their homes, left without shelter, and robbed of their basic necessities.Embankments, roads, bridges and other infrastructure have also been damaged by flood waters. The urgent need for assistance:In times like these, it is our duty to extend a helping hand to our fellow human beings who are facing the wrath of nature. Your generous donations will directly support our on-ground NGO partners who are tirelessly working to provide immediate relief to the flood-affected people in Assam. The funds raised will be utilised to provide them with essential supplies such as food, clean water, and medical care, bringing hope and solace to their lives during this moment of crisis.The power of your donations:Every rupee contributed to this fundraising campaign will create a ripple effect of positive change in the lives of those who need it the most. Your support will help in:Immediate Relief: Ensuring that the affected families receive immediate assistance in the form of food, clean water, and essential supplies.Medical Care: Providing medical aid to those injured or suffering from waterborne diseases, ensuring their well-being in the aftermath of the disaster.Shelter and Rehabilitation: Assisting in the construction of temporary shelters and facilitating the process of rehabilitation to help affected families rebuild their lives.Here's how your donations can help:a) A food kit comprising essential supplies can be provided for ₹1,255. b) A hygiene kit with essentials for an entire family during floods can be ensured for ₹1,035. c) Our NGO partner can provide temporary shelter for flood-affected families for ₹2,570.Now is the time to unite and show our solidarity with the people of Assam. By donating to our fundraising campaign, you are not just providing immediate relief; you are also offering hope and strength to those who have lost everything. Together, we can make a difference and rebuild the lives of the flood-affected communities in Assam. Join us today and let compassion guide our actions.",
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/9517bd11-558b-4582-8511-5ed16e5864c8.webp",
-      "amount_raised_inr": 5983874.0,
+      "amount_raised_inr": 6370355.0,
       "amount_goal_inr": 15000000.0,
       "deadline_iso": "2026-08-27",
       "days_left": 28,
       "campaign_url": "https://give.do/fundraisers/urgent-people-of-assam-need-urgent-help-as-floods-leave-lakhs-in-need-donate-now",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-30T10:21:53.906086+00:00"
+      "scraped_at_iso": "2026-07-30T13:50:23.752181+00:00"
     },
     {
       "id": "milaap-1039366",
@@ -180,14 +163,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1784786329/production/images/campaign/1039366/medical_1553587798_1784785422.webp",
-      "amount_raised_inr": 11097.0,
+      "amount_raised_inr": 11179.0,
       "amount_goal_inr": 4000000.0,
       "deadline_iso": "2026-09-30",
       "days_left": 62,
       "campaign_url": "https://milaap.org/fundraisers/support-goutam-bandyopadhyay",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-30T10:21:51.138576+00:00"
+      "scraped_at_iso": "2026-07-30T13:50:20.814630+00:00"
     },
     {
       "id": "milaap-947926",
@@ -197,14 +180,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1756459428/production/images/campaign/947926/WhatsApp_Image_2025-08-29_at_2.26.23_PM_1_wsjqjw_1756459429.webp",
-      "amount_raised_inr": 254318.0,
+      "amount_raised_inr": 259318.0,
       "amount_goal_inr": 30000000.0,
       "deadline_iso": "2026-12-31",
       "days_left": 154,
       "campaign_url": "https://milaap.org/fundraisers/support-abhijeet-nath",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-30T10:21:51.138625+00:00"
+      "scraped_at_iso": "2026-07-30T13:50:20.814605+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -214,14 +197,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 158589188.1,
+      "amount_raised_inr": 158594694.1,
       "amount_goal_inr": 200000000.0,
       "deadline_iso": "2027-01-20",
       "days_left": 174,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-30T10:21:53.906049+00:00"
+      "scraped_at_iso": "2026-07-30T13:50:23.752120+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -231,14 +214,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 70971042.94,
+      "amount_raised_inr": 70977600.04,
       "amount_goal_inr": 150000000.0,
       "deadline_iso": "2027-02-28",
       "days_left": 213,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-07-30T10:21:53.906124+00:00"
+      "scraped_at_iso": "2026-07-30T13:50:23.752214+00:00"
     }
   ]
 }
