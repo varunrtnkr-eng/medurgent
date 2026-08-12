@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T09:08:55.015106+00:00",
+  "generated_at": "2026-08-12T12:59:46.732986+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 9,
@@ -27,14 +27,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/0d062599-cfe7-4fc9-a041-acddceb41a59.webp",
-      "amount_raised_inr": 2122724.0,
+      "amount_raised_inr": 2123724.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-08-16",
       "days_left": 4,
       "campaign_url": "https://give.do/fundraisers/help-iitian-bipin-ensure-tribal-kids-of-majuli-island-of-assam-get-free-education",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-12T09:08:53.347246+00:00"
+      "scraped_at_iso": "2026-08-12T12:59:44.892175+00:00"
     },
     {
       "id": "givedo-65b0b1e2",
@@ -44,14 +44,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://img.youtube.com/vi/TGXGQ3b5CdY/0.jpg",
-      "amount_raised_inr": 4265091.0,
+      "amount_raised_inr": 4268593.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-08-16",
       "days_left": 4,
       "campaign_url": "https://give.do/fundraisers/help-sandip-rescue-and-care-for-abandoned-elderly-left-to-beg-on-the-streets-donate-now",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-12T09:08:53.347264+00:00"
+      "scraped_at_iso": "2026-08-12T12:59:44.892202+00:00"
     },
     {
       "id": "givedo-68f25b24",
@@ -61,14 +61,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/3d8552de-9a0a-41b0-878a-470ec88157d8.webp",
-      "amount_raised_inr": 3295066.0,
+      "amount_raised_inr": 3296066.0,
       "amount_goal_inr": 10000000.0,
       "deadline_iso": "2026-08-18",
       "days_left": 6,
       "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-12T09:08:53.347227+00:00"
+      "scraped_at_iso": "2026-08-12T12:59:44.892144+00:00"
     },
     {
       "id": "givedo-6a6709ec",
@@ -78,14 +78,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/9517bd11-558b-4582-8511-5ed16e5864c8.webp",
-      "amount_raised_inr": 17330119.0,
+      "amount_raised_inr": 17333619.0,
       "amount_goal_inr": 30000000.0,
       "deadline_iso": "2026-08-27",
       "days_left": 15,
       "campaign_url": "https://give.do/fundraisers/urgent-people-of-assam-need-urgent-help-as-floods-leave-lakhs-in-need-donate-now",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-12T09:08:53.347161+00:00"
+      "scraped_at_iso": "2026-08-12T12:59:44.892030+00:00"
     },
     {
       "id": "milaap-1040930",
@@ -95,14 +95,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.68,w_0.4,x_0.29,y_0.13/c_fill,h_198,w_264/v1785212951/production/images/campaign/1040930/WhatsApp_Image_2026-07-28_at_9.19.57_AM_mlayjr_1785212951.webp",
-      "amount_raised_inr": 16201.0,
+      "amount_raised_inr": 16267.0,
       "amount_goal_inr": 4000000.0,
       "deadline_iso": "2026-08-27",
       "days_left": 15,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-gudi-rahul",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-12T09:08:50.415875+00:00"
+      "scraped_at_iso": "2026-08-12T12:59:41.998047+00:00"
     },
     {
       "id": "milaap-1042952",
@@ -112,14 +112,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.43,w_0.31,x_0.49,y_0.24/c_fill,h_198,w_264/v1785771681/production/images/campaign/1042952/Darshil_srfkxr_1785771682.webp",
-      "amount_raised_inr": 7320.0,
+      "amount_raised_inr": 7391.0,
       "amount_goal_inr": 3500000.0,
       "deadline_iso": "2026-09-01",
       "days_left": 20,
       "campaign_url": "https://milaap.org/fundraisers/support-darshil-panchal",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-12T09:08:50.415901+00:00"
+      "scraped_at_iso": "2026-08-12T12:59:41.998155+00:00"
     },
     {
       "id": "milaap-1043974",
@@ -136,7 +136,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-govind-singh-22",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-12T09:08:50.415925+00:00"
+      "scraped_at_iso": "2026-08-12T12:59:41.998206+00:00"
     },
     {
       "id": "milaap-1043832",
@@ -146,31 +146,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1785914722/production/images/campaign/1043832/medical_1553587798_1785914711.webp",
-      "amount_raised_inr": 6966.0,
+      "amount_raised_inr": 6994.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-09-04",
       "days_left": 23,
       "campaign_url": "https://milaap.org/fundraisers/support-mohd-shariq-ahmer",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-12T09:08:50.415890+00:00"
-    },
-    {
-      "id": "milaap-1043818",
-      "source": "milaap",
-      "title": "Help save my wife battling aggressive blood cancer (AML)",
-      "description": "I am raising this campaign for my wife, Rinku Routh, who is 40 years old and has been courageously fighting Acute Myeloi...",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1785912692/production/images/campaign/1043818/medical_1553587798_1785912681.webp",
-      "amount_raised_inr": 5659.0,
-      "amount_goal_inr": 2000000.0,
-      "deadline_iso": "2026-09-04",
-      "days_left": 23,
-      "campaign_url": "https://milaap.org/fundraisers/support-rinku-routh-1",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-08-12T09:08:50.415941+00:00"
+      "scraped_at_iso": "2026-08-12T12:59:41.998104+00:00"
     },
     {
       "id": "milaap-1044203",
@@ -180,14 +163,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1786003510/production/images/campaign/1044203/medical_1553587798_1786003469.webp",
-      "amount_raised_inr": 24003.0,
+      "amount_raised_inr": 24242.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-09-05",
       "days_left": 24,
       "campaign_url": "https://milaap.org/fundraisers/support-siddhangana-kumari",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-12T09:08:50.415824+00:00"
+      "scraped_at_iso": "2026-08-12T12:59:41.997869+00:00"
     },
     {
       "id": "milaap-1045296",
@@ -197,14 +180,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1786331999/production/images/campaign/1045296/1_rh2gph_1786332000.webp",
-      "amount_raised_inr": 109226.0,
+      "amount_raised_inr": 110137.0,
       "amount_goal_inr": 10000000.0,
       "deadline_iso": "2026-09-08",
       "days_left": 27,
       "campaign_url": "https://milaap.org/fundraisers/support-kamal-kumar-31",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-12T09:08:50.415772+00:00"
+      "scraped_at_iso": "2026-08-12T12:59:41.997776+00:00"
+    },
+    {
+      "id": "milaap-1045168",
+      "source": "milaap",
+      "title": "Help my mother beat Leukemia and get her life back",
+      "description": "I am raising funds for my beloved mother, Govindu Malathi, a 52-year-old woman from Proddatur, Andhra Pradesh, who is cu...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1786256514/production/images/campaign/1045168/medical_1553587798_1786256513.webp",
+      "amount_raised_inr": 5865.0,
+      "amount_goal_inr": 2500000.0,
+      "deadline_iso": "2026-09-08",
+      "days_left": 27,
+      "campaign_url": "https://milaap.org/fundraisers/support-govindu-malathi-1",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-08-12T12:59:41.998254+00:00"
     },
     {
       "id": "milaap-947926",
@@ -221,7 +221,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-abhijeet-nath",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-12T09:08:50.415861+00:00"
+      "scraped_at_iso": "2026-08-12T12:59:41.997996+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -231,14 +231,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 160174538.56,
+      "amount_raised_inr": 160175138.56,
       "amount_goal_inr": 200000000.0,
       "deadline_iso": "2027-01-20",
       "days_left": 161,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-12T09:08:53.347186+00:00"
+      "scraped_at_iso": "2026-08-12T12:59:44.892067+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -255,7 +255,7 @@
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-12T09:08:53.347206+00:00"
+      "scraped_at_iso": "2026-08-12T12:59:44.892096+00:00"
     }
   ]
 }
