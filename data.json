@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T05:38:06.608094+00:00",
+  "generated_at": "2026-08-13T09:08:37.091315+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 9,
@@ -27,14 +27,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/0d062599-cfe7-4fc9-a041-acddceb41a59.webp",
-      "amount_raised_inr": 2125724.0,
+      "amount_raised_inr": 2130724.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-08-16",
       "days_left": 3,
       "campaign_url": "https://give.do/fundraisers/help-iitian-bipin-ensure-tribal-kids-of-majuli-island-of-assam-get-free-education",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-13T05:38:04.951732+00:00"
+      "scraped_at_iso": "2026-08-13T09:08:35.690136+00:00"
     },
     {
       "id": "givedo-65b0b1e2",
@@ -44,14 +44,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://img.youtube.com/vi/TGXGQ3b5CdY/0.jpg",
-      "amount_raised_inr": 4279609.0,
+      "amount_raised_inr": 4280359.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-08-16",
       "days_left": 3,
       "campaign_url": "https://give.do/fundraisers/help-sandip-rescue-and-care-for-abandoned-elderly-left-to-beg-on-the-streets-donate-now",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-13T05:38:04.951705+00:00"
+      "scraped_at_iso": "2026-08-13T09:08:35.690109+00:00"
     },
     {
       "id": "givedo-68f25b24",
@@ -68,7 +68,7 @@
       "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-13T05:38:04.951678+00:00"
+      "scraped_at_iso": "2026-08-13T09:08:35.690079+00:00"
     },
     {
       "id": "givedo-6a6709ec",
@@ -78,14 +78,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/9517bd11-558b-4582-8511-5ed16e5864c8.webp",
-      "amount_raised_inr": 17357208.0,
+      "amount_raised_inr": 17377809.0,
       "amount_goal_inr": 30000000.0,
       "deadline_iso": "2026-08-27",
       "days_left": 14,
       "campaign_url": "https://give.do/fundraisers/urgent-people-of-assam-need-urgent-help-as-floods-leave-lakhs-in-need-donate-now",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-13T05:38:04.951584+00:00"
+      "scraped_at_iso": "2026-08-13T09:08:35.689970+00:00"
     },
     {
       "id": "milaap-1040930",
@@ -95,31 +95,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.68,w_0.4,x_0.29,y_0.13/c_fill,h_198,w_264/v1785212951/production/images/campaign/1040930/WhatsApp_Image_2026-07-28_at_9.19.57_AM_mlayjr_1785212951.webp",
-      "amount_raised_inr": 16436.0,
+      "amount_raised_inr": 16452.0,
       "amount_goal_inr": 4000000.0,
       "deadline_iso": "2026-08-27",
       "days_left": 14,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-gudi-rahul",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-13T05:38:02.217993+00:00"
-    },
-    {
-      "id": "milaap-1042952",
-      "source": "milaap",
-      "title": "Help my husband beat leukemia with a life-saving transplant",
-      "description": "My husband, Darshil Panchal, is just 37 years old, and today he is fighting the biggest battle of his life. Since last A...",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.43,w_0.31,x_0.49,y_0.24/c_fill,h_198,w_264/v1785771681/production/images/campaign/1042952/Darshil_srfkxr_1785771682.webp",
-      "amount_raised_inr": 7714.0,
-      "amount_goal_inr": 3500000.0,
-      "deadline_iso": "2026-09-01",
-      "days_left": 19,
-      "campaign_url": "https://milaap.org/fundraisers/support-darshil-panchal",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-08-13T05:38:02.218054+00:00"
+      "scraped_at_iso": "2026-08-13T09:08:32.874271+00:00"
     },
     {
       "id": "milaap-1043974",
@@ -136,7 +119,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-govind-singh-22",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-13T05:38:02.218023+00:00"
+      "scraped_at_iso": "2026-08-13T09:08:32.874307+00:00"
     },
     {
       "id": "milaap-1043832",
@@ -146,14 +129,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1785914722/production/images/campaign/1043832/medical_1553587798_1785914711.webp",
-      "amount_raised_inr": 7471.0,
+      "amount_raised_inr": 7472.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-09-04",
       "days_left": 22,
       "campaign_url": "https://milaap.org/fundraisers/support-mohd-shariq-ahmer",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-13T05:38:02.218010+00:00"
+      "scraped_at_iso": "2026-08-13T09:08:32.874292+00:00"
     },
     {
       "id": "milaap-1044203",
@@ -170,7 +153,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-siddhangana-kumari",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-13T05:38:02.217905+00:00"
+      "scraped_at_iso": "2026-08-13T09:08:32.874201+00:00"
     },
     {
       "id": "milaap-1045296",
@@ -180,14 +163,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1786331999/production/images/campaign/1045296/1_rh2gph_1786332000.webp",
-      "amount_raised_inr": 114348.0,
+      "amount_raised_inr": 114439.0,
       "amount_goal_inr": 10000000.0,
       "deadline_iso": "2026-09-08",
       "days_left": 26,
       "campaign_url": "https://milaap.org/fundraisers/support-kamal-kumar-31",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-13T05:38:02.217856+00:00"
+      "scraped_at_iso": "2026-08-13T09:08:32.874143+00:00"
     },
     {
       "id": "milaap-1045168",
@@ -197,14 +180,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1786256514/production/images/campaign/1045168/medical_1553587798_1786256513.webp",
-      "amount_raised_inr": 5911.0,
+      "amount_raised_inr": 5999.0,
       "amount_goal_inr": 2500000.0,
       "deadline_iso": "2026-09-08",
       "days_left": 26,
       "campaign_url": "https://milaap.org/fundraisers/support-govindu-malathi-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-13T05:38:02.218041+00:00"
+      "scraped_at_iso": "2026-08-13T09:08:32.874327+00:00"
+    },
+    {
+      "id": "milaap-1046141",
+      "source": "milaap",
+      "title": "Please Help Saurabh Fight His Way Back to Recovery",
+      "description": "Saurabh Yadav is currently battling a critical medical condition at Fortis Hospital, Gurgaon, after suffering a sudden a...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1786522919/production/images/campaign/1046141/medical_1553587798_1786522918.webp",
+      "amount_raised_inr": 5859.0,
+      "amount_goal_inr": 2000000.0,
+      "deadline_iso": "2026-09-11",
+      "days_left": 29,
+      "campaign_url": "https://milaap.org/fundraisers/support-saurabh-yadav-9",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-08-13T09:08:32.874342+00:00"
     },
     {
       "id": "milaap-947926",
@@ -221,7 +221,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-abhijeet-nath",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-13T05:38:02.217976+00:00"
+      "scraped_at_iso": "2026-08-13T09:08:32.874255+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -231,14 +231,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 160266263.79,
+      "amount_raised_inr": 160277301.02,
       "amount_goal_inr": 200000000.0,
       "deadline_iso": "2027-01-20",
       "days_left": 160,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-13T05:38:04.951619+00:00"
+      "scraped_at_iso": "2026-08-13T09:08:35.690009+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -255,7 +255,7 @@
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-13T05:38:04.951641+00:00"
+      "scraped_at_iso": "2026-08-13T09:08:35.690036+00:00"
     }
   ]
 }
