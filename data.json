@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T22:21:18.202420+00:00",
+  "generated_at": "2026-08-31T03:17:43.866091+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 6,
@@ -20,23 +20,6 @@
   "total": 12,
   "campaigns": [
     {
-      "id": "givedo-65b0b1e2",
-      "source": "givedo",
-      "title": "Help Sandip rescue and care for abandoned elderly left to beg on the streets. Donate now",
-      "description": "“I never imagined I would have to sleep at the bus stand despite having an able-bodied son. I was a building contractor, and it was all fine till the time I was earning well. But as soon as I lost my leg in an accident, I came on the streets. My son assaulted me and deserted me,” recalls Laxman Parasram Ajrekar, a beneficiary of Jeevan Anand Sanstha’s home for elderly, a sanctuary for over 230 seniors like him.Over the last decade Sandip Parab and his NGO Jeevan Anand Sanstha, despite facing financial hardships himself, have been a saviour for over 3,000 elderly.  With your support, Sandip can continue to rescue the elderly parents who are abandoned by their own children and give them the love and care they deserve. Donate nowDonate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India), &amp; 501(c)(3) of the Internal Revenue Code (USA). A fate worse than death“Just imagine the plight of an elderly mother who, despite coming from a well-to-do background is compelled to live the life of a beggar on city streets. The condition of elderly women who have been abandoned by their children is the worst because they face so many problems and threats on the streets. They lie starving on the streets with festering wounds and incapable of even moving,” says Sandip while talking about the pain of homeless seniors. Sandip has made it his life’s mission to protect and care for such senior citizens and has resolved never to rest till he can reach every elderly who is in need. The only hurdle Sandip faces is that of funds. Your support can enable him to reach countless more senior citizens who have been abused and abandoned by their families.How your donations helpSuch has been Sandip’s resolve to save the elderly from the streets that he has been rescuing them on his two wheeler. Today he faces a huge challenge in providing rescued senior citizens nutrition and medical care. “I treat each and every person at our home for elderly as my own parents. I do everything for them from bathing and cleaning to feeding them. But the problem I am facing is that the number of elderly at our home is increasing with each passing day. I need support in getting rations and medicines for this family of mine” shares Sandip.“When I was in my 20s, I found an elderly person lying unconscious near a railway station. I took him to my friend's home, cleaned him, bathed him and began taking care of him. I later found out that he was the principal of a school. His son was a professor but despite that he had been lying on the road. It is for helpless seniors like these that I decided that I will dedicate my life to care for them.Join this mission to protect vulnerable and helpless senior citizens who are in urgent need of medical care, food and shelter. Donate nowDonate to this fundraiser by Give, India’s largest online donation platform, to support Jeevan Anand Sansthan and other NGOs working in this cause to further their mission of rescuing abandoned elderly from the streets and giving them a loving home.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://img.youtube.com/vi/TGXGQ3b5CdY/0.jpg",
-      "amount_raised_inr": 4425821.0,
-      "amount_goal_inr": 5000000.0,
-      "deadline_iso": "2026-09-01",
-      "days_left": 2,
-      "campaign_url": "https://give.do/fundraisers/help-sandip-rescue-and-care-for-abandoned-elderly-left-to-beg-on-the-streets-donate-now",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-08-30T22:21:16.694069+00:00"
-    },
-    {
       "id": "givedo-667e964e",
       "source": "givedo",
       "title": "Help 72-year-old Vanitha provide 100+ abandoned mentally ill women with shelter and care",
@@ -47,11 +30,11 @@
       "amount_raised_inr": 12505771.0,
       "amount_goal_inr": 30000000.0,
       "deadline_iso": "2026-09-02",
-      "days_left": 3,
+      "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-30T22:21:16.694104+00:00"
+      "scraped_at_iso": "2026-08-31T03:17:42.225637+00:00"
     },
     {
       "id": "givedo-6a6709ec",
@@ -64,11 +47,11 @@
       "amount_raised_inr": 17994795.0,
       "amount_goal_inr": 30000000.0,
       "deadline_iso": "2026-09-02",
-      "days_left": 3,
+      "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/urgent-people-of-assam-need-urgent-help-as-floods-leave-lakhs-in-need-donate-now",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-30T22:21:16.693951+00:00"
+      "scraped_at_iso": "2026-08-31T03:17:42.225471+00:00"
     },
     {
       "id": "givedo-68f25b24",
@@ -78,14 +61,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/3d8552de-9a0a-41b0-878a-470ec88157d8.webp",
-      "amount_raised_inr": 3575642.0,
+      "amount_raised_inr": 3577067.0,
       "amount_goal_inr": 10000000.0,
       "deadline_iso": "2026-09-02",
-      "days_left": 3,
+      "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-30T22:21:16.694147+00:00"
+      "scraped_at_iso": "2026-08-31T03:17:42.225718+00:00"
+    },
+    {
+      "id": "givedo-65b0b1e2",
+      "source": "givedo",
+      "title": "Help Sandip rescue and care for abandoned elderly left to beg on the streets. Donate now",
+      "description": "“I never imagined I would have to sleep at the bus stand despite having an able-bodied son. I was a building contractor, and it was all fine till the time I was earning well. But as soon as I lost my leg in an accident, I came on the streets. My son assaulted me and deserted me,” recalls Laxman Parasram Ajrekar, a beneficiary of Jeevan Anand Sanstha’s home for elderly, a sanctuary for over 230 seniors like him.Over the last decade Sandip Parab and his NGO Jeevan Anand Sanstha, despite facing financial hardships himself, have been a saviour for over 3,000 elderly.  With your support, Sandip can continue to rescue the elderly parents who are abandoned by their own children and give them the love and care they deserve. Donate nowDonate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India), &amp; 501(c)(3) of the Internal Revenue Code (USA). A fate worse than death“Just imagine the plight of an elderly mother who, despite coming from a well-to-do background is compelled to live the life of a beggar on city streets. The condition of elderly women who have been abandoned by their children is the worst because they face so many problems and threats on the streets. They lie starving on the streets with festering wounds and incapable of even moving,” says Sandip while talking about the pain of homeless seniors. Sandip has made it his life’s mission to protect and care for such senior citizens and has resolved never to rest till he can reach every elderly who is in need. The only hurdle Sandip faces is that of funds. Your support can enable him to reach countless more senior citizens who have been abused and abandoned by their families.How your donations helpSuch has been Sandip’s resolve to save the elderly from the streets that he has been rescuing them on his two wheeler. Today he faces a huge challenge in providing rescued senior citizens nutrition and medical care. “I treat each and every person at our home for elderly as my own parents. I do everything for them from bathing and cleaning to feeding them. But the problem I am facing is that the number of elderly at our home is increasing with each passing day. I need support in getting rations and medicines for this family of mine” shares Sandip.“When I was in my 20s, I found an elderly person lying unconscious near a railway station. I took him to my friend's home, cleaned him, bathed him and began taking care of him. I later found out that he was the principal of a school. His son was a professor but despite that he had been lying on the road. It is for helpless seniors like these that I decided that I will dedicate my life to care for them.Join this mission to protect vulnerable and helpless senior citizens who are in urgent need of medical care, food and shelter. Donate nowDonate to this fundraiser by Give, India’s largest online donation platform, to support Jeevan Anand Sansthan and other NGOs working in this cause to further their mission of rescuing abandoned elderly from the streets and giving them a loving home.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://img.youtube.com/vi/TGXGQ3b5CdY/0.jpg",
+      "amount_raised_inr": 4427321.0,
+      "amount_goal_inr": 5000000.0,
+      "deadline_iso": "2026-09-05",
+      "days_left": 5,
+      "campaign_url": "https://give.do/fundraisers/help-sandip-rescue-and-care-for-abandoned-elderly-left-to-beg-on-the-streets-donate-now",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-08-31T03:17:42.225593+00:00"
     },
     {
       "id": "milaap-1048274",
@@ -95,14 +95,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.15,w_0.09,x_0.46,y_0.1/c_fill,h_198,w_264/v1787204942/production/images/campaign/1048274/v2_e37xjz_1787204944.webp",
-      "amount_raised_inr": 5793.0,
+      "amount_raised_inr": 5805.0,
       "amount_goal_inr": 5500000.0,
       "deadline_iso": "2026-09-18",
-      "days_left": 19,
+      "days_left": 18,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-sanjay-jaiswal",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-30T22:21:12.980902+00:00"
+      "scraped_at_iso": "2026-08-31T03:17:39.075939+00:00"
     },
     {
       "id": "milaap-1048096",
@@ -112,14 +112,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1787120830/production/images/campaign/1048096/shkpqwkpsqiwvutm9xqz_1787120836.webp",
-      "amount_raised_inr": 6096.0,
+      "amount_raised_inr": 6231.0,
       "amount_goal_inr": 1500000.0,
       "deadline_iso": "2026-09-18",
-      "days_left": 19,
+      "days_left": 18,
       "campaign_url": "https://milaap.org/fundraisers/support-gaya-prasad-tiwari-2",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-30T22:21:12.980792+00:00"
+      "scraped_at_iso": "2026-08-31T03:17:39.075596+00:00"
     },
     {
       "id": "milaap-1041358",
@@ -129,14 +129,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1786562705/production/images/campaign/1041358/f09be417-a7a7-454d-9b61-a25b7afafd5b_odkkf4_1786562706.webp",
-      "amount_raised_inr": 21020.0,
+      "amount_raised_inr": 21183.0,
       "amount_goal_inr": 7500000.0,
       "deadline_iso": "2026-09-20",
-      "days_left": 21,
+      "days_left": 20,
       "campaign_url": "https://milaap.org/fundraisers/support-siddharth-gupta-2",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-30T22:21:12.980848+00:00"
+      "scraped_at_iso": "2026-08-31T03:17:39.075830+00:00"
     },
     {
       "id": "milaap-1049299",
@@ -146,14 +146,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1787477039/production/images/campaign/1049299/Hospital2_vc0hr3_1787477039.webp",
-      "amount_raised_inr": 6297.0,
+      "amount_raised_inr": 6367.0,
       "amount_goal_inr": 3000000.0,
       "deadline_iso": "2026-09-22",
-      "days_left": 23,
+      "days_left": 22,
       "campaign_url": "https://milaap.org/fundraisers/support-aditya-pandey-17",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-30T22:21:12.980823+00:00"
+      "scraped_at_iso": "2026-08-31T03:17:39.075776+00:00"
     },
     {
       "id": "milaap-1049521",
@@ -163,14 +163,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1787554796/production/images/campaign/1049521/1000352161_nrpyf0_1787554797.webp",
-      "amount_raised_inr": 4698.0,
+      "amount_raised_inr": 4725.0,
       "amount_goal_inr": 3500000.0,
       "deadline_iso": "2026-09-23",
-      "days_left": 24,
+      "days_left": 23,
       "campaign_url": "https://milaap.org/fundraisers/support-ritesh-nagpal-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-30T22:21:12.980729+00:00"
+      "scraped_at_iso": "2026-08-31T03:17:39.075715+00:00"
     },
     {
       "id": "milaap-1049510",
@@ -183,11 +183,11 @@
       "amount_raised_inr": 3703.0,
       "amount_goal_inr": 1700000.0,
       "deadline_iso": "2026-09-23",
-      "days_left": 24,
+      "days_left": 23,
       "campaign_url": "https://milaap.org/fundraisers/support-moushumi-chattopadhyay",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-30T22:21:12.980872+00:00"
+      "scraped_at_iso": "2026-08-31T03:17:39.075879+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -197,14 +197,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 163935445.01,
+      "amount_raised_inr": 163937375.72,
       "amount_goal_inr": 200000000.0,
       "deadline_iso": "2027-01-20",
-      "days_left": 143,
+      "days_left": 142,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-30T22:21:16.694031+00:00"
+      "scraped_at_iso": "2026-08-31T03:17:42.225554+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -217,11 +217,11 @@
       "amount_raised_inr": 75363037.75,
       "amount_goal_inr": 35000000.0,
       "deadline_iso": "2027-02-28",
-      "days_left": 182,
+      "days_left": 181,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-30T22:21:16.693985+00:00"
+      "scraped_at_iso": "2026-08-31T03:17:42.225507+00:00"
     }
   ]
 }
