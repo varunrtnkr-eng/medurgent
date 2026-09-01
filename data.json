@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T23:36:22.574757+00:00",
+  "generated_at": "2026-09-01T03:20:19.093182+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 4,
@@ -27,14 +27,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/9517bd11-558b-4582-8511-5ed16e5864c8.webp",
-      "amount_raised_inr": 18005395.0,
+      "amount_raised_inr": 18017451.0,
       "amount_goal_inr": 30000000.0,
       "deadline_iso": "2026-09-05",
-      "days_left": 5,
+      "days_left": 4,
       "campaign_url": "https://give.do/fundraisers/urgent-people-of-assam-need-urgent-help-as-floods-leave-lakhs-in-need-donate-now",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-31T23:36:21.181937+00:00"
+      "scraped_at_iso": "2026-09-01T03:20:17.885014+00:00"
     },
     {
       "id": "givedo-65b0b1e2",
@@ -47,11 +47,11 @@
       "amount_raised_inr": 4431421.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-09-05",
-      "days_left": 5,
+      "days_left": 4,
       "campaign_url": "https://give.do/fundraisers/help-sandip-rescue-and-care-for-abandoned-elderly-left-to-beg-on-the-streets-donate-now",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-31T23:36:21.182027+00:00"
+      "scraped_at_iso": "2026-09-01T03:20:17.885083+00:00"
     },
     {
       "id": "givedo-667e964e",
@@ -64,11 +64,11 @@
       "amount_raised_inr": 12505771.0,
       "amount_goal_inr": 30000000.0,
       "deadline_iso": "2026-09-08",
-      "days_left": 8,
+      "days_left": 7,
       "campaign_url": "https://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-31T23:36:21.182051+00:00"
+      "scraped_at_iso": "2026-09-01T03:20:17.885102+00:00"
     },
     {
       "id": "givedo-68f25b24",
@@ -81,11 +81,11 @@
       "amount_raised_inr": 3585067.0,
       "amount_goal_inr": 10000000.0,
       "deadline_iso": "2026-09-08",
-      "days_left": 8,
+      "days_left": 7,
       "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-31T23:36:21.182076+00:00"
+      "scraped_at_iso": "2026-09-01T03:20:17.885169+00:00"
     },
     {
       "id": "milaap-1048096",
@@ -95,14 +95,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1787120830/production/images/campaign/1048096/shkpqwkpsqiwvutm9xqz_1787120836.webp",
-      "amount_raised_inr": 7592.0,
+      "amount_raised_inr": 7657.0,
       "amount_goal_inr": 1500000.0,
       "deadline_iso": "2026-09-18",
-      "days_left": 18,
+      "days_left": 17,
       "campaign_url": "https://milaap.org/fundraisers/support-gaya-prasad-tiwari-2",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-31T23:36:18.398016+00:00"
+      "scraped_at_iso": "2026-09-01T03:20:15.021110+00:00"
     },
     {
       "id": "milaap-1041358",
@@ -112,14 +112,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1786562705/production/images/campaign/1041358/f09be417-a7a7-454d-9b61-a25b7afafd5b_odkkf4_1786562706.webp",
-      "amount_raised_inr": 21410.0,
+      "amount_raised_inr": 21437.0,
       "amount_goal_inr": 7500000.0,
       "deadline_iso": "2026-09-20",
-      "days_left": 20,
+      "days_left": 19,
       "campaign_url": "https://milaap.org/fundraisers/support-siddharth-gupta-2",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-31T23:36:18.398081+00:00"
+      "scraped_at_iso": "2026-09-01T03:20:15.021233+00:00"
     },
     {
       "id": "milaap-1049521",
@@ -132,11 +132,11 @@
       "amount_raised_inr": 4855.0,
       "amount_goal_inr": 3500000.0,
       "deadline_iso": "2026-09-23",
-      "days_left": 23,
+      "days_left": 22,
       "campaign_url": "https://milaap.org/fundraisers/support-ritesh-nagpal-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-31T23:36:18.398094+00:00"
+      "scraped_at_iso": "2026-09-01T03:20:15.021257+00:00"
     },
     {
       "id": "milaap-1049510",
@@ -149,11 +149,11 @@
       "amount_raised_inr": 4833.0,
       "amount_goal_inr": 1710000.0,
       "deadline_iso": "2026-09-23",
-      "days_left": 23,
+      "days_left": 22,
       "campaign_url": "https://milaap.org/fundraisers/support-moushumi-chattopadhyay",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-31T23:36:18.398063+00:00"
+      "scraped_at_iso": "2026-09-01T03:20:15.021203+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -163,14 +163,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 163954861.08,
+      "amount_raised_inr": 163974967.08,
       "amount_goal_inr": 200000000.0,
       "deadline_iso": "2027-01-20",
-      "days_left": 142,
+      "days_left": 141,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-31T23:36:21.182003+00:00"
+      "scraped_at_iso": "2026-09-01T03:20:17.885060+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -180,14 +180,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 75365537.75,
+      "amount_raised_inr": 75372037.75,
       "amount_goal_inr": 35000000.0,
       "deadline_iso": "2027-02-28",
-      "days_left": 181,
+      "days_left": 180,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-08-31T23:36:21.181959+00:00"
+      "scraped_at_iso": "2026-09-01T03:20:17.885033+00:00"
     }
   ]
 }
