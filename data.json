@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T15:51:05.627838+00:00",
+  "generated_at": "2026-09-09T19:02:44.902542+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 9,
@@ -17,7 +17,7 @@
     "pa",
     "ml"
   ],
-  "total": 15,
+  "total": 14,
   "campaigns": [
     {
       "id": "givedo-667e964e",
@@ -34,7 +34,7 @@
       "campaign_url": "https://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-09T15:51:03.936658+00:00"
+      "scraped_at_iso": "2026-09-09T19:02:43.278087+00:00"
     },
     {
       "id": "givedo-647705ad",
@@ -51,7 +51,7 @@
       "campaign_url": "https://give.do/fundraisers/help-maitri-provide-shelter-and-care-to-abandoned-widow-mothers",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-09T15:51:03.936582+00:00"
+      "scraped_at_iso": "2026-09-09T19:02:43.277990+00:00"
     },
     {
       "id": "givedo-6a6709ec",
@@ -68,7 +68,7 @@
       "campaign_url": "https://give.do/fundraisers/flood-hit-people-of-assam-need-help-to-rebuild-their-lives-donate-now",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-09T15:51:03.936546+00:00"
+      "scraped_at_iso": "2026-09-09T19:02:43.277955+00:00"
     },
     {
       "id": "givedo-6835addd",
@@ -78,14 +78,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/04cef85a-b87c-43bf-8088-3e8de6c14a74.webp",
-      "amount_raised_inr": 3992589.0,
+      "amount_raised_inr": 3993089.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-09-13",
       "days_left": 4,
       "campaign_url": "https://give.do/fundraisers/help-visually-impaired-shivaprakash-give-40-blind-girls-shelter-education-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-09T15:51:03.936620+00:00"
+      "scraped_at_iso": "2026-09-09T19:02:43.278048+00:00"
     },
     {
       "id": "milaap-1050532",
@@ -95,14 +95,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1787833845/production/images/campaign/1050532/medical_1553587798_1787833845.webp",
-      "amount_raised_inr": 3748.0,
+      "amount_raised_inr": 3764.0,
       "amount_goal_inr": 5200000.0,
       "deadline_iso": "2026-09-26",
       "days_left": 17,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-rehan-rahmani",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-09T15:51:01.179543+00:00"
+      "scraped_at_iso": "2026-09-09T19:02:40.375228+00:00"
     },
     {
       "id": "milaap-1051576",
@@ -112,14 +112,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1788205332/production/images/campaign/1051576/rn_image_picker_lib_temp_a4521dd9-ae5b-4bab-aed1-2de11e07ebde_vho44n_1788205343.webp",
-      "amount_raised_inr": 25428.0,
+      "amount_raised_inr": 25591.0,
       "amount_goal_inr": 6000000.0,
       "deadline_iso": "2026-09-30",
       "days_left": 21,
       "campaign_url": "https://milaap.org/fundraisers/support-anjana-sharma-2",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-09T15:51:01.179357+00:00"
+      "scraped_at_iso": "2026-09-09T19:02:40.375021+00:00"
     },
     {
       "id": "milaap-1023605",
@@ -129,14 +129,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.48,w_0.34,x_0.29,y_0.13/c_fill,h_198,w_264/v1780132691/production/images/campaign/1023605/WhatsApp_Image_2026-05-29_at_8.58.35_PM_dzidza_1780132692.webp",
-      "amount_raised_inr": 9705.0,
+      "amount_raised_inr": 9743.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-09-30",
       "days_left": 21,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-nikhil-kumar-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-09T15:51:01.179496+00:00"
+      "scraped_at_iso": "2026-09-09T19:02:40.375287+00:00"
     },
     {
       "id": "milaap-1051481",
@@ -146,31 +146,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1788151957/production/images/campaign/1051481/temp_file_20260831_102235_io8zvg_1788151959.webp",
-      "amount_raised_inr": 9941.0,
+      "amount_raised_inr": 10014.0,
       "amount_goal_inr": 1500000.0,
       "deadline_iso": "2026-09-30",
       "days_left": 21,
       "campaign_url": "https://milaap.org/fundraisers/support-carol-vinod-tallepalli-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-09T15:51:01.179569+00:00"
-    },
-    {
-      "id": "milaap-1052281",
-      "source": "milaap",
-      "title": "Help save my father battling brain hemorrhage & critical complications",
-      "description": "Help My Father Fight for His Life Our Family Is Going Through the Hardest Time My father, Mr. Deo Barat Mandal, is curre...",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1788359753/production/images/campaign/1052281/medical_1553587798_1788359743.webp",
-      "amount_raised_inr": 3601.0,
-      "amount_goal_inr": 5000000.0,
-      "deadline_iso": "2026-10-02",
-      "days_left": 23,
-      "campaign_url": "https://milaap.org/fundraisers/support-deo-barat-mandal",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-09-09T15:51:01.179589+00:00"
+      "scraped_at_iso": "2026-09-09T19:02:40.375259+00:00"
     },
     {
       "id": "milaap-1053808",
@@ -180,14 +163,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1788799550/production/images/campaign/1053808/WhatsApp_Image_2026-09-07_at_9.09.37_PM_lp6tzq_1788799550.webp",
-      "amount_raised_inr": 4196.0,
+      "amount_raised_inr": 4756.0,
       "amount_goal_inr": 1200000.0,
       "deadline_iso": "2026-10-07",
       "days_left": 28,
       "campaign_url": "https://milaap.org/fundraisers/support-isab-sk",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-09T15:51:01.179473+00:00"
+      "scraped_at_iso": "2026-09-09T19:02:40.375146+00:00"
     },
     {
       "id": "milaap-1054232",
@@ -197,14 +180,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1788923035/production/images/campaign/1054232/temp_file_20260909_083351_hdyx1h_1788923037.webp",
-      "amount_raised_inr": 7489.0,
+      "amount_raised_inr": 9060.0,
       "amount_goal_inr": 3000000.0,
       "deadline_iso": "2026-10-08",
       "days_left": 29,
       "campaign_url": "https://milaap.org/fundraisers/support-rakesh-kumar-pamula",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-09T15:51:01.179412+00:00"
+      "scraped_at_iso": "2026-09-09T19:02:40.375084+00:00"
     },
     {
       "id": "milaap-1052072",
@@ -221,7 +204,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-dinesh-dabade",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-09T15:51:01.179447+00:00"
+      "scraped_at_iso": "2026-09-09T19:02:40.375120+00:00"
     },
     {
       "id": "milaap-1028850",
@@ -238,7 +221,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-rani-mukherjee",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-09T15:51:01.179522+00:00"
+      "scraped_at_iso": "2026-09-09T19:02:40.375168+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -248,14 +231,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 165140366.53,
+      "amount_raised_inr": 165165489.11,
       "amount_goal_inr": 200000000.0,
       "deadline_iso": "2027-01-20",
       "days_left": 133,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-09T15:51:03.936488+00:00"
+      "scraped_at_iso": "2026-09-09T19:02:43.277898+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -265,14 +248,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 77628280.93,
+      "amount_raised_inr": 77636924.49,
       "amount_goal_inr": 35000000.0,
       "deadline_iso": "2027-02-28",
       "days_left": 172,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-09T15:51:03.936443+00:00"
+      "scraped_at_iso": "2026-09-09T19:02:43.277845+00:00"
     }
   ]
 }
