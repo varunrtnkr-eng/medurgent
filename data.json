@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-09T19:02:44.902542+00:00",
+  "generated_at": "2026-09-09T22:13:58.025905+00:00",
   "sources": {
     "ketto": 0,
-    "milaap": 9,
+    "milaap": 8,
     "givedo": 6
   },
   "languages": [
@@ -17,7 +17,7 @@
     "pa",
     "ml"
   ],
-  "total": 14,
+  "total": 13,
   "campaigns": [
     {
       "id": "givedo-667e964e",
@@ -34,7 +34,7 @@
       "campaign_url": "https://give.do/fundraisers/help-72-year-old-vanitha-provide-100-abandoned-mentally-ill-women-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-09T19:02:43.278087+00:00"
+      "scraped_at_iso": "2026-09-09T22:13:56.487155+00:00"
     },
     {
       "id": "givedo-647705ad",
@@ -44,14 +44,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/8ad7bc44-2017-4c74-b51c-7a63892467e8.webp",
-      "amount_raised_inr": 27450049.0,
+      "amount_raised_inr": 27450849.0,
       "amount_goal_inr": 40000000.0,
       "deadline_iso": "2026-09-11",
       "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/help-maitri-provide-shelter-and-care-to-abandoned-widow-mothers",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-09T19:02:43.277990+00:00"
+      "scraped_at_iso": "2026-09-09T22:13:56.487111+00:00"
     },
     {
       "id": "givedo-6a6709ec",
@@ -68,7 +68,7 @@
       "campaign_url": "https://give.do/fundraisers/flood-hit-people-of-assam-need-help-to-rebuild-their-lives-donate-now",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-09T19:02:43.277955+00:00"
+      "scraped_at_iso": "2026-09-09T22:13:56.487092+00:00"
     },
     {
       "id": "givedo-6835addd",
@@ -78,14 +78,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/04cef85a-b87c-43bf-8088-3e8de6c14a74.webp",
-      "amount_raised_inr": 3993089.0,
+      "amount_raised_inr": 3993589.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-09-13",
       "days_left": 4,
       "campaign_url": "https://give.do/fundraisers/help-visually-impaired-shivaprakash-give-40-blind-girls-shelter-education-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-09T19:02:43.278048+00:00"
+      "scraped_at_iso": "2026-09-09T22:13:56.487135+00:00"
     },
     {
       "id": "milaap-1050532",
@@ -102,7 +102,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-rehan-rahmani",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-09T19:02:40.375228+00:00"
+      "scraped_at_iso": "2026-09-09T22:13:53.597325+00:00"
     },
     {
       "id": "milaap-1051576",
@@ -112,14 +112,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1788205332/production/images/campaign/1051576/rn_image_picker_lib_temp_a4521dd9-ae5b-4bab-aed1-2de11e07ebde_vho44n_1788205343.webp",
-      "amount_raised_inr": 25591.0,
+      "amount_raised_inr": 25822.0,
       "amount_goal_inr": 6000000.0,
       "deadline_iso": "2026-09-30",
       "days_left": 21,
       "campaign_url": "https://milaap.org/fundraisers/support-anjana-sharma-2",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-09T19:02:40.375021+00:00"
+      "scraped_at_iso": "2026-09-09T22:13:53.597235+00:00"
     },
     {
       "id": "milaap-1023605",
@@ -136,24 +136,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-nikhil-kumar-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-09T19:02:40.375287+00:00"
-    },
-    {
-      "id": "milaap-1051481",
-      "source": "milaap",
-      "title": "Help my mother fight Multiple Myeloma & kidney failure",
-      "description": "I am raising funds for my mother, Carol Vinod Tallepalli, a 62-year-old retired teacher who dedicated decades of her lif...",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1788151957/production/images/campaign/1051481/temp_file_20260831_102235_io8zvg_1788151959.webp",
-      "amount_raised_inr": 10014.0,
-      "amount_goal_inr": 1500000.0,
-      "deadline_iso": "2026-09-30",
-      "days_left": 21,
-      "campaign_url": "https://milaap.org/fundraisers/support-carol-vinod-tallepalli-1",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-09-09T19:02:40.375259+00:00"
+      "scraped_at_iso": "2026-09-09T22:13:53.597340+00:00"
     },
     {
       "id": "milaap-1053808",
@@ -170,7 +153,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-isab-sk",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-09T19:02:40.375146+00:00"
+      "scraped_at_iso": "2026-09-09T22:13:53.597313+00:00"
     },
     {
       "id": "milaap-1054232",
@@ -187,7 +170,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-rakesh-kumar-pamula",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-09T19:02:40.375084+00:00"
+      "scraped_at_iso": "2026-09-09T22:13:53.597277+00:00"
     },
     {
       "id": "milaap-1052072",
@@ -197,31 +180,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1788630931/production/images/campaign/1052072/medical_1553587798_1788325605.webp",
-      "amount_raised_inr": 5510.0,
+      "amount_raised_inr": 5567.0,
       "amount_goal_inr": 1600000.0,
       "deadline_iso": "2026-11-05",
       "days_left": 57,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-dinesh-dabade",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-09T19:02:40.375120+00:00"
+      "scraped_at_iso": "2026-09-09T22:13:53.597300+00:00"
     },
     {
-      "id": "milaap-1028850",
+      "id": "milaap-1052404",
       "source": "milaap",
-      "title": "Help my little baby, Sharanya survive Leukemia Relapse & get a BMT",
-      "description": "Help Us Give Sharanya a Second Chance at Life Meet Our Little Fighter My daughter, Sharanya Chakraborty, is just 3 years...",
+      "title": "Help Navarasan fight for his life after a tragic accident",
+      "description": "I am reaching out with a shattered heart to plead for the life of my husband, Navarasan (35). We are from a humble famil...",
       "patient_name": null,
       "condition": null,
-      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1781606198/production/images/campaign/1028850/medical_1553587798_1781601734.webp",
-      "amount_raised_inr": 36298.0,
-      "amount_goal_inr": 4000000.0,
-      "deadline_iso": "2026-12-31",
-      "days_left": 113,
-      "campaign_url": "https://milaap.org/fundraisers/support-child-of-rani-mukherjee",
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1788432234/production/images/campaign/1052404/WhatsApp_Image_2026-09-03_at_5.42.52_PM_vk1hxr_1788432236.webp",
+      "amount_raised_inr": 3276.0,
+      "amount_goal_inr": 5000000.0,
+      "deadline_iso": "2026-11-30",
+      "days_left": 82,
+      "campaign_url": "https://milaap.org/fundraisers/support-navarasan",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-09T19:02:40.375168+00:00"
+      "scraped_at_iso": "2026-09-09T22:13:53.597365+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -238,7 +221,7 @@
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-09T19:02:43.277898+00:00"
+      "scraped_at_iso": "2026-09-09T22:13:56.487059+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -255,7 +238,7 @@
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-09T19:02:43.277845+00:00"
+      "scraped_at_iso": "2026-09-09T22:13:56.487028+00:00"
     }
   ]
 }
