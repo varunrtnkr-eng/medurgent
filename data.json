@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T22:41:37.059810+00:00",
+  "generated_at": "2026-09-16T03:07:00.437089+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 8,
@@ -20,23 +20,6 @@
   "total": 14,
   "campaigns": [
     {
-      "id": "givedo-68f25b24",
-      "source": "givedo",
-      "title": "Help Leena in saving girls from being lost forever in red-light areas",
-      "description": "\"Hundreds of young girls are lost forever in the dark lanes of red-light areas,\" says Leena Kejriwal, the founder of Missing Link Trust. These girls endure unimaginable abuse and exploitation, being lured or trafficked into an industry that breaks them physically and emotionally. Missing Link Trust is on a mission to prevent the tragedy before it happens, and also rehabilitate girls and women who are rescued from forced sex work.Leena’s journey began with her powerful street art project in Kolkata, where she painted haunting silhouettes of missing girls to raise awareness against sex trafficking. Now, she leads a larger fight — one that focuses on prevention and rehabilitation. But this mission needs your support.You can save countless girl children from going missing forever. Donate now.Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).Preventing Trafficking Before It Begins“When girls come into a red-light area, the first thing is that they are broken, physically and emotionally,” Leena says. “It’s like they will be caught, hands and legs tied, and all heinous crimes committed on them.” These are the brutal realities that Missing Link Trust fights against every day.Many of these girls are from impoverished regions like the Sundarbans, and traffickers prey on their vulnerability. “It’s shocking that they sell themselves for as low as a hundred rupees,” Leena adds. \"They ready her through violent acts, removing all threads of shame from her.\"But why wait until a girl is trafficked to save her? Missing Link Trust believes in stopping trafficking at its root — through “prevention, prevention, prevention” as Leena puts it. The goal is simple: protect girls from ever being lost to this darkness.A Safe World for Children“Our mission is the prevention of abuse and exploitation of children,” Leena emphasizes. “Our vision is to create a safe world for children, and we want to do this with a preventive methodology.”Every Donation MattersYour support will help Missing Link Trust continue its vital work of rescuing, rehabilitating, and preventing the trafficking of young girls. The funds raised will go directly towards:Prevention programs in vulnerable areas to stop trafficking before it happens.Rehabilitation services for girls rescued from red-light areas, providing them with medical care, emotional support, and education.Awareness campaigns to reach at-risk communities and ensure girls are protected from traffickers.Together, We Can Make a Difference“Why wait for a girl to get trafficked to save her?” asks Leena. With your help, we can stop this horror before it begins. Your donation will help us create a world where no girl is lost to the nightmare of trafficking.Donate to this fundraiser by Give, India’s largest and most trusted online giving platform, to support Missing Link Trust to save young girls from being trafficked and help rehabilitate those rescued.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/3d8552de-9a0a-41b0-878a-470ec88157d8.webp",
-      "amount_raised_inr": 3762991.0,
-      "amount_goal_inr": 10000000.0,
-      "deadline_iso": "2026-09-17",
-      "days_left": 2,
-      "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-09-15T22:41:35.642866+00:00"
-    },
-    {
       "id": "givedo-6a6709ec",
       "source": "givedo",
       "title": "Flood-hit people of Assam need help to rebuild their lives. Donate now",
@@ -47,11 +30,11 @@
       "amount_raised_inr": 18131868.0,
       "amount_goal_inr": 30000000.0,
       "deadline_iso": "2026-09-18",
-      "days_left": 3,
+      "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/flood-hit-people-of-assam-need-help-to-rebuild-their-lives-donate-now",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-15T22:41:35.642844+00:00"
+      "scraped_at_iso": "2026-09-16T03:06:58.809048+00:00"
     },
     {
       "id": "givedo-6835addd",
@@ -61,14 +44,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/04cef85a-b87c-43bf-8088-3e8de6c14a74.webp",
-      "amount_raised_inr": 4159363.0,
+      "amount_raised_inr": 4160863.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-09-19",
-      "days_left": 4,
+      "days_left": 3,
       "campaign_url": "https://give.do/fundraisers/help-visually-impaired-shivaprakash-give-40-blind-girls-shelter-education-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-15T22:41:35.642822+00:00"
+      "scraped_at_iso": "2026-09-16T03:06:58.809012+00:00"
     },
     {
       "id": "givedo-647705ad",
@@ -78,14 +61,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/8ad7bc44-2017-4c74-b51c-7a63892467e8.webp",
-      "amount_raised_inr": 27515783.0,
+      "amount_raised_inr": 27525283.0,
       "amount_goal_inr": 40000000.0,
       "deadline_iso": "2026-09-22",
-      "days_left": 7,
+      "days_left": 6,
       "campaign_url": "https://give.do/fundraisers/help-maitri-provide-shelter-and-care-to-abandoned-widow-mothers",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-15T22:41:35.642801+00:00"
+      "scraped_at_iso": "2026-09-16T03:06:58.808977+00:00"
+    },
+    {
+      "id": "givedo-68f25b24",
+      "source": "givedo",
+      "title": "Help Leena in saving girls from being lost forever in red-light areas",
+      "description": "\"Hundreds of young girls are lost forever in the dark lanes of red-light areas,\" says Leena Kejriwal, the founder of Missing Link Trust. These girls endure unimaginable abuse and exploitation, being lured or trafficked into an industry that breaks them physically and emotionally. Missing Link Trust is on a mission to prevent the tragedy before it happens, and also rehabilitate girls and women who are rescued from forced sex work.Leena’s journey began with her powerful street art project in Kolkata, where she painted haunting silhouettes of missing girls to raise awareness against sex trafficking. Now, she leads a larger fight — one that focuses on prevention and rehabilitation. But this mission needs your support.You can save countless girl children from going missing forever. Donate now.Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).Preventing Trafficking Before It Begins“When girls come into a red-light area, the first thing is that they are broken, physically and emotionally,” Leena says. “It’s like they will be caught, hands and legs tied, and all heinous crimes committed on them.” These are the brutal realities that Missing Link Trust fights against every day.Many of these girls are from impoverished regions like the Sundarbans, and traffickers prey on their vulnerability. “It’s shocking that they sell themselves for as low as a hundred rupees,” Leena adds. \"They ready her through violent acts, removing all threads of shame from her.\"But why wait until a girl is trafficked to save her? Missing Link Trust believes in stopping trafficking at its root — through “prevention, prevention, prevention” as Leena puts it. The goal is simple: protect girls from ever being lost to this darkness.A Safe World for Children“Our mission is the prevention of abuse and exploitation of children,” Leena emphasizes. “Our vision is to create a safe world for children, and we want to do this with a preventive methodology.”Every Donation MattersYour support will help Missing Link Trust continue its vital work of rescuing, rehabilitating, and preventing the trafficking of young girls. The funds raised will go directly towards:Prevention programs in vulnerable areas to stop trafficking before it happens.Rehabilitation services for girls rescued from red-light areas, providing them with medical care, emotional support, and education.Awareness campaigns to reach at-risk communities and ensure girls are protected from traffickers.Together, We Can Make a Difference“Why wait for a girl to get trafficked to save her?” asks Leena. With your help, we can stop this horror before it begins. Your donation will help us create a world where no girl is lost to the nightmare of trafficking.Donate to this fundraiser by Give, India’s largest and most trusted online giving platform, to support Missing Link Trust to save young girls from being trafficked and help rehabilitate those rescued.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/3d8552de-9a0a-41b0-878a-470ec88157d8.webp",
+      "amount_raised_inr": 3767991.0,
+      "amount_goal_inr": 10000000.0,
+      "deadline_iso": "2026-09-22",
+      "days_left": 6,
+      "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-09-16T03:06:58.809085+00:00"
     },
     {
       "id": "milaap-1050532",
@@ -95,14 +95,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1787833845/production/images/campaign/1050532/medical_1553587798_1787833845.webp",
-      "amount_raised_inr": 5361.0,
+      "amount_raised_inr": 5370.0,
       "amount_goal_inr": 5200000.0,
       "deadline_iso": "2026-09-26",
-      "days_left": 11,
+      "days_left": 10,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-rehan-rahmani",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-15T22:41:32.860507+00:00"
+      "scraped_at_iso": "2026-09-16T03:06:55.483676+00:00"
     },
     {
       "id": "milaap-1051576",
@@ -112,14 +112,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1788205332/production/images/campaign/1051576/rn_image_picker_lib_temp_a4521dd9-ae5b-4bab-aed1-2de11e07ebde_vho44n_1788205343.webp",
-      "amount_raised_inr": 43013.0,
+      "amount_raised_inr": 43153.0,
       "amount_goal_inr": 6000000.0,
       "deadline_iso": "2026-09-30",
-      "days_left": 15,
+      "days_left": 14,
       "campaign_url": "https://milaap.org/fundraisers/support-anjana-sharma-2",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-15T22:41:32.860251+00:00"
+      "scraped_at_iso": "2026-09-16T03:06:55.483203+00:00"
     },
     {
       "id": "milaap-1051481",
@@ -129,14 +129,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1788151957/production/images/campaign/1051481/temp_file_20260831_102235_io8zvg_1788151959.webp",
-      "amount_raised_inr": 13721.0,
+      "amount_raised_inr": 13746.0,
       "amount_goal_inr": 1500000.0,
       "deadline_iso": "2026-09-30",
-      "days_left": 15,
+      "days_left": 14,
       "campaign_url": "https://milaap.org/fundraisers/support-carol-vinod-tallepalli-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-15T22:41:32.860458+00:00"
+      "scraped_at_iso": "2026-09-16T03:06:55.483564+00:00"
     },
     {
       "id": "milaap-1054781",
@@ -149,11 +149,11 @@
       "amount_raised_inr": 7811.0,
       "amount_goal_inr": 1000000.0,
       "deadline_iso": "2026-09-30",
-      "days_left": 15,
+      "days_left": 14,
       "campaign_url": "https://milaap.org/fundraisers/support-anala-suresh-kumar",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-15T22:41:32.860382+00:00"
+      "scraped_at_iso": "2026-09-16T03:06:55.483394+00:00"
     },
     {
       "id": "milaap-1053775",
@@ -166,11 +166,11 @@
       "amount_raised_inr": 9484.0,
       "amount_goal_inr": 1500000.0,
       "deadline_iso": "2026-10-07",
-      "days_left": 22,
+      "days_left": 21,
       "campaign_url": "https://milaap.org/fundraisers/support-sahil-malhotra",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-15T22:41:32.860409+00:00"
+      "scraped_at_iso": "2026-09-16T03:06:55.483453+00:00"
     },
     {
       "id": "milaap-1053808",
@@ -183,11 +183,11 @@
       "amount_raised_inr": 7204.0,
       "amount_goal_inr": 1200000.0,
       "deadline_iso": "2026-10-07",
-      "days_left": 22,
+      "days_left": 21,
       "campaign_url": "https://milaap.org/fundraisers/support-isab-sk",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-15T22:41:32.860481+00:00"
+      "scraped_at_iso": "2026-09-16T03:06:55.483619+00:00"
     },
     {
       "id": "milaap-1054232",
@@ -200,11 +200,11 @@
       "amount_raised_inr": 14354.0,
       "amount_goal_inr": 3000000.0,
       "deadline_iso": "2026-10-08",
-      "days_left": 23,
+      "days_left": 22,
       "campaign_url": "https://milaap.org/fundraisers/support-rakesh-kumar-pamula",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-15T22:41:32.860343+00:00"
+      "scraped_at_iso": "2026-09-16T03:06:55.483298+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -214,14 +214,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 166651816.97,
+      "amount_raised_inr": 166729625.07,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2027-01-20",
-      "days_left": 127,
+      "days_left": 126,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-15T22:41:35.642775+00:00"
+      "scraped_at_iso": "2026-09-16T03:06:58.808934+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -231,14 +231,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 82786164.92,
+      "amount_raised_inr": 82827744.01,
       "amount_goal_inr": 35000000.0,
       "deadline_iso": "2027-02-28",
-      "days_left": 166,
+      "days_left": 165,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-15T22:41:35.642745+00:00"
+      "scraped_at_iso": "2026-09-16T03:06:58.808893+00:00"
     },
     {
       "id": "milaap-1055676",
@@ -251,11 +251,11 @@
       "amount_raised_inr": 5032.0,
       "amount_goal_inr": 2500000.0,
       "deadline_iso": "2027-12-30",
-      "days_left": 471,
+      "days_left": 470,
       "campaign_url": "https://milaap.org/fundraisers/support-yogaraj-d",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-15T22:41:32.860432+00:00"
+      "scraped_at_iso": "2026-09-16T03:06:55.483505+00:00"
     }
   ]
 }
