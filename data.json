@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-17T16:09:03.662019+00:00",
+  "generated_at": "2026-09-17T22:38:01.039295+00:00",
   "sources": {
     "ketto": 0,
-    "milaap": 8,
+    "milaap": 7,
     "givedo": 6
   },
   "languages": [
@@ -17,7 +17,7 @@
     "pa",
     "ml"
   ],
-  "total": 14,
+  "total": 13,
   "campaigns": [
     {
       "id": "givedo-6835addd",
@@ -27,14 +27,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/04cef85a-b87c-43bf-8088-3e8de6c14a74.webp",
-      "amount_raised_inr": 4179465.0,
+      "amount_raised_inr": 4180965.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-09-19",
       "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/help-visually-impaired-shivaprakash-give-40-blind-girls-shelter-education-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-17T16:09:01.717328+00:00"
+      "scraped_at_iso": "2026-09-17T22:37:59.753231+00:00"
+    },
+    {
+      "id": "givedo-6a9fda6f",
+      "source": "givedo",
+      "title": "This Ganeshotsav, help PETA India save elephants from captivity and abuse",
+      "description": "At various tourist destinations across the country elephants are worked to exhaustion for tourism and entertainment. They work long hours on concrete that wrecks their feet, legs and joints. Some are visually impaired. Many are underfed, surviving on scraps no wild elephant would eat. Brutally assaulted by their trainers, many work out of force and fear despite grievous injuries. When they are not working, they are restrained in chains. They have no choice, no rest, no freedom.PETA India (People for Ethical Treatment of Animals, India) is on a mission to save these sensitive animals and ease their suffering forever. This is where your support becomes crucial. PETA India is in urgent need of funds to protect these animals from further abuse. Your donation can mean a life of freedom for a captive elephant who has only known a life of pain and giving rides. Donate generously.Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).A life of suffering behind the spectacleElephants used for rides and other entertainment are separated from their mothers, often taken from the wild, and then put through months of gruesome training meant only to break them. The training methods employed are immensely violent. Weapons such as ankushes or sharp-tipped sticks may be used to control them, leaving them living under the threat of pain and fear.The suffering does not end there. Years of standing and walking on concrete can cause chronic foot, joint and musculoskeletal problems in captive elephants. Some elephants used for rides have also been documented as visually impaired. Injured or sick elephants commonly continue working, while inadequate food and water can leave them malnourished and dehydrated.Donate to help end the cycle of exploitationPETA India has been on a mission to rescue these sensitive souls and has also been advocating for an end to elephant rides and other use of elephants for entertainment, working to create alternatives, including its mechanical elephant donation programme. Your donation can helpYour support can help PETA India continue its efforts to protect captive elephants from:Cruel training and weaponsHeavy loads and exhaustionChains and confinementStarvation and neglectInjuries and chronic painExploitation for tourism and spectacleHelp save overworked captive elephants from exploitation, chains, weapons and abuse. Donate today and stand for a life of freedom and compassion.Donate to this fundraiser by Give, India’s most trusted online donation platform, to support PETA India, in its mission to free captive elephants from abuse.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/6512e3b1-5bdf-49c7-b00a-79f8b0165c28.webp",
+      "amount_raised_inr": 396840.0,
+      "amount_goal_inr": 5000000.0,
+      "deadline_iso": "2026-09-21",
+      "days_left": 4,
+      "campaign_url": "https://give.do/fundraisers/this-ganeshotsav-help-peta-india-save-elephants-from-captivity-and-abuse",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-09-17T22:37:59.753274+00:00"
     },
     {
       "id": "givedo-647705ad",
@@ -51,24 +68,7 @@
       "campaign_url": "https://give.do/fundraisers/help-maitri-provide-shelter-and-care-to-abandoned-widow-mothers",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-17T16:09:01.717289+00:00"
-    },
-    {
-      "id": "givedo-6a6709ec",
-      "source": "givedo",
-      "title": "Flood-hit people of Assam need help to rebuild their lives. Donate now",
-      "description": "People of Assam need urgent help as floods leave lakhs in need. Donate nowFloodwaters have once again ravaged the beautiful land of Assam, leaving a trail of destruction in its wake. According to the latest reports by the Assam State Disaster Management Authority (ASDMA), over six lakh people have been severely affected by floods across Charaideo, Golaghat, Jorhat, Nagaon, Sivasagar, and other districts. The number of victims of the natural disaster has climbed to over 70, while thousands remain stranded without help. Together, let us rise and make a difference by contributing to our fundraising campaign for the flood victims of Assam.Charaideo is the worst-hit district with nearly 1.9 lakh people affected, followed by Sivasagar (over 1.5 lakh) and Jorhat (around 1.4 lakh). Nestled in the northeastern part of India, Assam has a long-standing history of facing nature's fury. Just last year, the state witnessed a devastating flood that uprooted the lives of countless individuals. This year, the floods have struck again, plunging numerous families into unimaginable chaos and distress. Many have been displaced from their homes, left without shelter, and robbed of their basic necessities.Embankments, roads, bridges and other infrastructure have also been damaged by flood waters. The urgent need for assistance:In times like these, it is our duty to extend a helping hand to our fellow human beings who are facing the wrath of nature. Your generous donations will directly support our on-ground NGO partners who are tirelessly working to provide immediate relief to the flood-affected people in Assam. The funds raised will be utilised to provide them with essential supplies such as food, clean water, and medical care, bringing hope and solace to their lives during this moment of crisis.The power of your donations:Every rupee contributed to this fundraising campaign will create a ripple effect of positive change in the lives of those who need it the most. Your support will help in:Immediate Relief: Ensuring that the affected families receive immediate assistance in the form of food, clean water, and essential supplies.Medical Care: Providing medical aid to those injured or suffering from waterborne diseases, ensuring their well-being in the aftermath of the disaster.Shelter and Rehabilitation: Assisting in the construction of temporary shelters and facilitating the process of rehabilitation to help affected families rebuild their lives.Here's how your donations can help:a) A food kit comprising essential supplies can be provided for ₹1,255. b) A hygiene kit with essentials for an entire family during floods can be ensured for ₹1,035. c) Our NGO partner can provide temporary shelter for flood-affected families for ₹2,570.Now is the time to unite and show our solidarity with the people of Assam. By donating to our fundraising campaign, you are not just providing immediate relief; you are also offering hope and strength to those who have lost everything. Together, we can make a difference and rebuild the lives of the flood-affected communities in Assam. Join us today and let compassion guide our actions.Thanks to you, here are a few images of ActionAid providing help to people in need in Assam!",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/9517bd11-558b-4582-8511-5ed16e5864c8.webp",
-      "amount_raised_inr": 18133368.0,
-      "amount_goal_inr": 30000000.0,
-      "deadline_iso": "2026-09-22",
-      "days_left": 5,
-      "campaign_url": "https://give.do/fundraisers/flood-hit-people-of-assam-need-help-to-rebuild-their-lives-donate-now",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-09-17T16:09:01.717399+00:00"
+      "scraped_at_iso": "2026-09-17T22:37:59.753210+00:00"
     },
     {
       "id": "givedo-68f25b24",
@@ -78,14 +78,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/3d8552de-9a0a-41b0-878a-470ec88157d8.webp",
-      "amount_raised_inr": 3794002.0,
+      "amount_raised_inr": 3796002.0,
       "amount_goal_inr": 10000000.0,
       "deadline_iso": "2026-09-22",
       "days_left": 5,
       "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-17T16:09:01.717365+00:00"
+      "scraped_at_iso": "2026-09-17T22:37:59.753256+00:00"
     },
     {
       "id": "milaap-1051576",
@@ -95,14 +95,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1788205332/production/images/campaign/1051576/rn_image_picker_lib_temp_a4521dd9-ae5b-4bab-aed1-2de11e07ebde_vho44n_1788205343.webp",
-      "amount_raised_inr": 44137.0,
+      "amount_raised_inr": 44499.0,
       "amount_goal_inr": 6000000.0,
       "deadline_iso": "2026-09-30",
       "days_left": 13,
       "campaign_url": "https://milaap.org/fundraisers/support-anjana-sharma-2",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-17T16:08:58.757553+00:00"
+      "scraped_at_iso": "2026-09-17T22:37:57.068212+00:00"
     },
     {
       "id": "milaap-1054781",
@@ -112,14 +112,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1789046204/production/images/campaign/1054781/20260910_184503_vzdgjf_1789046205.webp",
-      "amount_raised_inr": 8043.0,
+      "amount_raised_inr": 8050.0,
       "amount_goal_inr": 1000000.0,
       "deadline_iso": "2026-09-30",
       "days_left": 13,
       "campaign_url": "https://milaap.org/fundraisers/support-anala-suresh-kumar",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-17T16:08:58.757601+00:00"
+      "scraped_at_iso": "2026-09-17T22:37:57.068272+00:00"
     },
     {
       "id": "milaap-1053775",
@@ -136,7 +136,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-sahil-malhotra",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-17T16:08:58.757627+00:00"
+      "scraped_at_iso": "2026-09-17T22:37:57.068307+00:00"
     },
     {
       "id": "milaap-1054046",
@@ -146,14 +146,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/e_blur_faces:1100/c_fill,h_198,w_264/v1788936394/production/images/campaign/1054046/IMG_20260909_121616_raazii_1788936396.webp",
-      "amount_raised_inr": 7912.0,
+      "amount_raised_inr": 8004.0,
       "amount_goal_inr": 3500000.0,
       "deadline_iso": "2026-10-08",
       "days_left": 21,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-priyadharshini-karthick",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-17T16:08:58.757675+00:00"
+      "scraped_at_iso": "2026-09-17T22:37:57.068380+00:00"
     },
     {
       "id": "milaap-1054232",
@@ -170,24 +170,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-rakesh-kumar-pamula",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-17T16:08:58.757657+00:00"
-    },
-    {
-      "id": "milaap-1055106",
-      "source": "milaap",
-      "title": "Help Mohan beat blood cancer with a life-saving transplant!",
-      "description": "we are raising this campaign for Mohan, and he is 28 years old, currently battling Chronic Myeloid Leukemia (CML), a ser...",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1789124664/production/images/campaign/1055106/medical_1553587798_1789124654.webp",
-      "amount_raised_inr": 2376.0,
-      "amount_goal_inr": 3320000.0,
-      "deadline_iso": "2026-10-11",
-      "days_left": 24,
-      "campaign_url": "https://milaap.org/fundraisers/support-mohan-g-2",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-09-17T16:08:58.757768+00:00"
+      "scraped_at_iso": "2026-09-17T22:37:57.068354+00:00"
     },
     {
       "id": "milaap-1055070",
@@ -204,7 +187,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-chinmay-g-hegde",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-17T16:08:58.757733+00:00"
+      "scraped_at_iso": "2026-09-17T22:37:57.068439+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -214,14 +197,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 166816994.39,
+      "amount_raised_inr": 166820740.74,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2027-01-20",
       "days_left": 125,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-17T16:09:01.717245+00:00"
+      "scraped_at_iso": "2026-09-17T22:37:59.753182+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -231,14 +214,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 83097828.42,
+      "amount_raised_inr": 83118885.08,
       "amount_goal_inr": 35000000.0,
       "deadline_iso": "2027-02-28",
       "days_left": 164,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-17T16:09:01.717204+00:00"
+      "scraped_at_iso": "2026-09-17T22:37:59.753149+00:00"
     },
     {
       "id": "milaap-1055676",
@@ -248,14 +231,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1789292060/production/images/campaign/1055676/WhatsApp_Image_2026-09-13_at_3.00.18_PM_eyg3rn_1789292089.webp",
-      "amount_raised_inr": 5136.0,
+      "amount_raised_inr": 5137.0,
       "amount_goal_inr": 2500000.0,
       "deadline_iso": "2027-12-30",
       "days_left": 469,
       "campaign_url": "https://milaap.org/fundraisers/support-yogaraj-d",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-17T16:08:58.757644+00:00"
+      "scraped_at_iso": "2026-09-17T22:37:57.068332+00:00"
     }
   ]
 }
