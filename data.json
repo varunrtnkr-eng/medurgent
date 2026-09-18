@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-18T15:45:05.050817+00:00",
+  "generated_at": "2026-09-18T18:51:02.246822+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 7,
-    "givedo": 6
+    "givedo": 10
   },
   "languages": [
     "en",
@@ -17,8 +17,25 @@
     "pa",
     "ml"
   ],
-  "total": 13,
+  "total": 17,
   "campaigns": [
+    {
+      "id": "givedo-6a8da3d2",
+      "source": "givedo",
+      "title": "Akshaya Patra, India - Global Fight Hunger 2026",
+      "description": "More than 700 million people globally experience hunger, making food insecurity one of the world's most persistent challenges. As part of Blackstone's 2026 Global Fight Hunger campaign, employees from around the world come together to raise $1 million in support of organizations working to provide meals, expand access to nutritious food, and strengthen local communities. You can support this effort through this platform to be part of the broader campaign. Fighting hunger, nourishing stronger communities.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/c5adffe3-bf64-4cf4-a77d-26ec40961276.webp",
+      "amount_raised_inr": 708706.0,
+      "amount_goal_inr": 1000000.0,
+      "deadline_iso": "2026-09-20",
+      "days_left": 2,
+      "campaign_url": "https://give.do/fundraisers/akshaya-patra-india-global-fight-hunger-2026",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-09-18T18:51:00.388674+00:00"
+    },
     {
       "id": "givedo-6a9fda6f",
       "source": "givedo",
@@ -27,65 +44,48 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/6512e3b1-5bdf-49c7-b00a-79f8b0165c28.webp",
-      "amount_raised_inr": 415141.0,
+      "amount_raised_inr": 417641.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-09-21",
       "days_left": 3,
       "campaign_url": "https://give.do/fundraisers/this-ganeshotsav-help-peta-india-save-elephants-from-captivity-and-abuse",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-18T15:45:03.214869+00:00"
+      "scraped_at_iso": "2026-09-18T18:51:00.388858+00:00"
     },
     {
-      "id": "givedo-647705ad",
+      "id": "givedo-69e9e4f0",
       "source": "givedo",
-      "title": "Help Maitri provide shelter and care to abandoned widow mothers",
-      "description": "In Vrindavan, thousands of elderly widow mothers face the harsh reality of abandonment and suffering. With no one to turn to, many are left begging on the streets, exposed to heat, cold and rain,Donate so that Maitri can provide shelter, food, clothes and medical support to abandoned elderly mothers now. Give generously.Lt Gen (Retd) Bhopinder Singn and his wife Winnie Singh and have witnessed many cases of widow mothers being abandoned on the streets of Vrindavan, one of the holiest places in India. “Children leave their mothers as soon as they become widows. The children start feeling the burden. This has become a practice in today's society that money comes first and everything else later,” says Winnie whose Maitri India, rescues widowed mothers from the streets of Vrindavan.Many widowed elderly mothers often end up living a lonely life and begging to survive on the streets. And Maitri aspires to take care of every widow in need of help, but because of lack of funds, Winnie and Maitri are in a position to do it. Gen Bhopinder Singh is like a brother to many widow mothers.\"Elderly widows don't have shelter. They sleep in cowsheds over sacks. They don't have a blanket. Nights are really difficult for them,\" shares Gen Bhopinder Singh.Maitri aims to:Provide shelter and nutritious meals leading to improved health and wellbeingMake physical and mental health services accessibleOffer necessary quality aged care and assisted living supportIncrease awareness and engagement around the struggles of abandoned widow mothersWhy donate to MaitriWinnie needs your support to help those in need of food, healthcare and well-being. “Maitri urgently needs your support to provide nutritious food, clothing and healthcare to sustain these widow mothers who are prone to more illnesses as they age,” appeals Winnie. “You can become the family they were denied. Hold their hands so they don't need to beg ever again,” says Gen Bhopinder Singh. Let’s rescue abandoned widows mothers from the streets of Vrindavan and give them a better future. Donate now.Our help will enable Maitri to save hundreds of abandoned widows from a life of begging, and restore the respect, dignity, and identity they deserve.",
+      "title": "Don’t let children fight cancer on an empty stomach, help them with nutrition. Donate now",
+      "description": "“My 4-year-old son was diagnosed with an aggressive form of leukaemia. We brought him to Mumbai 6 months back when he was fighting for life. But within a couple of months, Vidhan’s condition improved drastically. Apart from the chemotherapy, one thing that has had a significant impact on his health is the nutrition support provided by Cuddles Foundation,” says Meenakshi Motiwala, who hails from Dhule, Maharashtra. Meenakshi and her husband had no means of supporting Vidhan with special nutrition, but thanks to the NGO, their son is in better shape.Cuddles Foundation is a nonprofit that helps hundreds of children fight cancer each year, but there are thousands more still battling cancer and in need of help. Help the NGO extend its reach and save many more lives. Donate now.Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India)Non-profit organisation Cuddles Foundation has been on a mission to give underprivileged children having cancer a fighting chance against the disease with complete nutritional support. Giving kids battling cancer a fighting chanceDoctors often say that proper nutrition is the first line of treatment for children fighting cancer. However, because of poor financial background, many parents can’t give their kids life-saving nutrition and often witness the condition deteriorate before their eyes. “We have observed that there is a marked improvement or maintenance in the health and nutritional status of more than 80% of children with cancer by giving them proper meals. Nutritional support can not only give a child the strength needed to go through chemotherapy, but also help in reducing the side effects of cancer treatment significantly. Sadly, the life-saving nutrition needed to help children defeat cancer is well beyond the reach for many parents due to their financial condition,” says Purnota Dutta Bahl, founder of the nonprofit. Purnota embarked upon the mission to save the lives of children with cancer over a decade back after a chance visit to the Tata Memorial Hospital. “I saw a baby girl who back then, was about the same age as my daughter. The girl was fighting cancer and was visibly malnourished. I was informed by the nurse that children get treatment for cancer at the hospital free of cost, but their condition keeps deteriorating as their parents can’t afford the required nutrition. It was on that day that I decided to at least give these children a fighting chance against cancer,” explains the founder of the nonprofit organisation. Donate to heal thousands more“We have been able to take our programme to over 50 hospitals, spread across 17 states. But still there are thousands of children we are yet to reach. The cost of providing nutritional support to a child and their family suffering from cancer is about ₹80,000 per year (or ₹7,000 a month). Cancer is absolutely curable. A little love and support from you can help children suffering from cancer complete their treatment and go on to live functional and productive lives in the future,” says Purnota.Donate to this fundraiser by give.do, India’s largest fundraising platform, to support Cuddles Foundation in their mission to give life-saving nutrition to children suffering from cancer and give them the strength to fight cancer.",
       "patient_name": null,
       "condition": null,
-      "image_url": "https://cfstatic.give.do/8ad7bc44-2017-4c74-b51c-7a63892467e8.webp",
-      "amount_raised_inr": 27555884.0,
-      "amount_goal_inr": 40000000.0,
-      "deadline_iso": "2026-09-22",
-      "days_left": 4,
-      "campaign_url": "https://give.do/fundraisers/help-maitri-provide-shelter-and-care-to-abandoned-widow-mothers",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-09-18T15:45:03.214787+00:00"
-    },
-    {
-      "id": "givedo-68f25b24",
-      "source": "givedo",
-      "title": "Help Leena in saving girls from being lost forever in red-light areas",
-      "description": "\"Hundreds of young girls are lost forever in the dark lanes of red-light areas,\" says Leena Kejriwal, the founder of Missing Link Trust. These girls endure unimaginable abuse and exploitation, being lured or trafficked into an industry that breaks them physically and emotionally. Missing Link Trust is on a mission to prevent the tragedy before it happens, and also rehabilitate girls and women who are rescued from forced sex work.Leena’s journey began with her powerful street art project in Kolkata, where she painted haunting silhouettes of missing girls to raise awareness against sex trafficking. Now, she leads a larger fight — one that focuses on prevention and rehabilitation. But this mission needs your support.You can save countless girl children from going missing forever. Donate now.Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).Preventing Trafficking Before It Begins“When girls come into a red-light area, the first thing is that they are broken, physically and emotionally,” Leena says. “It’s like they will be caught, hands and legs tied, and all heinous crimes committed on them.” These are the brutal realities that Missing Link Trust fights against every day.Many of these girls are from impoverished regions like the Sundarbans, and traffickers prey on their vulnerability. “It’s shocking that they sell themselves for as low as a hundred rupees,” Leena adds. \"They ready her through violent acts, removing all threads of shame from her.\"But why wait until a girl is trafficked to save her? Missing Link Trust believes in stopping trafficking at its root — through “prevention, prevention, prevention” as Leena puts it. The goal is simple: protect girls from ever being lost to this darkness.A Safe World for Children“Our mission is the prevention of abuse and exploitation of children,” Leena emphasizes. “Our vision is to create a safe world for children, and we want to do this with a preventive methodology.”Every Donation MattersYour support will help Missing Link Trust continue its vital work of rescuing, rehabilitating, and preventing the trafficking of young girls. The funds raised will go directly towards:Prevention programs in vulnerable areas to stop trafficking before it happens.Rehabilitation services for girls rescued from red-light areas, providing them with medical care, emotional support, and education.Awareness campaigns to reach at-risk communities and ensure girls are protected from traffickers.Together, We Can Make a Difference“Why wait for a girl to get trafficked to save her?” asks Leena. With your help, we can stop this horror before it begins. Your donation will help us create a world where no girl is lost to the nightmare of trafficking.Donate to this fundraiser by Give, India’s largest and most trusted online giving platform, to support Missing Link Trust to save young girls from being trafficked and help rehabilitate those rescued.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/3d8552de-9a0a-41b0-878a-470ec88157d8.webp",
-      "amount_raised_inr": 3802418.0,
-      "amount_goal_inr": 10000000.0,
-      "deadline_iso": "2026-09-22",
-      "days_left": 4,
-      "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-09-18T15:45:03.214849+00:00"
-    },
-    {
-      "id": "givedo-6835addd",
-      "source": "givedo",
-      "title": "Help visually impaired Shivaprakash give 40 blind girls shelter, education and care",
-      "description": "At the age of 8, Shivaprakash lost his vision. But what could have become a life of despair became something else entirely. Shivaprakash went on to complete his Master’s degree and eventually founded the Divya Jyothi Charitable Trust, an organisation born out of personal struggle and driven by a powerful mission, to educate and empower blind girls, who are among the most neglected and marginalised in society.In many families, blind daughters are hidden away, seen as a burden, and in some cases, even as a curse. They are denied the right to dream, grow, or be independent. At Divya Jyothi, Shivaprakash is changing that narrative. Your support can ensure that no blind girl is left behind simply because of her disability. Donate today to help them stand tall, proud, and self-reliant. Donate nowDonate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).Education is survivalIn communities where gender and disability intersect, blind girls face deep-rooted prejudice and extreme isolation. Many are denied even basic schooling and are left dependent on family members for the rest of their lives. Recognising this, Divya Jyothi began with a simple yet radical step: to provide blind girls with computer training so they could access the digital world and open doors to employment.But the journey didn’t stop there. The NGO went on to launch a braille transcription centre, ensuring girls have access to learning materials that suit their needs. As Shivaprakash says, “Without education, no one can do anything. That's why education is even more important for blind girls.” Education isn’t just about literacy, it’s about self-worth, decision-making, mobility, and freedom. It’s about giving these girls the same right to participate in society that sighted individuals often take for granted.From rejection to respectIn a country where blind girls are often treated as liabilities, Divya Jyothi is rewriting their futures. Over 1,000 girls have graduated from the Trust’s training centres. Many of them come from families that had almost given up on them. Today, these same girls are government employees, corporate professionals, and role models in their communities.More than 200 graduates have secured jobs in the public sector. Over 300 are now employed in private companies. Every success story is proof that with the right support, blind girls don’t just survive, they thrive. “Most girls are neglected by their families. This is a major challenge for them,” says Shivaprakash. By providing them with skills and confidence, Divya Jyothi is turning neglect into empowerment and helplessness into hope.Donate to help 40 blind girls find independenceAlmost 40 girls are currently enrolled and will directly benefit from your support. These are girls with potential, courage, and ambition—but they lack the resources to pursue an independent life. “I request each one to come forward and donate to help blind girls lead independent lives in society,” urges Shivaprakash.Help Divya Jyothi Charitable Trust break the cycle of neglect. Your donation can give a blind girl her first lesson, her first job, and a life of dignity.Donate to this fundraiser by Give, India’s most trusted online donation platform, to support Divya Jyothi Charitable Trust in its mission to shelter and educate neglected and abandoned blind girls.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/04cef85a-b87c-43bf-8088-3e8de6c14a74.webp",
-      "amount_raised_inr": 4186965.0,
+      "image_url": "https://cfstatic.give.do/762aa4e8-3505-4189-a857-e0c15942af03.webp",
+      "amount_raised_inr": 823021.0,
       "amount_goal_inr": 5000000.0,
-      "deadline_iso": "2026-09-22",
-      "days_left": 4,
-      "campaign_url": "https://give.do/fundraisers/help-visually-impaired-shivaprakash-give-40-blind-girls-shelter-education-and-care",
+      "deadline_iso": "2026-09-23",
+      "days_left": 5,
+      "campaign_url": "https://give.do/fundraisers/dont-let-children-fight-cancer-on-an-empty-stomach-help-them-with-nutrition-donate-now",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-18T15:45:03.214814+00:00"
+      "scraped_at_iso": "2026-09-18T18:51:00.388978+00:00"
+    },
+    {
+      "id": "givedo-6aa7b074",
+      "source": "givedo",
+      "title": "Urgent!! Help the flood-affected people of Bihar",
+      "description": "Bihar is in the grip of one of its worst floods in a decade. Nearly 48 lakh people across 15 districts including Patna, Bhojpur, Saran, Vaishali, Bhagalpur, Begusarai, Buxar, Samastipur, Madhepura and Araria. People are living through inundated homes, submerged fields and cut-off villages. Around 575 gram panchayats across 87 blocks are under water.Our NGO partner ActionAid is on the ground helping the flood-affected. Help ActionAid deliver ration, hygiene, shelter and education kits to flood-hit families. Donate now.Ravaging floodsIn Bhagalpur, the Ganga river is flowing nearly two metres above the danger mark. The Kosi, Gandak, Burhi Gandak, Punpun, Bagmati and Ghaghra are all swollen past their danger levels too, and embankment breaches in Bhagalpur have let floodwaters pour into new areas. With more rain forecast, thousands of families who have already lost their homes, food stocks and livelihoods are bracing for the water to rise further.Relief camps are stretched thin, and community kitchens can't keep pace with the need. Families are sheltering on rooftops, embankments and roadsides — with nothing but what they could carry.ActionAid’s action on the groundGive.do has partnered with ActionAid Association, which has decades of on-ground experience in disaster response across Bihar, to reach the worst-affected families with life-saving relief. Here's exactly what your donation will fund:₹1,530 — a Ration Kit, feeding a family for weeks with essentials like rice, dal, oil, salt and spices, when floodwaters have wiped out food stocks and cut off access to markets.₹765 — a Hygiene Kit, with soap, sanitary products, disinfectant and basic medicines, to prevent the disease outbreaks that follow floods when clean water and sanitation collapse.₹1,500 — a Shelter Kit, including tarpaulin sheets and essentials to help a family build temporary shelter after losing their home to the water.Every one of these kits goes directly to a family that has lost almost everything in the last few days. ActionAid's teams are already on the ground in the worst-hit districts, and are scaling up to reach more villages as the water spreads — but they need funds to do it fast.Bihar doesn't need sympathy. It needs food, clean water and shelter.Donate today and help ActionAid reach families in need. Donate to this fundraiser by give.do, India’s most trusted online donation platform, to support Bihar flood survivors.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/ccb62197-a8df-43f0-8f14-4fcff08fc04c.webp",
+      "amount_raised_inr": 124713.0,
+      "amount_goal_inr": 5000000.0,
+      "deadline_iso": "2026-09-24",
+      "days_left": 6,
+      "campaign_url": "https://give.do/fundraisers/urgent-help-the-flood-affected-people-of-bihar",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-09-18T18:51:00.388718+00:00"
     },
     {
       "id": "milaap-1051576",
@@ -95,14 +95,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1788205332/production/images/campaign/1051576/rn_image_picker_lib_temp_a4521dd9-ae5b-4bab-aed1-2de11e07ebde_vho44n_1788205343.webp",
-      "amount_raised_inr": 44797.0,
+      "amount_raised_inr": 44976.0,
       "amount_goal_inr": 6000000.0,
       "deadline_iso": "2026-09-30",
       "days_left": 12,
       "campaign_url": "https://milaap.org/fundraisers/support-anjana-sharma-2",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-18T15:45:00.179601+00:00"
+      "scraped_at_iso": "2026-09-18T18:50:57.366768+00:00"
     },
     {
       "id": "milaap-1054781",
@@ -112,31 +112,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1789046204/production/images/campaign/1054781/20260910_184503_vzdgjf_1789046205.webp",
-      "amount_raised_inr": 8351.0,
+      "amount_raised_inr": 8358.0,
       "amount_goal_inr": 1000000.0,
       "deadline_iso": "2026-09-30",
       "days_left": 12,
       "campaign_url": "https://milaap.org/fundraisers/support-anala-suresh-kumar",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-18T15:45:00.179654+00:00"
-    },
-    {
-      "id": "milaap-1053775",
-      "source": "milaap",
-      "title": "Support Sahil Malhotra Recover from Sarcoma",
-      "description": "I am raising funds for my husband, Sahil Malhotra, who is 32 years old and has recently been diagnosed with sarcoma, a r...",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1788782852/production/images/campaign/1053775/1000364233_tqotnq_1788782852.webp",
-      "amount_raised_inr": 9622.0,
-      "amount_goal_inr": 1500000.0,
-      "deadline_iso": "2026-10-07",
-      "days_left": 19,
-      "campaign_url": "https://milaap.org/fundraisers/support-sahil-malhotra",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-09-18T15:45:00.179701+00:00"
+      "scraped_at_iso": "2026-09-18T18:50:57.366867+00:00"
     },
     {
       "id": "milaap-1054046",
@@ -153,7 +136,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-priyadharshini-karthick",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-18T15:45:00.179717+00:00"
+      "scraped_at_iso": "2026-09-18T18:50:57.366946+00:00"
     },
     {
       "id": "milaap-1054232",
@@ -170,7 +153,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-rakesh-kumar-pamula",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-18T15:45:00.179737+00:00"
+      "scraped_at_iso": "2026-09-18T18:50:57.366978+00:00"
     },
     {
       "id": "milaap-1055070",
@@ -187,7 +170,75 @@
       "campaign_url": "https://milaap.org/fundraisers/support-chinmay-g-hegde",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-18T15:45:00.179758+00:00"
+      "scraped_at_iso": "2026-09-18T18:50:57.367018+00:00"
+    },
+    {
+      "id": "milaap-1056088",
+      "source": "milaap",
+      "title": "Help my father fight Stage 4 lung cancer on ventilator",
+      "description": "I am raising funds for my father, Devashish Singh, 52 years old, who has been battling serious health challenges over th...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1789403409/production/images/campaign/1056088/temp_file_20260914_220006_ferbhl_1789403411.webp",
+      "amount_raised_inr": 2488.0,
+      "amount_goal_inr": 1500000.0,
+      "deadline_iso": "2026-10-14",
+      "days_left": 26,
+      "campaign_url": "https://milaap.org/fundraisers/support-devashish-singh-1",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-09-18T18:50:57.367049+00:00"
+    },
+    {
+      "id": "givedo-6a6b327b",
+      "source": "givedo",
+      "title": "Give Every Child with Cancer and blood disorder a Better Chance to survive",
+      "description": "Hello! My name is Kamna Dogra, and I am a fundraising volunteer with the INPHOG Research Foundation (Indian Pediatric Hematology and Oncology Group).Every year, approximately 75,000 children in India develop cancer and serious blood disorders. Every child deserves the best possible treatment and a chance to live a healthy life.INPHOG is a nationwide network of pediatric oncologists, hematologists, and hospitals working together to improve survival outcomes for children with cancer and blood disorders. Through standardized, evidence-based treatment protocols and collaborative research, INPHOG helps improve treatment and the quality of care for children across India.Your support will help advance research that leads to better treatments and gives more children with cancer and blood disorders a better chance at life.Every donation, no matter the size, can help create a brighter future for children and their families. Thank you for your kindness and support.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/febc9022-5dbd-4ba8-8e23-c5caae76da65.webp",
+      "amount_raised_inr": 15432.0,
+      "amount_goal_inr": 100000.0,
+      "deadline_iso": "2026-10-31",
+      "days_left": 43,
+      "campaign_url": "https://give.do/fundraisers/give-every-child-with-cancer-and-blood-disorder-a-better-chance-to-survive",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-09-18T18:51:00.389021+00:00"
+    },
+    {
+      "id": "givedo-6a6873c9",
+      "source": "givedo",
+      "title": "Give a Child in Prayagraj a Full Year of School-Padhega Prayagraj, Badhega Bharat",
+      "description": "Give a Child in Prayagraj a Full Year of SchoolEvery twelve years, Prayagraj hosts the largest human gathering on Earth — millions arrive at the Sangam seeking renewal. A few kilometres away, in the city's urban slums, 853 children are trying to get something smaller and harder to find: a first chance at an education.RAH Foundation runs 3 literacy centers across Prayagraj's urban slum communities. This year, we're asking for ₹35,00,000 to keep every one of those 853 children in school, and to keep the results moving in the right direction.What's already working:Attendance: 42% → 73%Parent engagement in their child's learning: 35% → 63%Hindi learning levels: up 47%Maths learning levels: up 42%These aren't projections. This is what happened after RAH's 3 centers opened and stayed open. The ask now is simple — keep them open, and keep this trajectory going for another year.Our Vision: To inclusive India where every child in an urban slum has access to quality education regardless of where they're born. Our Mission: To close the education gap in underserved urban communities through community based literacy centres that are sustainable and built to scale. Where Your Money Goes₹35,00,000 spread across 853 children works out to ₹4,103 per child, per year. That covers one child's place at a literacy center for a full academic year.Your Gift Impact ₹4,103 One child, fully funded, for one year ₹ 20,515 Five children, one year ₹ 41,030 Ten children, one year ₹ 11,66,667 One center's share of the annual cost ₹ 35,00,000 All 853 children, all 3 centers, one full yearThe AskWe're not asking you to fund a mission statement. We're asking you to fund a seat — a specific one, for a specific child, for a specific year, in a city where a child's chance at school shouldn't depend on which side of the crowd they're born on.Fund one child's year for ₹4,103. Fund ten for ₹41,030. Whatever you give, it goes to one of these 853 kids, not a general fund.Pledge your support, donate now!",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/2da2a375-b7b2-4a85-89c9-ed97bc8f245e.webp",
+      "amount_raised_inr": 67500.0,
+      "amount_goal_inr": 3500000.0,
+      "deadline_iso": "2026-12-31",
+      "days_left": 104,
+      "campaign_url": "https://give.do/fundraisers/give-a-child-in-prayagraj-a-full-year-of-school-padhega-prayagraj-badhega-bharat",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-09-18T18:51:00.388793+00:00"
+    },
+    {
+      "id": "givedo-6a99551d",
+      "source": "givedo",
+      "title": "Give the Gift of Music to Rural Children",
+      "description": "Help children in rural India discover music, confidence and creativity.Every child deserves an opportunity to learn, express themselves and dream beyond their circumstances. Yet, for many children in rural communities, access to quality music education remains out of reach.Plustrust, in partnership with Reach Out India ( by SMA), is bringing the Grow with Music Program to rural and underserved communities across India.Through this program, children receive structured online music learning from trained music educators, giving them an opportunity to:Learn music in a joyful and engaging wayBuild confidence and creativityDevelop discipline, listening and teamwork skillsExperience the joy of performingDiscover hidden talentsThe program includes a year-long journey of learning, practice and performance, where children participate in regular music classes and work towards a final presentation.Why This MattersFor many children in rural schools, this may be the first opportunity to experience structured music education.Music is more than a skill—it helps children build confidence, express emotions, connect with others and develop a sense of achievement.By bringing music to schools and communities, we are creating spaces where children can learn, grow and discover new possibilities.How Your Support HelpsYour contribution can help bring music learning to more children.₹5,000 – Supports one batch of approximately 20 children for the complete program.₹10,000 – Supports two batches or helps strengthen program delivery and local coordination.₹20,000 – Helps multiple groups of children access music learning opportunities.Our GoalWe aim to take the Grow with Music Program to schools and communities identified through Plustrust’s grassroots network and create opportunities for hundreds of children to learn music.What Your Donation SupportsMusic classes for childrenProgram coordination and local supportSchool outreach and implementationTechnical support and learning facilitationRehearsals and performance opportunitiesImagine the ImpactA child in a rural village who has never had access to music education joins a class, learns new songs, gains confidence, and one day performs proudly before family and community.Your support can make that journey possible.Join UsHelp us bring the joy of music to children who need it the most.Support Reach Out India. Support a child’s first musical journey.Plustrust × Reach Out India (By SMA)",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/55f63652-a523-4284-9f8e-776ab70cc13f.webp",
+      "amount_raised_inr": 47900.0,
+      "amount_goal_inr": 150000.0,
+      "deadline_iso": "2026-12-31",
+      "days_left": 104,
+      "campaign_url": "https://give.do/fundraisers/give-the-gift-of-music-to-rural-children",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-09-18T18:51:00.388937+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -197,14 +248,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 166841950.85,
+      "amount_raised_inr": 166851532.43,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2027-01-20",
       "days_left": 124,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-18T15:45:03.214759+00:00"
+      "scraped_at_iso": "2026-09-18T18:51:00.388889+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -214,14 +265,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 83170841.31,
+      "amount_raised_inr": 83171841.31,
       "amount_goal_inr": 35000000.0,
       "deadline_iso": "2027-02-28",
       "days_left": 163,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-18T15:45:03.214726+00:00"
+      "scraped_at_iso": "2026-09-18T18:51:00.388819+00:00"
     },
     {
       "id": "milaap-1055676",
@@ -231,14 +282,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1789292060/production/images/campaign/1055676/WhatsApp_Image_2026-09-13_at_3.00.18_PM_eyg3rn_1789292089.webp",
-      "amount_raised_inr": 5158.0,
+      "amount_raised_inr": 5159.0,
       "amount_goal_inr": 2500000.0,
       "deadline_iso": "2027-12-30",
       "days_left": 468,
       "campaign_url": "https://milaap.org/fundraisers/support-yogaraj-d",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-18T15:45:00.179683+00:00"
+      "scraped_at_iso": "2026-09-18T18:50:57.366912+00:00"
+    },
+    {
+      "id": "givedo-649bfab5",
+      "source": "givedo",
+      "title": "Comprehensive Day Care Programmes",
+      "description": "In lieu of better working conditions, a vast majority of the population working in the unorganised sector choose to migrate within the country. Migrants in urban India form a large majority of the work force in the unorganised sectors where they work as construction workers, electricians, plumbers, masons, security personnel, etc. These migrant labourers are usually the most vulnerable and marginalised of the urban poor. Because of the issues like- lack of housing facilities, low wages, expensive housing, overcrowding and a lot more, the migrants are marginalised even further. Children of migrant construction workers are even more vulnerable. Because of the extreme poverty of their families, their parents are constantly working and thus, these children are left to fend for themselves. They suffer from malnutrition, undernourishment, accidents, innumerable health problems and are deprived of formal schooling, day care centres or any sort of support system. MMC adopts a multi-pronged approach to address these issues. We run a comprehensive programme of health, education and nutrition through our day care centres on construction sites to tackle the wide range of issues that surround the children of migrant construction workers.Our comprehensive day care centres-Support the intellectual, emotional and physical development of young children and create the foundations required for mainstreaming them into schools.Help older children enter in schools and perform well by freeing them from the burden of child care.Support the working mothers by reassuring them that her children are safe and looked after.Provide guidance and support to parents on appropriate nutrition, education, health and care, along with several relevant issues of the community.Our vision is for all children to have a nurturing and happy childhood. Our mission is to promote ‘child-friendly sites’; where every child living on a construction site is safe, healthy and educated, and able to enjoy their childhood. MMC aligns with 4 SDGs-No PovertyZero HungerGood Health and Well-beingQuality EducationWe want to create a world where no child is deprived of supportive care, quality education, health and nutrition.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/201b8018-5cc0-449b-a093-20253f9c4895.JPG",
+      "amount_raised_inr": 1202976.05,
+      "amount_goal_inr": 998140.0,
+      "deadline_iso": "2030-03-31",
+      "days_left": 1290,
+      "campaign_url": "https://give.do/fundraisers/43",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-09-18T18:51:00.389004+00:00"
     }
   ]
 }
