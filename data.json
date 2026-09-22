@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T03:05:10.015072+00:00",
+  "generated_at": "2026-09-22T09:00:03.297974+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 6,
@@ -27,14 +27,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/04cef85a-b87c-43bf-8088-3e8de6c14a74.webp",
-      "amount_raised_inr": 4247406.0,
+      "amount_raised_inr": 4248906.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-09-24",
       "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/help-visually-impaired-shivaprakash-give-40-blind-girls-shelter-education-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-22T03:05:08.981706+00:00"
+      "scraped_at_iso": "2026-09-22T09:00:01.941277+00:00"
     },
     {
       "id": "givedo-68f25b24",
@@ -51,7 +51,7 @@
       "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-22T03:05:08.981742+00:00"
+      "scraped_at_iso": "2026-09-22T09:00:01.941316+00:00"
     },
     {
       "id": "givedo-6a9fda6f",
@@ -68,7 +68,7 @@
       "campaign_url": "https://give.do/fundraisers/this-ganeshotsav-help-peta-india-save-elephants-from-captivity-and-abuse",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-22T03:05:08.981768+00:00"
+      "scraped_at_iso": "2026-09-22T09:00:01.941348+00:00"
     },
     {
       "id": "givedo-647705ad",
@@ -85,7 +85,7 @@
       "campaign_url": "https://give.do/fundraisers/help-maitri-provide-shelter-and-care-to-abandoned-widow-mothers",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-22T03:05:08.981674+00:00"
+      "scraped_at_iso": "2026-09-22T09:00:01.941245+00:00"
     },
     {
       "id": "milaap-1051028",
@@ -102,7 +102,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-mahendra-singh-rawat",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-22T03:05:06.190731+00:00"
+      "scraped_at_iso": "2026-09-22T08:59:58.871926+00:00"
     },
     {
       "id": "milaap-1051576",
@@ -112,31 +112,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1788205332/production/images/campaign/1051576/rn_image_picker_lib_temp_a4521dd9-ae5b-4bab-aed1-2de11e07ebde_vho44n_1788205343.webp",
-      "amount_raised_inr": 47804.0,
+      "amount_raised_inr": 48185.0,
       "amount_goal_inr": 6000000.0,
       "deadline_iso": "2026-09-30",
       "days_left": 8,
       "campaign_url": "https://milaap.org/fundraisers/support-anjana-sharma-2",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-22T03:05:06.190597+00:00"
-    },
-    {
-      "id": "milaap-1055680",
-      "source": "milaap",
-      "title": "Help Rajdeep fight kidney failure & get his transplant",
-      "description": "I am raising this campaign on behalf of my dear friend Rajdeep Singh, a 23-year-old commerce student at CKB Commerce Col...",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1789406900/production/images/campaign/1055680/xbooz6t0ud2a01jlmvfo_1789406902.webp",
-      "amount_raised_inr": 2149.0,
-      "amount_goal_inr": 4000000.0,
-      "deadline_iso": "2026-10-13",
-      "days_left": 21,
-      "campaign_url": "https://milaap.org/fundraisers/support-rajdeep-singh-5",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-09-22T03:05:06.190752+00:00"
+      "scraped_at_iso": "2026-09-22T08:59:58.871684+00:00"
     },
     {
       "id": "milaap-1056088",
@@ -146,14 +129,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1789403409/production/images/campaign/1056088/temp_file_20260914_220006_ferbhl_1789403411.webp",
-      "amount_raised_inr": 3428.0,
+      "amount_raised_inr": 3440.0,
       "amount_goal_inr": 1500000.0,
       "deadline_iso": "2026-10-14",
       "days_left": 22,
       "campaign_url": "https://milaap.org/fundraisers/support-devashish-singh-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-22T03:05:06.190691+00:00"
+      "scraped_at_iso": "2026-09-22T08:59:58.871811+00:00"
     },
     {
       "id": "milaap-1056614",
@@ -163,14 +146,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1789580129/production/images/campaign/1056614/medical_1553587798_1789578863.webp",
-      "amount_raised_inr": 5049.0,
+      "amount_raised_inr": 5115.0,
       "amount_goal_inr": 1500000.0,
       "deadline_iso": "2026-10-16",
       "days_left": 24,
       "campaign_url": "https://milaap.org/fundraisers/support-ajinkya-mhatre",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-22T03:05:06.190655+00:00"
+      "scraped_at_iso": "2026-09-22T08:59:58.871749+00:00"
     },
     {
       "id": "milaap-1056408",
@@ -180,14 +163,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1789813993/production/images/campaign/1056408/temp_file_20260919_160310_zholmh_1789813994.webp",
-      "amount_raised_inr": 2853.0,
+      "amount_raised_inr": 2858.0,
       "amount_goal_inr": 1000000.0,
       "deadline_iso": "2026-10-16",
       "days_left": 24,
       "campaign_url": "https://milaap.org/fundraisers/support-raman-karthick",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-22T03:05:06.190712+00:00"
+      "scraped_at_iso": "2026-09-22T08:59:58.871864+00:00"
+    },
+    {
+      "id": "milaap-1057266",
+      "source": "milaap",
+      "title": "Help save my critically ill nephew in PICU 🙏",
+      "description": "My name is Jagadish Gudapati, and I am reaching out with a heavy heart to seek your support for my nephew, P. Nikhil, wh...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.28,w_0.18,x_0.13,y_0.25/c_fill,h_198,w_264/v1789758503/production/images/campaign/1057266/oq4yz2rciqytak0eu4wp_1789758504.webp",
+      "amount_raised_inr": 7760.0,
+      "amount_goal_inr": 2000000.0,
+      "deadline_iso": "2026-10-18",
+      "days_left": 26,
+      "campaign_url": "https://milaap.org/fundraisers/support-child-of-leela",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-09-22T08:59:58.871584+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -197,14 +197,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 167138431.94,
+      "amount_raised_inr": 167145503.05,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2027-01-20",
       "days_left": 120,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-22T03:05:08.981633+00:00"
+      "scraped_at_iso": "2026-09-22T09:00:01.941205+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -214,14 +214,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 83420401.22,
+      "amount_raised_inr": 83420902.22,
       "amount_goal_inr": 35000000.0,
       "deadline_iso": "2027-02-28",
       "days_left": 159,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-22T03:05:08.981589+00:00"
+      "scraped_at_iso": "2026-09-22T09:00:01.941162+00:00"
     }
   ]
 }
