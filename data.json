@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T22:42:08.210904+00:00",
+  "generated_at": "2026-09-23T03:04:58.972879+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 6,
@@ -20,23 +20,6 @@
   "total": 12,
   "campaigns": [
     {
-      "id": "givedo-6835addd",
-      "source": "givedo",
-      "title": "Help visually impaired Shivaprakash give 40 blind girls shelter, education and care",
-      "description": "At the age of 8, Shivaprakash lost his vision. But what could have become a life of despair became something else entirely. Shivaprakash went on to complete his Master’s degree and eventually founded the Divya Jyothi Charitable Trust, an organisation born out of personal struggle and driven by a powerful mission, to educate and empower blind girls, who are among the most neglected and marginalised in society.In many families, blind daughters are hidden away, seen as a burden, and in some cases, even as a curse. They are denied the right to dream, grow, or be independent. At Divya Jyothi, Shivaprakash is changing that narrative. Your support can ensure that no blind girl is left behind simply because of her disability. Donate today to help them stand tall, proud, and self-reliant. Donate nowDonate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).Education is survivalIn communities where gender and disability intersect, blind girls face deep-rooted prejudice and extreme isolation. Many are denied even basic schooling and are left dependent on family members for the rest of their lives. Recognising this, Divya Jyothi began with a simple yet radical step: to provide blind girls with computer training so they could access the digital world and open doors to employment.But the journey didn’t stop there. The NGO went on to launch a braille transcription centre, ensuring girls have access to learning materials that suit their needs. As Shivaprakash says, “Without education, no one can do anything. That's why education is even more important for blind girls.” Education isn’t just about literacy, it’s about self-worth, decision-making, mobility, and freedom. It’s about giving these girls the same right to participate in society that sighted individuals often take for granted.From rejection to respectIn a country where blind girls are often treated as liabilities, Divya Jyothi is rewriting their futures. Over 1,000 girls have graduated from the Trust’s training centres. Many of them come from families that had almost given up on them. Today, these same girls are government employees, corporate professionals, and role models in their communities.More than 200 graduates have secured jobs in the public sector. Over 300 are now employed in private companies. Every success story is proof that with the right support, blind girls don’t just survive, they thrive. “Most girls are neglected by their families. This is a major challenge for them,” says Shivaprakash. By providing them with skills and confidence, Divya Jyothi is turning neglect into empowerment and helplessness into hope.Donate to help 40 blind girls find independenceAlmost 40 girls are currently enrolled and will directly benefit from your support. These are girls with potential, courage, and ambition—but they lack the resources to pursue an independent life. “I request each one to come forward and donate to help blind girls lead independent lives in society,” urges Shivaprakash.Help Divya Jyothi Charitable Trust break the cycle of neglect. Your donation can give a blind girl her first lesson, her first job, and a life of dignity.Donate to this fundraiser by Give, India’s most trusted online donation platform, to support Divya Jyothi Charitable Trust in its mission to shelter and educate neglected and abandoned blind girls.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/04cef85a-b87c-43bf-8088-3e8de6c14a74.webp",
-      "amount_raised_inr": 4257406.0,
-      "amount_goal_inr": 5000000.0,
-      "deadline_iso": "2026-09-24",
-      "days_left": 2,
-      "campaign_url": "https://give.do/fundraisers/help-visually-impaired-shivaprakash-give-40-blind-girls-shelter-education-and-care",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-09-22T22:42:06.504012+00:00"
-    },
-    {
       "id": "givedo-68f25b24",
       "source": "givedo",
       "title": "Help Leena in saving girls from being lost forever in red-light areas",
@@ -47,11 +30,11 @@
       "amount_raised_inr": 3875043.0,
       "amount_goal_inr": 10000000.0,
       "deadline_iso": "2026-09-25",
-      "days_left": 3,
+      "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-22T22:42:06.504041+00:00"
+      "scraped_at_iso": "2026-09-23T03:04:57.222565+00:00"
     },
     {
       "id": "givedo-6a9fda6f",
@@ -64,11 +47,11 @@
       "amount_raised_inr": 433291.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-09-25",
-      "days_left": 3,
+      "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/this-ganeshotsav-help-peta-india-save-elephants-from-captivity-and-abuse",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-22T22:42:06.504063+00:00"
+      "scraped_at_iso": "2026-09-23T03:04:57.222594+00:00"
     },
     {
       "id": "givedo-647705ad",
@@ -78,14 +61,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/8ad7bc44-2017-4c74-b51c-7a63892467e8.webp",
-      "amount_raised_inr": 27601639.0,
+      "amount_raised_inr": 27606039.0,
       "amount_goal_inr": 40000000.0,
       "deadline_iso": "2026-09-26",
-      "days_left": 4,
+      "days_left": 3,
       "campaign_url": "https://give.do/fundraisers/help-maitri-provide-shelter-and-care-to-abandoned-widow-mothers",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-22T22:42:06.503981+00:00"
+      "scraped_at_iso": "2026-09-23T03:04:57.222483+00:00"
     },
     {
       "id": "milaap-1051028",
@@ -98,11 +81,28 @@
       "amount_raised_inr": 3389.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-09-28",
-      "days_left": 6,
+      "days_left": 5,
       "campaign_url": "https://milaap.org/fundraisers/support-mahendra-singh-rawat",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-22T22:42:03.455267+00:00"
+      "scraped_at_iso": "2026-09-23T03:04:54.181956+00:00"
+    },
+    {
+      "id": "givedo-6835addd",
+      "source": "givedo",
+      "title": "Help visually impaired Shivaprakash give 40 blind girls shelter, education and care",
+      "description": "At the age of 8, Shivaprakash lost his vision. But what could have become a life of despair became something else entirely. Shivaprakash went on to complete his Master’s degree and eventually founded the Divya Jyothi Charitable Trust, an organisation born out of personal struggle and driven by a powerful mission, to educate and empower blind girls, who are among the most neglected and marginalised in society.In many families, blind daughters are hidden away, seen as a burden, and in some cases, even as a curse. They are denied the right to dream, grow, or be independent. At Divya Jyothi, Shivaprakash is changing that narrative. Your support can ensure that no blind girl is left behind simply because of her disability. Donate today to help them stand tall, proud, and self-reliant. Donate nowDonate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).Education is survivalIn communities where gender and disability intersect, blind girls face deep-rooted prejudice and extreme isolation. Many are denied even basic schooling and are left dependent on family members for the rest of their lives. Recognising this, Divya Jyothi began with a simple yet radical step: to provide blind girls with computer training so they could access the digital world and open doors to employment.But the journey didn’t stop there. The NGO went on to launch a braille transcription centre, ensuring girls have access to learning materials that suit their needs. As Shivaprakash says, “Without education, no one can do anything. That's why education is even more important for blind girls.” Education isn’t just about literacy, it’s about self-worth, decision-making, mobility, and freedom. It’s about giving these girls the same right to participate in society that sighted individuals often take for granted.From rejection to respectIn a country where blind girls are often treated as liabilities, Divya Jyothi is rewriting their futures. Over 1,000 girls have graduated from the Trust’s training centres. Many of them come from families that had almost given up on them. Today, these same girls are government employees, corporate professionals, and role models in their communities.More than 200 graduates have secured jobs in the public sector. Over 300 are now employed in private companies. Every success story is proof that with the right support, blind girls don’t just survive, they thrive. “Most girls are neglected by their families. This is a major challenge for them,” says Shivaprakash. By providing them with skills and confidence, Divya Jyothi is turning neglect into empowerment and helplessness into hope.Donate to help 40 blind girls find independenceAlmost 40 girls are currently enrolled and will directly benefit from your support. These are girls with potential, courage, and ambition—but they lack the resources to pursue an independent life. “I request each one to come forward and donate to help blind girls lead independent lives in society,” urges Shivaprakash.Help Divya Jyothi Charitable Trust break the cycle of neglect. Your donation can give a blind girl her first lesson, her first job, and a life of dignity.Donate to this fundraiser by Give, India’s most trusted online donation platform, to support Divya Jyothi Charitable Trust in its mission to shelter and educate neglected and abandoned blind girls.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/04cef85a-b87c-43bf-8088-3e8de6c14a74.webp",
+      "amount_raised_inr": 4268906.0,
+      "amount_goal_inr": 5000000.0,
+      "deadline_iso": "2026-09-28",
+      "days_left": 5,
+      "campaign_url": "https://give.do/fundraisers/help-visually-impaired-shivaprakash-give-40-blind-girls-shelter-education-and-care",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-09-23T03:04:57.222523+00:00"
     },
     {
       "id": "milaap-1051576",
@@ -112,14 +112,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1788205332/production/images/campaign/1051576/rn_image_picker_lib_temp_a4521dd9-ae5b-4bab-aed1-2de11e07ebde_vho44n_1788205343.webp",
-      "amount_raised_inr": 49032.0,
+      "amount_raised_inr": 49354.0,
       "amount_goal_inr": 6000000.0,
       "deadline_iso": "2026-09-30",
-      "days_left": 8,
+      "days_left": 7,
       "campaign_url": "https://milaap.org/fundraisers/support-anjana-sharma-2",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-22T22:42:03.455186+00:00"
+      "scraped_at_iso": "2026-09-23T03:04:54.181781+00:00"
     },
     {
       "id": "milaap-1056088",
@@ -129,14 +129,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1789403409/production/images/campaign/1056088/temp_file_20260914_220006_ferbhl_1789403411.webp",
-      "amount_raised_inr": 3456.0,
+      "amount_raised_inr": 3464.0,
       "amount_goal_inr": 1500000.0,
       "deadline_iso": "2026-10-14",
-      "days_left": 22,
+      "days_left": 21,
       "campaign_url": "https://milaap.org/fundraisers/support-devashish-singh-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-22T22:42:03.455249+00:00"
+      "scraped_at_iso": "2026-09-23T03:04:54.182011+00:00"
     },
     {
       "id": "milaap-1056614",
@@ -146,14 +146,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1789580129/production/images/campaign/1056614/medical_1553587798_1789578863.webp",
-      "amount_raised_inr": 5126.0,
+      "amount_raised_inr": 5137.0,
       "amount_goal_inr": 1500000.0,
       "deadline_iso": "2026-10-16",
-      "days_left": 24,
+      "days_left": 23,
       "campaign_url": "https://milaap.org/fundraisers/support-ajinkya-mhatre",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-22T22:42:03.455212+00:00"
+      "scraped_at_iso": "2026-09-23T03:04:54.181840+00:00"
     },
     {
       "id": "milaap-1056408",
@@ -163,14 +163,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1789813993/production/images/campaign/1056408/temp_file_20260919_160310_zholmh_1789813994.webp",
-      "amount_raised_inr": 2990.0,
+      "amount_raised_inr": 2991.0,
       "amount_goal_inr": 1000000.0,
       "deadline_iso": "2026-10-16",
-      "days_left": 24,
+      "days_left": 23,
       "campaign_url": "https://milaap.org/fundraisers/support-raman-karthick",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-22T22:42:03.455232+00:00"
+      "scraped_at_iso": "2026-09-23T03:04:54.181903+00:00"
     },
     {
       "id": "milaap-1057266",
@@ -180,14 +180,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.28,w_0.18,x_0.13,y_0.25/c_fill,h_198,w_264/v1789758503/production/images/campaign/1057266/oq4yz2rciqytak0eu4wp_1789758504.webp",
-      "amount_raised_inr": 8240.0,
+      "amount_raised_inr": 8273.0,
       "amount_goal_inr": 2000000.0,
       "deadline_iso": "2026-10-18",
-      "days_left": 26,
+      "days_left": 25,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-leela",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-22T22:42:03.455141+00:00"
+      "scraped_at_iso": "2026-09-23T03:04:54.181681+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -197,14 +197,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 167171603.05,
+      "amount_raised_inr": 167188649.99,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2027-01-20",
-      "days_left": 120,
+      "days_left": 119,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-22T22:42:06.503951+00:00"
+      "scraped_at_iso": "2026-09-23T03:04:57.222443+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -214,14 +214,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 83575392.91,
+      "amount_raised_inr": 83586893.91,
       "amount_goal_inr": 35000000.0,
       "deadline_iso": "2027-02-28",
-      "days_left": 159,
+      "days_left": 158,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-22T22:42:06.503913+00:00"
+      "scraped_at_iso": "2026-09-23T03:04:57.222399+00:00"
     }
   ]
 }
