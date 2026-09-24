@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-24T09:00:22.425702+00:00",
+  "generated_at": "2026-09-24T16:25:25.648824+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 8,
-    "givedo": 0
+    "givedo": 6
   },
   "languages": [
     "en",
@@ -17,8 +17,42 @@
     "pa",
     "ml"
   ],
-  "total": 7,
+  "total": 13,
   "campaigns": [
+    {
+      "id": "givedo-68f25b24",
+      "source": "givedo",
+      "title": "Help Leena in saving girls from being lost forever in red-light areas",
+      "description": "\"Hundreds of young girls are lost forever in the dark lanes of red-light areas,\" says Leena Kejriwal, the founder of Missing Link Trust. These girls endure unimaginable abuse and exploitation, being lured or trafficked into an industry that breaks them physically and emotionally. Missing Link Trust is on a mission to prevent the tragedy before it happens, and also rehabilitate girls and women who are rescued from forced sex work.Leena’s journey began with her powerful street art project in Kolkata, where she painted haunting silhouettes of missing girls to raise awareness against sex trafficking. Now, she leads a larger fight — one that focuses on prevention and rehabilitation. But this mission needs your support.You can save countless girl children from going missing forever. Donate now.Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).Preventing Trafficking Before It Begins“When girls come into a red-light area, the first thing is that they are broken, physically and emotionally,” Leena says. “It’s like they will be caught, hands and legs tied, and all heinous crimes committed on them.” These are the brutal realities that Missing Link Trust fights against every day.Many of these girls are from impoverished regions like the Sundarbans, and traffickers prey on their vulnerability. “It’s shocking that they sell themselves for as low as a hundred rupees,” Leena adds. \"They ready her through violent acts, removing all threads of shame from her.\"But why wait until a girl is trafficked to save her? Missing Link Trust believes in stopping trafficking at its root — through “prevention, prevention, prevention” as Leena puts it. The goal is simple: protect girls from ever being lost to this darkness.A Safe World for Children“Our mission is the prevention of abuse and exploitation of children,” Leena emphasizes. “Our vision is to create a safe world for children, and we want to do this with a preventive methodology.”Every Donation MattersYour support will help Missing Link Trust continue its vital work of rescuing, rehabilitating, and preventing the trafficking of young girls. The funds raised will go directly towards:Prevention programs in vulnerable areas to stop trafficking before it happens.Rehabilitation services for girls rescued from red-light areas, providing them with medical care, emotional support, and education.Awareness campaigns to reach at-risk communities and ensure girls are protected from traffickers.Together, We Can Make a Difference“Why wait for a girl to get trafficked to save her?” asks Leena. With your help, we can stop this horror before it begins. Your donation will help us create a world where no girl is lost to the nightmare of trafficking.Donate to this fundraiser by Give, India’s largest and most trusted online giving platform, to support Missing Link Trust to save young girls from being trafficked and help rehabilitate those rescued.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/3d8552de-9a0a-41b0-878a-470ec88157d8.webp",
+      "amount_raised_inr": 3898043.0,
+      "amount_goal_inr": 10000000.0,
+      "deadline_iso": "2026-09-25",
+      "days_left": 1,
+      "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-09-24T16:25:23.847645+00:00"
+    },
+    {
+      "id": "givedo-647705ad",
+      "source": "givedo",
+      "title": "Help Maitri provide shelter and care to abandoned widow mothers",
+      "description": "In Vrindavan, thousands of elderly widow mothers face the harsh reality of abandonment and suffering. With no one to turn to, many are left begging on the streets, exposed to heat, cold and rain,Donate so that Maitri can provide shelter, food, clothes and medical support to abandoned elderly mothers now. Give generously.Lt Gen (Retd) Bhopinder Singn and his wife Winnie Singh and have witnessed many cases of widow mothers being abandoned on the streets of Vrindavan, one of the holiest places in India. “Children leave their mothers as soon as they become widows. The children start feeling the burden. This has become a practice in today's society that money comes first and everything else later,” says Winnie whose Maitri India, rescues widowed mothers from the streets of Vrindavan.Many widowed elderly mothers often end up living a lonely life and begging to survive on the streets. And Maitri aspires to take care of every widow in need of help, but because of lack of funds, Winnie and Maitri are in a position to do it. Gen Bhopinder Singh is like a brother to many widow mothers.\"Elderly widows don't have shelter. They sleep in cowsheds over sacks. They don't have a blanket. Nights are really difficult for them,\" shares Gen Bhopinder Singh.Maitri aims to:Provide shelter and nutritious meals leading to improved health and wellbeingMake physical and mental health services accessibleOffer necessary quality aged care and assisted living supportIncrease awareness and engagement around the struggles of abandoned widow mothersWhy donate to MaitriWinnie needs your support to help those in need of food, healthcare and well-being. “Maitri urgently needs your support to provide nutritious food, clothing and healthcare to sustain these widow mothers who are prone to more illnesses as they age,” appeals Winnie. “You can become the family they were denied. Hold their hands so they don't need to beg ever again,” says Gen Bhopinder Singh. Let’s rescue abandoned widows mothers from the streets of Vrindavan and give them a better future. Donate now.Our help will enable Maitri to save hundreds of abandoned widows from a life of begging, and restore the respect, dignity, and identity they deserve.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/8ad7bc44-2017-4c74-b51c-7a63892467e8.webp",
+      "amount_raised_inr": 27633139.0,
+      "amount_goal_inr": 40000000.0,
+      "deadline_iso": "2026-09-26",
+      "days_left": 2,
+      "campaign_url": "https://give.do/fundraisers/help-maitri-provide-shelter-and-care-to-abandoned-widow-mothers",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-09-24T16:25:23.847586+00:00"
+    },
     {
       "id": "milaap-1051028",
       "source": "milaap",
@@ -27,14 +61,48 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1787995502/production/images/campaign/1051028/medical_1553587798_1787995018.webp",
-      "amount_raised_inr": 3389.0,
+      "amount_raised_inr": 3489.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-09-28",
       "days_left": 4,
       "campaign_url": "https://milaap.org/fundraisers/support-mahendra-singh-rawat",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-24T08:58:51.379205+00:00"
+      "scraped_at_iso": "2026-09-24T16:25:20.810223+00:00"
+    },
+    {
+      "id": "givedo-6835addd",
+      "source": "givedo",
+      "title": "Help visually impaired Shivaprakash give 40 blind girls shelter, education and care",
+      "description": "At the age of 8, Shivaprakash lost his vision. But what could have become a life of despair became something else entirely. Shivaprakash went on to complete his Master’s degree and eventually founded the Divya Jyothi Charitable Trust, an organisation born out of personal struggle and driven by a powerful mission, to educate and empower blind girls, who are among the most neglected and marginalised in society.In many families, blind daughters are hidden away, seen as a burden, and in some cases, even as a curse. They are denied the right to dream, grow, or be independent. At Divya Jyothi, Shivaprakash is changing that narrative. Your support can ensure that no blind girl is left behind simply because of her disability. Donate today to help them stand tall, proud, and self-reliant. Donate nowDonate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).Education is survivalIn communities where gender and disability intersect, blind girls face deep-rooted prejudice and extreme isolation. Many are denied even basic schooling and are left dependent on family members for the rest of their lives. Recognising this, Divya Jyothi began with a simple yet radical step: to provide blind girls with computer training so they could access the digital world and open doors to employment.But the journey didn’t stop there. The NGO went on to launch a braille transcription centre, ensuring girls have access to learning materials that suit their needs. As Shivaprakash says, “Without education, no one can do anything. That's why education is even more important for blind girls.” Education isn’t just about literacy, it’s about self-worth, decision-making, mobility, and freedom. It’s about giving these girls the same right to participate in society that sighted individuals often take for granted.From rejection to respectIn a country where blind girls are often treated as liabilities, Divya Jyothi is rewriting their futures. Over 1,000 girls have graduated from the Trust’s training centres. Many of them come from families that had almost given up on them. Today, these same girls are government employees, corporate professionals, and role models in their communities.More than 200 graduates have secured jobs in the public sector. Over 300 are now employed in private companies. Every success story is proof that with the right support, blind girls don’t just survive, they thrive. “Most girls are neglected by their families. This is a major challenge for them,” says Shivaprakash. By providing them with skills and confidence, Divya Jyothi is turning neglect into empowerment and helplessness into hope.Donate to help 40 blind girls find independenceAlmost 40 girls are currently enrolled and will directly benefit from your support. These are girls with potential, courage, and ambition—but they lack the resources to pursue an independent life. “I request each one to come forward and donate to help blind girls lead independent lives in society,” urges Shivaprakash.Help Divya Jyothi Charitable Trust break the cycle of neglect. Your donation can give a blind girl her first lesson, her first job, and a life of dignity.Donate to this fundraiser by Give, India’s most trusted online donation platform, to support Divya Jyothi Charitable Trust in its mission to shelter and educate neglected and abandoned blind girls.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/04cef85a-b87c-43bf-8088-3e8de6c14a74.webp",
+      "amount_raised_inr": 4292005.0,
+      "amount_goal_inr": 5000000.0,
+      "deadline_iso": "2026-09-28",
+      "days_left": 4,
+      "campaign_url": "https://give.do/fundraisers/help-visually-impaired-shivaprakash-give-40-blind-girls-shelter-education-and-care",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-09-24T16:25:23.847617+00:00"
+    },
+    {
+      "id": "givedo-6a9fda6f",
+      "source": "givedo",
+      "title": "This Ganeshotsav, help PETA India save elephants from captivity and abuse",
+      "description": "At various tourist destinations across the country elephants are worked to exhaustion for tourism and entertainment. They work long hours on concrete that wrecks their feet, legs and joints. Some are visually impaired. Many are underfed, surviving on scraps no wild elephant would eat. Brutally assaulted by their trainers, many work out of force and fear despite grievous injuries. When they are not working, they are restrained in chains. They have no choice, no rest, no freedom.PETA India (People for Ethical Treatment of Animals, India) is on a mission to save these sensitive animals and ease their suffering forever. This is where your support becomes crucial. PETA India is in urgent need of funds to protect these animals from further abuse. Your donation can mean a life of freedom for a captive elephant who has only known a life of pain and giving rides. Donate generously.Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).A life of suffering behind the spectacleElephants used for rides and other entertainment are separated from their mothers, often taken from the wild, and then put through months of gruesome training meant only to break them. The training methods employed are immensely violent. Weapons such as ankushes or sharp-tipped sticks may be used to control them, leaving them living under the threat of pain and fear.The suffering does not end there. Years of standing and walking on concrete can cause chronic foot, joint and musculoskeletal problems in captive elephants. Some elephants used for rides have also been documented as visually impaired. Injured or sick elephants commonly continue working, while inadequate food and water can leave them malnourished and dehydrated.Donate to help end the cycle of exploitationPETA India has been on a mission to rescue these sensitive souls and has also been advocating for an end to elephant rides and other use of elephants for entertainment, working to create alternatives, including its mechanical elephant donation programme. Your donation can helpYour support can help PETA India continue its efforts to protect captive elephants from:Cruel training and weaponsHeavy loads and exhaustionChains and confinementStarvation and neglectInjuries and chronic painExploitation for tourism and spectacleHelp save overworked captive elephants from exploitation, chains, weapons and abuse. Donate today and stand for a life of freedom and compassion.Donate to this fundraiser by Give, India’s most trusted online donation platform, to support PETA India, in its mission to free captive elephants from abuse.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/6512e3b1-5bdf-49c7-b00a-79f8b0165c28.webp",
+      "amount_raised_inr": 433791.0,
+      "amount_goal_inr": 5000000.0,
+      "deadline_iso": "2026-09-29",
+      "days_left": 5,
+      "campaign_url": "https://give.do/fundraisers/this-ganeshotsav-help-peta-india-save-elephants-from-captivity-and-abuse",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-09-24T16:25:23.847667+00:00"
     },
     {
       "id": "milaap-1051576",
@@ -44,14 +112,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1788205332/production/images/campaign/1051576/rn_image_picker_lib_temp_a4521dd9-ae5b-4bab-aed1-2de11e07ebde_vho44n_1788205343.webp",
-      "amount_raised_inr": 50020.0,
+      "amount_raised_inr": 50253.0,
       "amount_goal_inr": 6000000.0,
       "deadline_iso": "2026-09-30",
       "days_left": 6,
       "campaign_url": "https://milaap.org/fundraisers/support-anjana-sharma-2",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-24T08:58:51.379036+00:00"
+      "scraped_at_iso": "2026-09-24T16:25:20.810115+00:00"
     },
     {
       "id": "milaap-1056614",
@@ -61,14 +129,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1789580129/production/images/campaign/1056614/medical_1553587798_1789578863.webp",
-      "amount_raised_inr": 5191.0,
+      "amount_raised_inr": 5196.0,
       "amount_goal_inr": 1500000.0,
       "deadline_iso": "2026-10-16",
       "days_left": 22,
       "campaign_url": "https://milaap.org/fundraisers/support-ajinkya-mhatre",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-24T08:58:51.379071+00:00"
+      "scraped_at_iso": "2026-09-24T16:25:20.810137+00:00"
     },
     {
       "id": "milaap-1056408",
@@ -78,14 +146,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1789813993/production/images/campaign/1056408/temp_file_20260919_160310_zholmh_1789813994.webp",
-      "amount_raised_inr": 3158.0,
+      "amount_raised_inr": 3231.0,
       "amount_goal_inr": 1000000.0,
       "deadline_iso": "2026-10-16",
       "days_left": 22,
       "campaign_url": "https://milaap.org/fundraisers/support-raman-karthick",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-24T08:58:51.379138+00:00"
+      "scraped_at_iso": "2026-09-24T16:25:20.810180+00:00"
     },
     {
       "id": "milaap-1057266",
@@ -95,14 +163,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.28,w_0.18,x_0.13,y_0.25/c_fill,h_198,w_264/v1789758503/production/images/campaign/1057266/oq4yz2rciqytak0eu4wp_1789758504.webp",
-      "amount_raised_inr": 8499.0,
+      "amount_raised_inr": 8643.0,
       "amount_goal_inr": 2000000.0,
       "deadline_iso": "2026-10-18",
       "days_left": 24,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-leela",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-24T08:58:51.378993+00:00"
+      "scraped_at_iso": "2026-09-24T16:25:20.810087+00:00"
     },
     {
       "id": "milaap-1058093",
@@ -112,14 +180,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1789996733/production/images/campaign/1058093/medical_1553587798_1789996732.webp",
-      "amount_raised_inr": 3239.0,
+      "amount_raised_inr": 3351.0,
       "amount_goal_inr": 1700000.0,
       "deadline_iso": "2026-10-21",
       "days_left": 27,
       "campaign_url": "https://milaap.org/fundraisers/support-jayantilal-jain",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-24T08:58:51.379102+00:00"
+      "scraped_at_iso": "2026-09-24T16:25:20.810157+00:00"
     },
     {
       "id": "milaap-1058602",
@@ -129,14 +197,48 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1790134571/production/images/campaign/1058602/f190084b-360b-4ba1-bc07-84be80912961_lbf2lg_1790134573.webp",
-      "amount_raised_inr": 2461.0,
+      "amount_raised_inr": 2612.0,
       "amount_goal_inr": 1500000.0,
       "deadline_iso": "2026-10-23",
       "days_left": 29,
       "campaign_url": "https://milaap.org/fundraisers/support-kayalvizhi-kannan-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-24T08:58:51.379169+00:00"
+      "scraped_at_iso": "2026-09-24T16:25:20.810199+00:00"
+    },
+    {
+      "id": "givedo-67dbbf7b",
+      "source": "givedo",
+      "title": "Help abandoned elderly with shelter and care",
+      "description": "Every day, elderly parents are left alone on the streets, at train stations, or even outside temples. Many are sick, struggling with age-related problems, and have no money or family to turn to. Some suffer for weeks or months before anyone notices their pain. The heartbreaking truth? They were abandoned by their own families.Although Indian law requires children and relatives to care for senior citizens, many elders still face neglect, abuse, and abandonment. The problem is only getting worse.But there is hope. Our dedicated NGO partners work day and night to rescue these forgotten elders. They provide safe shelter, medical care, nutritious meals, and most importantly—love and respect. Through old age homes across the country, our partners give these seniors a chance to live their remaining years with dignity, comfort, and peace.You can make a difference. Your donation will help our NGO partners:Rescue homeless elders from the streetsProvide shelter, food, and medical careRestore their faith in humanity with kindness and supportNo elder should spend their final years alone and suffering. Your generosity can give them a fresh start. Donate today and help an abandoned senior citizen find safety, care, and hope.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
+      "amount_raised_inr": 167262788.73,
+      "amount_goal_inr": 69000000.0,
+      "deadline_iso": "2027-01-20",
+      "days_left": 118,
+      "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-09-24T16:25:23.847556+00:00"
+    },
+    {
+      "id": "givedo-68396073",
+      "source": "givedo",
+      "title": "Help Disabled Children with Shelter & Care",
+      "description": "I am fundraising for a cause close to my heart, to bring a lasting change in the lives of the underprivileged. To help me create more impact and touch more lives, I need your support and contribution. Please back my fundraiser so that together we can build a better India for all of us. Pledge your support, donate now!",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
+      "amount_raised_inr": 83749144.78,
+      "amount_goal_inr": 35000000.0,
+      "deadline_iso": "2027-02-28",
+      "days_left": 157,
+      "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-09-24T16:25:23.847521+00:00"
     }
   ]
 }
