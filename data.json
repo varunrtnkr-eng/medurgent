@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T22:39:57.907562+00:00",
+  "generated_at": "2026-09-24T02:56:20.783038+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 8,
@@ -30,28 +30,11 @@
       "amount_raised_inr": 3898043.0,
       "amount_goal_inr": 10000000.0,
       "deadline_iso": "2026-09-25",
-      "days_left": 2,
+      "days_left": 1,
       "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-23T22:39:56.004398+00:00"
-    },
-    {
-      "id": "givedo-6a9fda6f",
-      "source": "givedo",
-      "title": "This Ganeshotsav, help PETA India save elephants from captivity and abuse",
-      "description": "At various tourist destinations across the country elephants are worked to exhaustion for tourism and entertainment. They work long hours on concrete that wrecks their feet, legs and joints. Some are visually impaired. Many are underfed, surviving on scraps no wild elephant would eat. Brutally assaulted by their trainers, many work out of force and fear despite grievous injuries. When they are not working, they are restrained in chains. They have no choice, no rest, no freedom.PETA India (People for Ethical Treatment of Animals, India) is on a mission to save these sensitive animals and ease their suffering forever. This is where your support becomes crucial. PETA India is in urgent need of funds to protect these animals from further abuse. Your donation can mean a life of freedom for a captive elephant who has only known a life of pain and giving rides. Donate generously.Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).A life of suffering behind the spectacleElephants used for rides and other entertainment are separated from their mothers, often taken from the wild, and then put through months of gruesome training meant only to break them. The training methods employed are immensely violent. Weapons such as ankushes or sharp-tipped sticks may be used to control them, leaving them living under the threat of pain and fear.The suffering does not end there. Years of standing and walking on concrete can cause chronic foot, joint and musculoskeletal problems in captive elephants. Some elephants used for rides have also been documented as visually impaired. Injured or sick elephants commonly continue working, while inadequate food and water can leave them malnourished and dehydrated.Donate to help end the cycle of exploitationPETA India has been on a mission to rescue these sensitive souls and has also been advocating for an end to elephant rides and other use of elephants for entertainment, working to create alternatives, including its mechanical elephant donation programme. Your donation can helpYour support can help PETA India continue its efforts to protect captive elephants from:Cruel training and weaponsHeavy loads and exhaustionChains and confinementStarvation and neglectInjuries and chronic painExploitation for tourism and spectacleHelp save overworked captive elephants from exploitation, chains, weapons and abuse. Donate today and stand for a life of freedom and compassion.Donate to this fundraiser by Give, India’s most trusted online donation platform, to support PETA India, in its mission to free captive elephants from abuse.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/6512e3b1-5bdf-49c7-b00a-79f8b0165c28.webp",
-      "amount_raised_inr": 433291.0,
-      "amount_goal_inr": 5000000.0,
-      "deadline_iso": "2026-09-25",
-      "days_left": 2,
-      "campaign_url": "https://give.do/fundraisers/this-ganeshotsav-help-peta-india-save-elephants-from-captivity-and-abuse",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-09-23T22:39:56.004427+00:00"
+      "scraped_at_iso": "2026-09-24T02:56:19.320521+00:00"
     },
     {
       "id": "givedo-647705ad",
@@ -61,14 +44,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/8ad7bc44-2017-4c74-b51c-7a63892467e8.webp",
-      "amount_raised_inr": 27619839.0,
+      "amount_raised_inr": 27619939.0,
       "amount_goal_inr": 40000000.0,
       "deadline_iso": "2026-09-26",
-      "days_left": 3,
+      "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/help-maitri-provide-shelter-and-care-to-abandoned-widow-mothers",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-23T22:39:56.004325+00:00"
+      "scraped_at_iso": "2026-09-24T02:56:19.320460+00:00"
     },
     {
       "id": "milaap-1051028",
@@ -81,11 +64,11 @@
       "amount_raised_inr": 3389.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-09-28",
-      "days_left": 5,
+      "days_left": 4,
       "campaign_url": "https://milaap.org/fundraisers/support-mahendra-singh-rawat",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-23T22:39:52.803045+00:00"
+      "scraped_at_iso": "2026-09-24T02:56:16.573059+00:00"
     },
     {
       "id": "givedo-6835addd",
@@ -98,11 +81,28 @@
       "amount_raised_inr": 4272505.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-09-28",
-      "days_left": 5,
+      "days_left": 4,
       "campaign_url": "https://give.do/fundraisers/help-visually-impaired-shivaprakash-give-40-blind-girls-shelter-education-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-23T22:39:56.004359+00:00"
+      "scraped_at_iso": "2026-09-24T02:56:19.320489+00:00"
+    },
+    {
+      "id": "givedo-6a9fda6f",
+      "source": "givedo",
+      "title": "This Ganeshotsav, help PETA India save elephants from captivity and abuse",
+      "description": "At various tourist destinations across the country elephants are worked to exhaustion for tourism and entertainment. They work long hours on concrete that wrecks their feet, legs and joints. Some are visually impaired. Many are underfed, surviving on scraps no wild elephant would eat. Brutally assaulted by their trainers, many work out of force and fear despite grievous injuries. When they are not working, they are restrained in chains. They have no choice, no rest, no freedom.PETA India (People for Ethical Treatment of Animals, India) is on a mission to save these sensitive animals and ease their suffering forever. This is where your support becomes crucial. PETA India is in urgent need of funds to protect these animals from further abuse. Your donation can mean a life of freedom for a captive elephant who has only known a life of pain and giving rides. Donate generously.Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).A life of suffering behind the spectacleElephants used for rides and other entertainment are separated from their mothers, often taken from the wild, and then put through months of gruesome training meant only to break them. The training methods employed are immensely violent. Weapons such as ankushes or sharp-tipped sticks may be used to control them, leaving them living under the threat of pain and fear.The suffering does not end there. Years of standing and walking on concrete can cause chronic foot, joint and musculoskeletal problems in captive elephants. Some elephants used for rides have also been documented as visually impaired. Injured or sick elephants commonly continue working, while inadequate food and water can leave them malnourished and dehydrated.Donate to help end the cycle of exploitationPETA India has been on a mission to rescue these sensitive souls and has also been advocating for an end to elephant rides and other use of elephants for entertainment, working to create alternatives, including its mechanical elephant donation programme. Your donation can helpYour support can help PETA India continue its efforts to protect captive elephants from:Cruel training and weaponsHeavy loads and exhaustionChains and confinementStarvation and neglectInjuries and chronic painExploitation for tourism and spectacleHelp save overworked captive elephants from exploitation, chains, weapons and abuse. Donate today and stand for a life of freedom and compassion.Donate to this fundraiser by Give, India’s most trusted online donation platform, to support PETA India, in its mission to free captive elephants from abuse.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/6512e3b1-5bdf-49c7-b00a-79f8b0165c28.webp",
+      "amount_raised_inr": 433291.0,
+      "amount_goal_inr": 5000000.0,
+      "deadline_iso": "2026-09-29",
+      "days_left": 5,
+      "campaign_url": "https://give.do/fundraisers/this-ganeshotsav-help-peta-india-save-elephants-from-captivity-and-abuse",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-09-24T02:56:19.320567+00:00"
     },
     {
       "id": "milaap-1051576",
@@ -112,31 +112,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1788205332/production/images/campaign/1051576/rn_image_picker_lib_temp_a4521dd9-ae5b-4bab-aed1-2de11e07ebde_vho44n_1788205343.webp",
-      "amount_raised_inr": 49765.0,
+      "amount_raised_inr": 49787.0,
       "amount_goal_inr": 6000000.0,
       "deadline_iso": "2026-09-30",
-      "days_left": 7,
+      "days_left": 6,
       "campaign_url": "https://milaap.org/fundraisers/support-anjana-sharma-2",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-23T22:39:52.802951+00:00"
-    },
-    {
-      "id": "milaap-1055106",
-      "source": "milaap",
-      "title": "Help Mohan beat blood cancer with a life-saving transplant!",
-      "description": "we are raising this campaign for Mohan, and he is 28 years old, currently battling Chronic Myeloid Leukemia (CML), a ser...",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1789124664/production/images/campaign/1055106/medical_1553587798_1789124654.webp",
-      "amount_raised_inr": 4560.0,
-      "amount_goal_inr": 3320000.0,
-      "deadline_iso": "2026-10-11",
-      "days_left": 18,
-      "campaign_url": "https://milaap.org/fundraisers/support-mohan-g-2",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-09-23T22:39:52.803070+00:00"
+      "scraped_at_iso": "2026-09-24T02:56:16.572980+00:00"
     },
     {
       "id": "milaap-1056614",
@@ -146,14 +129,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1789580129/production/images/campaign/1056614/medical_1553587798_1789578863.webp",
-      "amount_raised_inr": 5185.0,
+      "amount_raised_inr": 5191.0,
       "amount_goal_inr": 1500000.0,
       "deadline_iso": "2026-10-16",
-      "days_left": 23,
+      "days_left": 22,
       "campaign_url": "https://milaap.org/fundraisers/support-ajinkya-mhatre",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-23T22:39:52.802976+00:00"
+      "scraped_at_iso": "2026-09-24T02:56:16.573001+00:00"
     },
     {
       "id": "milaap-1056408",
@@ -166,11 +149,11 @@
       "amount_raised_inr": 3098.0,
       "amount_goal_inr": 1000000.0,
       "deadline_iso": "2026-10-16",
-      "days_left": 23,
+      "days_left": 22,
       "campaign_url": "https://milaap.org/fundraisers/support-raman-karthick",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-23T22:39:52.802998+00:00"
+      "scraped_at_iso": "2026-09-24T02:56:16.573019+00:00"
     },
     {
       "id": "milaap-1057266",
@@ -183,11 +166,11 @@
       "amount_raised_inr": 8427.0,
       "amount_goal_inr": 2000000.0,
       "deadline_iso": "2026-10-18",
-      "days_left": 25,
+      "days_left": 24,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-leela",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-23T22:39:52.802920+00:00"
+      "scraped_at_iso": "2026-09-24T02:56:16.572953+00:00"
     },
     {
       "id": "milaap-1058093",
@@ -197,14 +180,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1789996733/production/images/campaign/1058093/medical_1553587798_1789996732.webp",
-      "amount_raised_inr": 2964.0,
+      "amount_raised_inr": 2978.0,
       "amount_goal_inr": 1700000.0,
       "deadline_iso": "2026-10-21",
-      "days_left": 28,
+      "days_left": 27,
       "campaign_url": "https://milaap.org/fundraisers/support-jayantilal-jain",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-23T22:39:52.803024+00:00"
+      "scraped_at_iso": "2026-09-24T02:56:16.573042+00:00"
+    },
+    {
+      "id": "milaap-1058602",
+      "source": "milaap",
+      "title": "Help Kayal fight Neurooculorenal Syndrome & recover",
+      "description": "I am raising this campaign on behalf of my dear friend, Kayalvizhi Kannan, a 25-year-old young woman from Salem, Tamil N...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1790134571/production/images/campaign/1058602/f190084b-360b-4ba1-bc07-84be80912961_lbf2lg_1790134573.webp",
+      "amount_raised_inr": 2250.0,
+      "amount_goal_inr": 1500000.0,
+      "deadline_iso": "2026-10-23",
+      "days_left": 29,
+      "campaign_url": "https://milaap.org/fundraisers/support-kayalvizhi-kannan-1",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-09-24T02:56:16.573082+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -214,14 +214,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 167197404.33,
+      "amount_raised_inr": 167214329.33,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2027-01-20",
-      "days_left": 119,
+      "days_left": 118,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-23T22:39:56.004283+00:00"
+      "scraped_at_iso": "2026-09-24T02:56:19.320426+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -231,14 +231,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 83706544.78,
+      "amount_raised_inr": 83711644.78,
       "amount_goal_inr": 35000000.0,
       "deadline_iso": "2027-02-28",
-      "days_left": 158,
+      "days_left": 157,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-23T22:39:56.004242+00:00"
+      "scraped_at_iso": "2026-09-24T02:56:19.320386+00:00"
     }
   ]
 }
