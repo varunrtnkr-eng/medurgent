@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T03:12:54.817267+00:00",
+  "generated_at": "2026-09-25T09:20:21.182448+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 7,
@@ -20,6 +20,23 @@
   "total": 12,
   "campaigns": [
     {
+      "id": "milaap-1051028",
+      "source": "milaap",
+      "title": "Help My Father Fight Critical Complications After His Liver Transplant",
+      "description": "I am raising funds for my father, Mahendra Singh Rawat, a 59-year-old man from Almora, Uttarakhand, who has been through...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1787995502/production/images/campaign/1051028/medical_1553587798_1787995018.webp",
+      "amount_raised_inr": 3489.0,
+      "amount_goal_inr": 5000000.0,
+      "deadline_iso": "2026-09-28",
+      "days_left": 3,
+      "campaign_url": "https://milaap.org/fundraisers/support-mahendra-singh-rawat",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-09-25T09:20:16.911552+00:00"
+    },
+    {
       "id": "givedo-6835addd",
       "source": "givedo",
       "title": "Help visually impaired Shivaprakash give 40 blind girls shelter, education and care",
@@ -27,14 +44,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/04cef85a-b87c-43bf-8088-3e8de6c14a74.webp",
-      "amount_raised_inr": 4303105.0,
+      "amount_raised_inr": 4306605.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-09-28",
       "days_left": 3,
       "campaign_url": "https://give.do/fundraisers/help-visually-impaired-shivaprakash-give-40-blind-girls-shelter-education-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-25T03:12:53.582086+00:00"
+      "scraped_at_iso": "2026-09-25T09:20:20.125308+00:00"
     },
     {
       "id": "givedo-647705ad",
@@ -51,7 +68,7 @@
       "campaign_url": "https://give.do/fundraisers/help-maitri-provide-shelter-and-care-to-abandoned-widow-mothers",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-25T03:12:53.582033+00:00"
+      "scraped_at_iso": "2026-09-25T09:20:20.125268+00:00"
     },
     {
       "id": "givedo-68f25b24",
@@ -61,14 +78,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/3d8552de-9a0a-41b0-878a-470ec88157d8.webp",
-      "amount_raised_inr": 3908043.0,
+      "amount_raised_inr": 3910543.0,
       "amount_goal_inr": 10000000.0,
       "deadline_iso": "2026-09-29",
       "days_left": 4,
       "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-25T03:12:53.582126+00:00"
+      "scraped_at_iso": "2026-09-25T09:20:20.125355+00:00"
     },
     {
       "id": "givedo-6a9fda6f",
@@ -85,7 +102,7 @@
       "campaign_url": "https://give.do/fundraisers/this-ganeshotsav-help-peta-india-save-elephants-from-captivity-and-abuse",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-25T03:12:53.582157+00:00"
+      "scraped_at_iso": "2026-09-25T09:20:20.125394+00:00"
     },
     {
       "id": "milaap-1051576",
@@ -95,14 +112,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1788205332/production/images/campaign/1051576/rn_image_picker_lib_temp_a4521dd9-ae5b-4bab-aed1-2de11e07ebde_vho44n_1788205343.webp",
-      "amount_raised_inr": 50525.0,
+      "amount_raised_inr": 51618.0,
       "amount_goal_inr": 6000000.0,
       "deadline_iso": "2026-09-30",
       "days_left": 5,
       "campaign_url": "https://milaap.org/fundraisers/support-anjana-sharma-2",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-25T03:12:50.634927+00:00"
+      "scraped_at_iso": "2026-09-25T09:20:16.911421+00:00"
     },
     {
       "id": "milaap-1056614",
@@ -112,31 +129,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1789580129/production/images/campaign/1056614/medical_1553587798_1789578863.webp",
-      "amount_raised_inr": 5196.0,
+      "amount_raised_inr": 5202.0,
       "amount_goal_inr": 1500000.0,
       "deadline_iso": "2026-10-16",
       "days_left": 21,
       "campaign_url": "https://milaap.org/fundraisers/support-ajinkya-mhatre",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-25T03:12:50.634976+00:00"
-    },
-    {
-      "id": "milaap-1056408",
-      "source": "milaap",
-      "title": "Help my husband Raman Karthick fight for his life",
-      "description": "Help My Husband Fight a Brain Tumor Myself Lakshmi w/o Karthick. My husband's age is 47 years and has struggled with sev...",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1789813993/production/images/campaign/1056408/temp_file_20260919_160310_zholmh_1789813994.webp",
-      "amount_raised_inr": 3292.0,
-      "amount_goal_inr": 1000000.0,
-      "deadline_iso": "2026-10-16",
-      "days_left": 21,
-      "campaign_url": "https://milaap.org/fundraisers/support-raman-karthick",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-09-25T03:12:50.635169+00:00"
+      "scraped_at_iso": "2026-09-25T09:20:16.911457+00:00"
     },
     {
       "id": "milaap-1057266",
@@ -146,14 +146,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.28,w_0.18,x_0.13,y_0.25/c_fill,h_198,w_264/v1789758503/production/images/campaign/1057266/oq4yz2rciqytak0eu4wp_1789758504.webp",
-      "amount_raised_inr": 8663.0,
+      "amount_raised_inr": 8714.0,
       "amount_goal_inr": 2000000.0,
       "deadline_iso": "2026-10-18",
       "days_left": 23,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-leela",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-25T03:12:50.634880+00:00"
+      "scraped_at_iso": "2026-09-25T09:20:16.911382+00:00"
     },
     {
       "id": "milaap-1058093",
@@ -163,14 +163,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1789996733/production/images/campaign/1058093/medical_1553587798_1789996732.webp",
-      "amount_raised_inr": 3388.0,
+      "amount_raised_inr": 3417.0,
       "amount_goal_inr": 1700000.0,
       "deadline_iso": "2026-10-21",
       "days_left": 26,
       "campaign_url": "https://milaap.org/fundraisers/support-jayantilal-jain",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-25T03:12:50.635061+00:00"
+      "scraped_at_iso": "2026-09-25T09:20:16.911488+00:00"
     },
     {
       "id": "milaap-1058602",
@@ -180,14 +180,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1790134571/production/images/campaign/1058602/f190084b-360b-4ba1-bc07-84be80912961_lbf2lg_1790134573.webp",
-      "amount_raised_inr": 2848.0,
+      "amount_raised_inr": 3318.0,
       "amount_goal_inr": 1500000.0,
       "deadline_iso": "2026-10-23",
       "days_left": 28,
       "campaign_url": "https://milaap.org/fundraisers/support-kayalvizhi-kannan-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-25T03:12:50.635121+00:00"
+      "scraped_at_iso": "2026-09-25T09:20:16.911523+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -197,14 +197,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 167429379.75,
+      "amount_raised_inr": 167500380.14,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2027-01-20",
       "days_left": 117,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-25T03:12:53.581983+00:00"
+      "scraped_at_iso": "2026-09-25T09:20:20.125228+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -214,14 +214,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 83817323.1,
-      "amount_goal_inr": 35000000.0,
+      "amount_raised_inr": 83863173.1,
+      "amount_goal_inr": 100000000.0,
       "deadline_iso": "2027-02-28",
       "days_left": 156,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-25T03:12:53.581908+00:00"
+      "scraped_at_iso": "2026-09-25T09:20:20.125190+00:00"
     }
   ]
 }
