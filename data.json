@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T17:32:53.143169+00:00",
+  "generated_at": "2026-09-29T23:24:51.775064+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 6,
@@ -27,31 +27,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1788205332/production/images/campaign/1051576/rn_image_picker_lib_temp_a4521dd9-ae5b-4bab-aed1-2de11e07ebde_vho44n_1788205343.webp",
-      "amount_raised_inr": 56418.0,
+      "amount_raised_inr": 56549.0,
       "amount_goal_inr": 6000000.0,
       "deadline_iso": "2026-09-30",
       "days_left": 1,
       "campaign_url": "https://milaap.org/fundraisers/support-anjana-sharma-2",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-29T17:32:49.111650+00:00"
-    },
-    {
-      "id": "givedo-647705ad",
-      "source": "givedo",
-      "title": "Help Maitri provide shelter and care to abandoned widow mothers",
-      "description": "In Vrindavan, thousands of elderly widow mothers face the harsh reality of abandonment and suffering. With no one to turn to, many are left begging on the streets, exposed to heat, cold and rain,Donate so that Maitri can provide shelter, food, clothes and medical support to abandoned elderly mothers now. Give generously.Lt Gen (Retd) Bhopinder Singn and his wife Winnie Singh and have witnessed many cases of widow mothers being abandoned on the streets of Vrindavan, one of the holiest places in India. “Children leave their mothers as soon as they become widows. The children start feeling the burden. This has become a practice in today's society that money comes first and everything else later,” says Winnie whose Maitri India, rescues widowed mothers from the streets of Vrindavan.Many widowed elderly mothers often end up living a lonely life and begging to survive on the streets. And Maitri aspires to take care of every widow in need of help, but because of lack of funds, Winnie and Maitri are in a position to do it. Gen Bhopinder Singh is like a brother to many widow mothers.\"Elderly widows don't have shelter. They sleep in cowsheds over sacks. They don't have a blanket. Nights are really difficult for them,\" shares Gen Bhopinder Singh.Maitri aims to:Provide shelter and nutritious meals leading to improved health and wellbeingMake physical and mental health services accessibleOffer necessary quality aged care and assisted living supportIncrease awareness and engagement around the struggles of abandoned widow mothersWhy donate to MaitriWinnie needs your support to help those in need of food, healthcare and well-being. “Maitri urgently needs your support to provide nutritious food, clothing and healthcare to sustain these widow mothers who are prone to more illnesses as they age,” appeals Winnie. “You can become the family they were denied. Hold their hands so they don't need to beg ever again,” says Gen Bhopinder Singh. Let’s rescue abandoned widows mothers from the streets of Vrindavan and give them a better future. Donate now.Our help will enable Maitri to save hundreds of abandoned widows from a life of begging, and restore the respect, dignity, and identity they deserve.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/8ad7bc44-2017-4c74-b51c-7a63892467e8.webp",
-      "amount_raised_inr": 27799208.0,
-      "amount_goal_inr": 40000000.0,
-      "deadline_iso": "2026-10-01",
-      "days_left": 2,
-      "campaign_url": "https://give.do/fundraisers/help-maitri-provide-shelter-and-care-to-abandoned-widow-mothers",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-09-29T17:32:52.020481+00:00"
+      "scraped_at_iso": "2026-09-29T23:24:47.284872+00:00"
     },
     {
       "id": "givedo-6835addd",
@@ -61,14 +44,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/04cef85a-b87c-43bf-8088-3e8de6c14a74.webp",
-      "amount_raised_inr": 4434081.0,
+      "amount_raised_inr": 4452582.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-10-02",
       "days_left": 3,
       "campaign_url": "https://give.do/fundraisers/help-visually-impaired-shivaprakash-give-40-blind-girls-shelter-education-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-29T17:32:52.020510+00:00"
+      "scraped_at_iso": "2026-09-29T23:24:50.151381+00:00"
     },
     {
       "id": "givedo-6a9fda6f",
@@ -85,7 +68,7 @@
       "campaign_url": "https://give.do/fundraisers/this-ganeshotsav-help-peta-india-save-elephants-from-captivity-and-abuse",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-29T17:32:52.020545+00:00"
+      "scraped_at_iso": "2026-09-29T23:24:50.151418+00:00"
     },
     {
       "id": "givedo-6aa13504",
@@ -95,14 +78,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/e8fc8829-0bd7-495b-a052-78d91feb9736.webp",
-      "amount_raised_inr": 2087054.0,
+      "amount_raised_inr": 2203612.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-10-04",
       "days_left": 5,
       "campaign_url": "https://give.do/fundraisers/this-pitru-paksha-help-feed-warm-meals-to-abandoned-elderly-and-the-destitute",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-29T17:32:52.020434+00:00"
+      "scraped_at_iso": "2026-09-29T23:24:50.151310+00:00"
+    },
+    {
+      "id": "givedo-647705ad",
+      "source": "givedo",
+      "title": "Help Maitri provide shelter and care to abandoned widow mothers",
+      "description": "In Vrindavan, thousands of elderly widow mothers face the harsh reality of abandonment and suffering. With no one to turn to, many are left begging on the streets, exposed to heat, cold and rain,Donate so that Maitri can provide shelter, food, clothes and medical support to abandoned elderly mothers now. Give generously.Lt Gen (Retd) Bhopinder Singn and his wife Winnie Singh and have witnessed many cases of widow mothers being abandoned on the streets of Vrindavan, one of the holiest places in India. “Children leave their mothers as soon as they become widows. The children start feeling the burden. This has become a practice in today's society that money comes first and everything else later,” says Winnie whose Maitri India, rescues widowed mothers from the streets of Vrindavan.Many widowed elderly mothers often end up living a lonely life and begging to survive on the streets. And Maitri aspires to take care of every widow in need of help, but because of lack of funds, Winnie and Maitri are in a position to do it. Gen Bhopinder Singh is like a brother to many widow mothers.\"Elderly widows don't have shelter. They sleep in cowsheds over sacks. They don't have a blanket. Nights are really difficult for them,\" shares Gen Bhopinder Singh.Maitri aims to:Provide shelter and nutritious meals leading to improved health and wellbeingMake physical and mental health services accessibleOffer necessary quality aged care and assisted living supportIncrease awareness and engagement around the struggles of abandoned widow mothersWhy donate to MaitriWinnie needs your support to help those in need of food, healthcare and well-being. “Maitri urgently needs your support to provide nutritious food, clothing and healthcare to sustain these widow mothers who are prone to more illnesses as they age,” appeals Winnie. “You can become the family they were denied. Hold their hands so they don't need to beg ever again,” says Gen Bhopinder Singh. Let’s rescue abandoned widows mothers from the streets of Vrindavan and give them a better future. Donate now.Our help will enable Maitri to save hundreds of abandoned widows from a life of begging, and restore the respect, dignity, and identity they deserve.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/8ad7bc44-2017-4c74-b51c-7a63892467e8.webp",
+      "amount_raised_inr": 27801308.0,
+      "amount_goal_inr": 40000000.0,
+      "deadline_iso": "2026-10-06",
+      "days_left": 7,
+      "campaign_url": "https://give.do/fundraisers/help-maitri-provide-shelter-and-care-to-abandoned-widow-mothers",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-09-29T23:24:50.151345+00:00"
     },
     {
       "id": "milaap-1058602",
@@ -112,14 +112,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1790134571/production/images/campaign/1058602/f190084b-360b-4ba1-bc07-84be80912961_lbf2lg_1790134573.webp",
-      "amount_raised_inr": 5364.0,
+      "amount_raised_inr": 5366.0,
       "amount_goal_inr": 1500000.0,
       "deadline_iso": "2026-10-23",
       "days_left": 24,
       "campaign_url": "https://milaap.org/fundraisers/support-kayalvizhi-kannan-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-29T17:32:49.111788+00:00"
+      "scraped_at_iso": "2026-09-29T23:24:47.285082+00:00"
     },
     {
       "id": "milaap-1058716",
@@ -129,14 +129,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1790162289/production/images/campaign/1058716/Media_yznhjl_1790162290.webp",
-      "amount_raised_inr": 6166.0,
+      "amount_raised_inr": 6198.0,
       "amount_goal_inr": 1000000.0,
       "deadline_iso": "2026-10-23",
       "days_left": 24,
       "campaign_url": "https://milaap.org/fundraisers/support-lekha-magesh",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-29T17:32:49.111770+00:00"
+      "scraped_at_iso": "2026-09-29T23:24:47.285039+00:00"
     },
     {
       "id": "milaap-1059862",
@@ -146,14 +146,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1790435755/production/images/campaign/1059862/medical_1553587798_1790435744.webp",
-      "amount_raised_inr": 4789.0,
+      "amount_raised_inr": 5194.0,
       "amount_goal_inr": 1500000.0,
       "deadline_iso": "2026-10-26",
       "days_left": 27,
       "campaign_url": "https://milaap.org/fundraisers/support-uday-ganapati-bhat",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-29T17:32:49.111813+00:00"
+      "scraped_at_iso": "2026-09-29T23:24:47.285125+00:00"
     },
     {
       "id": "milaap-1060179",
@@ -163,14 +163,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1790513229/production/images/campaign/1060179/medical_1553587798_1790513218.webp",
-      "amount_raised_inr": 7096.0,
+      "amount_raised_inr": 7147.0,
       "amount_goal_inr": 1656285.0,
       "deadline_iso": "2026-10-27",
       "days_left": 28,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-dipankar-sarkar-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-29T17:32:49.111718+00:00"
+      "scraped_at_iso": "2026-09-29T23:24:47.284961+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -180,14 +180,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 171369189.68,
+      "amount_raised_inr": 171605806.88,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2027-01-20",
       "days_left": 113,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-29T17:32:52.020387+00:00"
+      "scraped_at_iso": "2026-09-29T23:24:50.151263+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -197,14 +197,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 85410506.14,
+      "amount_raised_inr": 85440407.14,
       "amount_goal_inr": 100000000.0,
       "deadline_iso": "2027-02-28",
       "days_left": 152,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-29T17:32:52.020345+00:00"
+      "scraped_at_iso": "2026-09-29T23:24:50.151216+00:00"
     }
   ]
 }
