@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-30T17:32:09.712436+00:00",
+  "generated_at": "2026-09-30T23:25:17.456083+00:00",
   "sources": {
     "ketto": 0,
-    "milaap": 6,
+    "milaap": 7,
     "givedo": 6
   },
   "languages": [
@@ -17,8 +17,42 @@
     "pa",
     "ml"
   ],
-  "total": 11,
+  "total": 12,
   "campaigns": [
+    {
+      "id": "givedo-6aa125cc",
+      "source": "givedo",
+      "title": "This Pitru Paksha, be a saviour of an abandoned elderly person left to die alone",
+      "description": "For elderly people left alone in the final chapters of their lives, abandonment can mean a life of suffering on the streets. A life filled with loneliness, insecurity and fear. Our NGO partner Neptune Foundation has been a pillar of support for countless such abandoned grandparents, neglected and destitute senior citizens, helping them find something that many thought they had lost forever, a safe place to call homeThe NGO sustains its old age home through public support and is in urgent needs for donations and funds to keep the shelter going. Your donation can go a long way in giving these elderly parents the home they deserve. Donate generously!Donate easily through UPI, all debit/credit cards and net banking.Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).A home when there is nowhere else to goNeptune Foundation provides free shelter, nutritious food, healthcare, companionship and emotional support to elderly people who have been abandoned, rejected or left without the means to care for themselves. Many residents are widowed, living alone, economically vulnerable, medically fragile or have experienced neglect and abuse.Today, 41 senior citizens between the ages of 60 and 95 live at the home. They receive hygienically prepared meals, regular medical check-ups, nursing and caregiving support, recreational and spiritual activities, and a safe residential environment. Here, an elderly person is not treated as a burden. Festivals, birthdays and cultural activities bring residents together, creating companionship and a sense of togetherness and belonging. The home welcomes seniors without discrimination based on caste, religion or background.Donate to give them a life filled with dignityThe need is growing. Neptune Foundation plans to expand its facility from 41 residents to up to 200 elderly people and establish a primary health centre serving residents as well as nearby rural communities.Your donation can help provide free food, shelter, medical care and daily support to elderly grandparents who have nowhere else to turn.Help Neptune Foundation give abandoned seniors more than a roof, a loving home, dignity, companionship and care. Donate today.Donate to this fundraiser by Give, India’s most trusted online donation platform, to support Neptune Foundation, in its mission to care for abandoned elderly grandparents.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/ffc2775f-3f23-4218-b128-3795ba45ad34.webp",
+      "amount_raised_inr": 402284.0,
+      "amount_goal_inr": 5000000.0,
+      "deadline_iso": "2026-10-03",
+      "days_left": 3,
+      "campaign_url": "https://give.do/fundraisers/this-pitru-paksha-be-a-saviour-of-an-abandoned-elderly-person-left-to-die-alone",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-09-30T23:25:15.506191+00:00"
+    },
+    {
+      "id": "givedo-6aa13504",
+      "source": "givedo",
+      "title": "This Pitru Paksha, help feed warm meals to abandoned elderly and the destitute",
+      "description": "For thousands of elderly people, homeless individuals, daily-wage workers and vulnerable families, hunger is not an occasional hardship, it is a daily reality. Danirasa Foundation’s with the help of kind supporters and donors is quietly changing this reality for hundreds each day. Your donation provides a warm meal to an elderly grandparent who has no other means to survive. Donate Now.At ₹25 per meal, your donation of ₹2,500 can cover one meal each for 100 elders, for a single day!Donate easily through UPI, all debit/credit cards and net banking.Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).From one crisis to a mission against hungerDanirasa Foundation’s journey began during the devastating 2015 Chennai floods. Founder Indu Priya witnessed families, especially women and children, struggling with displacement and hunger. She and her team mobilised volunteers to cook and distribute hot meals. What began as an emergency response became a lasting commitment to ensuring vulnerable communities have access to food with dignity and care.Today, Danirasa’s Community Kitchen serves around 4,900 people through this programme. The meals reach elderly residents in old-age homes, children from underserved communities, rehabilitation centres, homeless people, daily-wage workers and others facing food insecurity.A meal can mean so much moreFor an elderly person living without family support, a nutritious meal can bring comfort. For someone surviving on irregular daily wages, it can mean one less worry. For a vulnerable child, it can provide the nourishment needed to learn and grow.But feeding thousands of people every day requires a steady supply of ingredients, cooking, packaging, transportation and dedicated people.Help serve a meal with dignityYour donation can help Danirasa continue providing nutritious meals to homeless and elderly people, children, workers, persons with disabilities and families struggling to make ends meet.Help Danirasa ensure that no vulnerable person has to face the day with an empty stomach. Donate today.Donate to this fundraiser by give.do, India’s most trusted online donation platform, to support Danirasa Foundation, in its mission to feed helpless elderly and destitute people, who have no means of survival.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/e8fc8829-0bd7-495b-a052-78d91feb9736.webp",
+      "amount_raised_inr": 2678657.0,
+      "amount_goal_inr": 7500000.0,
+      "deadline_iso": "2026-10-04",
+      "days_left": 4,
+      "campaign_url": "https://give.do/fundraisers/this-pitru-paksha-help-feed-warm-meals-to-abandoned-elderly-and-the-destitute",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-09-30T23:25:15.506104+00:00"
+    },
     {
       "id": "givedo-6835addd",
       "source": "givedo",
@@ -29,46 +63,12 @@
       "image_url": "https://cfstatic.give.do/04cef85a-b87c-43bf-8088-3e8de6c14a74.webp",
       "amount_raised_inr": 4485650.0,
       "amount_goal_inr": 5000000.0,
-      "deadline_iso": "2026-10-02",
-      "days_left": 2,
+      "deadline_iso": "2026-10-04",
+      "days_left": 4,
       "campaign_url": "https://give.do/fundraisers/help-visually-impaired-shivaprakash-give-40-blind-girls-shelter-education-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-30T17:32:08.425199+00:00"
-    },
-    {
-      "id": "givedo-6a9fda6f",
-      "source": "givedo",
-      "title": "This Ganeshotsav, help PETA India save elephants from captivity and abuse",
-      "description": "At various tourist destinations across the country elephants are worked to exhaustion for tourism and entertainment. They work long hours on concrete that wrecks their feet, legs and joints. Some are visually impaired. Many are underfed, surviving on scraps no wild elephant would eat. Brutally assaulted by their trainers, many work out of force and fear despite grievous injuries. When they are not working, they are restrained in chains. They have no choice, no rest, no freedom.PETA India (People for Ethical Treatment of Animals, India) is on a mission to save these sensitive animals and ease their suffering forever. This is where your support becomes crucial. PETA India is in urgent need of funds to protect these animals from further abuse. Your donation can mean a life of freedom for a captive elephant who has only known a life of pain and giving rides. Donate generously.Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).A life of suffering behind the spectacleElephants used for rides and other entertainment are separated from their mothers, often taken from the wild, and then put through months of gruesome training meant only to break them. The training methods employed are immensely violent. Weapons such as ankushes or sharp-tipped sticks may be used to control them, leaving them living under the threat of pain and fear.The suffering does not end there. Years of standing and walking on concrete can cause chronic foot, joint and musculoskeletal problems in captive elephants. Some elephants used for rides have also been documented as visually impaired. Injured or sick elephants commonly continue working, while inadequate food and water can leave them malnourished and dehydrated.Donate to help end the cycle of exploitationPETA India has been on a mission to rescue these sensitive souls and has also been advocating for an end to elephant rides and other use of elephants for entertainment, working to create alternatives, including its mechanical elephant donation programme. Your donation can helpYour support can help PETA India continue its efforts to protect captive elephants from:Cruel training and weaponsHeavy loads and exhaustionChains and confinementStarvation and neglectInjuries and chronic painExploitation for tourism and spectacleHelp save overworked captive elephants from exploitation, chains, weapons and abuse. Donate today and stand for a life of freedom and compassion.Donate to this fundraiser by Give, India’s most trusted online donation platform, to support PETA India, in its mission to free captive elephants from abuse.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/6512e3b1-5bdf-49c7-b00a-79f8b0165c28.webp",
-      "amount_raised_inr": 442291.0,
-      "amount_goal_inr": 5000000.0,
-      "deadline_iso": "2026-10-03",
-      "days_left": 3,
-      "campaign_url": "https://give.do/fundraisers/this-ganeshotsav-help-peta-india-save-elephants-from-captivity-and-abuse",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-09-30T17:32:08.425236+00:00"
-    },
-    {
-      "id": "givedo-6aa13504",
-      "source": "givedo",
-      "title": "This Pitru Paksha, help feed warm meals to abandoned elderly and the destitute",
-      "description": "For thousands of elderly people, homeless individuals, daily-wage workers and vulnerable families, hunger is not an occasional hardship, it is a daily reality. Danirasa Foundation’s with the help of kind supporters and donors is quietly changing this reality for hundreds each day. Your donation provides a warm meal to an elderly grandparent who has no other means to survive. Donate Now.At ₹25 per meal, your donation of ₹2,500 can cover one meal each for 100 elders, for a single day!Donate easily through UPI, all debit/credit cards and net banking.Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).From one crisis to a mission against hungerDanirasa Foundation’s journey began during the devastating 2015 Chennai floods. Founder Indu Priya witnessed families, especially women and children, struggling with displacement and hunger. She and her team mobilised volunteers to cook and distribute hot meals. What began as an emergency response became a lasting commitment to ensuring vulnerable communities have access to food with dignity and care.Today, Danirasa’s Community Kitchen serves around 4,900 people through this programme. The meals reach elderly residents in old-age homes, children from underserved communities, rehabilitation centres, homeless people, daily-wage workers and others facing food insecurity.A meal can mean so much moreFor an elderly person living without family support, a nutritious meal can bring comfort. For someone surviving on irregular daily wages, it can mean one less worry. For a vulnerable child, it can provide the nourishment needed to learn and grow.But feeding thousands of people every day requires a steady supply of ingredients, cooking, packaging, transportation and dedicated people.Help serve a meal with dignityYour donation can help Danirasa continue providing nutritious meals to homeless and elderly people, children, workers, persons with disabilities and families struggling to make ends meet.Help Danirasa ensure that no vulnerable person has to face the day with an empty stomach. Donate today.Donate to this fundraiser by give.do, India’s most trusted online donation platform, to support Danirasa Foundation, in its mission to feed helpless elderly and destitute people, who have no means of survival.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/e8fc8829-0bd7-495b-a052-78d91feb9736.webp",
-      "amount_raised_inr": 2649056.0,
-      "amount_goal_inr": 7500000.0,
-      "deadline_iso": "2026-10-04",
-      "days_left": 4,
-      "campaign_url": "https://give.do/fundraisers/this-pitru-paksha-help-feed-warm-meals-to-abandoned-elderly-and-the-destitute",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-09-30T17:32:08.425129+00:00"
+      "scraped_at_iso": "2026-09-30T23:25:15.506165+00:00"
     },
     {
       "id": "givedo-647705ad",
@@ -85,7 +85,7 @@
       "campaign_url": "https://give.do/fundraisers/help-maitri-provide-shelter-and-care-to-abandoned-widow-mothers",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-30T17:32:08.425163+00:00"
+      "scraped_at_iso": "2026-09-30T23:25:15.506132+00:00"
     },
     {
       "id": "milaap-1058716",
@@ -95,14 +95,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1790162289/production/images/campaign/1058716/Media_yznhjl_1790162290.webp",
-      "amount_raised_inr": 6336.0,
+      "amount_raised_inr": 6587.0,
       "amount_goal_inr": 1000000.0,
       "deadline_iso": "2026-10-23",
       "days_left": 23,
       "campaign_url": "https://milaap.org/fundraisers/support-lekha-magesh",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-30T17:32:05.646969+00:00"
+      "scraped_at_iso": "2026-09-30T23:25:12.408699+00:00"
     },
     {
       "id": "milaap-1059673",
@@ -112,14 +112,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1790599188/production/images/campaign/1059673/medical_1553587798_1790409450.webp",
-      "amount_raised_inr": 5207.0,
+      "amount_raised_inr": 5273.0,
       "amount_goal_inr": 10000000.0,
       "deadline_iso": "2026-10-26",
       "days_left": 26,
       "campaign_url": "https://milaap.org/fundraisers/support-rajendra-vishwanath-patil",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-30T17:32:05.647018+00:00"
+      "scraped_at_iso": "2026-09-30T23:25:12.408728+00:00"
     },
     {
       "id": "milaap-1059862",
@@ -129,14 +129,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1790435755/production/images/campaign/1059862/medical_1553587798_1790435744.webp",
-      "amount_raised_inr": 5823.0,
+      "amount_raised_inr": 5963.0,
       "amount_goal_inr": 1500000.0,
       "deadline_iso": "2026-10-26",
       "days_left": 26,
       "campaign_url": "https://milaap.org/fundraisers/support-uday-ganapati-bhat",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-30T17:32:05.646944+00:00"
+      "scraped_at_iso": "2026-09-30T23:25:12.408660+00:00"
+    },
+    {
+      "id": "milaap-1060090",
+      "source": "milaap",
+      "title": "Help my little brother fight for his life — every rupee counts",
+      "description": "I am raising funds for my 14-year-old brother, who is currently receiving treatment in ICU in yashoda hospital secundera...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.2,w_0.19,x_0.19,y_0.3/c_fill,h_198,w_264/v1790497298/production/images/campaign/1060090/b19d7171-8bda-4120-aefb-16c6ff9a2e02_cpdrzo_1790497376.webp",
+      "amount_raised_inr": 4861.0,
+      "amount_goal_inr": 3000000.0,
+      "deadline_iso": "2026-10-27",
+      "days_left": 27,
+      "campaign_url": "https://milaap.org/fundraisers/support-child-of-daggupati-vijaya-1",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-09-30T23:25:12.408791+00:00"
     },
     {
       "id": "milaap-1060179",
@@ -146,14 +163,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1790513229/production/images/campaign/1060179/medical_1553587798_1790513218.webp",
-      "amount_raised_inr": 8771.0,
+      "amount_raised_inr": 8843.0,
       "amount_goal_inr": 1656285.0,
       "deadline_iso": "2026-10-27",
       "days_left": 27,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-dipankar-sarkar-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-30T17:32:05.646802+00:00"
+      "scraped_at_iso": "2026-09-30T23:25:12.408525+00:00"
     },
     {
       "id": "milaap-1051576",
@@ -163,14 +180,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1788205332/production/images/campaign/1051576/rn_image_picker_lib_temp_a4521dd9-ae5b-4bab-aed1-2de11e07ebde_vho44n_1788205343.webp",
-      "amount_raised_inr": 56916.0,
+      "amount_raised_inr": 57114.0,
       "amount_goal_inr": 6000000.0,
       "deadline_iso": "2026-10-31",
       "days_left": 31,
       "campaign_url": "https://milaap.org/fundraisers/support-anjana-sharma-2",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-30T17:32:05.646910+00:00"
+      "scraped_at_iso": "2026-09-30T23:25:12.408605+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -180,14 +197,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 172371111.37,
+      "amount_raised_inr": 172515434.67,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2027-01-20",
       "days_left": 112,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-30T17:32:08.425078+00:00"
+      "scraped_at_iso": "2026-09-30T23:25:15.506056+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -197,14 +214,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 85672286.5,
+      "amount_raised_inr": 85689649.51,
       "amount_goal_inr": 100000000.0,
       "deadline_iso": "2027-02-28",
       "days_left": 151,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-09-30T17:32:08.425013+00:00"
+      "scraped_at_iso": "2026-09-30T23:25:15.506015+00:00"
     }
   ]
 }
