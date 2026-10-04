@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T13:39:28.429350+00:00",
+  "generated_at": "2026-10-04T19:01:34.548995+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 8,
@@ -20,6 +20,23 @@
   "total": 14,
   "campaigns": [
     {
+      "id": "givedo-6aa13504",
+      "source": "givedo",
+      "title": "This Pitru Paksha, help feed warm meals to abandoned elderly and the destitute",
+      "description": "For thousands of elderly people, homeless individuals, daily-wage workers and vulnerable families, hunger is not an occasional hardship, it is a daily reality. Danirasa Foundation’s with the help of kind supporters and donors is quietly changing this reality for hundreds each day. Your donation provides a warm meal to an elderly grandparent who has no other means to survive. At ₹25 per meal, your donation of ₹1,250 can provide a meal each for 50 elders. Donate Now.Donate easily through UPI, all debit/credit cards and net banking.Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).From one crisis to a mission against hungerDanirasa Foundation’s journey began during the devastating 2015 Chennai floods. Founder Indu Priya witnessed families, especially women and children, struggling with displacement and hunger. She and her team mobilised volunteers to cook and distribute hot meals. What began as an emergency response became a lasting commitment to ensuring vulnerable communities have access to food with dignity and care.Today, Danirasa’s Community Kitchen serves around 4,900 people through this programme. The meals reach elderly residents in old-age homes, children from underserved communities, rehabilitation centres, homeless people, daily-wage workers and others facing food insecurity.A meal can mean so much moreFor an elderly person living without family support, a nutritious meal can bring comfort. For someone surviving on irregular daily wages, it can mean one less worry. For a vulnerable child, it can provide the nourishment needed to learn and grow.But feeding thousands of people every day requires a steady supply of ingredients, cooking, packaging, transportation and dedicated people.Help serve a meal with dignityYour donation can help Danirasa continue providing nutritious meals to homeless and elderly people, children, workers, persons with disabilities and families struggling to make ends meet.Help Danirasa ensure that no vulnerable person has to face the day with an empty stomach. Donate today.Donate to this fundraiser by give.do, India’s most trusted online donation platform, to support Danirasa Foundation, in its mission to feed helpless elderly and destitute people, who have no means of survival.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/e8fc8829-0bd7-495b-a052-78d91feb9736.webp",
+      "amount_raised_inr": 5022044.0,
+      "amount_goal_inr": 20000000.0,
+      "deadline_iso": "2026-10-06",
+      "days_left": 2,
+      "campaign_url": "https://give.do/fundraisers/this-pitru-paksha-help-feed-warm-meals-to-abandoned-elderly-and-the-destitute",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-10-04T19:01:32.900439+00:00"
+    },
+    {
       "id": "givedo-647705ad",
       "source": "givedo",
       "title": "Help Maitri provide shelter and care to abandoned widow mothers",
@@ -34,24 +51,7 @@
       "campaign_url": "https://give.do/fundraisers/help-maitri-provide-shelter-and-care-to-abandoned-widow-mothers",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-04T13:39:26.731842+00:00"
-    },
-    {
-      "id": "givedo-6aa13504",
-      "source": "givedo",
-      "title": "This Pitru Paksha, help feed warm meals to abandoned elderly and the destitute",
-      "description": "For thousands of elderly people, homeless individuals, daily-wage workers and vulnerable families, hunger is not an occasional hardship, it is a daily reality. Danirasa Foundation’s with the help of kind supporters and donors is quietly changing this reality for hundreds each day. Your donation provides a warm meal to an elderly grandparent who has no other means to survive. At ₹25 per meal, your donation of ₹1,250 can provide a meal each for 50 elders. Donate Now.Donate easily through UPI, all debit/credit cards and net banking.Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).From one crisis to a mission against hungerDanirasa Foundation’s journey began during the devastating 2015 Chennai floods. Founder Indu Priya witnessed families, especially women and children, struggling with displacement and hunger. She and her team mobilised volunteers to cook and distribute hot meals. What began as an emergency response became a lasting commitment to ensuring vulnerable communities have access to food with dignity and care.Today, Danirasa’s Community Kitchen serves around 4,900 people through this programme. The meals reach elderly residents in old-age homes, children from underserved communities, rehabilitation centres, homeless people, daily-wage workers and others facing food insecurity.A meal can mean so much moreFor an elderly person living without family support, a nutritious meal can bring comfort. For someone surviving on irregular daily wages, it can mean one less worry. For a vulnerable child, it can provide the nourishment needed to learn and grow.But feeding thousands of people every day requires a steady supply of ingredients, cooking, packaging, transportation and dedicated people.Help serve a meal with dignityYour donation can help Danirasa continue providing nutritious meals to homeless and elderly people, children, workers, persons with disabilities and families struggling to make ends meet.Help Danirasa ensure that no vulnerable person has to face the day with an empty stomach. Donate today.Donate to this fundraiser by give.do, India’s most trusted online donation platform, to support Danirasa Foundation, in its mission to feed helpless elderly and destitute people, who have no means of survival.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/e8fc8829-0bd7-495b-a052-78d91feb9736.webp",
-      "amount_raised_inr": 4938839.0,
-      "amount_goal_inr": 10000000.0,
-      "deadline_iso": "2026-10-06",
-      "days_left": 2,
-      "campaign_url": "https://give.do/fundraisers/this-pitru-paksha-help-feed-warm-meals-to-abandoned-elderly-and-the-destitute",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-10-04T13:39:26.731777+00:00"
+      "scraped_at_iso": "2026-10-04T19:01:32.900489+00:00"
     },
     {
       "id": "givedo-6aa125cc",
@@ -61,14 +61,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/ffc2775f-3f23-4218-b128-3795ba45ad34.webp",
-      "amount_raised_inr": 542568.0,
+      "amount_raised_inr": 546232.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-10-08",
       "days_left": 4,
       "campaign_url": "https://give.do/fundraisers/this-pitru-paksha-be-a-saviour-of-an-abandoned-elderly-person-left-to-die-alone",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-04T13:39:26.731826+00:00"
+      "scraped_at_iso": "2026-10-04T19:01:32.900473+00:00"
     },
     {
       "id": "givedo-6835addd",
@@ -78,14 +78,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/04cef85a-b87c-43bf-8088-3e8de6c14a74.webp",
-      "amount_raised_inr": 4546048.0,
+      "amount_raised_inr": 4547048.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-10-08",
       "days_left": 4,
       "campaign_url": "https://give.do/fundraisers/help-visually-impaired-shivaprakash-give-40-blind-girls-shelter-education-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-04T13:39:26.731808+00:00"
+      "scraped_at_iso": "2026-10-04T19:01:32.900457+00:00"
     },
     {
       "id": "milaap-1057229",
@@ -102,7 +102,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-yogeesha-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-04T13:39:22.656324+00:00"
+      "scraped_at_iso": "2026-10-04T19:01:29.985025+00:00"
     },
     {
       "id": "milaap-1058602",
@@ -112,14 +112,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1790134571/production/images/campaign/1058602/f190084b-360b-4ba1-bc07-84be80912961_lbf2lg_1790134573.webp",
-      "amount_raised_inr": 8596.0,
+      "amount_raised_inr": 9347.0,
       "amount_goal_inr": 1500000.0,
       "deadline_iso": "2026-10-23",
       "days_left": 19,
       "campaign_url": "https://milaap.org/fundraisers/support-kayalvizhi-kannan-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-04T13:39:22.656259+00:00"
+      "scraped_at_iso": "2026-10-04T19:01:29.984984+00:00"
     },
     {
       "id": "milaap-1059673",
@@ -129,14 +129,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1790599188/production/images/campaign/1059673/medical_1553587798_1790409450.webp",
-      "amount_raised_inr": 7790.0,
+      "amount_raised_inr": 7916.0,
       "amount_goal_inr": 10000000.0,
       "deadline_iso": "2026-10-26",
       "days_left": 22,
       "campaign_url": "https://milaap.org/fundraisers/support-rajendra-vishwanath-patil",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-04T13:39:22.656153+00:00"
+      "scraped_at_iso": "2026-10-04T19:01:29.984896+00:00"
     },
     {
       "id": "milaap-1059862",
@@ -146,14 +146,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1790435755/production/images/campaign/1059862/medical_1553587798_1790435744.webp",
-      "amount_raised_inr": 7859.0,
+      "amount_raised_inr": 7968.0,
       "amount_goal_inr": 1500000.0,
       "deadline_iso": "2026-10-26",
       "days_left": 22,
       "campaign_url": "https://milaap.org/fundraisers/support-uday-ganapati-bhat",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-04T13:39:22.656233+00:00"
+      "scraped_at_iso": "2026-10-04T19:01:29.984963+00:00"
     },
     {
       "id": "milaap-1060090",
@@ -163,14 +163,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.2,w_0.19,x_0.19,y_0.3/c_fill,h_198,w_264/v1790497298/production/images/campaign/1060090/b19d7171-8bda-4120-aefb-16c6ff9a2e02_cpdrzo_1790497376.webp",
-      "amount_raised_inr": 6630.0,
+      "amount_raised_inr": 6719.0,
       "amount_goal_inr": 3000000.0,
       "deadline_iso": "2026-10-27",
       "days_left": 23,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-daggupati-vijaya-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-04T13:39:22.656209+00:00"
+      "scraped_at_iso": "2026-10-04T19:01:29.984945+00:00"
     },
     {
       "id": "milaap-1060179",
@@ -180,14 +180,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1790513229/production/images/campaign/1060179/medical_1553587798_1790513218.webp",
-      "amount_raised_inr": 13004.0,
+      "amount_raised_inr": 13038.0,
       "amount_goal_inr": 1656285.0,
       "deadline_iso": "2026-10-27",
       "days_left": 23,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-dipankar-sarkar-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-04T13:39:22.656095+00:00"
+      "scraped_at_iso": "2026-10-04T19:01:29.984834+00:00"
     },
     {
       "id": "milaap-1061362",
@@ -197,14 +197,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1790841523/production/images/campaign/1061362/xv7hksshaqnpjexy6vae_1790841525.webp",
-      "amount_raised_inr": 6360.0,
+      "amount_raised_inr": 6918.0,
       "amount_goal_inr": 15000000.0,
       "deadline_iso": "2026-10-31",
       "days_left": 27,
       "campaign_url": "https://milaap.org/fundraisers/support-pc-narendranath",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-04T13:39:22.656180+00:00"
+      "scraped_at_iso": "2026-10-04T19:01:29.984926+00:00"
     },
     {
       "id": "milaap-1051576",
@@ -214,14 +214,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1788205332/production/images/campaign/1051576/rn_image_picker_lib_temp_a4521dd9-ae5b-4bab-aed1-2de11e07ebde_vho44n_1788205343.webp",
-      "amount_raised_inr": 58313.0,
+      "amount_raised_inr": 58407.0,
       "amount_goal_inr": 6000000.0,
       "deadline_iso": "2026-10-31",
       "days_left": 27,
       "campaign_url": "https://milaap.org/fundraisers/support-anjana-sharma-2",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-04T13:39:22.656279+00:00"
+      "scraped_at_iso": "2026-10-04T19:01:29.985001+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -231,14 +231,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 177080150.52,
+      "amount_raised_inr": 177349769.52,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2027-01-20",
       "days_left": 108,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-04T13:39:26.731694+00:00"
+      "scraped_at_iso": "2026-10-04T19:01:32.900391+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -248,14 +248,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 86657537.51,
+      "amount_raised_inr": 86693561.67,
       "amount_goal_inr": 100000000.0,
       "deadline_iso": "2027-02-28",
       "days_left": 147,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-04T13:39:26.731727+00:00"
+      "scraped_at_iso": "2026-10-04T19:01:32.900410+00:00"
     }
   ]
 }
