@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-06T20:46:35.267131+00:00",
+  "generated_at": "2026-10-07T04:04:31.756079+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 8,
-    "givedo": 6
+    "givedo": 0
   },
   "languages": [
     "en",
@@ -17,76 +17,8 @@
     "pa",
     "ml"
   ],
-  "total": 14,
+  "total": 8,
   "campaigns": [
-    {
-      "id": "givedo-6aa125cc",
-      "source": "givedo",
-      "title": "This Pitru Paksha, be a saviour of an abandoned elderly person left to die alone",
-      "description": "For elderly people left alone in the final chapters of their lives, abandonment can mean a life of suffering on the streets. A life filled with loneliness, insecurity and fear. Our NGO partner Neptune Foundation has been a pillar of support for countless such abandoned grandparents, neglected and destitute senior citizens, helping them find something that many thought they had lost forever, a safe place to call homeThe NGO sustains its old age home through public support and is in urgent needs for donations and funds to keep the shelter going. Your donation can go a long way in giving these elderly parents the home they deserve. Donate generously!Donate easily through UPI, all debit/credit cards and net banking.Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).A home when there is nowhere else to goNeptune Foundation provides free shelter, nutritious food, healthcare, companionship and emotional support to elderly people who have been abandoned, rejected or left without the means to care for themselves. Many residents are widowed, living alone, economically vulnerable, medically fragile or have experienced neglect and abuse.Today, 41 senior citizens between the ages of 60 and 95 live at the home. They receive hygienically prepared meals, regular medical check-ups, nursing and caregiving support, recreational and spiritual activities, and a safe residential environment. Here, an elderly person is not treated as a burden. Festivals, birthdays and cultural activities bring residents together, creating companionship and a sense of togetherness and belonging. The home welcomes seniors without discrimination based on caste, religion or background.Donate to give them a life filled with dignityThe need is growing. Neptune Foundation plans to expand its facility from 41 residents to up to 200 elderly people and establish a primary health centre serving residents as well as nearby rural communities.Your donation can help provide free food, shelter, medical care and daily support to elderly grandparents who have nowhere else to turn.Help Neptune Foundation give abandoned seniors more than a roof, a loving home, dignity, companionship and care. Donate today.Donate to this fundraiser by Give, India’s most trusted online donation platform, to support Neptune Foundation, in its mission to care for abandoned elderly grandparents.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/ffc2775f-3f23-4218-b128-3795ba45ad34.webp",
-      "amount_raised_inr": 634582.0,
-      "amount_goal_inr": 5000000.0,
-      "deadline_iso": "2026-10-08",
-      "days_left": 2,
-      "campaign_url": "https://give.do/fundraisers/this-pitru-paksha-be-a-saviour-of-an-abandoned-elderly-person-left-to-die-alone",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-10-06T20:46:33.397974+00:00"
-    },
-    {
-      "id": "givedo-6835addd",
-      "source": "givedo",
-      "title": "Help visually impaired Shivaprakash give 40 blind girls shelter, education and care",
-      "description": "At the age of 8, Shivaprakash lost his vision. But what could have become a life of despair became something else entirely. Shivaprakash went on to complete his Master’s degree and eventually founded the Divya Jyothi Charitable Trust, an organisation born out of personal struggle and driven by a powerful mission, to educate and empower blind girls, who are among the most neglected and marginalised in society.In many families, blind daughters are hidden away, seen as a burden, and in some cases, even as a curse. They are denied the right to dream, grow, or be independent. At Divya Jyothi, Shivaprakash is changing that narrative. Your support can ensure that no blind girl is left behind simply because of her disability. Donate today to help them stand tall, proud, and self-reliant. Donate nowDonate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).Education is survivalIn communities where gender and disability intersect, blind girls face deep-rooted prejudice and extreme isolation. Many are denied even basic schooling and are left dependent on family members for the rest of their lives. Recognising this, Divya Jyothi began with a simple yet radical step: to provide blind girls with computer training so they could access the digital world and open doors to employment.But the journey didn’t stop there. The NGO went on to launch a braille transcription centre, ensuring girls have access to learning materials that suit their needs. As Shivaprakash says, “Without education, no one can do anything. That's why education is even more important for blind girls.” Education isn’t just about literacy, it’s about self-worth, decision-making, mobility, and freedom. It’s about giving these girls the same right to participate in society that sighted individuals often take for granted.From rejection to respectIn a country where blind girls are often treated as liabilities, Divya Jyothi is rewriting their futures. Over 1,000 girls have graduated from the Trust’s training centres. Many of them come from families that had almost given up on them. Today, these same girls are government employees, corporate professionals, and role models in their communities.More than 200 graduates have secured jobs in the public sector. Over 300 are now employed in private companies. Every success story is proof that with the right support, blind girls don’t just survive, they thrive. “Most girls are neglected by their families. This is a major challenge for them,” says Shivaprakash. By providing them with skills and confidence, Divya Jyothi is turning neglect into empowerment and helplessness into hope.Donate to help 40 blind girls find independenceAlmost 40 girls are currently enrolled and will directly benefit from your support. These are girls with potential, courage, and ambition—but they lack the resources to pursue an independent life. “I request each one to come forward and donate to help blind girls lead independent lives in society,” urges Shivaprakash.Help Divya Jyothi Charitable Trust break the cycle of neglect. Your donation can give a blind girl her first lesson, her first job, and a life of dignity.Donate to this fundraiser by Give, India’s most trusted online donation platform, to support Divya Jyothi Charitable Trust in its mission to shelter and educate neglected and abandoned blind girls.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/04cef85a-b87c-43bf-8088-3e8de6c14a74.webp",
-      "amount_raised_inr": 4612251.0,
-      "amount_goal_inr": 5000000.0,
-      "deadline_iso": "2026-10-08",
-      "days_left": 2,
-      "campaign_url": "https://give.do/fundraisers/help-visually-impaired-shivaprakash-give-40-blind-girls-shelter-education-and-care",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-10-06T20:46:33.397953+00:00"
-    },
-    {
-      "id": "givedo-6aa13504",
-      "source": "givedo",
-      "title": "This Pitru Paksha, help feed warm meals to abandoned elderly and the destitute",
-      "description": "For thousands of elderly people, homeless individuals, daily-wage workers and vulnerable families, hunger is not an occasional hardship, it is a daily reality. Danirasa Foundation’s with the help of kind supporters and donors is quietly changing this reality for hundreds each day. Your donation provides a warm meal to an elderly grandparent who has no other means to survive. At ₹25 per meal, your donation of ₹1,250 can provide a meal each for 50 elders. Donate Now.Donate easily through UPI, all debit/credit cards and net banking.Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).From one crisis to a mission against hungerDanirasa Foundation’s journey began during the devastating 2015 Chennai floods. Founder Indu Priya witnessed families, especially women and children, struggling with displacement and hunger. She and her team mobilised volunteers to cook and distribute hot meals. What began as an emergency response became a lasting commitment to ensuring vulnerable communities have access to food with dignity and care.Today, Danirasa’s Community Kitchen serves around 4,900 people through this programme. The meals reach elderly residents in old-age homes, children from underserved communities, rehabilitation centres, homeless people, daily-wage workers and others facing food insecurity.A meal can mean so much moreFor an elderly person living without family support, a nutritious meal can bring comfort. For someone surviving on irregular daily wages, it can mean one less worry. For a vulnerable child, it can provide the nourishment needed to learn and grow.But feeding thousands of people every day requires a steady supply of ingredients, cooking, packaging, transportation and dedicated people.Help serve a meal with dignityYour donation can help Danirasa continue providing nutritious meals to homeless and elderly people, children, workers, persons with disabilities and families struggling to make ends meet.Help Danirasa ensure that no vulnerable person has to face the day with an empty stomach. Donate today.Donate to this fundraiser by give.do, India’s most trusted online donation platform, to support Danirasa Foundation, in its mission to feed helpless elderly and destitute people, who have no means of survival.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/e8fc8829-0bd7-495b-a052-78d91feb9736.webp",
-      "amount_raised_inr": 6164587.0,
-      "amount_goal_inr": 20000000.0,
-      "deadline_iso": "2026-10-09",
-      "days_left": 3,
-      "campaign_url": "https://give.do/fundraisers/this-pitru-paksha-help-feed-warm-meals-to-abandoned-elderly-and-the-destitute",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-10-06T20:46:33.397909+00:00"
-    },
-    {
-      "id": "givedo-647705ad",
-      "source": "givedo",
-      "title": "Help Maitri provide shelter and care to abandoned widow mothers",
-      "description": "In Vrindavan, thousands of elderly widow mothers face the harsh reality of abandonment and suffering. With no one to turn to, many are left begging on the streets, exposed to heat, cold and rain,Donate so that Maitri can provide shelter, food, clothes and medical support to abandoned elderly mothers now. Give generously.Lt Gen (Retd) Bhopinder Singn and his wife Winnie Singh and have witnessed many cases of widow mothers being abandoned on the streets of Vrindavan, one of the holiest places in India. “Children leave their mothers as soon as they become widows. The children start feeling the burden. This has become a practice in today's society that money comes first and everything else later,” says Winnie whose Maitri India, rescues widowed mothers from the streets of Vrindavan.Many widowed elderly mothers often end up living a lonely life and begging to survive on the streets. And Maitri aspires to take care of every widow in need of help, but because of lack of funds, Winnie and Maitri are in a position to do it. Gen Bhopinder Singh is like a brother to many widow mothers.\"Elderly widows don't have shelter. They sleep in cowsheds over sacks. They don't have a blanket. Nights are really difficult for them,\" shares Gen Bhopinder Singh.Maitri aims to:Provide shelter and nutritious meals leading to improved health and wellbeingMake physical and mental health services accessibleOffer necessary quality aged care and assisted living supportIncrease awareness and engagement around the struggles of abandoned widow mothersWhy donate to MaitriWinnie needs your support to help those in need of food, healthcare and well-being. “Maitri urgently needs your support to provide nutritious food, clothing and healthcare to sustain these widow mothers who are prone to more illnesses as they age,” appeals Winnie. “You can become the family they were denied. Hold their hands so they don't need to beg ever again,” says Gen Bhopinder Singh. Let’s rescue abandoned widows mothers from the streets of Vrindavan and give them a better future. Donate now.Our help will enable Maitri to save hundreds of abandoned widows from a life of begging, and restore the respect, dignity, and identity they deserve.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/8ad7bc44-2017-4c74-b51c-7a63892467e8.webp",
-      "amount_raised_inr": 27926122.0,
-      "amount_goal_inr": 40000000.0,
-      "deadline_iso": "2026-10-10",
-      "days_left": 4,
-      "campaign_url": "https://give.do/fundraisers/help-maitri-provide-shelter-and-care-to-abandoned-widow-mothers",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-10-06T20:46:33.397993+00:00"
-    },
     {
       "id": "milaap-1058602",
       "source": "milaap",
@@ -95,14 +27,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1790134571/production/images/campaign/1058602/f190084b-360b-4ba1-bc07-84be80912961_lbf2lg_1790134573.webp",
-      "amount_raised_inr": 9917.0,
+      "amount_raised_inr": 9934.0,
       "amount_goal_inr": 1500000.0,
       "deadline_iso": "2026-10-23",
-      "days_left": 17,
+      "days_left": 16,
       "campaign_url": "https://milaap.org/fundraisers/support-kayalvizhi-kannan-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-06T20:46:30.260547+00:00"
+      "scraped_at_iso": "2026-10-07T04:02:59.690813+00:00"
     },
     {
       "id": "milaap-1059673",
@@ -112,31 +44,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1790599188/production/images/campaign/1059673/medical_1553587798_1790409450.webp",
-      "amount_raised_inr": 9902.0,
+      "amount_raised_inr": 9903.0,
       "amount_goal_inr": 10000000.0,
       "deadline_iso": "2026-10-26",
-      "days_left": 20,
+      "days_left": 19,
       "campaign_url": "https://milaap.org/fundraisers/support-rajendra-vishwanath-patil",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-06T20:46:30.260515+00:00"
-    },
-    {
-      "id": "milaap-1060090",
-      "source": "milaap",
-      "title": "Help my little brother fight for his life — every rupee counts",
-      "description": "I am raising funds for my 14-year-old brother, who is currently receiving treatment in ICU in yashoda hospital secundera...",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.2,w_0.19,x_0.19,y_0.3/c_fill,h_198,w_264/v1790497298/production/images/campaign/1060090/b19d7171-8bda-4120-aefb-16c6ff9a2e02_cpdrzo_1790497376.webp",
-      "amount_raised_inr": 7303.0,
-      "amount_goal_inr": 3000000.0,
-      "deadline_iso": "2026-10-27",
-      "days_left": 21,
-      "campaign_url": "https://milaap.org/fundraisers/support-child-of-daggupati-vijaya-1",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-10-06T20:46:30.260529+00:00"
+      "scraped_at_iso": "2026-10-07T04:02:59.690789+00:00"
     },
     {
       "id": "milaap-1060179",
@@ -149,11 +64,11 @@
       "amount_raised_inr": 13502.0,
       "amount_goal_inr": 1656285.0,
       "deadline_iso": "2026-10-27",
-      "days_left": 21,
+      "days_left": 20,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-dipankar-sarkar-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-06T20:46:30.260481+00:00"
+      "scraped_at_iso": "2026-10-07T04:02:59.690758+00:00"
     },
     {
       "id": "milaap-1061362",
@@ -163,14 +78,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1790841523/production/images/campaign/1061362/xv7hksshaqnpjexy6vae_1790841525.webp",
-      "amount_raised_inr": 8139.0,
+      "amount_raised_inr": 8140.0,
       "amount_goal_inr": 15000000.0,
       "deadline_iso": "2026-10-31",
-      "days_left": 25,
+      "days_left": 24,
       "campaign_url": "https://milaap.org/fundraisers/support-pc-narendranath",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-06T20:46:30.260463+00:00"
+      "scraped_at_iso": "2026-10-07T04:02:59.690689+00:00"
     },
     {
       "id": "milaap-1061776",
@@ -180,14 +95,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1790937724/production/images/campaign/1061776/medical_1553587798_1790937723.webp",
-      "amount_raised_inr": 21255.0,
+      "amount_raised_inr": 21369.0,
       "amount_goal_inr": 12000000.0,
       "deadline_iso": "2026-11-01",
-      "days_left": 26,
+      "days_left": 25,
       "campaign_url": "https://milaap.org/fundraisers/support-tannu-priya-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-06T20:46:30.260437+00:00"
+      "scraped_at_iso": "2026-10-07T04:02:59.690647+00:00"
     },
     {
       "id": "milaap-1061819",
@@ -197,14 +112,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1790945345/production/images/campaign/1061819/medical_1553587798_1790945333.webp",
-      "amount_raised_inr": 6351.0,
+      "amount_raised_inr": 6474.0,
       "amount_goal_inr": 2000000.0,
       "deadline_iso": "2026-11-01",
-      "days_left": 26,
+      "days_left": 25,
       "campaign_url": "https://milaap.org/fundraisers/support-shermohmad-makrani",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-06T20:46:30.260496+00:00"
+      "scraped_at_iso": "2026-10-07T04:02:59.690718+00:00"
+    },
+    {
+      "id": "milaap-1062635",
+      "source": "milaap",
+      "title": "Help a 1-year-old recover from a tragic fall & brain injury",
+      "description": "On 24 September 2026, 13-month-old child of Prakash D G  fell from the first floor of his home. He was rushed to Bangalo...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.18,w_0.1,x_0.46,y_0.27/c_fill,h_198,w_264/v1791183222/production/images/campaign/1062635/Cover_Photo_Family_uvnjip_1791183223.webp",
+      "amount_raised_inr": 4339.0,
+      "amount_goal_inr": 800000.0,
+      "deadline_iso": "2026-11-04",
+      "days_left": 28,
+      "campaign_url": "https://milaap.org/fundraisers/support-child-of-prakash-d-g",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-10-07T04:02:59.690842+00:00"
     },
     {
       "id": "milaap-1019986",
@@ -214,48 +146,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1791221580/production/images/campaign/1019986/1-cover-reading_da2yfk_1791221581.webp",
-      "amount_raised_inr": 86037.0,
+      "amount_raised_inr": 86042.0,
       "amount_goal_inr": 9000000.0,
       "deadline_iso": "2026-12-31",
-      "days_left": 86,
+      "days_left": 85,
       "campaign_url": "https://milaap.org/fundraisers/support-dhrupad-rishav",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-06T20:46:30.260389+00:00"
-    },
-    {
-      "id": "givedo-67dbbf7b",
-      "source": "givedo",
-      "title": "Help abandoned elderly with shelter and care",
-      "description": "Every day, elderly parents are left alone on the streets, at train stations, or even outside temples. Many are sick, struggling with age-related problems, and have no money or family to turn to. Some suffer for weeks or months before anyone notices their pain. The heartbreaking truth? They were abandoned by their own families.Although Indian law requires children and relatives to care for senior citizens, many elders still face neglect, abuse, and abandonment. The problem is only getting worse.But there is hope. Our dedicated NGO partners work day and night to rescue these forgotten elders. They provide safe shelter, medical care, nutritious meals, and most importantly—love and respect. Through old age homes across the country, our partners give these seniors a chance to live their remaining years with dignity, comfort, and peace.You can make a difference. Your donation will help our NGO partners:Rescue homeless elders from the streetsProvide shelter, food, and medical careRestore their faith in humanity with kindness and supportNo elder should spend their final years alone and suffering. Your generosity can give them a fresh start. Donate today and help an abandoned senior citizen find safety, care, and hope.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 179108243.58,
-      "amount_goal_inr": 69000000.0,
-      "deadline_iso": "2027-01-20",
-      "days_left": 106,
-      "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-10-06T20:46:33.397859+00:00"
-    },
-    {
-      "id": "givedo-68396073",
-      "source": "givedo",
-      "title": "Help Disabled Children with Shelter & Care",
-      "description": "I am fundraising for a cause close to my heart, to bring a lasting change in the lives of the underprivileged. To help me create more impact and touch more lives, I need your support and contribution. Please back my fundraiser so that together we can build a better India for all of us. Pledge your support, donate now!",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 86969877.3,
-      "amount_goal_inr": 100000000.0,
-      "deadline_iso": "2027-02-28",
-      "days_left": 145,
-      "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-10-06T20:46:33.397879+00:00"
+      "scraped_at_iso": "2026-10-07T04:02:59.690572+00:00"
     }
   ]
 }
