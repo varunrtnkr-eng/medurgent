@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-08T21:00:42.731852+00:00",
+  "generated_at": "2026-10-09T04:21:31.890229+00:00",
   "sources": {
     "ketto": 0,
-    "milaap": 8,
+    "milaap": 9,
     "givedo": 6
   },
   "languages": [
@@ -17,42 +17,8 @@
     "pa",
     "ml"
   ],
-  "total": 13,
+  "total": 14,
   "campaigns": [
-    {
-      "id": "givedo-68f25b24",
-      "source": "givedo",
-      "title": "Help Leena in saving girls from being lost forever in red-light areas",
-      "description": "\"Hundreds of young girls are lost forever in the dark lanes of red-light areas,\" says Leena Kejriwal, the founder of Missing Link Trust. These girls endure unimaginable abuse and exploitation, being lured or trafficked into an industry that breaks them physically and emotionally. Missing Link Trust is on a mission to prevent the tragedy before it happens, and also rehabilitate girls and women who are rescued from forced sex work.Leena’s journey began with her powerful street art project in Kolkata, where she painted haunting silhouettes of missing girls to raise awareness against sex trafficking. Now, she leads a larger fight — one that focuses on prevention and rehabilitation. But this mission needs your support.You can save countless girl children from going missing forever. Donate now.Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).Preventing Trafficking Before It Begins“When girls come into a red-light area, the first thing is that they are broken, physically and emotionally,” Leena says. “It’s like they will be caught, hands and legs tied, and all heinous crimes committed on them.” These are the brutal realities that Missing Link Trust fights against every day.Many of these girls are from impoverished regions like the Sundarbans, and traffickers prey on their vulnerability. “It’s shocking that they sell themselves for as low as a hundred rupees,” Leena adds. \"They ready her through violent acts, removing all threads of shame from her.\"But why wait until a girl is trafficked to save her? Missing Link Trust believes in stopping trafficking at its root — through “prevention, prevention, prevention” as Leena puts it. The goal is simple: protect girls from ever being lost to this darkness.A Safe World for Children“Our mission is the prevention of abuse and exploitation of children,” Leena emphasizes. “Our vision is to create a safe world for children, and we want to do this with a preventive methodology.”Every Donation MattersYour support will help Missing Link Trust continue its vital work of rescuing, rehabilitating, and preventing the trafficking of young girls. The funds raised will go directly towards:Prevention programs in vulnerable areas to stop trafficking before it happens.Rehabilitation services for girls rescued from red-light areas, providing them with medical care, emotional support, and education.Awareness campaigns to reach at-risk communities and ensure girls are protected from traffickers.Together, We Can Make a Difference“Why wait for a girl to get trafficked to save her?” asks Leena. With your help, we can stop this horror before it begins. Your donation will help us create a world where no girl is lost to the nightmare of trafficking.Donate to this fundraiser by Give, India’s largest and most trusted online giving platform, to support Missing Link Trust to save young girls from being trafficked and help rehabilitate those rescued.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/3d8552de-9a0a-41b0-878a-470ec88157d8.webp",
-      "amount_raised_inr": 4291038.0,
-      "amount_goal_inr": 10000000.0,
-      "deadline_iso": "2026-10-10",
-      "days_left": 2,
-      "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-10-08T21:00:40.910812+00:00"
-    },
-    {
-      "id": "givedo-6aa125cc",
-      "source": "givedo",
-      "title": "This Pitru Paksha, be a saviour of an abandoned elderly person left to die alone",
-      "description": "For elderly people left alone in the final chapters of their lives, abandonment can mean a life of suffering on the streets. A life filled with loneliness, insecurity and fear. Our NGO partner Neptune Foundation has been a pillar of support for countless such abandoned grandparents, neglected and destitute senior citizens, helping them find something that many thought they had lost forever, a safe place to call homeThe NGO sustains its old age home through public support and is in urgent needs for donations and funds to keep the shelter going. Your donation can go a long way in giving these elderly parents the home they deserve. Donate generously!Donate easily through UPI, all debit/credit cards and net banking.Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).A home when there is nowhere else to goNeptune Foundation provides free shelter, nutritious food, healthcare, companionship and emotional support to elderly people who have been abandoned, rejected or left without the means to care for themselves. Many residents are widowed, living alone, economically vulnerable, medically fragile or have experienced neglect and abuse.Today, 41 senior citizens between the ages of 60 and 95 live at the home. They receive hygienically prepared meals, regular medical check-ups, nursing and caregiving support, recreational and spiritual activities, and a safe residential environment. Here, an elderly person is not treated as a burden. Festivals, birthdays and cultural activities bring residents together, creating companionship and a sense of togetherness and belonging. The home welcomes seniors without discrimination based on caste, religion or background.Donate to give them a life filled with dignityThe need is growing. Neptune Foundation plans to expand its facility from 41 residents to up to 200 elderly people and establish a primary health centre serving residents as well as nearby rural communities.Your donation can help provide free food, shelter, medical care and daily support to elderly grandparents who have nowhere else to turn.Help Neptune Foundation give abandoned seniors more than a roof, a loving home, dignity, companionship and care. Donate today.Donate to this fundraiser by Give, India’s most trusted online donation platform, to support Neptune Foundation, in its mission to care for abandoned elderly grandparents.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/ffc2775f-3f23-4218-b128-3795ba45ad34.webp",
-      "amount_raised_inr": 706352.0,
-      "amount_goal_inr": 5000000.0,
-      "deadline_iso": "2026-10-10",
-      "days_left": 2,
-      "campaign_url": "https://give.do/fundraisers/this-pitru-paksha-be-a-saviour-of-an-abandoned-elderly-person-left-to-die-alone",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-10-08T21:00:40.910772+00:00"
-    },
     {
       "id": "givedo-6aa13504",
       "source": "givedo",
@@ -61,14 +27,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/e8fc8829-0bd7-495b-a052-78d91feb9736.webp",
-      "amount_raised_inr": 6713895.0,
+      "amount_raised_inr": 6763996.0,
       "amount_goal_inr": 20000000.0,
       "deadline_iso": "2026-10-12",
-      "days_left": 4,
+      "days_left": 3,
       "campaign_url": "https://give.do/fundraisers/this-pitru-paksha-help-feed-warm-meals-to-abandoned-elderly-and-the-destitute",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-08T21:00:40.910755+00:00"
+      "scraped_at_iso": "2026-10-09T04:21:30.155032+00:00"
+    },
+    {
+      "id": "givedo-68f25b24",
+      "source": "givedo",
+      "title": "Help Leena in saving girls from being lost forever in red-light areas",
+      "description": "\"Hundreds of young girls are lost forever in the dark lanes of red-light areas,\" says Leena Kejriwal, the founder of Missing Link Trust. These girls endure unimaginable abuse and exploitation, being lured or trafficked into an industry that breaks them physically and emotionally. Missing Link Trust is on a mission to prevent the tragedy before it happens, and also rehabilitate girls and women who are rescued from forced sex work.Leena’s journey began with her powerful street art project in Kolkata, where she painted haunting silhouettes of missing girls to raise awareness against sex trafficking. Now, she leads a larger fight — one that focuses on prevention and rehabilitation. But this mission needs your support.You can save countless girl children from going missing forever. Donate now.Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).Preventing Trafficking Before It Begins“When girls come into a red-light area, the first thing is that they are broken, physically and emotionally,” Leena says. “It’s like they will be caught, hands and legs tied, and all heinous crimes committed on them.” These are the brutal realities that Missing Link Trust fights against every day.Many of these girls are from impoverished regions like the Sundarbans, and traffickers prey on their vulnerability. “It’s shocking that they sell themselves for as low as a hundred rupees,” Leena adds. \"They ready her through violent acts, removing all threads of shame from her.\"But why wait until a girl is trafficked to save her? Missing Link Trust believes in stopping trafficking at its root — through “prevention, prevention, prevention” as Leena puts it. The goal is simple: protect girls from ever being lost to this darkness.A Safe World for Children“Our mission is the prevention of abuse and exploitation of children,” Leena emphasizes. “Our vision is to create a safe world for children, and we want to do this with a preventive methodology.”Every Donation MattersYour support will help Missing Link Trust continue its vital work of rescuing, rehabilitating, and preventing the trafficking of young girls. The funds raised will go directly towards:Prevention programs in vulnerable areas to stop trafficking before it happens.Rehabilitation services for girls rescued from red-light areas, providing them with medical care, emotional support, and education.Awareness campaigns to reach at-risk communities and ensure girls are protected from traffickers.Together, We Can Make a Difference“Why wait for a girl to get trafficked to save her?” asks Leena. With your help, we can stop this horror before it begins. Your donation will help us create a world where no girl is lost to the nightmare of trafficking.Donate to this fundraiser by Give, India’s largest and most trusted online giving platform, to support Missing Link Trust to save young girls from being trafficked and help rehabilitate those rescued.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/3d8552de-9a0a-41b0-878a-470ec88157d8.webp",
+      "amount_raised_inr": 4293038.0,
+      "amount_goal_inr": 10000000.0,
+      "deadline_iso": "2026-10-13",
+      "days_left": 4,
+      "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-10-09T04:21:30.155083+00:00"
     },
     {
       "id": "givedo-6835addd",
@@ -78,14 +61,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/04cef85a-b87c-43bf-8088-3e8de6c14a74.webp",
-      "amount_raised_inr": 4663279.0,
+      "amount_raised_inr": 4682129.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-10-14",
-      "days_left": 6,
+      "days_left": 5,
       "campaign_url": "https://give.do/fundraisers/help-visually-impaired-shivaprakash-give-40-blind-girls-shelter-education-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-08T21:00:40.910790+00:00"
+      "scraped_at_iso": "2026-10-09T04:21:30.155064+00:00"
+    },
+    {
+      "id": "givedo-6aa125cc",
+      "source": "givedo",
+      "title": "This Pitru Paksha, be a saviour of an abandoned elderly person left to die alone",
+      "description": "For elderly people left alone in the final chapters of their lives, abandonment can mean a life of suffering on the streets. A life filled with loneliness, insecurity and fear. Our NGO partner Neptune Foundation has been a pillar of support for countless such abandoned grandparents, neglected and destitute senior citizens, helping them find something that many thought they had lost forever, a safe place to call homeThe NGO sustains its old age home through public support and is in urgent needs for donations and funds to keep the shelter going. Your donation can go a long way in giving these elderly parents the home they deserve. Donate generously!Donate easily through UPI, all debit/credit cards and net banking.Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).A home when there is nowhere else to goNeptune Foundation provides free shelter, nutritious food, healthcare, companionship and emotional support to elderly people who have been abandoned, rejected or left without the means to care for themselves. Many residents are widowed, living alone, economically vulnerable, medically fragile or have experienced neglect and abuse.Today, 41 senior citizens between the ages of 60 and 95 live at the home. They receive hygienically prepared meals, regular medical check-ups, nursing and caregiving support, recreational and spiritual activities, and a safe residential environment. Here, an elderly person is not treated as a burden. Festivals, birthdays and cultural activities bring residents together, creating companionship and a sense of togetherness and belonging. The home welcomes seniors without discrimination based on caste, religion or background.Donate to give them a life filled with dignityThe need is growing. Neptune Foundation plans to expand its facility from 41 residents to up to 200 elderly people and establish a primary health centre serving residents as well as nearby rural communities.Your donation can help provide free food, shelter, medical care and daily support to elderly grandparents who have nowhere else to turn.Help Neptune Foundation give abandoned seniors more than a roof, a loving home, dignity, companionship and care. Donate today.Donate to this fundraiser by Give, India’s most trusted online donation platform, to support Neptune Foundation, in its mission to care for abandoned elderly grandparents.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/ffc2775f-3f23-4218-b128-3795ba45ad34.webp",
+      "amount_raised_inr": 707453.0,
+      "amount_goal_inr": 5000000.0,
+      "deadline_iso": "2026-10-15",
+      "days_left": 6,
+      "campaign_url": "https://give.do/fundraisers/this-pitru-paksha-be-a-saviour-of-an-abandoned-elderly-person-left-to-die-alone",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-10-09T04:21:30.155048+00:00"
     },
     {
       "id": "milaap-1061362",
@@ -95,14 +95,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1790841523/production/images/campaign/1061362/xv7hksshaqnpjexy6vae_1790841525.webp",
-      "amount_raised_inr": 8406.0,
+      "amount_raised_inr": 8433.0,
       "amount_goal_inr": 15000000.0,
       "deadline_iso": "2026-10-31",
-      "days_left": 23,
+      "days_left": 22,
       "campaign_url": "https://milaap.org/fundraisers/support-pc-narendranath",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-08T21:00:37.786506+00:00"
+      "scraped_at_iso": "2026-10-09T04:21:27.320114+00:00"
     },
     {
       "id": "milaap-1061776",
@@ -112,14 +112,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1790937724/production/images/campaign/1061776/medical_1553587798_1790937723.webp",
-      "amount_raised_inr": 21910.0,
+      "amount_raised_inr": 21923.0,
       "amount_goal_inr": 3500000.0,
       "deadline_iso": "2026-11-01",
-      "days_left": 24,
+      "days_left": 23,
       "campaign_url": "https://milaap.org/fundraisers/support-tannu-priya-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-08T21:00:37.786390+00:00"
+      "scraped_at_iso": "2026-10-09T04:21:27.320030+00:00"
     },
     {
       "id": "milaap-1061819",
@@ -129,14 +129,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1790945345/production/images/campaign/1061819/medical_1553587798_1790945333.webp",
-      "amount_raised_inr": 7116.0,
+      "amount_raised_inr": 7304.0,
       "amount_goal_inr": 2000000.0,
       "deadline_iso": "2026-11-01",
-      "days_left": 24,
+      "days_left": 23,
       "campaign_url": "https://milaap.org/fundraisers/support-shermohmad-makrani",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-08T21:00:37.786490+00:00"
+      "scraped_at_iso": "2026-10-09T04:21:27.320099+00:00"
+    },
+    {
+      "id": "milaap-1062471",
+      "source": "milaap",
+      "title": "Help Neha fight a critical brain injury — miracles happen!",
+      "description": "Neha Sharma is a former NDTV Producer and has also worked as a Senior Correspondent & Producer with the NHK Delhi Bureau...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1791122656/production/images/campaign/1062471/bz7hkpje2e3ixurnpab3_1791122657.webp",
+      "amount_raised_inr": 4973.0,
+      "amount_goal_inr": 5000000.0,
+      "deadline_iso": "2026-11-03",
+      "days_left": 25,
+      "campaign_url": "https://milaap.org/fundraisers/support-neha-sharma-34",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-10-09T04:21:27.320124+00:00"
     },
     {
       "id": "milaap-1063088",
@@ -146,14 +163,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1791297565/production/images/campaign/1063088/WhatsApp_Image_2026-10-06_at_8.07.26_PM_gi1jrg_1791297587.webp",
-      "amount_raised_inr": 8257.0,
+      "amount_raised_inr": 8339.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-11-05",
-      "days_left": 28,
+      "days_left": 27,
       "campaign_url": "https://milaap.org/fundraisers/support-ritesh-batra",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-08T21:00:37.786458+00:00"
+      "scraped_at_iso": "2026-10-09T04:21:27.320075+00:00"
     },
     {
       "id": "milaap-1063215",
@@ -163,14 +180,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1791363420/production/images/campaign/1063215/temp_file_20261007_142659_vhuhw1_1791363422.webp",
-      "amount_raised_inr": 8506.0,
+      "amount_raised_inr": 8551.0,
       "amount_goal_inr": 2000000.0,
       "deadline_iso": "2026-11-06",
-      "days_left": 29,
+      "days_left": 28,
       "campaign_url": "https://milaap.org/fundraisers/support-mr-pulkit-mohan",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-08T21:00:37.786440+00:00"
+      "scraped_at_iso": "2026-10-09T04:21:27.320064+00:00"
     },
     {
       "id": "milaap-1019986",
@@ -180,14 +197,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1791221580/production/images/campaign/1019986/1-cover-reading_da2yfk_1791221581.webp",
-      "amount_raised_inr": 86196.0,
+      "amount_raised_inr": 86229.0,
       "amount_goal_inr": 9000000.0,
       "deadline_iso": "2026-12-31",
-      "days_left": 84,
+      "days_left": 83,
       "campaign_url": "https://milaap.org/fundraisers/support-dhrupad-rishav",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-08T21:00:37.786311+00:00"
+      "scraped_at_iso": "2026-10-09T04:21:27.319985+00:00"
     },
     {
       "id": "milaap-1061778",
@@ -197,14 +214,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1791305958/production/images/campaign/1061778/57660_sehyxj_1791305959.webp",
-      "amount_raised_inr": 10683.0,
+      "amount_raised_inr": 11043.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-12-31",
-      "days_left": 84,
+      "days_left": 83,
       "campaign_url": "https://milaap.org/fundraisers/support-madhumita-debnath",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-08T21:00:37.786421+00:00"
+      "scraped_at_iso": "2026-10-09T04:21:27.320051+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -214,14 +231,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 180486725.27,
+      "amount_raised_inr": 180679280.23,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2027-01-20",
-      "days_left": 104,
+      "days_left": 103,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-08T21:00:40.910711+00:00"
+      "scraped_at_iso": "2026-10-09T04:21:30.154984+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -231,14 +248,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 87266308.01,
+      "amount_raised_inr": 87309619.01,
       "amount_goal_inr": 100000000.0,
       "deadline_iso": "2027-02-28",
-      "days_left": 143,
+      "days_left": 142,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-08T21:00:40.910728+00:00"
+      "scraped_at_iso": "2026-10-09T04:21:30.155002+00:00"
     }
   ]
 }
