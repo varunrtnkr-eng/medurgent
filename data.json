@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-10T23:10:48.039809+00:00",
+  "generated_at": "2026-10-11T03:42:20.160653+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 9,
-    "givedo": 6
+    "givedo": 10
   },
   "languages": [
     "en",
@@ -17,7 +17,7 @@
     "pa",
     "ml"
   ],
-  "total": 14,
+  "total": 18,
   "campaigns": [
     {
       "id": "givedo-68f25b24",
@@ -27,14 +27,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/3d8552de-9a0a-41b0-878a-470ec88157d8.webp",
-      "amount_raised_inr": 4364725.0,
+      "amount_raised_inr": 4367525.0,
       "amount_goal_inr": 10000000.0,
       "deadline_iso": "2026-10-13",
-      "days_left": 3,
+      "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-10T23:10:46.520152+00:00"
+      "scraped_at_iso": "2026-10-11T03:42:17.805070+00:00"
+    },
+    {
+      "id": "givedo-65094410",
+      "source": "givedo",
+      "title": "Help Chitra save disabled children from poor families from a life of neglect and abuse",
+      "description": "Chitra Shah noticed that a patient with disabilities had missed several of her appointments with a psychologist, where she worked. Determined to find out why, Chitra went to the girl’s house which was located near a garbage dump, and she found the house locked. But she kept hearing noises from within the house. Looking inside, she found the missing patient tied to a chair and covered in her own urine and waste. The patient was a young girl with Down’s Syndrome and because of her disability; she was locked up every day and suffered in silence. This incident led Chitra Shah to establish Satya Special School in 2003. Since then, she has provided thousands of special needs children with therapies, education and vocational skills training to live their lives with dignity and respect. Many children with disabilities are abandoned because of their disabilities. Satya Special School believes in empowering disabled children and helping them stand on their own independently so they never have to be shunned, humiliated and abused because of their disabilities. Your support can help children with disabilities receive therapy and education. Donate now.Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India), &amp; 501(c)(3) of the Internal Revenue Code (USA). Place of rehabilitation and transformation For 20 years, Satya Special School has been working with special-needs children in 10 centres located in rural and urban Puducherry. The centres have trained teachers and physical therapists who work with the children to identify their special needs and develop physical and educational programs to help them be integrated into mainstream life. The children are provided with multiple therapies such as physiotherapy, hydrotherapy, speech therapy, art therapy and more to improve their physical condition and help them function independently. The school also provides the children with specialized educational support to help them integrate into mainstream schools. This School Readiness Program includes one-on-one special education, activity-based learning, visual media learning and more. Satya Special School is also equipped with facilities such as a sensory walkway, an outdoor inclusive disabled-friendly play park, a wheelchair accessible vehicle and many more facilities to assist children with physical disabilities.Need for the fundraiserThe work of Satya Special School is making an impact in the lives of the children, many of whom have learned to function independently, been enrolled in mainstream schools and secured employment. But the school is in desperate need of funds to afford rehabilitation equipment such as walkers and standing frames, custom made shoes for people with disabilities and other therapeutic interventions. Your support will help the special needs children continue to have access to the tools, resources and therapies that make their lives better and give them a chance to have self-reliant and hopeful lives.The parents and guardians of the children were previously in despair regarding their children’s helplessness but because of Satya Special School, they are watching their children grow into independent and capable individuals who work towards their dreams for the future. The stigma, discrimination and abuse of disabled children is widespread, and many special-needs children are abandoned by their own families. But ”we transform their lives through building their abilities” , shares Chitra Shah, the founder of Satya Special School. Donate to this fundraiser by Give, India’s largest online donation platform, to support Satya Special School in their mission to provide multiple therapies, rehabilitation, academic support and future job readiness skills to 61 special needs children.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/08165cbd-96ba-401a-9acc-5d0edaa6764a.webp",
+      "amount_raised_inr": 4517518.0,
+      "amount_goal_inr": 5000000.0,
+      "deadline_iso": "2026-10-13",
+      "days_left": 2,
+      "campaign_url": "https://give.do/fundraisers/help-chitra-save-disabled-children-from-poor-families-from-a-life-of-neglect-and-abuse",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-10-11T03:42:17.805218+00:00"
     },
     {
       "id": "givedo-6aa13504",
@@ -44,14 +61,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/e8fc8829-0bd7-495b-a052-78d91feb9736.webp",
-      "amount_raised_inr": 9112586.0,
+      "amount_raised_inr": 9120586.0,
       "amount_goal_inr": 20000000.0,
       "deadline_iso": "2026-10-14",
-      "days_left": 4,
+      "days_left": 3,
       "campaign_url": "https://give.do/fundraisers/help-feed-warm-meals-to-abandoned-elderly-and-the-destitute",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-10T23:10:46.520095+00:00"
+      "scraped_at_iso": "2026-10-11T03:42:17.805031+00:00"
+    },
+    {
+      "id": "givedo-6aa29e84",
+      "source": "givedo",
+      "title": "Help Vidyaranya give abandoned elderly a home, care and dignity",
+      "description": "At 63, Ramaswamy had lost his home and the support of the children he had spent his life caring for. When he finally reached Vidyaranya, an old age home, he found something he had almost lost hope of finding again, a place where he could belong. Today, Ramaswamy sits with friends, shares his memories over a cup of tea and finds comfort in a community that cares for him. Vidyaranya is now a home for Ramaswamy and 50 elderly grandparents. Our NGO partner, Vidyaranya, is on a mission to rescue the abandoned elderly from a life of pain, and give them shelter and care.Sadly, the NGO is in dire need of funds to keep its old-age home going. Donate now to save elderly grandparents from becoming homeless again. Donate Now.Donate easily through UPI, all debit/credit cards and net banking.Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).When old age brings loneliness instead of comfortFor many senior citizens, their twilight years can become a time of abandonment, poverty and neglect. Some are left by their children, some have no family support, while others are widowed, unmarried or have faced abuse and difficult family circumstances.M.C. Ramesh saw this reality during his grassroots work and could not look away. “I saw many elderly people abandoned, living in poverty and loneliness, often without family support or access to basic care,” was the reality that inspired him to establish Vidyaranya’s elderly-care programme. His vision was simple: no elderly person should spend their later years feeling neglected or alone.A home where they are cared forEstablished in 1991, Vidyaranya today runs two old-age homes—Hosa Belaku Home in Bengaluru and Gandhi Old Age Home in Hassan, Karnataka. Together, they provide a safe and caring environment to 50 elderly people, including destitute, abandoned and financially vulnerable seniors.Residents receive essential food, clothing and shelter, along with medical care and psychological support. Vidyaranya also provides recreational activities and skill-development programmes so that residents can experience meaningful, fulfilling lives rather than simply having their basic needs met.The residents range from 60 to over 80 years old, with many carrying years of loneliness and hardship. Here, they can find companionship, security and the feeling that they still matter.Donate to help keep this home runningVidyaranya needs ₹53 lakh for one year to cover operational costs and staff salaries for its two homes.Your donation can help provide food, shelter, healthcare, emotional support and daily care to elderly people who have nowhere else to turn.Help Vidyaranya ensure that no abandoned grandparent has to face old age alone. Give them a home, give them care, and give them the dignity they deserve. Donate today.Donate to this fundraiser by give.do, India’s most trusted online donation platform, to support Vidyaranya, in its mission to provide a loving home for abandoned elderly parents.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/9c7ce133-ed8e-440c-b416-679925040438.webp",
+      "amount_raised_inr": 258975.0,
+      "amount_goal_inr": 5000000.0,
+      "deadline_iso": "2026-10-14",
+      "days_left": 3,
+      "campaign_url": "https://give.do/fundraisers/help-vidyaranya-give-abandoned-elderly-a-home-care-and-dignity",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-10-11T03:42:17.805187+00:00"
     },
     {
       "id": "givedo-6835addd",
@@ -61,14 +95,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/04cef85a-b87c-43bf-8088-3e8de6c14a74.webp",
-      "amount_raised_inr": 4747127.0,
+      "amount_raised_inr": 4751128.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-10-14",
-      "days_left": 4,
+      "days_left": 3,
       "campaign_url": "https://give.do/fundraisers/help-visually-impaired-shivaprakash-give-40-blind-girls-shelter-education-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-10T23:10:46.520130+00:00"
+      "scraped_at_iso": "2026-10-11T03:42:17.805126+00:00"
     },
     {
       "id": "givedo-6aa125cc",
@@ -78,14 +112,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/ffc2775f-3f23-4218-b128-3795ba45ad34.webp",
-      "amount_raised_inr": 883716.0,
+      "amount_raised_inr": 888867.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-10-15",
-      "days_left": 5,
+      "days_left": 4,
       "campaign_url": "https://give.do/fundraisers/this-pitru-paksha-be-a-saviour-of-an-abandoned-elderly-person-left-to-die-alone",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-10T23:10:46.520112+00:00"
+      "scraped_at_iso": "2026-10-11T03:42:17.805093+00:00"
     },
     {
       "id": "milaap-1051576",
@@ -95,14 +129,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1788205332/production/images/campaign/1051576/rn_image_picker_lib_temp_a4521dd9-ae5b-4bab-aed1-2de11e07ebde_vho44n_1788205343.webp",
-      "amount_raised_inr": 64213.0,
+      "amount_raised_inr": 64381.0,
       "amount_goal_inr": 6000000.0,
       "deadline_iso": "2026-10-31",
-      "days_left": 21,
+      "days_left": 20,
       "campaign_url": "https://milaap.org/fundraisers/support-anjana-sharma-2",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-10T23:10:43.754566+00:00"
+      "scraped_at_iso": "2026-10-11T03:42:14.844589+00:00"
     },
     {
       "id": "milaap-1061776",
@@ -112,14 +146,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1790937724/production/images/campaign/1061776/medical_1553587798_1790937723.webp",
-      "amount_raised_inr": 22436.0,
+      "amount_raised_inr": 22439.0,
       "amount_goal_inr": 3500000.0,
       "deadline_iso": "2026-11-01",
-      "days_left": 22,
+      "days_left": 21,
       "campaign_url": "https://milaap.org/fundraisers/support-tannu-priya-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-10T23:10:43.754612+00:00"
+      "scraped_at_iso": "2026-10-11T03:42:14.844647+00:00"
     },
     {
       "id": "milaap-1061819",
@@ -132,11 +166,11 @@
       "amount_raised_inr": 8343.0,
       "amount_goal_inr": 2000000.0,
       "deadline_iso": "2026-11-01",
-      "days_left": 22,
+      "days_left": 21,
       "campaign_url": "https://milaap.org/fundraisers/support-shermohmad-makrani",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-10T23:10:43.754582+00:00"
+      "scraped_at_iso": "2026-10-11T03:42:14.844630+00:00"
     },
     {
       "id": "milaap-1062471",
@@ -146,14 +180,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1791122656/production/images/campaign/1062471/bz7hkpje2e3ixurnpab3_1791122657.webp",
-      "amount_raised_inr": 6794.0,
+      "amount_raised_inr": 6806.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-11-03",
-      "days_left": 24,
+      "days_left": 23,
       "campaign_url": "https://milaap.org/fundraisers/support-neha-sharma-34",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-10T23:10:43.754545+00:00"
+      "scraped_at_iso": "2026-10-11T03:42:14.844565+00:00"
     },
     {
       "id": "milaap-1062635",
@@ -163,14 +197,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.18,w_0.1,x_0.46,y_0.27/c_fill,h_198,w_264/v1791183222/production/images/campaign/1062635/Cover_Photo_Family_uvnjip_1791183223.webp",
-      "amount_raised_inr": 5909.0,
+      "amount_raised_inr": 5963.0,
       "amount_goal_inr": 800000.0,
       "deadline_iso": "2026-11-04",
-      "days_left": 25,
+      "days_left": 24,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-prakash-d-g",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-10T23:10:43.754600+00:00"
+      "scraped_at_iso": "2026-10-11T03:42:14.844608+00:00"
     },
     {
       "id": "milaap-1063215",
@@ -180,14 +214,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1791363420/production/images/campaign/1063215/temp_file_20261007_142659_vhuhw1_1791363422.webp",
-      "amount_raised_inr": 10605.0,
+      "amount_raised_inr": 10739.0,
       "amount_goal_inr": 2000000.0,
       "deadline_iso": "2026-11-06",
-      "days_left": 27,
+      "days_left": 26,
       "campaign_url": "https://milaap.org/fundraisers/support-mr-pulkit-mohan",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-10T23:10:43.754507+00:00"
+      "scraped_at_iso": "2026-10-11T03:42:14.844523+00:00"
     },
     {
       "id": "milaap-1019986",
@@ -200,11 +234,11 @@
       "amount_raised_inr": 86378.0,
       "amount_goal_inr": 9000000.0,
       "deadline_iso": "2026-12-31",
-      "days_left": 82,
+      "days_left": 81,
       "campaign_url": "https://milaap.org/fundraisers/support-dhrupad-rishav",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-10T23:10:43.754408+00:00"
+      "scraped_at_iso": "2026-10-11T03:42:14.844421+00:00"
     },
     {
       "id": "milaap-1061778",
@@ -214,14 +248,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1791305958/production/images/campaign/1061778/57660_sehyxj_1791305959.webp",
-      "amount_raised_inr": 12326.0,
+      "amount_raised_inr": 12337.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-12-31",
-      "days_left": 82,
+      "days_left": 81,
       "campaign_url": "https://milaap.org/fundraisers/support-madhumita-debnath",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-10T23:10:43.754475+00:00"
+      "scraped_at_iso": "2026-10-11T03:42:14.844490+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -231,14 +265,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 185441348.3,
+      "amount_raised_inr": 185585067.85,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2027-01-20",
-      "days_left": 102,
+      "days_left": 101,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-10T23:10:46.520052+00:00"
+      "scraped_at_iso": "2026-10-11T03:42:17.804970+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -248,14 +282,48 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 88741980.61,
+      "amount_raised_inr": 88844745.98,
       "amount_goal_inr": 100000000.0,
       "deadline_iso": "2027-02-28",
-      "days_left": 141,
+      "days_left": 140,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-10T23:10:46.520069+00:00"
+      "scraped_at_iso": "2026-10-11T03:42:17.804995+00:00"
+    },
+    {
+      "id": "givedo-649bf4a8",
+      "source": "givedo",
+      "title": "Co-Guardianship of Residents of ADHAR",
+      "description": "In India, as per the census 2011, total number of mentally challenged people is 24.20 lakhs. Amongst them, 14.70 lacs are adults. There is no medical solution found for mental retardation. Parents face many physical and psychological difficulties while managing their special child at home. Their entire life revolves around supporting the needs of the child, due to which, they get completely detached from society, their relatives, and even neighbors. Even the child does not receive any social exposure owing to the apathy that exists around. There are no dedicated facilities for the mentally challenged adults and they start overpowering their parents as they grow physically. A mentally challenged individual cannot become independent and needs continuous support throughout life. Keeping them occupied throughout the day and that too for lifetime, is a very challenging task. A residential institute taking care and providing support to these individuals is need of the hour. Additionally, the parents also live with this nagging worry that who will look after their child after them?Thus, a lifelong care-taking residential institute is a practical and concrete solution to the constant worry of old parents of the mentally challenged adults. \n ADHAR is a residential institution providing lifelong care, protection, training, treatment and rehabilitation to mentally challenged adults for the last 25 years. We are taking lifelong care of all types of basic as well as physical, psychological and medical needs of the mentally challenged adults by various activities at Adhar. Presently, we are taking care of 220 mentally challenged adults at Adhar [Badlapur] and 100 at Adhar [Nashik].Usually, mentally challenged individuals just exist at their respective homes, but they really begin to live at Adhar. Various well-planned and well executed activities such as vocational classes, dance, music, arts, physical activities and individual attention to their interests makes life at Adhar very different. Over a period of last 25 years, all our residents are well settled at Adhar. They have their set routine throughout the day. They attend vocational training / special classes depending on their capacity and liking. They sing, dance, enjoy festivals and live a life of dignity. Here, they are not treated as a neglected member of the family and society. It is their own home, as all members are mentally challenged.  \n ADHAR today is taking care of 320 mentally challenged adults (Badlapur is 25 years operational and Nashik is 5 years operational).It has given a complete physical, psychological and financial relief of more than 1000 families and has also addressed their nagging worry of “Who will Look After My Child After Me?” by providing lifelong residential facility for such people.In doing so, ADHAR has also generated employment for more than 230 people directly, and for more than 500 people indirectly.In short, ADHAR addresses 3 areas together:1.\tLifetime care and support to mentally challenged individuals2.\tComplete physical, psychological and financial relief to their parents3.\tGeneration of direct as well as indirect employment in rural areas around the locations",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/5d65a529-ed1a-41af-b468-c44118d0cf61.jpg",
+      "amount_raised_inr": 134080.26,
+      "amount_goal_inr": 4800000.0,
+      "deadline_iso": "2030-03-31",
+      "days_left": 1267,
+      "campaign_url": "https://give.do/fundraisers/coguardianship-of-residents-of-adhar",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-10-11T03:42:17.805161+00:00"
+    },
+    {
+      "id": "givedo-688c4cc5",
+      "source": "givedo",
+      "title": "Help Save Young Girls From Trafficking",
+      "description": "Human trafficking in India is a horrifying crisis. Thousands of victims, primarily women and girl children, are exploited in red-light areas. Over 10,659 cases were reported between 2018-2022, but experts say that these numbers are likely a fraction of the reality due to underreporting, yet they still do expose the magnitude of the crisis. Girls make up 71.4% of missing children in India and a large number of these girls end up at red-light areas. Sex trafficking is particularly gruesome, with girls as young as 12 sold for as little as a few thousand rupees.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/4bc9b10a-7428-494e-9c42-70d43fb3395d.webp",
+      "amount_raised_inr": 8363967.0,
+      "amount_goal_inr": 41000000.0,
+      "deadline_iso": "2030-12-31",
+      "days_left": 1542,
+      "campaign_url": "https://give.do/fundraisers/help-save-young-girls-from-trafficking",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-10-11T03:42:17.805138+00:00"
     }
   ]
 }
