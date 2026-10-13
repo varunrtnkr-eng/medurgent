@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T17:19:07.559615+00:00",
+  "generated_at": "2026-10-13T01:47:47.517402+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 8,
@@ -20,40 +20,6 @@
   "total": 12,
   "campaigns": [
     {
-      "id": "givedo-6aa13504",
-      "source": "givedo",
-      "title": "This Navratri, help feed warm meals to abandoned elderly and the destitute",
-      "description": "For thousands of elderly people, homeless individuals, daily-wage workers and vulnerable families, hunger is not an occasional hardship, it is a daily reality. Danirasa Foundation’s with the help of kind supporters and donors is quietly changing this reality for hundreds each day. Your donation provides a warm meal to an elderly grandparent who has no other means to survive. At ₹25 per meal, your donation of ₹1,250 can provide a meal each for 50 elders. Donate Now.Donate easily through UPI, all debit/credit cards and net banking.Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).From one crisis to a mission against hungerDanirasa Foundation’s journey began during the devastating 2015 Chennai floods. Founder Indu Priya witnessed families, especially women and children, struggling with displacement and hunger. She and her team mobilised volunteers to cook and distribute hot meals. What began as an emergency response became a lasting commitment to ensuring vulnerable communities have access to food with dignity and care.Today, Danirasa’s Community Kitchen serves around 4,900 people through this programme. The meals reach elderly residents in old-age homes, children from underserved communities, rehabilitation centres, homeless people, daily-wage workers and others facing food insecurity.A meal can mean so much moreFor an elderly person living without family support, a nutritious meal can bring comfort. For someone surviving on irregular daily wages, it can mean one less worry. For a vulnerable child, it can provide the nourishment needed to learn and grow.But feeding thousands of people every day requires a steady supply of ingredients, cooking, packaging, transportation and dedicated people.Help serve a meal with dignityYour donation can help Danirasa continue providing nutritious meals to homeless and elderly people, children, workers, persons with disabilities and families struggling to make ends meet.Help Danirasa ensure that no vulnerable person has to face the day with an empty stomach. Donate today.Donate to this fundraiser by give.do, India’s most trusted online donation platform, to support Danirasa Foundation, in its mission to feed helpless elderly and destitute people, who have no means of survival.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/e8fc8829-0bd7-495b-a052-78d91feb9736.webp",
-      "amount_raised_inr": 9191338.0,
-      "amount_goal_inr": 20000000.0,
-      "deadline_iso": "2026-10-14",
-      "days_left": 2,
-      "campaign_url": "https://give.do/fundraisers/this-navratri-help-feed-warm-meals-to-abandoned-elderly-and-the-destitute",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-10-12T17:19:05.788128+00:00"
-    },
-    {
-      "id": "givedo-6835addd",
-      "source": "givedo",
-      "title": "Help visually impaired Shivaprakash give 40 blind girls shelter, education and care",
-      "description": "At the age of 8, Shivaprakash lost his vision. But what could have become a life of despair became something else entirely. Shivaprakash went on to complete his Master’s degree and eventually founded the Divya Jyothi Charitable Trust, an organisation born out of personal struggle and driven by a powerful mission, to educate and empower blind girls, who are among the most neglected and marginalised in society.In many families, blind daughters are hidden away, seen as a burden, and in some cases, even as a curse. They are denied the right to dream, grow, or be independent. At Divya Jyothi, Shivaprakash is changing that narrative. Your support can ensure that no blind girl is left behind simply because of her disability. Donate today to help them stand tall, proud, and self-reliant. Donate nowDonate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).Education is survivalIn communities where gender and disability intersect, blind girls face deep-rooted prejudice and extreme isolation. Many are denied even basic schooling and are left dependent on family members for the rest of their lives. Recognising this, Divya Jyothi began with a simple yet radical step: to provide blind girls with computer training so they could access the digital world and open doors to employment.But the journey didn’t stop there. The NGO went on to launch a braille transcription centre, ensuring girls have access to learning materials that suit their needs. As Shivaprakash says, “Without education, no one can do anything. That's why education is even more important for blind girls.” Education isn’t just about literacy, it’s about self-worth, decision-making, mobility, and freedom. It’s about giving these girls the same right to participate in society that sighted individuals often take for granted.From rejection to respectIn a country where blind girls are often treated as liabilities, Divya Jyothi is rewriting their futures. Over 1,000 girls have graduated from the Trust’s training centres. Many of them come from families that had almost given up on them. Today, these same girls are government employees, corporate professionals, and role models in their communities.More than 200 graduates have secured jobs in the public sector. Over 300 are now employed in private companies. Every success story is proof that with the right support, blind girls don’t just survive, they thrive. “Most girls are neglected by their families. This is a major challenge for them,” says Shivaprakash. By providing them with skills and confidence, Divya Jyothi is turning neglect into empowerment and helplessness into hope.Donate to help 40 blind girls find independenceAlmost 40 girls are currently enrolled and will directly benefit from your support. These are girls with potential, courage, and ambition—but they lack the resources to pursue an independent life. “I request each one to come forward and donate to help blind girls lead independent lives in society,” urges Shivaprakash.Help Divya Jyothi Charitable Trust break the cycle of neglect. Your donation can give a blind girl her first lesson, her first job, and a life of dignity.Donate to this fundraiser by Give, India’s most trusted online donation platform, to support Divya Jyothi Charitable Trust in its mission to shelter and educate neglected and abandoned blind girls.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/04cef85a-b87c-43bf-8088-3e8de6c14a74.webp",
-      "amount_raised_inr": 4806382.0,
-      "amount_goal_inr": 5000000.0,
-      "deadline_iso": "2026-10-14",
-      "days_left": 2,
-      "campaign_url": "https://give.do/fundraisers/help-visually-impaired-shivaprakash-give-40-blind-girls-shelter-education-and-care",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-10-12T17:19:05.788172+00:00"
-    },
-    {
       "id": "givedo-6aa125cc",
       "source": "givedo",
       "title": "This Navratri, be a saviour of an abandoned elderly person left to die alone",
@@ -61,14 +27,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/ffc2775f-3f23-4218-b128-3795ba45ad34.webp",
-      "amount_raised_inr": 951919.0,
+      "amount_raised_inr": 958219.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-10-15",
-      "days_left": 3,
+      "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/this-navratri-be-a-saviour-of-an-abandoned-elderly-person-left-to-die-alone",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-12T17:19:05.788152+00:00"
+      "scraped_at_iso": "2026-10-13T01:47:45.858728+00:00"
+    },
+    {
+      "id": "givedo-6aa13504",
+      "source": "givedo",
+      "title": "This Navratri, help feed warm meals to abandoned elderly and the destitute",
+      "description": "For thousands of elderly people, homeless individuals, daily-wage workers and vulnerable families, hunger is not an occasional hardship, it is a daily reality. Danirasa Foundation’s with the help of kind supporters and donors is quietly changing this reality for hundreds each day. Your donation provides a warm meal to an elderly grandparent who has no other means to survive. At ₹25 per meal, your donation of ₹1,250 can provide a meal each for 50 elders. Donate Now.Donate easily through UPI, all debit/credit cards and net banking.Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).From one crisis to a mission against hungerDanirasa Foundation’s journey began during the devastating 2015 Chennai floods. Founder Indu Priya witnessed families, especially women and children, struggling with displacement and hunger. She and her team mobilised volunteers to cook and distribute hot meals. What began as an emergency response became a lasting commitment to ensuring vulnerable communities have access to food with dignity and care.Today, Danirasa’s Community Kitchen serves around 4,900 people through this programme. The meals reach elderly residents in old-age homes, children from underserved communities, rehabilitation centres, homeless people, daily-wage workers and others facing food insecurity.A meal can mean so much moreFor an elderly person living without family support, a nutritious meal can bring comfort. For someone surviving on irregular daily wages, it can mean one less worry. For a vulnerable child, it can provide the nourishment needed to learn and grow.But feeding thousands of people every day requires a steady supply of ingredients, cooking, packaging, transportation and dedicated people.Help serve a meal with dignityYour donation can help Danirasa continue providing nutritious meals to homeless and elderly people, children, workers, persons with disabilities and families struggling to make ends meet.Help Danirasa ensure that no vulnerable person has to face the day with an empty stomach. Donate today.Donate to this fundraiser by give.do, India’s most trusted online donation platform, to support Danirasa Foundation, in its mission to feed helpless elderly and destitute people, who have no means of survival.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/e8fc8829-0bd7-495b-a052-78d91feb9736.webp",
+      "amount_raised_inr": 9193338.0,
+      "amount_goal_inr": 20000000.0,
+      "deadline_iso": "2026-10-18",
+      "days_left": 5,
+      "campaign_url": "https://give.do/fundraisers/this-navratri-help-feed-warm-meals-to-abandoned-elderly-and-the-destitute",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-10-13T01:47:45.858714+00:00"
     },
     {
       "id": "givedo-68f25b24",
@@ -78,14 +61,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/3d8552de-9a0a-41b0-878a-470ec88157d8.webp",
-      "amount_raised_inr": 4397525.0,
+      "amount_raised_inr": 4402525.0,
       "amount_goal_inr": 10000000.0,
       "deadline_iso": "2026-10-18",
-      "days_left": 6,
+      "days_left": 5,
       "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-12T17:19:05.788196+00:00"
+      "scraped_at_iso": "2026-10-13T01:47:45.858764+00:00"
+    },
+    {
+      "id": "givedo-6835addd",
+      "source": "givedo",
+      "title": "Help visually impaired Shivaprakash give 40 blind girls shelter, education and care",
+      "description": "At the age of 8, Shivaprakash lost his vision. But what could have become a life of despair became something else entirely. Shivaprakash went on to complete his Master’s degree and eventually founded the Divya Jyothi Charitable Trust, an organisation born out of personal struggle and driven by a powerful mission, to educate and empower blind girls, who are among the most neglected and marginalised in society.In many families, blind daughters are hidden away, seen as a burden, and in some cases, even as a curse. They are denied the right to dream, grow, or be independent. At Divya Jyothi, Shivaprakash is changing that narrative. Your support can ensure that no blind girl is left behind simply because of her disability. Donate today to help them stand tall, proud, and self-reliant. Donate nowDonate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).Education is survivalIn communities where gender and disability intersect, blind girls face deep-rooted prejudice and extreme isolation. Many are denied even basic schooling and are left dependent on family members for the rest of their lives. Recognising this, Divya Jyothi began with a simple yet radical step: to provide blind girls with computer training so they could access the digital world and open doors to employment.But the journey didn’t stop there. The NGO went on to launch a braille transcription centre, ensuring girls have access to learning materials that suit their needs. As Shivaprakash says, “Without education, no one can do anything. That's why education is even more important for blind girls.” Education isn’t just about literacy, it’s about self-worth, decision-making, mobility, and freedom. It’s about giving these girls the same right to participate in society that sighted individuals often take for granted.From rejection to respectIn a country where blind girls are often treated as liabilities, Divya Jyothi is rewriting their futures. Over 1,000 girls have graduated from the Trust’s training centres. Many of them come from families that had almost given up on them. Today, these same girls are government employees, corporate professionals, and role models in their communities.More than 200 graduates have secured jobs in the public sector. Over 300 are now employed in private companies. Every success story is proof that with the right support, blind girls don’t just survive, they thrive. “Most girls are neglected by their families. This is a major challenge for them,” says Shivaprakash. By providing them with skills and confidence, Divya Jyothi is turning neglect into empowerment and helplessness into hope.Donate to help 40 blind girls find independenceAlmost 40 girls are currently enrolled and will directly benefit from your support. These are girls with potential, courage, and ambition—but they lack the resources to pursue an independent life. “I request each one to come forward and donate to help blind girls lead independent lives in society,” urges Shivaprakash.Help Divya Jyothi Charitable Trust break the cycle of neglect. Your donation can give a blind girl her first lesson, her first job, and a life of dignity.Donate to this fundraiser by Give, India’s most trusted online donation platform, to support Divya Jyothi Charitable Trust in its mission to shelter and educate neglected and abandoned blind girls.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/04cef85a-b87c-43bf-8088-3e8de6c14a74.webp",
+      "amount_raised_inr": 4811882.0,
+      "amount_goal_inr": 5000000.0,
+      "deadline_iso": "2026-10-20",
+      "days_left": 7,
+      "campaign_url": "https://give.do/fundraisers/help-visually-impaired-shivaprakash-give-40-blind-girls-shelter-education-and-care",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-10-13T01:47:45.858743+00:00"
     },
     {
       "id": "milaap-1051576",
@@ -95,14 +95,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1788205332/production/images/campaign/1051576/rn_image_picker_lib_temp_a4521dd9-ae5b-4bab-aed1-2de11e07ebde_vho44n_1788205343.webp",
-      "amount_raised_inr": 64729.0,
+      "amount_raised_inr": 64839.0,
       "amount_goal_inr": 12000000.0,
       "deadline_iso": "2026-10-31",
-      "days_left": 19,
+      "days_left": 18,
       "campaign_url": "https://milaap.org/fundraisers/support-anjana-sharma-2",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-12T17:19:02.691795+00:00"
+      "scraped_at_iso": "2026-10-13T01:47:42.766030+00:00"
     },
     {
       "id": "milaap-1062744",
@@ -112,14 +112,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.38,w_0.24,x_0.29,y_0.18/c_fill,h_198,w_264/v1791620718/production/images/campaign/1062744/1000390563_ba7fte_1791620719.webp",
-      "amount_raised_inr": 6108.0,
+      "amount_raised_inr": 6165.0,
       "amount_goal_inr": 2000000.0,
       "deadline_iso": "2026-11-04",
-      "days_left": 23,
+      "days_left": 22,
       "campaign_url": "https://milaap.org/fundraisers/support-hemant-kumar-35",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-12T17:19:02.691811+00:00"
+      "scraped_at_iso": "2026-10-13T01:47:42.766043+00:00"
     },
     {
       "id": "milaap-1063408",
@@ -129,14 +129,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1791392849/production/images/campaign/1063408/WhatsApp_Image_2026-09-02_at_8.10.32_AM_yo4n2t_1791392850.webp",
-      "amount_raised_inr": 3528.0,
+      "amount_raised_inr": 3780.0,
       "amount_goal_inr": 3000000.0,
       "deadline_iso": "2026-11-06",
-      "days_left": 25,
+      "days_left": 24,
       "campaign_url": "https://milaap.org/fundraisers/support-nitin-upadhyay-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-12T17:19:02.691840+00:00"
+      "scraped_at_iso": "2026-10-13T01:47:42.766091+00:00"
     },
     {
       "id": "milaap-1063215",
@@ -146,14 +146,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1791363420/production/images/campaign/1063215/temp_file_20261007_142659_vhuhw1_1791363422.webp",
-      "amount_raised_inr": 11050.0,
+      "amount_raised_inr": 11118.0,
       "amount_goal_inr": 2000000.0,
       "deadline_iso": "2026-11-06",
-      "days_left": 25,
+      "days_left": 24,
       "campaign_url": "https://milaap.org/fundraisers/support-mr-pulkit-mohan",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-12T17:19:02.691768+00:00"
+      "scraped_at_iso": "2026-10-13T01:47:42.766015+00:00"
     },
     {
       "id": "milaap-1064435",
@@ -163,14 +163,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1791711029/production/images/campaign/1064435/medical_1553587798_1791698203.webp",
-      "amount_raised_inr": 11798.0,
+      "amount_raised_inr": 12257.0,
       "amount_goal_inr": 2500000.0,
       "deadline_iso": "2026-11-10",
-      "days_left": 29,
+      "days_left": 28,
       "campaign_url": "https://milaap.org/fundraisers/support-parikshit-pranesh",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-12T17:19:02.691742+00:00"
+      "scraped_at_iso": "2026-10-13T01:47:42.765988+00:00"
     },
     {
       "id": "milaap-1061778",
@@ -180,14 +180,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1791305958/production/images/campaign/1061778/57660_sehyxj_1791305959.webp",
-      "amount_raised_inr": 13598.0,
+      "amount_raised_inr": 13619.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-12-31",
-      "days_left": 80,
+      "days_left": 79,
       "campaign_url": "https://milaap.org/fundraisers/support-madhumita-debnath",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-12T17:19:02.691687+00:00"
+      "scraped_at_iso": "2026-10-13T01:47:42.765932+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -197,14 +197,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 185800343.61,
+      "amount_raised_inr": 185813924.61,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2027-01-20",
-      "days_left": 100,
+      "days_left": 99,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-12T17:19:05.788078+00:00"
+      "scraped_at_iso": "2026-10-13T01:47:45.858663+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -214,14 +214,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 89197328.77,
+      "amount_raised_inr": 89368483.45,
       "amount_goal_inr": 100000000.0,
       "deadline_iso": "2027-02-28",
-      "days_left": 139,
+      "days_left": 138,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-12T17:19:05.788099+00:00"
+      "scraped_at_iso": "2026-10-13T01:47:45.858687+00:00"
     }
   ]
 }
