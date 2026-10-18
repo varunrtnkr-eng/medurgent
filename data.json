@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-18T08:31:14.917176+00:00",
+  "generated_at": "2026-10-18T15:19:25.711402+00:00",
   "sources": {
     "ketto": 0,
-    "milaap": 7,
-    "givedo": 6
+    "milaap": 6,
+    "givedo": 10
   },
   "languages": [
     "en",
@@ -17,41 +17,24 @@
     "pa",
     "ml"
   ],
-  "total": 12,
+  "total": 15,
   "campaigns": [
     {
-      "id": "givedo-6aa13504",
+      "id": "givedo-64902da0",
       "source": "givedo",
-      "title": "This Navratri, help feed warm meals to abandoned elderly and the destitute",
-      "description": "For thousands of elderly people, homeless individuals, daily-wage workers and vulnerable families, hunger is not an occasional hardship, it is a daily reality. Danirasa Foundation’s with the help of kind supporters and donors is quietly changing this reality for hundreds each day. Your donation provides a warm meal to an elderly grandparent who has no other means to survive. At ₹25 per meal, your donation of ₹1,250 can provide a meal each for 50 elders. Donate Now.Donate easily through UPI, all debit/credit cards and net banking.Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).From one crisis to a mission against hungerDanirasa Foundation’s journey began during the devastating 2015 Chennai floods. Founder Indu Priya witnessed families, especially women and children, struggling with displacement and hunger. She and her team mobilised volunteers to cook and distribute hot meals. What began as an emergency response became a lasting commitment to ensuring vulnerable communities have access to food with dignity and care.Today, Danirasa’s Community Kitchen serves around 4,900 people through this programme. The meals reach elderly residents in old-age homes, children from underserved communities, rehabilitation centres, homeless people, daily-wage workers and others facing food insecurity.A meal can mean so much moreFor an elderly person living without family support, a nutritious meal can bring comfort. For someone surviving on irregular daily wages, it can mean one less worry. For a vulnerable child, it can provide the nourishment needed to learn and grow.But feeding thousands of people every day requires a steady supply of ingredients, cooking, packaging, transportation and dedicated people.Help serve a meal with dignityYour donation can help Danirasa continue providing nutritious meals to homeless and elderly people, children, workers, persons with disabilities and families struggling to make ends meet.Help Danirasa ensure that no vulnerable person has to face the day with an empty stomach. Donate today.Donate to this fundraiser by give.do, India’s most trusted online donation platform, to support Danirasa Foundation, in its mission to feed helpless elderly and destitute people, who have no means of survival.",
+      "title": "Help Dr. Bhagat care for 500+ elderly parents rescued from abuse and homelessness",
+      "description": "For a mother who has spent her entire life loving and raising her child, being beaten and mercilessly thrown out onto the streets by her own son is too heartbreaking to overcome. But this is a common story among the elderly residents of the Guru Vishram Vridh Ashram. “I’ve seen mothers in old and torn clothes, their bodies smelling and their hands and feet rotting and covered in maggots,” shares Dr. G.P. Bhagat, founder of the ashram. These abandoned elderly men and women lay starving on the streets hoping for someone to rescue them from their suffering. But most people walk past them without a second glance. “Like this”, Dr. Bhagat explains, “many elders die on the roads.”Since 2003, SHEOWS (Saint Hardyal Educational and Orphans Welfare Society) has rescued over 10,000 elderly people from the streets and given them a home with care and support. The elderly staying at the ashram have all been abandoned by their families and have nowhere else to live. Your support can give them comfort after their abandonment. Donate now.Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India). Safe and loving homeFor 20 years, SHEOWS has been providing free shelter, nutritious food three times a day, clothing, medical care, recreation activities and emotional support to abused and disabled elderly people rescued from the streets of Delhi. The Guru Vishram Vridh Ashram has a dedicated rescue team that saves the elderly from the streets and gives them immediate medical care upon their arrival at the home. To tend to the multiple health complications of the seniors, the home has a medical facility with doctors and nurses, a physiotherapy unit, a pathology lab, a digital X-ray monitoring machine and a pharmacy to provide 24-hour care to older adults anytime they require assistance, even during emergencies. Dr. Bhagat prioritizes the health of the seniors and ensures that they receive three balanced meals a day based on their precise health requirements. Need for the fundraiserThe humanitarian mission of SHEOWS is making an impact in the area, as more and more people are being rescued and brought to Guru Vishram Vridh Ashram. To meet the financial costs of running the home, SHEOWS needs support to continue providing the residents with all the facilities that they need. This includes constant care and round-the-clock medical attention, nutritious food and maintaining a hygienic environment to keep the seniors in comfort and good health. Dr. Bhagat explains that as the number of residents is increasing, SHEOWS needs support for food and medicines. “I request you to help these elderly parents lead a peaceful life.”Donate now to help Dr. Bhagat continue caring for the 500 destitute elderly and giving them shelter, food, medical care and the will to carry on living despite their tragic abandonment by their families. Your support will enable SHEOWS to keep serving abandoned senior citizens and help them recover from the trauma of abandonment and life on the streets. “I have been serving these elderly as if they were my own parents”, shares Dr. Bhagat. “I want only one thing - their tears should vanish and they should have a smile on their faces.” To help Dr. Bhagat achieve this dream, your support is critical. Donate now to help SHEOWS care for more abandoned elderly. Donate to this fundraiser by Give, India’s largest online donation platform, to support SHEOWS in their mission to rescue the abandoned elderly from the streets and give them shelter, food, medical care, recreational activities and emotional support.",
       "patient_name": null,
       "condition": null,
-      "image_url": "https://cfstatic.give.do/e8fc8829-0bd7-495b-a052-78d91feb9736.webp",
-      "amount_raised_inr": 9307540.0,
+      "image_url": "https://cfstatic.give.do/071b10de-7f83-4298-8094-a7beb4c45522.webp",
+      "amount_raised_inr": 14321798.22,
       "amount_goal_inr": 20000000.0,
-      "deadline_iso": "2026-10-18",
-      "days_left": 0,
-      "campaign_url": "https://give.do/fundraisers/this-navratri-help-feed-warm-meals-to-abandoned-elderly-and-the-destitute",
+      "deadline_iso": "2026-10-19",
+      "days_left": 1,
+      "campaign_url": "https://give.do/fundraisers/help-dr-bhagat-care-for-500-elderly-parents-rescued-from-abuse-and-homelessness",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-18T08:31:13.571700+00:00"
-    },
-    {
-      "id": "givedo-68f25b24",
-      "source": "givedo",
-      "title": "Help Leena in saving girls from being lost forever in red-light areas",
-      "description": "\"Hundreds of young girls are lost forever in the dark lanes of red-light areas,\" says Leena Kejriwal, the founder of Missing Link Trust. These girls endure unimaginable abuse and exploitation, being lured or trafficked into an industry that breaks them physically and emotionally. Missing Link Trust is on a mission to prevent the tragedy before it happens, and also rehabilitate girls and women who are rescued from forced sex work.Leena’s journey began with her powerful street art project in Kolkata, where she painted haunting silhouettes of missing girls to raise awareness against sex trafficking. Now, she leads a larger fight — one that focuses on prevention and rehabilitation. But this mission needs your support.You can save countless girl children from going missing forever. Donate now.Donate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).Preventing Trafficking Before It Begins“When girls come into a red-light area, the first thing is that they are broken, physically and emotionally,” Leena says. “It’s like they will be caught, hands and legs tied, and all heinous crimes committed on them.” These are the brutal realities that Missing Link Trust fights against every day.Many of these girls are from impoverished regions like the Sundarbans, and traffickers prey on their vulnerability. “It’s shocking that they sell themselves for as low as a hundred rupees,” Leena adds. \"They ready her through violent acts, removing all threads of shame from her.\"But why wait until a girl is trafficked to save her? Missing Link Trust believes in stopping trafficking at its root — through “prevention, prevention, prevention” as Leena puts it. The goal is simple: protect girls from ever being lost to this darkness.A Safe World for Children“Our mission is the prevention of abuse and exploitation of children,” Leena emphasizes. “Our vision is to create a safe world for children, and we want to do this with a preventive methodology.”Every Donation MattersYour support will help Missing Link Trust continue its vital work of rescuing, rehabilitating, and preventing the trafficking of young girls. The funds raised will go directly towards:Prevention programs in vulnerable areas to stop trafficking before it happens.Rehabilitation services for girls rescued from red-light areas, providing them with medical care, emotional support, and education.Awareness campaigns to reach at-risk communities and ensure girls are protected from traffickers.Together, We Can Make a Difference“Why wait for a girl to get trafficked to save her?” asks Leena. With your help, we can stop this horror before it begins. Your donation will help us create a world where no girl is lost to the nightmare of trafficking.Donate to this fundraiser by Give, India’s largest and most trusted online giving platform, to support Missing Link Trust to save young girls from being trafficked and help rehabilitate those rescued.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/3d8552de-9a0a-41b0-878a-470ec88157d8.webp",
-      "amount_raised_inr": 4554643.0,
-      "amount_goal_inr": 10000000.0,
-      "deadline_iso": "2026-10-18",
-      "days_left": 0,
-      "campaign_url": "https://give.do/fundraisers/help-leena-in-saving-girls-from-being-lost-forever-in-red-light-areas",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-10-18T08:31:13.571818+00:00"
+      "scraped_at_iso": "2026-10-18T15:19:24.128240+00:00"
     },
     {
       "id": "givedo-6835addd",
@@ -61,14 +44,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/04cef85a-b87c-43bf-8088-3e8de6c14a74.webp",
-      "amount_raised_inr": 4975306.0,
+      "amount_raised_inr": 4989908.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-10-20",
       "days_left": 2,
       "campaign_url": "https://give.do/fundraisers/help-visually-impaired-shivaprakash-give-40-blind-girls-shelter-education-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-18T08:31:13.571774+00:00"
+      "scraped_at_iso": "2026-10-18T15:19:24.128403+00:00"
+    },
+    {
+      "id": "givedo-69ba5b75",
+      "source": "givedo",
+      "title": "Kirrt Yatra 2026",
+      "description": "Kirrt Yatra grows from years of grassroots engagement in Punjab through Sanjhi Sikhiya’s work in public education and youth leadership. Our experience has shown that meaningful change requires proximity. Not just support from afar, but direct engagement with communities, institutions, and the systems shaping everyday life.Through earlier Punjab Yatras across 18+ districts, we saw how immersive journeys deepen understanding, build lasting relationships, and inspire sustained commitment to community work. Kirrt Yatra builds on that foundation, with a curated cohort focused on learning, reflection, and hands-on engagement inspired by Guru Nanak Sahib’s principle of Kirrt.Why This Project Matters? What makes it important?Punjab carries a deep legacy of resilience and community strength while navigating challenges in education, agriculture, migration, and public health. Addressing these issues requires collaboration between community leaders, youth, institutions, and thoughtful professionals.Kirrt Yatra creates space for this collaboration through immersion in villages and grassroots initiatives across Punjab. Participants engage directly with communities, contribute through small social action projects, and gain grounded perspective on the region’s realities and possibilities.The journey strengthens both learning and action.Participation ContributionKirrt Yatra follows a sliding-scale contribution model to make the journey accessible while sustaining the real costs of the immersion. Participants are invited to choose a contribution level that reflects their capacity, while remembering that those who give more help make participation possible for others.A · Accessibility Contribution: Pledge 15,000/- For students &amp; young professionalsCommitment payment. Participation Subsidized. B · Sustaining Contribution: Pledge 50,000/-For working professionalsAll meals + transport + core programme activities. Partial accommodation subsidised.C · Full Contribution: Pledge 1,00,000/-Established professionals &amp; philanthropistsAll direct costs in full.D · Gift a Yatra: Pledge 1,00,000 +For philanthropists &amp; institutionsSponsors your own seat and fully funds a young changemaker.Every tier is a full participant in the Yatra. The journey is shared, only the financial contribution differs. If cost remains a barrier, reach out. We will find a way.How can donors help?Donors can support this initiative by contributing toward participant's immersion costs and by strengthening Sanjhi Sikhiya’s ongoing grassroots programs in education and youth leadership.Contributions not only enable the journey itself but also ensure that community partners are supported. And also by paying forward for somone enables the access for participants who may require financial consideration.Funds raised will be used to:• Cover immersion logistics including travel, food, and community stays• Support facilitation and coordination across districts• Strengthen hosting community partners• Sustain Sanjhi Sikhiya’s grassroots work in education, youth leadership, and community development across Punjab If you are joining the Yatra, please ensure to complete this Interest Formhttps://bit.ly/KirrtYatra2026_InterestFormLearn more about the Yatrahttps://www.sanjhisikhiya.org/kirrt-yatra-2026/For questions or further details:+1 (510) 468-3634 | +91 89688 21155",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/43c902b5-67f5-4068-ba1a-9fc2e032e684.webp",
+      "amount_raised_inr": 423817.0,
+      "amount_goal_inr": 1000000.0,
+      "deadline_iso": "2026-10-30",
+      "days_left": 12,
+      "campaign_url": "https://give.do/fundraisers/kirrt-yatra-2026",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-10-18T15:19:24.128453+00:00"
     },
     {
       "id": "milaap-1051576",
@@ -78,14 +78,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1788205332/production/images/campaign/1051576/rn_image_picker_lib_temp_a4521dd9-ae5b-4bab-aed1-2de11e07ebde_vho44n_1788205343.webp",
-      "amount_raised_inr": 68295.0,
+      "amount_raised_inr": 68403.0,
       "amount_goal_inr": 12000000.0,
       "deadline_iso": "2026-10-31",
       "days_left": 13,
       "campaign_url": "https://milaap.org/fundraisers/support-anjana-sharma-2",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-18T08:31:10.510274+00:00"
+      "scraped_at_iso": "2026-10-18T15:19:20.074104+00:00"
     },
     {
       "id": "milaap-1063804",
@@ -95,14 +95,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1791494937/production/images/campaign/1063804/medical_1553587798_1791494936.webp",
-      "amount_raised_inr": 3384.0,
+      "amount_raised_inr": 3552.0,
       "amount_goal_inr": 1600000.0,
       "deadline_iso": "2026-11-07",
       "days_left": 20,
       "campaign_url": "https://milaap.org/fundraisers/support-shrusha-shende",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-18T08:31:10.510322+00:00"
+      "scraped_at_iso": "2026-10-18T15:19:20.074126+00:00"
     },
     {
       "id": "milaap-1064435",
@@ -119,7 +119,7 @@
       "campaign_url": "https://milaap.org/fundraisers/support-parikshit-pranesh",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-18T08:31:10.510151+00:00"
+      "scraped_at_iso": "2026-10-18T15:19:20.073972+00:00"
     },
     {
       "id": "milaap-1064870",
@@ -129,14 +129,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.18,w_0.1,x_0.44,y_0.12/c_fill,h_198,w_264/v1791809320/production/images/campaign/1064870/WhatsApp_Image_2026-10-08_at_9.45.49_PM_g5yrgt_1791809445.webp",
-      "amount_raised_inr": 7309.0,
+      "amount_raised_inr": 7311.0,
       "amount_goal_inr": 2000000.0,
       "deadline_iso": "2026-11-11",
       "days_left": 24,
       "campaign_url": "https://milaap.org/fundraisers/support-abhinav-tiwari-3",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-18T08:31:10.510218+00:00"
+      "scraped_at_iso": "2026-10-18T15:19:20.074044+00:00"
     },
     {
       "id": "milaap-1064701",
@@ -146,31 +146,48 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/e_blur_faces:1100/c_fill,h_198,w_264/v1792076131/production/images/campaign/1064701/temp_file_20261015_202528_gqexob_1792076133.webp",
-      "amount_raised_inr": 2961.0,
+      "amount_raised_inr": 3002.0,
       "amount_goal_inr": 500000.0,
       "deadline_iso": "2026-11-11",
       "days_left": 24,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-silpa-sinha-sur",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-18T08:31:10.510343+00:00"
+      "scraped_at_iso": "2026-10-18T15:19:20.074153+00:00"
     },
     {
-      "id": "milaap-1061778",
-      "source": "milaap",
-      "title": "Help My Wife Madhumita Recover From  Autoimmune Disease",
-      "description": "I am raising funds for my wife, Madhumita Debnath, a 53-year-old woman from Gurugram, Haryana, who has been battling sev...",
+      "id": "givedo-6abba063",
+      "source": "givedo",
+      "title": "Sponsor a Child in Kisun Nagar Village to Access High-Quality Education",
+      "description": "Every child has a dream. Not every child gets the chance to discover it.On the edge of the Indo–Nepal border lies Kisun Nagar, a small Tharu village in Uttar Pradesh, where children grow up with no access to quality education from the start.What if less than ₹140 a day could give a child a year of opportunity?This Daan Utsav, you can sponsor a child's learning journey at Vidya Vriksh Gurukul for ₹50,000 a year—helping provide the teachers, learning experiences and safe space children need to discover what they are capable of. Kisun Nagar is home to around 50 families. Children here grow up speaking their own local tribal language, surrounded by a rich culture and close-knit community. But their geographic isolation also means that many opportunities and resources available elsewhere simply don't reach the village.For a child growing up here, the education journey begins with a void.There is no preschool in the village. For children under six, there is no local place to learn, play and prepare for school. For Class 1, families have limited schooling options nearby. And beyond Class 8, continuing education often means travelling nearly 10 km from home every day.By the time children reach the higher grades, many have fallen behind. Our community research found that 7 in 10 young people cannot read or do maths at their grade level, and ~1 in 3 drop out by Class 9. But behind every number is a child.An 18-year-old from the village once told us about how he only started understanding what his teacher was saying in grade 5 because his teacher spoke Hindi and not Tharu. For young people here, the challenge isn't lack of ambition. It is access.So we ask:Does being born in a small, remote village mean you should have fewer opportunities to learn?We don't think it should.That is why we built Vidya Vriksh Gurukul (VVG).VVG is a community-run learning centre created to bring quality learning closer to village children. It is a safe, joyful space where children can build foundational skills, develop confidence, ask questions, explore their interests and discover what they are capable of.We train young people from the local community to become teachers, because access isn't only about having a building—it is about having people who understand the children, their language, their context and their community.We are building the kind of learning environment we believe will allow every child in Kisun Nagar to dream big and take that dream as far as they can. Because where a child is born should not decide what they get to dream about—or how far they can go.Our vision: A future where every rural child thrives and village communities flourish. This Daan Utsav, you can help make that possible for a child. What will you gift this Daan Utsav?🚌 A Field Trip — ₹1,500📚 Storybooks for 1 month — ₹2,500 🎒 1 month of Learning — ₹4,100🌱 6 Months of Learning — ₹25,000🌟 A Year of Possibility — ₹50,000🚀 Two Years of Growing Together — ₹1,00,000Pick your gift → Make your daan → Be part of a child's journey.Less than ₹140 a day keeps a child learning. Your support helps provide:A trained, caring teacherDaily learning and practiceBooks and learning materialsHands-on activities and projectsA safe and joyful learning environment and facilitiesSupport for the child's social and emotional developmentThis isn't just about helping a child study:It's about giving them the foundation to build a future they choose.हर बच्चे का एक सपना होता है। लेकिन हर बच्चे को उसे खोजने का अवसर नहीं मिलता।भारत-नेपाल सीमा के किनारे बसा है किशन नगर, उत्तर प्रदेश का एक छोटा-सा थारू गाँव, जहाँ बच्चों को शुरुआत से ही गुणवत्तापूर्ण शिक्षा तक पहुँच नहीं मिलती।क्या हो अगर रोज़ ₹140 से भी कम में आप किसी बच्चे को एक साल सीखने और आगे बढ़ने का अवसर दे सकें?इस दान उत्सव, आप ₹50,000 सालाना देकर VVG में एक बच्चे की सीखने की यात्रा में सहयोग कर सकते हैं—जिससे उसे अच्छे शिक्षक, सीखने के अनुभव और एक सुरक्षित वातावरण मिल सके, जहाँ वह अपनी क्षमताओं को पहचान सके और जान सके कि वह क्या कर सकता/सकती है।किशन नगर में लगभग 50 परिवार रहते हैं। यहाँ के बच्चे अपनी स्थानीय जनजातीय भाषा बोलते हुए, समृद्ध संस्कृति और एक-दूसरे से जुड़े समुदाय के बीच बड़े होते हैं। लेकिन गाँव की भौगोलिक दूरी और अलगाव का मतलब यह भी है कि दूसरे स्थानों पर उपलब्ध कई अवसर और संसाधन यहाँ तक नहीं पहुँच पाते।यहाँ बड़े होने वाले बच्चे के लिए शिक्षा की यात्रा एक खालीपन से शुरू होती है।गाँव में कोई प्री-स्कूल नहीं है। छह वर्ष से कम उम्र के बच्चों के लिए सीखने, खेलने और स्कूल के लिए तैयार होने का कोई स्थानीय स्थान नहीं है। कक्षा 1 से आगे परिवारों के पास आसपास स्कूलों के सीमित विकल्प हैं। और कक्षा 8 के बाद पढ़ाई जारी रखने के लिए अक्सर बच्चों को रोज़ लगभग 10 किलोमीटर दूर जाना पड़ता है।जब बच्चे बड़ी कक्षाओं तक पहुँचते हैं, तब तक उनमें से कई पढ़ाई में पीछे रह चुके होते हैं। हमारे सामुदायिक सर्वेक्षण में पाया गया कि 10 में से 7 युवा अपनी कक्षा के स्तर पर पढ़ और गणित नहीं कर पाते, और लगभग 3 में से 1 बच्चा कक्षा 9 तक पहुँचने से पहले पढ़ाई छोड़ देता है।लेकिन हर आँकड़े के पीछे एक बच्चा है।गाँव के एक 18 वर्षीय बच्चे ने हमें बताया कि उसे पहली बार कक्षा 5 में अपने शिक्षक की बात समझ में आने लगी—क्योंकि शिक्षक हिंदी में पढ़ाते थे, थारू में नहीं। यहाँ के युवाओं में महत्वाकांक्षा की कमी नहीं है। कमी है तो अवसरों और पहुँच की।इसलिए हम पूछते हैं:क्या एक छोटे, दूरदराज़ गाँव में पैदा होने का मतलब यह होना चाहिए कि आपको सीखने के कम अवसर मिलें?हमें नहीं लगता कि ऐसा होना चाहिए।इसी विश्वास के साथ हमने विद्या वृक्ष गुरुकुल (VVG) शुरू किया।VVG एक समुदाय द्वारा संचालित लर्निंग सेंटर है, जिसका उद्देश्य गाँव के बच्चों के लिए गुणवत्तापूर्ण शिक्षा को उनके घर के करीब लाना है। यह एक सुरक्षित और आनंदमय जगह है, जहाँ बच्चे अपनी बुनियादी क्षमताएँ मजबूत करते हैं, आत्मविश्वास विकसित करते हैं, सवाल पूछते हैं, अपनी रुचियों को खोजते हैं और अपनी क्षमताओं को पहचानते हैं।हम स्थानीय समुदाय के युवाओं को शिक्षक बनने के लिए प्रशिक्षित करते हैं, क्योंकि शिक्षा तक पहुँच सिर्फ एक इमारत तक पहुँच होने का नाम नहीं है—इसके लिए ऐसे लोग भी चाहिए जो बच्चों, उनकी भाषा, उनके परिवेश और उनके समुदाय को समझते हों।हम ऐसा सीखने का वातावरण बना रहे हैं, जहाँ किशन नगर का हर बच्चा बड़े सपने देख सके और उन्हें जितना दूर ले जाना चाहे, उतना दूर ले जा सके।क्योंकि बच्चे का जन्म कहाँ हुआ है, यह तय नहीं करना चाहिए कि वह क्या सपना देख सकता है—या अपने सपने को कितनी दूर तक ले जा सकता है।हमारा विज़न - एक ऐसा भविष्य जहाँ हर ग्रामीण बच्चा आगे बढ़े और गाँव के समुदाय समृद्ध हों।इस दान उत्सव, आप किसी बच्चे के लिए यह अवसर बनाने में मदद कर सकते हैं। ❤️इस दान उत्सव, आप क्या उपहार देंगे?🚌 एक फील्ड ट्रिप — ₹1,500 📚 एक महीने की कहानी की किताबें — ₹2,500 🎒 एक महीने की सीखने की यात्रा — ₹4,100 🌱 6 महीने की सीखने की यात्रा — ₹25,000 🌟 एक साल का अवसर — ₹50,000 🚀 दो साल साथ बढ़ने का अवसर — ₹1,00,000अपना उपहार चुनें → अपना दान दें → एक बच्चे की यात्रा का हिस्सा बनें।₹140 से भी कम प्रतिदिन किसी बच्चे की सीखने की यात्रा को जारी रख सकता है।आपका सहयोग उपलब्ध कराने में मदद करता है:प्रशिक्षित और संवेदनशील शिक्षकरोज़ाना सीखने और अभ्यास के अवसरकिताबें और सीखने की सामग्रीगतिविधियों और प्रोजेक्ट्स के माध्यम से सीखनासुरक्षित, आनंदमय सीखने का वातावरण और आवश्यक सुविधाएँबच्चे के सामाजिक और भावनात्मक विकास के लिए सहयोगयह सिर्फ किसी बच्चे की पढ़ाई में मदद करने की बात नहीं है।यह उसे एक ऐसी मजबूत नींव देने की बात है, जिस पर वह अपनी पसंद का भविष्य बना सके। 🌱",
       "patient_name": null,
       "condition": null,
-      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1791305958/production/images/campaign/1061778/57660_sehyxj_1791305959.webp",
-      "amount_raised_inr": 15770.0,
-      "amount_goal_inr": 5000000.0,
-      "deadline_iso": "2026-12-31",
-      "days_left": 74,
-      "campaign_url": "https://milaap.org/fundraisers/support-madhumita-debnath",
+      "image_url": "https://cfstatic.give.do/d0cb95af-7835-41c3-b9d6-72cf3559cf3a.webp",
+      "amount_raised_inr": 102000.0,
+      "amount_goal_inr": 2100000.0,
+      "deadline_iso": "2026-11-20",
+      "days_left": 33,
+      "campaign_url": "https://give.do/fundraisers/sponsor-a-child-in-kisun-nagar-village-to-access-high-quality-education",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-18T08:31:10.510296+00:00"
+      "scraped_at_iso": "2026-10-18T15:19:24.128579+00:00"
+    },
+    {
+      "id": "givedo-6acb54cb",
+      "source": "givedo",
+      "title": "From Anganwadi to Class 10: Stand With Children in Arunachal (Annual Fundraiser Campaign for AY 2026-27)",
+      "description": "FROM FIRST STEPS TO BOARD EXAMSIn Changlang district of Arunachal Pradesh, thousands of children are growing up in remote communities and government schools. They have the same dreams as children everywhere—to learn, to succeed, to continue their education and to build a better future.But opportunity does not always reach every child equally.Some children need stronger learning foundations in their early years.Some reach Class 10 carrying learning gaps from earlier grades.And when the Board Examination arrives, they may need additional teaching, practice, materials and encouragement to prepare with confidence.This is where we want to help.Through this campaign, the India Foundation For Education Transformation (IFET) is raising ₹7,00,000 over 45 days to support children at two important stages of their educational journey:₹3,00,000 — Anganwadi / Early Childhood EducationSupporting 10 Model Anganwadi Centres with better learning environments, materials and training.₹4,00,000 — Board Support Programme 2026-27 SessionSupporting students across 25 government secondary schools appearing for CBSE Class X Board Exam in March 2027, including intensive academic intervention in 10 schools, with learning materials, remedial support, assessment and preparation for the Class 10 Board Examination.From the first steps of learning to one of the most important examinations of school life, we want to help children get the support they deserve.WHY WE ARE DOING THISEducation is not one moment.It is a journey.A child who gets opportunities to learn, play, communicate and build foundational skills early in life enters the next stage of education with a stronger foundation.And a student approaching Class 10 needs more than a textbook. They need opportunities to practise, understand their mistakes, receive additional support and prepare for the examination with confidence.Our work focuses on both ends of that journey.WE HAVE SEEN WHAT STRUCTURED SUPPORT CAN DO.At GSS Gautampur, the Class 10 pass percentage increased from:6.9% → 58% → 68%2023 → 2024 → 2025And at GSS Dumpather, it increased from:6.9% → 52% → 72%2023 → 2024 → 2025 These results are not a promise that every student will pass.They are evidence that structured, teacher-supported intervention can make a meaningful difference.NOW, WE WANT TO DO MORE.This year, we want to reach more students and strengthen support at two critical stages of their learning journey.Early childhood.And Class 10.WHAT WE ARE RAISINGWe are raising ₹7,00,000 over 45 days to support two education programmes in Changlang district, Arunachal Pradesh.₹7 lakh. Two critical stages of a child’s learning journey. One shared goal: giving children in Changlang stronger opportunities to learn and move forward.PROGRAMME 1: ANGANWADI ECCE PROGRAMLearning begins long before Class 10.A child's educational journey does not begin with a textbook.It begins much earlier—with language, movement, play, curiosity, numbers, stories and the confidence to participate.Our Anganwadi / Early Childhood Care and Education programmefocuses on strengthening this important stage of learning.Our goalWe are supporting 10 Model Anganwadi Centres with:₹2,00,000 — Centre Infrastructure SupportCreating more child-friendly and functional learning spaces.₹30,000 — Learning MaterialsAge-appropriate materials that encourage children to learn through play, activity and exploration.₹70,000 — TrainingSupporting Anganwadi workers with practical approaches to early childhood learning.Total: ₹3,00,000The aim is not simply to make centres look better. It is to make them better places for children to learn.PROGRAMME 2: BOARD SUPPORTHelping Class 10 students prepare for their Board ExamsClass 10 can be a decisive year.For students who are already struggling with foundational gaps our Board Support Programme is designed around diagnosis, targeted teaching, practice, testing and re-intervention.Implementation Plan of the Board Exam preparation in the run up to CBSE Board Exam to be held in March 2027 is here below:https://drive.google.com/file/d/132N6Mep-MAE3CLFSxHflJtlMqo5YNsgc/view?usp=sharingOur reach25 government secondary schools across Changlang district will receive basic district-wide support through learning materials, counselling and teacher resources.Within this, 10 schools in Bordumsa and Diyun Circles will receive intensive support through the full intervention model.The programme also operates through three centralised after-school remedial venues for students who need additional support.HOW YOUR DONATION WILL HELPYour contribution will directly add to the resources available for these two programmes.₹500Helps us strengthen the pool of learning resources and programme materials.₹1,000Helps us provide additional learning and academic support.₹2,500Helps contribute towards materials, remedial support and programme delivery.₹5,000Helps us extend support to more children and learning activities.₹10,000+Helps strengthen the programme at school or centre level.Every contribution matters.WHERE YOUR ₹7 LAKH WILL GOWHY IFET?Who we areIndia Foundation for Education Transformation (IFET) is a grassroots organisation working with communities and government education systems in Arunachal Pradesh.Our work focuses on improving educational opportunities for children and young people in underserved communities.We work alongside schools, teachers, communities and government education departments rather than operating separately from the system.Help Children Learn, Grow &amp; Succeed.A child's future should not depend on where they are born.Donate today. Share the campaign. Help a child move forward.India Foundation For Education Transformation (IFET)",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/44a4c8c9-f0cf-493c-958d-9c98ba5445fc.webp",
+      "amount_raised_inr": 144101.0,
+      "amount_goal_inr": 700000.0,
+      "deadline_iso": "2026-12-01",
+      "days_left": 44,
+      "campaign_url": "https://give.do/fundraisers/from-anganwadi-to-class-10-stand-with-children-in-arunachal-annual-fundraiser-campaign-for-ay-2026-27",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-10-18T15:19:24.128340+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -180,14 +197,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 186504693.52,
+      "amount_raised_inr": 186549773.73,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2027-01-20",
       "days_left": 94,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-18T08:31:13.571645+00:00"
+      "scraped_at_iso": "2026-10-18T15:19:24.128158+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -197,14 +214,48 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 92964939.98,
+      "amount_raised_inr": 94331943.86,
       "amount_goal_inr": 100000000.0,
       "deadline_iso": "2027-02-28",
       "days_left": 133,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-18T08:31:13.571726+00:00"
+      "scraped_at_iso": "2026-10-18T15:19:24.128087+00:00"
+    },
+    {
+      "id": "givedo-649bfaf5",
+      "source": "givedo",
+      "title": "Rescue & Restore girls trafficked into prostitution",
+      "description": "There are millions of women and children who are victims of trafficking in India, in 2018, NCRB data shows over 2 lakh women and children went missing.It is regarded that the majority of women and girls are trafficked for sexual exploitation, they are lured away by promises of better lives, jobs, education, even love, while traffickers also prey on those in vulnerable situations and coerce them into prostitution.Trafficked girls are subjected to physical, mental and sexual abuse in order for them to submit and are forced to entertain 20-30 customers a day. While conducting rescue operations, we’ve also found girls crammed into hidden rooms with little to no ventilation and limited food/water.Mumbai, Pune, Delhi and Bangalore are known as destination areas, where girls are trafficked to, cities like West Bengal, Madhya Pradesh, Karnataka etc, are known as source areas, which are areas where girls are trafficked from, even countries like Nepal and Bangladesh as well.Traditional prostitution areas like Red Light areas are present in most major cities however, there is now an increase in the use of establishments like Massage parlors, spas, lodges and even private residences. \n Since 2000 we've been conducting rescue operations across the country and have rescued thousands of girls. We currently operate 4 fully equipped shelter homes:Mumbai – 100 GirlsBoisar – 125 GirlsPune – 100 GirlsDelhi – 100 GirlsWe are also entrusted with caring for girls rescued by the police and other anti-trafficking organizations.Rescued girls need immediate healthcare and counselling, we have in house counselors and doctors on call, while we also work with government/private hospitals and partner with mental health organizations so that our girls get the best support. Each girl has an individual care plan created which is developed keeping her best interests in mind. We employ various trainers who train the girls in various forms of vocations like computers, tailoring, bag making, jewelry making, beauty therapist, spoken English, basic literacy and even support them with formal education through NIOS, government schools and colleges.Survivors are also part of Child committee’s in each home where child leaders are groomed to represent their groups’ and actively participate in the management of the home.Our legal teams will also be working with them to help claim compensation and assist the state in prosecuting perpetrators. \n Our goal is to help women and girls who have been forced into prostitution, to rescue them, to provide them with all the support they need to recover and move forward with their lives.Each year we rescue an average of 150 girls, while we provide care and protection to 400 – 500 women and girls with a wide range of programs and help them get home.Last year we rescued 155 girls, cared for 533 girls and helped 535 girls get home.Our goal for this year is to rescue 200 women and girls and provide support to about 600 as well.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/e1f74617-7be7-45dd-9318-32702a9b4955.jpg",
+      "amount_raised_inr": 2005067.15,
+      "amount_goal_inr": 40785530.0,
+      "deadline_iso": "2030-03-31",
+      "days_left": 1260,
+      "campaign_url": "https://give.do/fundraisers/241",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-10-18T15:19:24.128193+00:00"
+    },
+    {
+      "id": "givedo-649bf4a8",
+      "source": "givedo",
+      "title": "Medical Aid to 500 persons in Need",
+      "description": "Long-term illness deprives a person of the ability to earn his/her livelihood. During the same time, medical expenses rise, throwing the entire family's wealth into crisis and despair. As a result, people stop undergoing treatment before fully recovering, which worsens the illness. The family eventually falls victim to the disease and poverty cycle. They need urgent patient support at this point of their failing physical and mental health situations. \n ATMA Foundation aims to provide regular support to meet the medical needs of 500 deserving persons suffering from long-term illness who are struggling financially. This includes supporting the cost of medicines and other essentials, as well as routine procedures like dialysis, physiotherapy, etc. \n 500 persons from financially backward situations who are suffering from long-term illness will get medical aid. This will be a great relief to the family. Regular support will ensure that treatment is consistent which will improve the quality of life. In time, they might eventually improve enough to find a suitable job. This will help the family to break out of the poverty cycle.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/e8f64506-730a-437a-8dc4-e823ff687d88.jpg",
+      "amount_raised_inr": 51350.0,
+      "amount_goal_inr": 6000000.0,
+      "deadline_iso": "2030-03-31",
+      "days_left": 1260,
+      "campaign_url": "https://give.do/fundraisers/medical-aid-to-500-persons-in-need1",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-10-18T15:19:24.128470+00:00"
     },
     {
       "id": "givedo-688c4cc5",
@@ -214,14 +265,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/4bc9b10a-7428-494e-9c42-70d43fb3395d.webp",
-      "amount_raised_inr": 9351319.0,
+      "amount_raised_inr": 9501317.0,
       "amount_goal_inr": 41000000.0,
       "deadline_iso": "2030-12-31",
       "days_left": 1535,
       "campaign_url": "https://give.do/fundraisers/help-save-young-girls-from-trafficking",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-18T08:31:13.571741+00:00"
+      "scraped_at_iso": "2026-10-18T15:19:24.128115+00:00"
     }
   ]
 }
