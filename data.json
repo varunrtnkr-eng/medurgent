@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T22:12:17.295005+00:00",
+  "generated_at": "2026-10-19T03:02:28.363293+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 6,
@@ -20,23 +20,6 @@
   "total": 11,
   "campaigns": [
     {
-      "id": "givedo-6ac615aa",
-      "source": "givedo",
-      "title": "This Navratri, help Gau Seva Dham rescue and care for abandoned and injured cows",
-      "description": "In 2013, a critically injured cow lay helpless on the roadside after an accident. Vehicles and passersby continued to move past, leaving the animal to suffer. Devi Chitralekha, then just 16, stopped to help and administered first aid. What she witnessed that day revealed a painful reality, injured and abandoned animals often have no one to turn to when they are injured or suffering from illness. That moment became the beginning of a mission. On May 26, 2013, Devi Chitralekha established Gau Seva Dham Hospital on a 5-acre plot in Hodal, Haryana, to give injured, sick and abandoned animals a safe place to receive treatment, shelter and care. This mission functions on public support and contributions from donors is critical to continue medical care for hundreds of voiceless animals. Donate generously now!Donate easily through UPI, all debit/credit cards and net banking.Why donations matter for injured animalsEvery day, animals arrive at Gau Seva Dham after accidents, illness, abandonment or prolonged neglect. Some are rescued from roads and unsafe conditions. Others are brought by members of the public or referred for treatment.Many need immediate medical attention. Some need surgery and months of recovery. Others are elderly, disabled or blind and may never be able to survive independently again.Gau Seva Dham exists for these animals.Run by World Sankirtan Tour Trust, Gau Seva Dham Hospital &amp; Research Centre provides free treatment and care to animals in need. The centre combines rescue, veterinary treatment, shelter, feeding, rehabilitation and lifelong care under one mission. A sanctuary for animals in distressToday, 500+ animals are under care or admitted at the facility, while the hospital and rescue teams continue to respond to animals requiring treatment and emergency assistance. Over the years, Gau Seva Dham has treated tens of thousands of animals, providing medical treatment, surgeries, rescue support and rehabilitation. Behind every number is an animal that needed someone to stop and help.A cow injured on the road.An abandoned animal too weak to fend for itself.An elderly or disabled cow that cannot be returned to the streets.A critically injured animal needing surgery and post-operative care.At Gau Seva Dham, they are not turned away simply because treatment is expensive or because nobody is there to pay.They are given food. They are treated. They are sheltered. And when an animal cannot return to the outside world, Gau Seva Dham continues to care for it for life. The need never stopsEvery rescued animal brings with it an ongoing responsibility: food every day, medicines when required, doctors and caregivers, electricity, shelter, emergency treatment and, for some animals, lifelong support. The need is growing, and so are the costsGau Seva Dham currently requires your urgent support to operate and care for the animals under its responsibility.Your donation covers - Food and fodder for animals- Medicines and medical supplies- Veterinary doctors and animal-care staff- Emergency treatment and surgeries- Ambulance operations and rescue- Diagnostics and hospital requirements- Electricity, cooling and essential utilities- Shelter maintenance- Daily care for animals requiring lifelong supportYour support can help keep this care going.Donate to this fundraiser by Gau Seva Dham Hospital on give.do, India’s most trusted crowdfunding platform for NGOs, and help rescue, treat and care for injured, ill and abandoned animals.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://give-do-compressed-video.s3.ap-southeast-1.amazonaws.com/7f3ed810-78de-4c4d-8a1e-cf21e196b804.webp",
-      "amount_raised_inr": 56058.0,
-      "amount_goal_inr": 5000000.0,
-      "deadline_iso": "2026-10-19",
-      "days_left": 1,
-      "campaign_url": "https://give.do/fundraisers/this-navratri-help-gau-seva-dham-rescue-and-care-for-abandoned-and-injured-cows",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-10-18T22:12:15.786404+00:00"
-    },
-    {
       "id": "givedo-6835addd",
       "source": "givedo",
       "title": "Help visually impaired Shivaprakash give 40 blind girls shelter, education and care",
@@ -44,14 +27,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/04cef85a-b87c-43bf-8088-3e8de6c14a74.webp",
-      "amount_raised_inr": 4989908.0,
+      "amount_raised_inr": 4992409.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-10-20",
-      "days_left": 2,
+      "days_left": 1,
       "campaign_url": "https://give.do/fundraisers/help-visually-impaired-shivaprakash-give-40-blind-girls-shelter-education-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-18T22:12:15.786346+00:00"
+      "scraped_at_iso": "2026-10-19T03:02:27.138142+00:00"
     },
     {
       "id": "milaap-1051576",
@@ -61,14 +44,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1788205332/production/images/campaign/1051576/rn_image_picker_lib_temp_a4521dd9-ae5b-4bab-aed1-2de11e07ebde_vho44n_1788205343.webp",
-      "amount_raised_inr": 68770.0,
+      "amount_raised_inr": 68898.0,
       "amount_goal_inr": 12000000.0,
       "deadline_iso": "2026-10-31",
-      "days_left": 13,
+      "days_left": 12,
       "campaign_url": "https://milaap.org/fundraisers/support-anjana-sharma-2",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-18T22:12:12.846957+00:00"
+      "scraped_at_iso": "2026-10-19T03:02:24.177095+00:00"
     },
     {
       "id": "milaap-1063804",
@@ -81,11 +64,11 @@
       "amount_raised_inr": 3587.0,
       "amount_goal_inr": 1600000.0,
       "deadline_iso": "2026-11-07",
-      "days_left": 20,
+      "days_left": 19,
       "campaign_url": "https://milaap.org/fundraisers/support-shrusha-shende",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-18T22:12:12.846996+00:00"
+      "scraped_at_iso": "2026-10-19T03:02:24.177144+00:00"
     },
     {
       "id": "milaap-1064435",
@@ -98,11 +81,11 @@
       "amount_raised_inr": 16542.0,
       "amount_goal_inr": 2500000.0,
       "deadline_iso": "2026-11-10",
-      "days_left": 23,
+      "days_left": 22,
       "campaign_url": "https://milaap.org/fundraisers/support-parikshit-pranesh",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-18T22:12:12.846739+00:00"
+      "scraped_at_iso": "2026-10-19T03:02:24.176853+00:00"
     },
     {
       "id": "milaap-1064870",
@@ -112,14 +95,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.18,w_0.1,x_0.44,y_0.12/c_fill,h_198,w_264/v1791809320/production/images/campaign/1064870/WhatsApp_Image_2026-10-08_at_9.45.49_PM_g5yrgt_1791809445.webp",
-      "amount_raised_inr": 7315.0,
+      "amount_raised_inr": 7340.0,
       "amount_goal_inr": 2000000.0,
       "deadline_iso": "2026-11-11",
-      "days_left": 24,
+      "days_left": 23,
       "campaign_url": "https://milaap.org/fundraisers/support-abhinav-tiwari-3",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-18T22:12:12.846846+00:00"
+      "scraped_at_iso": "2026-10-19T03:02:24.176949+00:00"
     },
     {
       "id": "milaap-1064701",
@@ -129,14 +112,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/e_blur_faces:1100/c_fill,h_198,w_264/v1792076131/production/images/campaign/1064701/temp_file_20261015_202528_gqexob_1792076133.webp",
-      "amount_raised_inr": 3078.0,
+      "amount_raised_inr": 3080.0,
       "amount_goal_inr": 500000.0,
       "deadline_iso": "2026-11-11",
-      "days_left": 24,
+      "days_left": 23,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-silpa-sinha-sur",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-18T22:12:12.847050+00:00"
+      "scraped_at_iso": "2026-10-19T03:02:24.177198+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -146,14 +129,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 186580633.78,
+      "amount_raised_inr": 186708210.11,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2027-01-20",
-      "days_left": 94,
+      "days_left": 93,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-18T22:12:15.786250+00:00"
+      "scraped_at_iso": "2026-10-19T03:02:27.138056+00:00"
     },
     {
       "id": "givedo-6981cdda",
@@ -166,11 +149,11 @@
       "amount_raised_inr": 50487.64,
       "amount_goal_inr": 15000000.0,
       "deadline_iso": "2027-02-03",
-      "days_left": 108,
+      "days_left": 107,
       "campaign_url": "https://give.do/fundraisers/ease-the-suffering-of-cancer-patients-with-treatment-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-18T22:12:15.786361+00:00"
+      "scraped_at_iso": "2026-10-19T03:02:27.138154+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -180,14 +163,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 95318707.5,
+      "amount_raised_inr": 95850172.95,
       "amount_goal_inr": 100000000.0,
       "deadline_iso": "2027-02-28",
-      "days_left": 133,
+      "days_left": 132,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-18T22:12:15.786281+00:00"
+      "scraped_at_iso": "2026-10-19T03:02:27.138082+00:00"
+    },
+    {
+      "id": "givedo-68b5a344",
+      "source": "givedo",
+      "title": "Feed the Hungry and Restore Hope",
+      "description": "I am fundraising for a cause close to my heart, to bring a lasting change in the lives of the underprivileged. To help me create more impact and touch more lives, I need your support and contribution. Please back my fundraiser so that together we can build a better India for all of us. Pledge your support, donate now!",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/b81bea6f-24d2-42fc-aa7d-2a464c910737.webp",
+      "amount_raised_inr": 3411317.0,
+      "amount_goal_inr": 20000000.0,
+      "deadline_iso": "2027-12-31",
+      "days_left": 438,
+      "campaign_url": "https://give.do/fundraisers/feed-the-hungry-and-restore-hope",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-10-19T03:02:27.138165+00:00"
     },
     {
       "id": "givedo-688c4cc5",
@@ -197,14 +197,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/4bc9b10a-7428-494e-9c42-70d43fb3395d.webp",
-      "amount_raised_inr": 9581171.0,
+      "amount_raised_inr": 9614271.0,
       "amount_goal_inr": 41000000.0,
       "deadline_iso": "2030-12-31",
-      "days_left": 1535,
+      "days_left": 1534,
       "campaign_url": "https://give.do/fundraisers/help-save-young-girls-from-trafficking",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-18T22:12:15.786306+00:00"
+      "scraped_at_iso": "2026-10-19T03:02:27.138106+00:00"
     }
   ]
 }
