@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T09:05:56.357098+00:00",
+  "generated_at": "2026-10-20T16:17:09.875749+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 6,
@@ -20,23 +20,6 @@
   "total": 11,
   "campaigns": [
     {
-      "id": "givedo-6835addd",
-      "source": "givedo",
-      "title": "Help visually impaired Shivaprakash give 40 blind girls shelter, education and care",
-      "description": "At the age of 8, Shivaprakash lost his vision. But what could have become a life of despair became something else entirely. Shivaprakash went on to complete his Master’s degree and eventually founded the Divya Jyothi Charitable Trust, an organisation born out of personal struggle and driven by a powerful mission, to educate and empower blind girls, who are among the most neglected and marginalised in society.In many families, blind daughters are hidden away, seen as a burden, and in some cases, even as a curse. They are denied the right to dream, grow, or be independent. At Divya Jyothi, Shivaprakash is changing that narrative. Your support can ensure that no blind girl is left behind simply because of her disability. Donate today to help them stand tall, proud, and self-reliant. Donate nowDonate easily through UPI, all debit/credit cards and net banking. Charitable donations to this fundraising campaign are tax exempted under 80G of the Income Tax Act (India).Education is survivalIn communities where gender and disability intersect, blind girls face deep-rooted prejudice and extreme isolation. Many are denied even basic schooling and are left dependent on family members for the rest of their lives. Recognising this, Divya Jyothi began with a simple yet radical step: to provide blind girls with computer training so they could access the digital world and open doors to employment.But the journey didn’t stop there. The NGO went on to launch a braille transcription centre, ensuring girls have access to learning materials that suit their needs. As Shivaprakash says, “Without education, no one can do anything. That's why education is even more important for blind girls.” Education isn’t just about literacy, it’s about self-worth, decision-making, mobility, and freedom. It’s about giving these girls the same right to participate in society that sighted individuals often take for granted.From rejection to respectIn a country where blind girls are often treated as liabilities, Divya Jyothi is rewriting their futures. Over 1,000 girls have graduated from the Trust’s training centres. Many of them come from families that had almost given up on them. Today, these same girls are government employees, corporate professionals, and role models in their communities.More than 200 graduates have secured jobs in the public sector. Over 300 are now employed in private companies. Every success story is proof that with the right support, blind girls don’t just survive, they thrive. “Most girls are neglected by their families. This is a major challenge for them,” says Shivaprakash. By providing them with skills and confidence, Divya Jyothi is turning neglect into empowerment and helplessness into hope.Donate to help 40 blind girls find independenceAlmost 40 girls are currently enrolled and will directly benefit from your support. These are girls with potential, courage, and ambition—but they lack the resources to pursue an independent life. “I request each one to come forward and donate to help blind girls lead independent lives in society,” urges Shivaprakash.Help Divya Jyothi Charitable Trust break the cycle of neglect. Your donation can give a blind girl her first lesson, her first job, and a life of dignity.Donate to this fundraiser by Give, India’s most trusted online donation platform, to support Divya Jyothi Charitable Trust in its mission to shelter and educate neglected and abandoned blind girls.",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/04cef85a-b87c-43bf-8088-3e8de6c14a74.webp",
-      "amount_raised_inr": 5044723.0,
-      "amount_goal_inr": 5000000.0,
-      "deadline_iso": "2026-10-20",
-      "days_left": 0,
-      "campaign_url": "https://give.do/fundraisers/help-visually-impaired-shivaprakash-give-40-blind-girls-shelter-education-and-care",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-10-20T09:05:55.056290+00:00"
-    },
-    {
       "id": "milaap-1051576",
       "source": "milaap",
       "title": "Stand with Mumma: A Critical Appeal for a Life-Saving Lung Transplant",
@@ -44,14 +27,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1788205332/production/images/campaign/1051576/rn_image_picker_lib_temp_a4521dd9-ae5b-4bab-aed1-2de11e07ebde_vho44n_1788205343.webp",
-      "amount_raised_inr": 70143.0,
+      "amount_raised_inr": 70363.0,
       "amount_goal_inr": 12000000.0,
       "deadline_iso": "2026-10-31",
       "days_left": 11,
       "campaign_url": "https://milaap.org/fundraisers/support-anjana-sharma-2",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-20T09:05:51.882857+00:00"
+      "scraped_at_iso": "2026-10-20T16:17:06.129292+00:00"
     },
     {
       "id": "milaap-1062171",
@@ -61,14 +44,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1791032549/production/images/campaign/1062171/temp_file_20261003_183222_uxynfr_1791032551.webp",
-      "amount_raised_inr": 2871.0,
+      "amount_raised_inr": 2964.0,
       "amount_goal_inr": 1000000.0,
       "deadline_iso": "2026-11-02",
       "days_left": 13,
       "campaign_url": "https://milaap.org/fundraisers/support-mr-armaan-j-paul",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-20T09:05:51.882993+00:00"
+      "scraped_at_iso": "2026-10-20T16:17:06.129348+00:00"
     },
     {
       "id": "milaap-1064435",
@@ -78,14 +61,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1791711029/production/images/campaign/1064435/medical_1553587798_1791698203.webp",
-      "amount_raised_inr": 16571.0,
+      "amount_raised_inr": 16636.0,
       "amount_goal_inr": 2500000.0,
       "deadline_iso": "2026-11-10",
       "days_left": 21,
       "campaign_url": "https://milaap.org/fundraisers/support-parikshit-pranesh",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-20T09:05:51.882944+00:00"
+      "scraped_at_iso": "2026-10-20T16:17:06.129333+00:00"
     },
     {
       "id": "milaap-1064870",
@@ -95,31 +78,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.18,w_0.1,x_0.44,y_0.12/c_fill,h_198,w_264/v1791809320/production/images/campaign/1064870/WhatsApp_Image_2026-10-08_at_9.45.49_PM_g5yrgt_1791809445.webp",
-      "amount_raised_inr": 8042.0,
+      "amount_raised_inr": 8059.0,
       "amount_goal_inr": 2000000.0,
       "deadline_iso": "2026-11-11",
       "days_left": 22,
       "campaign_url": "https://milaap.org/fundraisers/support-abhinav-tiwari-3",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-20T09:05:51.882914+00:00"
+      "scraped_at_iso": "2026-10-20T16:17:06.129309+00:00"
     },
     {
-      "id": "milaap-1064701",
+      "id": "milaap-1066840",
       "source": "milaap",
-      "title": "Help save my fatherless child's leg after a critical accident!",
-      "description": "I am raising this campaign for my child, a bright and energetic 7-year-old, whose life changed in an instant on an ordin...",
+      "title": "A Helping Hand, A Ray of Hope",
+      "description": "I am raising this campaign for my husband, Sakharam Bhagwan Dhawale, who is 48 years old and has been fighting a devasta...",
       "patient_name": null,
       "condition": null,
-      "image_url": "https://cimages.milaap.org/milaap/image/upload/e_blur_faces:1100/c_fill,h_198,w_264/v1792076131/production/images/campaign/1064701/temp_file_20261015_202528_gqexob_1792076133.webp",
-      "amount_raised_inr": 3329.0,
-      "amount_goal_inr": 500000.0,
-      "deadline_iso": "2026-11-11",
-      "days_left": 22,
-      "campaign_url": "https://milaap.org/fundraisers/support-child-of-silpa-sinha-sur",
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1792382229/production/images/campaign/1066840/medical_1553587798_1792381860.webp",
+      "amount_raised_inr": 4228.0,
+      "amount_goal_inr": 2500000.0,
+      "deadline_iso": "2026-11-18",
+      "days_left": 29,
+      "campaign_url": "https://milaap.org/fundraisers/support-dhawale-sakharam-bhagwan",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-20T09:05:51.882965+00:00"
+      "scraped_at_iso": "2026-10-20T16:17:06.129322+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -129,14 +112,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 186759250.63,
+      "amount_raised_inr": 186811713.68,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2027-01-20",
       "days_left": 92,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-20T09:05:55.056196+00:00"
+      "scraped_at_iso": "2026-10-20T16:17:08.723925+00:00"
     },
     {
       "id": "givedo-6981cdda",
@@ -153,7 +136,7 @@
       "campaign_url": "https://give.do/fundraisers/ease-the-suffering-of-cancer-patients-with-treatment-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-20T09:05:55.056312+00:00"
+      "scraped_at_iso": "2026-10-20T16:17:08.723972+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -163,14 +146,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 98872113.14,
+      "amount_raised_inr": 99147146.14,
       "amount_goal_inr": 100000000.0,
       "deadline_iso": "2027-02-28",
       "days_left": 131,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-20T09:05:55.056227+00:00"
+      "scraped_at_iso": "2026-10-20T16:17:08.723946+00:00"
     },
     {
       "id": "givedo-68b5a344",
@@ -187,7 +170,7 @@
       "campaign_url": "https://give.do/fundraisers/feed-the-hungry-and-restore-hope",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-20T09:05:55.056329+00:00"
+      "scraped_at_iso": "2026-10-20T16:17:08.723979+00:00"
     },
     {
       "id": "givedo-688c4cc5",
@@ -197,14 +180,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/4bc9b10a-7428-494e-9c42-70d43fb3395d.webp",
-      "amount_raised_inr": 10016106.0,
+      "amount_raised_inr": 10048280.0,
       "amount_goal_inr": 41000000.0,
       "deadline_iso": "2030-12-31",
       "days_left": 1533,
       "campaign_url": "https://give.do/fundraisers/help-save-young-girls-from-trafficking",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-20T09:05:55.056258+00:00"
+      "scraped_at_iso": "2026-10-20T16:17:08.723963+00:00"
+    },
+    {
+      "id": "givedo-6a324f52",
+      "source": "givedo",
+      "title": "Save orphaned and abandoned children",
+      "description": "I am fundraising for a cause close to my heart, to bring a lasting change in the lives of the underprivileged. To help me create more impact and touch more lives, I need your support and contribution. Please back my fundraiser so that together we can build a better India for all of us. Pledge your support, donate now!",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/187af56f-6d0b-42fc-a10d-4e723246d8ce.webp",
+      "amount_raised_inr": 367415.0,
+      "amount_goal_inr": 15000000.0,
+      "deadline_iso": "2032-08-31",
+      "days_left": 2142,
+      "campaign_url": "https://give.do/fundraisers/save-orphaned-and-abandoned-children",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-10-20T16:17:08.723985+00:00"
     }
   ]
 }
