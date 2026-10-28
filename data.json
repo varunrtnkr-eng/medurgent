@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T23:27:23.385702+00:00",
+  "generated_at": "2026-10-28T03:46:46.270234+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 8,
@@ -20,6 +20,23 @@
   "total": 14,
   "campaigns": [
     {
+      "id": "milaap-1062788",
+      "source": "milaap",
+      "title": "Help Tamara fight Lymphoma and reclaim her life",
+      "description": "I am raising this campaign for my daughter, Tamara Moraes, who is 29 years old and has recently been diagnosed with Lymp...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1791210459/production/images/campaign/1062788/medical_1553587798_1791210458.webp",
+      "amount_raised_inr": 4330.0,
+      "amount_goal_inr": 550000.0,
+      "deadline_iso": "2026-11-04",
+      "days_left": 7,
+      "campaign_url": "https://milaap.org/fundraisers/support-tamara-moraes",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-10-28T03:46:42.513011+00:00"
+    },
+    {
       "id": "milaap-1065850",
       "source": "milaap",
       "title": "Help Manikandan get a life-saving kidney transplant!",
@@ -30,11 +47,11 @@
       "amount_raised_inr": 4297.0,
       "amount_goal_inr": 1200000.0,
       "deadline_iso": "2026-11-14",
-      "days_left": 18,
+      "days_left": 17,
       "campaign_url": "https://milaap.org/fundraisers/support-manikandan-k-6",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-27T23:27:19.161047+00:00"
+      "scraped_at_iso": "2026-10-28T03:46:42.512957+00:00"
     },
     {
       "id": "milaap-1065761",
@@ -47,28 +64,11 @@
       "amount_raised_inr": 5497.0,
       "amount_goal_inr": 700000.0,
       "deadline_iso": "2026-11-14",
-      "days_left": 18,
+      "days_left": 17,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-newton-vargheese",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-27T23:27:19.161086+00:00"
-    },
-    {
-      "id": "milaap-1066840",
-      "source": "milaap",
-      "title": "A Helping Hand, A Ray of Hope",
-      "description": "I am raising this campaign for my husband, Sakharam Bhagwan Dhawale, who is 48 years old and has been fighting a devasta...",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1792382229/production/images/campaign/1066840/medical_1553587798_1792381860.webp",
-      "amount_raised_inr": 7435.0,
-      "amount_goal_inr": 2500000.0,
-      "deadline_iso": "2026-11-18",
-      "days_left": 22,
-      "campaign_url": "https://milaap.org/fundraisers/support-dhawale-sakharam-bhagwan",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-10-27T23:27:19.161122+00:00"
+      "scraped_at_iso": "2026-10-28T03:46:42.512992+00:00"
     },
     {
       "id": "milaap-1067594",
@@ -78,14 +78,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1792599057/production/images/campaign/1067594/medical_1553587798_1792599048.webp",
-      "amount_raised_inr": 6820.0,
+      "amount_raised_inr": 7025.0,
       "amount_goal_inr": 3500000.0,
       "deadline_iso": "2026-11-20",
-      "days_left": 24,
+      "days_left": 23,
       "campaign_url": "https://milaap.org/fundraisers/support-arun-singh-16",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-27T23:27:19.160966+00:00"
+      "scraped_at_iso": "2026-10-28T03:46:42.512927+00:00"
     },
     {
       "id": "milaap-1068176",
@@ -95,14 +95,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1792755994/production/images/campaign/1068176/WhatsApp_Image_2026-10-23_at_16.52.53_bz0zpc_1792755994.webp",
-      "amount_raised_inr": 11017.0,
+      "amount_raised_inr": 11212.0,
       "amount_goal_inr": 1200000.0,
       "deadline_iso": "2026-11-22",
-      "days_left": 26,
+      "days_left": 25,
       "campaign_url": "https://milaap.org/fundraisers/support-mr-chandan-kumar",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-27T23:27:19.160904+00:00"
+      "scraped_at_iso": "2026-10-28T03:46:42.512900+00:00"
     },
     {
       "id": "milaap-1068760",
@@ -115,11 +115,11 @@
       "amount_raised_inr": 13885.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-11-24",
-      "days_left": 28,
+      "days_left": 27,
       "campaign_url": "https://milaap.org/fundraisers/support-vidisha-2",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-27T23:27:19.160825+00:00"
+      "scraped_at_iso": "2026-10-28T03:46:42.512841+00:00"
     },
     {
       "id": "milaap-1068926",
@@ -129,14 +129,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1792984476/production/images/campaign/1068926/medical_1553587798_1792984475.webp",
-      "amount_raised_inr": 5419.0,
+      "amount_raised_inr": 5495.0,
       "amount_goal_inr": 4000000.0,
       "deadline_iso": "2026-11-25",
-      "days_left": 29,
+      "days_left": 28,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-ganesh-chandrasekaran-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-27T23:27:19.160996+00:00"
+      "scraped_at_iso": "2026-10-28T03:46:42.512943+00:00"
     },
     {
       "id": "milaap-1051576",
@@ -146,14 +146,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1788205332/production/images/campaign/1051576/rn_image_picker_lib_temp_a4521dd9-ae5b-4bab-aed1-2de11e07ebde_vho44n_1788205343.webp",
-      "amount_raised_inr": 75475.0,
+      "amount_raised_inr": 75539.0,
       "amount_goal_inr": 12000000.0,
       "deadline_iso": "2026-11-30",
-      "days_left": 34,
+      "days_left": 33,
       "campaign_url": "https://milaap.org/fundraisers/support-anjana-sharma-2",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-27T23:27:19.161020+00:00"
+      "scraped_at_iso": "2026-10-28T03:46:42.512976+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -163,14 +163,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 187483746.21,
+      "amount_raised_inr": 187513848.35,
       "amount_goal_inr": 69000000.0,
       "deadline_iso": "2027-01-20",
-      "days_left": 85,
+      "days_left": 84,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-27T23:27:21.784321+00:00"
+      "scraped_at_iso": "2026-10-28T03:46:45.112146+00:00"
     },
     {
       "id": "givedo-6981cdda",
@@ -183,11 +183,11 @@
       "amount_raised_inr": 825996.59,
       "amount_goal_inr": 15000000.0,
       "deadline_iso": "2027-02-03",
-      "days_left": 99,
+      "days_left": 98,
       "campaign_url": "https://give.do/fundraisers/ease-the-suffering-of-cancer-patients-with-treatment-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-27T23:27:21.784367+00:00"
+      "scraped_at_iso": "2026-10-28T03:46:45.112172+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -197,14 +197,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 99961177.92,
+      "amount_raised_inr": 100006770.58,
       "amount_goal_inr": 100000000.0,
       "deadline_iso": "2027-02-28",
-      "days_left": 124,
+      "days_left": 123,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-27T23:27:21.784280+00:00"
+      "scraped_at_iso": "2026-10-28T03:46:45.112112+00:00"
     },
     {
       "id": "givedo-68b5a344",
@@ -214,14 +214,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/b81bea6f-24d2-42fc-aa7d-2a464c910737.webp",
-      "amount_raised_inr": 3517926.0,
+      "amount_raised_inr": 3518926.0,
       "amount_goal_inr": 20000000.0,
       "deadline_iso": "2027-12-31",
-      "days_left": 430,
+      "days_left": 429,
       "campaign_url": "https://give.do/fundraisers/feed-the-hungry-and-restore-hope",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-27T23:27:21.784393+00:00"
+      "scraped_at_iso": "2026-10-28T03:46:45.112186+00:00"
     },
     {
       "id": "givedo-688c4cc5",
@@ -231,14 +231,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/4bc9b10a-7428-494e-9c42-70d43fb3395d.webp",
-      "amount_raised_inr": 10105584.0,
+      "amount_raised_inr": 10112586.0,
       "amount_goal_inr": 41000000.0,
       "deadline_iso": "2030-12-31",
-      "days_left": 1526,
+      "days_left": 1525,
       "campaign_url": "https://give.do/fundraisers/help-save-young-girls-from-trafficking",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-27T23:27:21.784349+00:00"
+      "scraped_at_iso": "2026-10-28T03:46:45.112163+00:00"
     },
     {
       "id": "givedo-6a324f52",
@@ -248,14 +248,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/187af56f-6d0b-42fc-a10d-4e723246d8ce.webp",
-      "amount_raised_inr": 404066.0,
+      "amount_raised_inr": 405666.0,
       "amount_goal_inr": 15000000.0,
       "deadline_iso": "2032-08-31",
-      "days_left": 2135,
+      "days_left": 2134,
       "campaign_url": "https://give.do/fundraisers/save-orphaned-and-abandoned-children",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-10-27T23:27:21.784381+00:00"
+      "scraped_at_iso": "2026-10-28T03:46:45.112180+00:00"
     }
   ]
 }
