@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T03:20:31.466819+00:00",
+  "generated_at": "2026-11-25T13:51:22.493482+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 8,
@@ -20,23 +20,6 @@
   "total": 14,
   "campaigns": [
     {
-      "id": "milaap-1073090",
-      "source": "milaap",
-      "title": "Help Mansi breathe again — she needs a life-saving lung transplant",
-      "description": "Mansi Rewtani, my 24-year-old sister, is fighting a battle no one should have to face at such a young age. We are from B...",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1794211737/production/images/campaign/1073090/medical_1553587798_1794211727.webp",
-      "amount_raised_inr": 21149.0,
-      "amount_goal_inr": 8700000.0,
-      "deadline_iso": "2026-12-09",
-      "days_left": 14,
-      "campaign_url": "https://milaap.org/fundraisers/support-mansi-rewtani",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-11-25T03:20:27.208153+00:00"
-    },
-    {
       "id": "milaap-1074242",
       "source": "milaap",
       "title": "Just 5 Years Old, With a Lifetime of Dreams – Help Save Swayam*",
@@ -44,31 +27,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.49,w_0.67,x_0.16,y_0.24/c_fill,h_198,w_264/v1794934710/production/images/campaign/1074242/8c42ba53-07a9-4565-944f-73ed6155b9b9_fvdto6_1794934711.webp",
-      "amount_raised_inr": 6291.0,
+      "amount_raised_inr": 6626.0,
       "amount_goal_inr": 7000000.0,
       "deadline_iso": "2026-12-12",
       "days_left": 17,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-swapnil-pathak",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-11-25T03:20:27.207942+00:00"
-    },
-    {
-      "id": "milaap-1074231",
-      "source": "milaap",
-      "title": "Help my brother Nitish fight ARDS and breathe again",
-      "description": "I am raising funds for my brother, Nitish Gaokar, who is 31 years old and currently battling a life-threatening conditio...",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1794675014/production/images/campaign/1074231/1000640465_jbkcim_1794675016.webp",
-      "amount_raised_inr": 5289.0,
-      "amount_goal_inr": 3000000.0,
-      "deadline_iso": "2026-12-12",
-      "days_left": 17,
-      "campaign_url": "https://milaap.org/fundraisers/support-nitish-gaokar-1",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-11-25T03:20:27.208110+00:00"
+      "scraped_at_iso": "2026-11-25T13:51:18.260299+00:00"
     },
     {
       "id": "milaap-1075631",
@@ -78,14 +44,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1794922231/production/images/campaign/1075631/rn_image_picker_lib_temp_f318c028-bead-4264-89a0-05ddec662e6a_xepoqh_1794922235.webp",
-      "amount_raised_inr": 7781.0,
+      "amount_raised_inr": 7882.0,
       "amount_goal_inr": 3036434.0,
       "deadline_iso": "2026-12-17",
       "days_left": 22,
       "campaign_url": "https://milaap.org/fundraisers/support-ava-mitra",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-11-25T03:20:27.207990+00:00"
+      "scraped_at_iso": "2026-11-25T13:51:18.260322+00:00"
     },
     {
       "id": "milaap-1076631",
@@ -95,14 +61,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1795184570/production/images/campaign/1076631/PHOTO-2026-11-20-19-18-03_kbaxsh_1795184571.webp",
-      "amount_raised_inr": 5122.0,
+      "amount_raised_inr": 5212.0,
       "amount_goal_inr": 4000000.0,
       "deadline_iso": "2026-12-20",
       "days_left": 25,
       "campaign_url": "https://milaap.org/fundraisers/support-ronald-fernandez-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-11-25T03:20:27.208030+00:00"
+      "scraped_at_iso": "2026-11-25T13:51:18.260349+00:00"
     },
     {
       "id": "milaap-1076772",
@@ -112,14 +78,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1795335005/production/images/campaign/1076772/orvagzxenlfqo4nwiszv_1795335007.webp",
-      "amount_raised_inr": 13527.0,
+      "amount_raised_inr": 14477.0,
       "amount_goal_inr": 6000000.0,
       "deadline_iso": "2026-12-21",
       "days_left": 26,
       "campaign_url": "https://milaap.org/fundraisers/support-ashwin-bhartia",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-11-25T03:20:27.207812+00:00"
+      "scraped_at_iso": "2026-11-25T13:51:18.260173+00:00"
+    },
+    {
+      "id": "milaap-1077263",
+      "source": "milaap",
+      "title": "Help save my 2-year-old from a rare, fatal genetic disorder",
+      "description": "I am raising this campaign for my child, who is just 2 years old and has been diagnosed with Fucosidosis (FUCA1D) — an e...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1795362349/production/images/campaign/1077263/medical_1553587798_1795362340.webp",
+      "amount_raised_inr": 5120.0,
+      "amount_goal_inr": 3000000.0,
+      "deadline_iso": "2026-12-22",
+      "days_left": 27,
+      "campaign_url": "https://milaap.org/fundraisers/support-child-of-hamzath-ali",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-11-25T13:51:18.260369+00:00"
     },
     {
       "id": "milaap-1077360",
@@ -129,14 +112,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1795412098/production/images/campaign/1077360/medical_1553587798_1795412089.webp",
-      "amount_raised_inr": 2802.0,
+      "amount_raised_inr": 2865.0,
       "amount_goal_inr": 900000.0,
       "deadline_iso": "2026-12-23",
       "days_left": 28,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-vanisha",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-11-25T03:20:27.208073+00:00"
+      "scraped_at_iso": "2026-11-25T13:51:18.260396+00:00"
+    },
+    {
+      "id": "milaap-1077656",
+      "source": "milaap",
+      "title": "Help My Sister D/o Hemanth Deepthi Fight For Her Life On ECMO Support",
+      "description": "I am raising funds for my sister daughter of S Hemanth Kumar , Deepthi H, who is 21 years old and is currently battling ...",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1795608150/production/images/campaign/1077656/btabdwayqbshn0b8xtfx_1795608151.webp",
+      "amount_raised_inr": 6771.0,
+      "amount_goal_inr": 4000000.0,
+      "deadline_iso": "2026-12-24",
+      "days_left": 29,
+      "campaign_url": "https://milaap.org/fundraisers/support-deepthi-h",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-11-25T13:51:18.260269+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -146,14 +146,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 199561542.04,
+      "amount_raised_inr": 199572389.11,
       "amount_goal_inr": 500000000.0,
       "deadline_iso": "2027-01-20",
       "days_left": 56,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-11-25T03:20:29.743736+00:00"
+      "scraped_at_iso": "2026-11-25T13:51:20.949379+00:00"
     },
     {
       "id": "givedo-6981cdda",
@@ -170,7 +170,7 @@
       "campaign_url": "https://give.do/fundraisers/ease-the-suffering-of-cancer-patients-with-treatment-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-11-25T03:20:29.743868+00:00"
+      "scraped_at_iso": "2026-11-25T13:51:20.949516+00:00"
     },
     {
       "id": "milaap-1076124",
@@ -180,14 +180,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.32,w_0.19,x_0.39,y_0.34/c_fill,h_198,w_264/v1795062578/production/images/campaign/1076124/WhatsApp_Image_2026-11-19_at_09.44.36_vvugwg_1795062585.webp",
-      "amount_raised_inr": 8043.0,
+      "amount_raised_inr": 8087.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2027-02-19",
       "days_left": 86,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-durga-prasad-vasala",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-11-25T03:20:27.207895+00:00"
+      "scraped_at_iso": "2026-11-25T13:51:18.260238+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -197,14 +197,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 107921873.1,
+      "amount_raised_inr": 107925892.97,
       "amount_goal_inr": 100000000.0,
       "deadline_iso": "2027-02-28",
       "days_left": 95,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-11-25T03:20:29.743772+00:00"
+      "scraped_at_iso": "2026-11-25T13:51:20.949418+00:00"
     },
     {
       "id": "givedo-68b5a344",
@@ -221,7 +221,7 @@
       "campaign_url": "https://give.do/fundraisers/feed-the-hungry-and-restore-hope",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-11-25T03:20:29.743844+00:00"
+      "scraped_at_iso": "2026-11-25T13:51:20.949487+00:00"
     },
     {
       "id": "givedo-688c4cc5",
@@ -238,7 +238,7 @@
       "campaign_url": "https://give.do/fundraisers/help-save-young-girls-from-trafficking",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-11-25T03:20:29.743812+00:00"
+      "scraped_at_iso": "2026-11-25T13:51:20.949455+00:00"
     },
     {
       "id": "givedo-6a324f52",
@@ -255,7 +255,7 @@
       "campaign_url": "https://give.do/fundraisers/save-orphaned-and-abandoned-children",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-11-25T03:20:29.743857+00:00"
+      "scraped_at_iso": "2026-11-25T13:51:20.949502+00:00"
     }
   ]
 }
