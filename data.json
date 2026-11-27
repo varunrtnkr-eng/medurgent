@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-26T18:04:48.717928+00:00",
+  "generated_at": "2026-11-27T02:37:52.511222+00:00",
   "sources": {
     "ketto": 0,
     "milaap": 9,
-    "givedo": 6
+    "givedo": 10
   },
   "languages": [
     "en",
@@ -17,8 +17,25 @@
     "pa",
     "ml"
   ],
-  "total": 15,
+  "total": 19,
   "campaigns": [
+    {
+      "id": "givedo-6ac23b5a",
+      "source": "givedo",
+      "title": "Runway of Hope 2026 | Support India's Government Schools",
+      "description": "A child enters the school halls with open eyes, ears, and heart. Learning every day. Learning how to say hi, be friends, and help each other.Learning ABC, 1+1, and what keeps plants alive? (Hint: it’s the sun)Learning how to dream:I want to become the president and give shelter to people who sleep on streetsI want to be a gamer and make my parents proudI will be a teacher and teach children who can’t afford schoolBut here’s what happens. Many fail to gain foundational learning skills; they can’t read or comprehend sentences, or even do simple 2-digit subtraction by age 8. Only 30% of them go on to pursue higher education. These children could have been the next big scientist, researcher, or director of India. But they fall victim to an unequal education system that makes circumstances matter more than their potential. Today, 140 million children in India study in primary Government schools.  There are children in these schools with dreams, but at the risk of losing their shot at a prosperous, thriving future. There is one way we can save millions of futures: teachersOne great teacher can shift a student's academic trajectory.But India’s teachers are crushed under a wide range of responsibilities and little support. Teachers carry the state’s aspirations for a high-quality education system, but do not receive the support and systems that can enable them. In 2025, NCERT (PARAKH) reported that only 35% of teachers in India received any professional development.Teachers are bent over backward trying to do their best and always looking for ways to do more:It was a dream to see my class read a book. For years I wasn't able to do it. Today 60% of them can.My grade 3 children used to feel so underconfident in English; it wasn’t just about ability, but just this hesitation. Today, they can read English paragraphs, and they are more confident and outspokenI used to focus on what children couldn’t do, but never really thought about where I could get better, and what I needed to change. I am starting to reflect and do that nowThat is the work. Teachers learning, re-learning &amp; trying. At SEF, we work with the one person in that classroom who can change what happens next.6 programs across 3 states, building the training, coaching, and classroom resources that teachers were always supposed to have.90% relevance score for our trainings and 2x learning outcomes Today, we work with 2 lakh current and future teachers and 3M children.By 2030, we will work with one million. That's millions more children with a chance of a better future.That is the runway we are building. Every teacher on it is carrying a room full of children who still believe they are going to be president, or a gamer, or the teacher who comes back for the kids who can't pay.By donating, you are not just funding one teacher or one classroom. You are funding every classroom those 2 lakh teachers will ever walk into, and every child who has a dream.The future is in their hands.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/5e07e843-f730-4e14-8a9f-9e63bd8b31e7.webp",
+      "amount_raised_inr": 2924878.0,
+      "amount_goal_inr": 10000000.0,
+      "deadline_iso": "2026-11-30",
+      "days_left": 3,
+      "campaign_url": "https://give.do/fundraisers/runway-of-hope-2026-or-support-indias-government-schools",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-11-27T02:37:50.432020+00:00"
+    },
     {
       "id": "milaap-1074242",
       "source": "milaap",
@@ -27,14 +44,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.49,w_0.67,x_0.16,y_0.24/c_fill,h_198,w_264/v1794934710/production/images/campaign/1074242/8c42ba53-07a9-4565-944f-73ed6155b9b9_fvdto6_1794934711.webp",
-      "amount_raised_inr": 8058.0,
+      "amount_raised_inr": 8127.0,
       "amount_goal_inr": 7000000.0,
       "deadline_iso": "2026-12-12",
-      "days_left": 16,
+      "days_left": 15,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-swapnil-pathak",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-11-26T18:04:44.817696+00:00"
+      "scraped_at_iso": "2026-11-27T02:37:47.724652+00:00"
     },
     {
       "id": "milaap-1075631",
@@ -47,11 +64,11 @@
       "amount_raised_inr": 8030.0,
       "amount_goal_inr": 3036434.0,
       "deadline_iso": "2026-12-17",
-      "days_left": 21,
+      "days_left": 20,
       "campaign_url": "https://milaap.org/fundraisers/support-ava-mitra",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-11-26T18:04:44.817732+00:00"
+      "scraped_at_iso": "2026-11-27T02:37:47.724671+00:00"
     },
     {
       "id": "milaap-1076631",
@@ -61,14 +78,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1795184570/production/images/campaign/1076631/PHOTO-2026-11-20-19-18-03_kbaxsh_1795184571.webp",
-      "amount_raised_inr": 5546.0,
+      "amount_raised_inr": 5547.0,
       "amount_goal_inr": 4000000.0,
       "deadline_iso": "2026-12-20",
-      "days_left": 24,
+      "days_left": 23,
       "campaign_url": "https://milaap.org/fundraisers/support-ronald-fernandez-1",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-11-26T18:04:44.817659+00:00"
+      "scraped_at_iso": "2026-11-27T02:37:47.724603+00:00"
     },
     {
       "id": "milaap-1076772",
@@ -78,14 +95,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1795335005/production/images/campaign/1076772/orvagzxenlfqo4nwiszv_1795335007.webp",
-      "amount_raised_inr": 18938.0,
+      "amount_raised_inr": 19374.0,
       "amount_goal_inr": 6000000.0,
       "deadline_iso": "2026-12-21",
-      "days_left": 25,
+      "days_left": 24,
       "campaign_url": "https://milaap.org/fundraisers/support-ashwin-bhartia",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-11-26T18:04:44.817525+00:00"
+      "scraped_at_iso": "2026-11-27T02:37:47.724469+00:00"
     },
     {
       "id": "milaap-1077263",
@@ -98,11 +115,11 @@
       "amount_raised_inr": 5246.0,
       "amount_goal_inr": 3000000.0,
       "deadline_iso": "2026-12-22",
-      "days_left": 26,
+      "days_left": 25,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-hamzath-ali",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-11-26T18:04:44.817681+00:00"
+      "scraped_at_iso": "2026-11-27T02:37:47.724625+00:00"
     },
     {
       "id": "milaap-1077542",
@@ -112,14 +129,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1795671953/production/images/campaign/1077542/temp_file_20261126_111549_iukjsu_1795671955.webp",
-      "amount_raised_inr": 6143.0,
+      "amount_raised_inr": 6522.0,
       "amount_goal_inr": 1000000.0,
       "deadline_iso": "2026-12-23",
-      "days_left": 27,
+      "days_left": 26,
       "campaign_url": "https://milaap.org/fundraisers/support-kishore-thiyagarajan",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-11-26T18:04:44.817622+00:00"
+      "scraped_at_iso": "2026-11-27T02:37:47.724571+00:00"
     },
     {
       "id": "milaap-1077656",
@@ -129,14 +146,31 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,h_198,w_264/v1795608150/production/images/campaign/1077656/btabdwayqbshn0b8xtfx_1795608151.webp",
-      "amount_raised_inr": 14488.0,
+      "amount_raised_inr": 14982.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2026-12-24",
-      "days_left": 28,
+      "days_left": 27,
       "campaign_url": "https://milaap.org/fundraisers/support-deepthi-h",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-11-26T18:04:44.817593+00:00"
+      "scraped_at_iso": "2026-11-27T02:37:47.724542+00:00"
+    },
+    {
+      "id": "givedo-649bfc3c",
+      "source": "givedo",
+      "title": "Hostel For Blind Girls",
+      "description": "It is often said that a visually challenged girl child bears the double burden of being a woman and being blind. She is seen as a burden on society and a drain on the family’s honour. Visually challenged girls who are born in a poor family often face a very challenging life, which can drive them towards hopelessness. They do not have access to the same quality of life, education, employment or personal well-being when compared to someone without a visual impairment.Educational and employment opportunities available for blind persons are much fewer than those available for other people. Social and cultural barriers further prevent visually impaired women from taking up employment opportunities. There are few alternatives for sheltered employment or jobs that are conducive to visually impaired individuals.BWS does not perpetuate the discrimination faced by visually challenged girls in their home and society. The girl children who are assisted by our organization come from various states of India such as Uttar Pradesh (UP), Bihar, Madhya Pradesh (MP), Chhattisgarh, Rajasthan, Punjab, West Bengal, Odisha as well as Delhi to reside at the hostel.We run a very clean, hygienic and professionally managed high-quality hostel for the visually challenged girls with free boarding and lodging facilities. It is situated at Swaroop Nagar, Delhi. We do not charge any payment from them and hence the girls can put their entire energy on going up higher with their education without financial burden, stress or guilt.Our hostel facilities are a lifeline for 40 visually challenged girls. These girls come from most marginalized and poorest of the poor families, with little or no family support.The hostel has been designed to provide our girls with a comfortable and homely life, which includes personal beds, well-ventilated rooms and clean toilets. The infrastructure is designed to be appropriate for residents with visual impairment.The Blind Welfare Society believes in the empowerment of visually impaired girls. This hostel facility is like a lifeline for the 30 girls and gives them comfort and safety away from their home. Despite being away from their loved ones, the affection, guidance and care they receive, relentlessly drives them to be competitive and not see their disability as a bane to the society. The guidance and camaraderie in the hostel propel them to excel and be a productive citizen of the country.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/a90ffb52-1930-4827-9f9f-50f32f96e22b.jpeg",
+      "amount_raised_inr": 1412997.8,
+      "amount_goal_inr": 2000000.0,
+      "deadline_iso": "2026-12-31",
+      "days_left": 34,
+      "campaign_url": "https://give.do/fundraisers/hostel-for-blind-girls",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-11-27T02:37:50.432046+00:00"
     },
     {
       "id": "givedo-67dbbf7b",
@@ -146,31 +180,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/58d1e335-c879-44dd-b34c-88623294819d.webp",
-      "amount_raised_inr": 199651915.21,
+      "amount_raised_inr": 199672694.66,
       "amount_goal_inr": 500000000.0,
       "deadline_iso": "2027-01-20",
-      "days_left": 55,
+      "days_left": 54,
       "campaign_url": "https://give.do/fundraisers/help-abandoned-elderly-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-11-26T18:04:47.358525+00:00"
-    },
-    {
-      "id": "givedo-6981cdda",
-      "source": "givedo",
-      "title": "Ease the suffering of cancer patients with treatment & care",
-      "description": "I am fundraising for a cause close to my heart, to bring a lasting change in the lives of the underprivileged. To help me create more impact and touch more lives, I need your support and contribution. Please back my fundraiser so that together we can build a better India for all of us. Pledge your support, donate now!",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/371b55f6-d52c-4f64-bb53-ace70b8a01e7.webp",
-      "amount_raised_inr": 971203.47,
-      "amount_goal_inr": 15000000.0,
-      "deadline_iso": "2027-02-03",
-      "days_left": 69,
-      "campaign_url": "https://give.do/fundraisers/ease-the-suffering-of-cancer-patients-with-treatment-and-care",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-11-26T18:04:47.358606+00:00"
+      "scraped_at_iso": "2026-11-27T02:37:50.431936+00:00"
     },
     {
       "id": "milaap-1076124",
@@ -180,14 +197,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cimages.milaap.org/milaap/image/upload/c_fill,e_blur_region:1500,h_0.32,w_0.19,x_0.39,y_0.34/c_fill,h_198,w_264/v1795062578/production/images/campaign/1076124/WhatsApp_Image_2026-11-19_at_09.44.36_vvugwg_1795062585.webp",
-      "amount_raised_inr": 8232.0,
+      "amount_raised_inr": 8244.0,
       "amount_goal_inr": 5000000.0,
       "deadline_iso": "2027-02-19",
-      "days_left": 85,
+      "days_left": 84,
       "campaign_url": "https://milaap.org/fundraisers/support-child-of-durga-prasad-vasala",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-11-26T18:04:44.817642+00:00"
+      "scraped_at_iso": "2026-11-27T02:37:47.724697+00:00"
     },
     {
       "id": "milaap-1077460",
@@ -200,11 +217,11 @@
       "amount_raised_inr": 3157.0,
       "amount_goal_inr": 1200000.0,
       "deadline_iso": "2027-02-28",
-      "days_left": 94,
+      "days_left": 93,
       "campaign_url": "https://milaap.org/fundraisers/support-p-saakthiyavel",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-11-26T18:04:44.817750+00:00"
+      "scraped_at_iso": "2026-11-27T02:37:47.724719+00:00"
     },
     {
       "id": "givedo-68396073",
@@ -214,31 +231,99 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/a2e3adb9-4809-4ac8-a0bc-6c1c25edeff9.webp",
-      "amount_raised_inr": 108001664.02,
+      "amount_raised_inr": 108037616.53,
       "amount_goal_inr": 100000000.0,
       "deadline_iso": "2027-02-28",
-      "days_left": 94,
+      "days_left": 93,
       "campaign_url": "https://give.do/fundraisers/help-disabled-children-with-shelter-and-care",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-11-26T18:04:47.358549+00:00"
+      "scraped_at_iso": "2026-11-27T02:37:50.431883+00:00"
     },
     {
-      "id": "givedo-68b5a344",
+      "id": "givedo-649bfd7d",
       "source": "givedo",
-      "title": "Feed the Hungry and Restore Hope",
-      "description": "India ranked 105th of 127 countries in the Global Hunger Index 2024.The Government of India is actively working to fight hunger, and has questioned external reports like the GHI. But for many vulnerable people, empty stomachs remain a daily reality that can’t be overlooked. Whether it’s a school-going child, a child in a slum or a destitute elder, everyone deserves a meal.What hunger feels likeFor the elderly and destitute: Already weak and in pain, many endure abandonment and hunger together. Hunger takes away their dignity and any hope of a decent life.For children in slums and schools: An empty stomach makes it hard to learn and focus, stunting growth and futures. Children suffer the quiet humiliation of falling behind their peers.How our NGO partners help Our NGO partners work on the front lines to deliver more than meals. They bring dignity in a time of need, hope in a moment of despair, and strength for a better tomorrow.Your donation will help:Provide daily nutritious meals to vulnerable communitiesKeep children in school with full stomachs and focused mindsBring dignity and care to forgotten eldersMeet Anand Anand’s parents work hard, but putting food on the table is a daily struggle. He used to sit through class distracted by hunger. Then our NGO partner Prasanna Trust, supported by donors like you, launched a daily breakfast programme. Today, Anand and thousands of children like him start their day nourished, confident and ready to learn.Hunger doesn’t discriminate, and neither should our compassion. Donate today so no child, elder or family goes to bed hungry.",
+      "title": "Sharanalayam",
+      "description": "Many underprivileged children living in slums or with parents who are beggars or sex workers don’t get the opportunity for proper shelter, education or food. Abandoned and neglected children by society end up becoming sex workers, beggars or anti-socials without having proper guidance or education. \n Sharanalayam is a not-for-profit charitable organization that provides shelter, food, education, health and hygiene to children of Sex workers, HIV-infected and affected children, orphans, beggar children, etc. Sharanalyam is a loving and caring home to these children. It was started in the year 2000 by Mrs Vanitha Rengaraj who is lovingly called Thaiamma and most of the children here hold her name as an initial.  \n Sharanalayam is a loving home for children who are abandoned by society. Sharanalayam currently houses 200 residents on campus. All the children are going to school. Sharanalayam has created many engineers, Nurses, Lab technicians, Chefs, etc. All the children eventually become productive citizens. These children have a home to come back to called Sharanalayam.",
       "patient_name": null,
       "condition": null,
-      "image_url": "https://cfstatic.give.do/b81bea6f-24d2-42fc-aa7d-2a464c910737.webp",
-      "amount_raised_inr": 3701954.0,
-      "amount_goal_inr": 20000000.0,
-      "deadline_iso": "2027-12-31",
-      "days_left": 400,
-      "campaign_url": "https://give.do/fundraisers/feed-the-hungry-and-restore-hope",
+      "image_url": "https://cfstatic.give.do/e8abd2bc-962b-4cd3-9b89-b46b7e4ba8c7.png",
+      "amount_raised_inr": 283215.0,
+      "amount_goal_inr": 11232000.0,
+      "deadline_iso": "2030-03-31",
+      "days_left": 1220,
+      "campaign_url": "https://give.do/fundraisers/sharanalayam",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-11-26T18:04:47.358590+00:00"
+      "scraped_at_iso": "2026-11-27T02:37:50.431994+00:00"
+    },
+    {
+      "id": "givedo-649bfc90",
+      "source": "givedo",
+      "title": "Feeding Needy,Hunger less City",
+      "description": "Our experience indicates nearly 60% of hunger, roadside - homeless do not get daily proper food. Lots of children do not get food resulting in increase of Child labor, Child Marriage.  Kids : WHO defines Malnutrition as \"the deficiencies, excesses or imbalances in a person’s intake of energy and/or nutrients\".Despite India's 50% increase in GDP since 2013, more than one-third of the world's malnourished children live in India. Among these, half of the children under three years old are underweight.According to statistics, child laborers have drastically rocketed from 28.2% to 79.6% in Tamil Nadu in consequence of the COVID lockdown.Government Hospital : We came to know that they are mostly daily wagers because of this their income is disrupted and they cannot work in spite of severe health issues.Many people come from other districts for treatment because of good infrastructure and service. Though the government provides many facilities, they can't afford all the expenses. So sometimes they go to sleep with an empty stomach.There are so many Government hospitals where people struggle. But we are particular to this hospital so that they are certain that NFW will provide food for us and they will be free of the uncertainty of Food. To assure this, we need your help. \n We have five food delivery vehicle. We intend to provide at least one time food to hunger, homeless, daily wagers who didn't get job for that day earning.We have our own state of art kitchen and we can cook food as planned above per day 2000 to 5000 meal \n Sustainable Development Goal 2 aims to achieve \"zero hunger\" which is one of the 17 Sustainable Development Goals established by the United Nations. The first target of SDG 2 is \"By 2030 end hunger and ensure access by all people, in particular, the poor and people in vulnerable situations including infants, to safe, nutritious and sufficient food all year round\".Poverty has taken over the entire world where children are no exception of you wish to ease their pain kindly",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/e1ba9801-2410-4583-bef1-7569b0e4280b.jpg",
+      "amount_raised_inr": 326230.0,
+      "amount_goal_inr": 3653600.0,
+      "deadline_iso": "2030-03-31",
+      "days_left": 1220,
+      "campaign_url": "https://give.do/fundraisers/feeding-needyhunger-less-city",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-11-27T02:37:50.432033+00:00"
+    },
+    {
+      "id": "givedo-649bf0ed",
+      "source": "givedo",
+      "title": "‘Nayantara’ a Programme for Adolescent Girl Child Empowerment through support in Education, Health, Skill & Capacity Development",
+      "description": "Sundarbans is famous for Tourism Destination. Yet, people from 19 blocks here live under extreme poverty without basic amenities like education, health-care, livelihood, civic amenities etc. Sunderbans is highly prone to cyclones, tidal surge, flood, corrosion etc. People always struggle by combating these natural calamities. Difficult mono crop agriculture of Paddy, Betel Vine and Seasonal Vegetable for High Saline content in Soil and devastating tidal surges, fishing in rivers and deep sea, daily wage works etc. are main source of livelihood. Children here often deprived of care as Parents remain direly busy with earning activities. Conditions of Girl Children are more pity. Most worrying fact of the area is that as prevalent social practice girls here are still in a pitiable condition and not allowed socially to live a life of dignity by their own ability. Trend of social maladies like trafficking, dropping from education, early marriage and motherhood etc. are highly predominant here. Girls are the most severe prey to these consequences. They are often forced to leave studies, get married in premature age and become mother. Also they pretty often fall prey of Trafficking either directly/ in disguise of being married or being appointed as Domestic Help.  \n To arrest the issues we already initiated an Empowerment Programme - Nayantara. Under this programme we -    Established 3 Centres at 3 remote villages in Mathurapur II Block of South 24 Parganas district, West Bengal -    Cater support in § Education, § Nutrition Enhancement, § Health Improvement, § Building right Personal hygiene, § Grooming Personality &amp; Confidence through Extra Curricular Activities (e.g. Dance, Sports, Performing Art etc.), Skill Development (Handicrafts &amp; Artisanry) etc.  -    Built Peer Groups of Vigilant Adolescent Girls who monitor to restrain Girl Child Exploitation in various forms and become active in preventing Drop Outs &amp; Early Marriage etc. -    Remained successful in mobilising Girls from marginalised families to continue their education and become self reliant. We are happy some such girls could complete education up to School Final (10th Standard), Higher Secondary (12th Standard) and Graduation Level. They are now at endeavour for either Higher Studies or for Joining in Job.  For our further plans we need more support -    To reach out to more such deprived adolescent girls from marginalised families -    To extend our programme in wider geographical areas  \n The programme remained consistent in sensitising the local marginalised populace on legal aspects and penalty/ punishment implications for various forms of Girl Child ignorance and exploitation in the Community. The built up Girls’ Vigilant Groups also has started creating impacts resulting in little hold on Early Marriage &amp; Motherhood, Drop Outs etc. Yet there are miles to go to address the penetrating social menaces among local community here. The awareness among the adolescent Girls is yet to attain its momentum in these remote deprived villages of Sundarbans.   Also we could reach out not even to 1% of Girl Children here. With expansion and growth of the Programme in wider geography of Sundarbans we expect to get a social order here where there is no Gender Discrimination, no exploitation on Girl Children and Gradually every girl becoming confident and self reliant.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/2e79d6df-41a5-4aeb-8b3b-7f009b22d3b4.jpg",
+      "amount_raised_inr": 3740.6,
+      "amount_goal_inr": 1530000.0,
+      "deadline_iso": "2030-03-31",
+      "days_left": 1220,
+      "campaign_url": "https://give.do/fundraisers/nayantara-a-programme-for-adolescent-girl-child-empowerment-through-support-in-education-health-skill-and-capacity-development",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-11-27T02:37:50.432084+00:00"
+    },
+    {
+      "id": "givedo-649bf0ed",
+      "source": "givedo",
+      "title": "Build a School for Next Generation Leaders",
+      "description": "The Bell has been rung! It is time for the Swarachna School to reach more children in need, especially girls. We are looking to address two main needs.Milaan’s Swarachna School, a fun, creative and safe space in the heart of rural Uttar Pradesh has been providing education for 12 years to children from socially and economically challenged communities. For the last 4 years we have had 100% results in both 10th and 12th, a feat we are extremely proud of given the context of education in UP.As we evolve and move into our next phase of growth there are two needs we need your help to address.1. Primary EducationThe first need is that our primary section is getting very full and a lot more children are coming to us wanting to join. Having to turn them away due to shortage of space doesn’t feel right. So we are reaching out to you to help us create a separate primary wing, so that we do not have to turn away a single child who deserves education.According to Ministry of Panchayati Raj, GOI, Sitapur, UP is one of the most backward districts of India with the Sex Ratio of 789 female per 1000 male according to 2015-2016 National Family Health Survey (NFHS-4). The average literacy rate of Sitapur district is 61%, significantly lower than the national average of 74.04% with female literacy at only 50%. The annual district per capital income is less than INR 5000 a month, among the lowest in the country. Clear there is an urgent need to be addressed.The Swarachna School is in block Sidhauli of Sitapur district of Uttar Pradesh. Its student demographic comprises 78% from the Dalit community and 84% come from below poverty line families. It is one of only two secondary schools in a radius of 13 km.Your support for a primary education infrastructure will address all of these needs.2. High Dropout rate among Adolescent GirlsAmong adolescent girls, Uttar Pradesh has amongst the highest rates of dropout after secondary education. Many of them end up being married off. One in seven and one in four young women who discontinued their education in class 7–9 and 10–11 respectively, reported the main reason for dropping out of school was marriage, showing a strong correlation between schooling and marriage. 22% of girls aged 15–19 reported having no education where as 74% of adolescent girls aged 15–19 years reported that they could read and write, all in UP, underlining the need to focus on adolescent girls here and now.  \n THE SQUARE FEET OF HAPPINESS CAMPAIGN  PRIMARY SCHOOLFor the first need, our solution is to create a dedicated 26,598 Sq. Ft. co-ed primary school for 500 students from lower kindergarten to grade 5th. This will cover classrooms, washrooms, staff rooms, Labs. Library and Play areas including furnishings. Girl Icon Leadership AcademyTo address the second need our solution is to work towards a world class facility to work with 320 adolescent girls to be named the Girl Icon Leadership Academy.Milaan intends to create a residential setup for 320 girls, where the girls can continue their studies after class 8th under the guidance of excellent teachers and a curriculum that has an equal focus on building leadership as on academic achievement. This will empower them to explore their full potential.This means construction of 18942 sq. ft. total, for the Girl Icon Leadership Academy.In total the Square Feet of Happiness campaign will look to raise INR 4 Crores to enable the construction of 55946 sq. ft. to address the needs identified above. Of this we are looking to raise 55 lakhs to build 5000 sq. ft. during this Daan Utsav.Please visit the gallery section of our profile to view the info-graphics of the school to be built. \n 500 children more children will get access to quality education at the primary level. Currently there are far more children from challenging backgrounds who want to join the school but we are unable to accommodate them. The government schools are the only options left. Unfortunately the learning outcomes of the govt. schools are not good enough to enable these children to break the shackles of poverty on their own merit. Your support will contribute towards ensuring every child from these communities receives the education that is the right of every child.Your support will also contribute towards creating a vibrant space for bright, capable and deserving adolescent girls from the most in need backgrounds, where they will develop their innate potential to be future leaders and change makers. They will access leadership focused, quality education empowering them to take better decisions affecting their lives, become roles models and agent of change in their communities.What Does Leadership Look Like at Milaan.Milaan’s definition of leadership begins with the self. It means being able to take control of one’s own life. Practically this translates to being a participant in the decisions that affect one’s life. For a girl this means being able to decide to stay in school, or have a say in whom to marry, or not to get married, or have the right to decide the right time to have children.When a girl is able to speak up, participate and claim these basic human rights for herself she becomes self-aware and substantially more confident. A strong role model, she now leads others in advocating for their rights. On ground, this translates into talking about such topics and creating awareness. She is a leader among her peers.A girl leader who is able to standup for others and instigate collective action against social injustice emerges as a Girl Icon. She is a self-aware brightly shining beacon of hope and a powerful agent of change.Leadership is a journey from me to we.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/03f61774-efd9-4248-a9db-3cee4f2cec42.jpeg",
+      "amount_raised_inr": 19350.0,
+      "amount_goal_inr": 1500000.0,
+      "deadline_iso": "2030-03-31",
+      "days_left": 1220,
+      "campaign_url": "https://give.do/fundraisers/build-a-school-for-next-generation-leaders",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-11-27T02:37:50.432066+00:00"
+    },
+    {
+      "id": "givedo-649bf51a",
+      "source": "givedo",
+      "title": "Educate 300 marginalized children in Bihar",
+      "description": "The 2014 Education Report shows that only 66.6% of students studying in Grades 3 to 5 could read Grade 1 texts, ﻿while only 58.7% have basic computational skills in government schools. There is also a lack of opportunities for students belonging to socially and economically deprived communities. These children face widespread discrimination on lines of caste, religion, gender, and class identities in general. This stunts their social, emotional and educational growth. \n Having identified the weakest link, Diksha, through its Knowledge Hub for Education and Learning, works primarily with displaced children between the ages of 5 - 18. These are primarily first generation learners whose parents are primarily daily-wage earners unable to provide access to steady or quality education to their children. In addition to addressing the gap of numeracy and literacy, the children are given access to tech tools; taught how to use computer programmes and use the internet. \n A)round 300 marginalized children get direct benefits from this activity. These children are better placed to access opportunities that will allow them to contribute better to their society. Primarily, focusing on the girls' education and their access to technology , confidence and builds their creativity so that they are able to voice their aspirations meaningfully alongside their male peers. In the long run, this results in an overall community transformation.Partnered with the American Embassy for English Access MicroScholarship programme for 50 students in Patna 4 children from Diksha participated in an event organized by UNICEF and CSEI in order to raise the voice against all the odds a youth has to go through also become a part of Patna Youth Forum.Sonu Kumar got selected for Bachelors in Economics in Banaras Hindu University.Vishal Kumar cleared the 6 round of test and interview and got selected for 1 year course of computer sciences at NavGurukulTwo of our students Khushi Rani and Khushboo Rani were able to perform well and clear their polytechnic examinations.Priyanka Kumari an alumna of Diksha KHEL center recently joined Bihar Police. Prince Kumar and Aryan Sahu, two of our students got selected as 75 creative minds of tomorrow at 52nd international film festival of India held in Goa.",
+      "patient_name": null,
+      "condition": null,
+      "image_url": "https://cfstatic.give.do/f6c9c784-8aa0-4365-9350-fa08420e0eae.jpg",
+      "amount_raised_inr": 892976.86,
+      "amount_goal_inr": 1075200.0,
+      "deadline_iso": "2030-03-31",
+      "days_left": 1220,
+      "campaign_url": "https://give.do/fundraisers/educate-300-marginalized-children-in-bihar-k2mfdwzm",
+      "verified": true,
+      "messages": {},
+      "scraped_at_iso": "2026-11-27T02:37:50.431981+00:00"
     },
     {
       "id": "givedo-688c4cc5",
@@ -248,31 +333,14 @@
       "patient_name": null,
       "condition": null,
       "image_url": "https://cfstatic.give.do/4bc9b10a-7428-494e-9c42-70d43fb3395d.webp",
-      "amount_raised_inr": 10303009.0,
+      "amount_raised_inr": 10308509.0,
       "amount_goal_inr": 41000000.0,
       "deadline_iso": "2030-12-31",
-      "days_left": 1496,
+      "days_left": 1495,
       "campaign_url": "https://give.do/fundraisers/help-save-young-girls-from-trafficking",
       "verified": true,
       "messages": {},
-      "scraped_at_iso": "2026-11-26T18:04:47.358574+00:00"
-    },
-    {
-      "id": "givedo-6a324f52",
-      "source": "givedo",
-      "title": "Save orphaned and abandoned children",
-      "description": "I am fundraising for a cause close to my heart, to bring a lasting change in the lives of the underprivileged. To help me create more impact and touch more lives, I need your support and contribution. Please back my fundraiser so that together we can build a better India for all of us. Pledge your support, donate now!",
-      "patient_name": null,
-      "condition": null,
-      "image_url": "https://cfstatic.give.do/187af56f-6d0b-42fc-a10d-4e723246d8ce.webp",
-      "amount_raised_inr": 549525.0,
-      "amount_goal_inr": 15000000.0,
-      "deadline_iso": "2032-08-31",
-      "days_left": 2105,
-      "campaign_url": "https://give.do/fundraisers/save-orphaned-and-abandoned-children",
-      "verified": true,
-      "messages": {},
-      "scraped_at_iso": "2026-11-26T18:04:47.358598+00:00"
+      "scraped_at_iso": "2026-11-27T02:37:50.431964+00:00"
     }
   ]
 }
